@@ -1,0 +1,9 @@
+{
+	"id": "3dcRfGgJn5mZQnU",
+	"json": "{\"id\":\"3dcRfGgJn5mZQnU\",\"url\":\"https://www.nysenate.gov/issues/innovation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/innovation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570301784,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/innovation",
+	"url": "https://www.nysenate.gov/issues/innovation"
+}

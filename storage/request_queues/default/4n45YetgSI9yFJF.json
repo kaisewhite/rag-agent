@@ -1,0 +1,9 @@
+{
+	"id": "4n45YetgSI9yFJF",
+	"json": "{\"id\":\"4n45YetgSI9yFJF\",\"url\":\"https://www.nysenate.gov/issues/banking\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/banking\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570301780,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/banking",
+	"url": "https://www.nysenate.gov/issues/banking"
+}

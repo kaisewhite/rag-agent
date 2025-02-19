@@ -1,0 +1,9 @@
+{
+	"id": "C8WbtIPX7ZXvO3I",
+	"json": "{\"id\":\"C8WbtIPX7ZXvO3I\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Housing\",\"loadedUrl\":\"https://www.nysenate.gov/search/global/result?full_text=Housing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Housing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:14:48.478Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Housing",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Housing"
+}

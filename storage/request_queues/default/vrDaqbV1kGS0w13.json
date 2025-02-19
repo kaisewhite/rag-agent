@@ -1,0 +1,9 @@
+{
+	"id": "vrDaqbV1kGS0w13",
+	"json": "{\"id\":\"vrDaqbV1kGS0w13\",\"url\":\"https://www.nysenate.gov/legislation/laws/ACG/A12\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ACG/A12\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569880511,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ACG/A12",
+	"url": "https://www.nysenate.gov/legislation/laws/ACG/A12"
+}

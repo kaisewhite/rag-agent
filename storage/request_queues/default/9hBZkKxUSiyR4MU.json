@@ -1,0 +1,9 @@
+{
+	"id": "9hBZkKxUSiyR4MU",
+	"json": "{\"id\":\"9hBZkKxUSiyR4MU\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/january-06-2022/virtual-town-hall-new-york-state-homeowner-assistance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/january-06-2022/virtual-town-hall-new-york-state-homeowner-assistance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752688,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/january-06-2022/virtual-town-hall-new-york-state-homeowner-assistance",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/january-06-2022/virtual-town-hall-new-york-state-homeowner-assistance"
+}

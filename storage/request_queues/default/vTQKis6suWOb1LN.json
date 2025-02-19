@@ -1,0 +1,9 @@
+{
+	"id": "vTQKis6suWOb1LN",
+	"json": "{\"id\":\"vTQKis6suWOb1LN\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/legislating-future-generations\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/legislating-future-generations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740974,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/legislating-future-generations",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/legislating-future-generations"
+}

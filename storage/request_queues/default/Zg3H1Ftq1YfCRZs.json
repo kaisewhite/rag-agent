@@ -1,0 +1,9 @@
+{
+	"id": "Zg3H1Ftq1YfCRZs",
+	"json": "{\"id\":\"Zg3H1Ftq1YfCRZs\",\"url\":\"https://www.nysenate.gov/issues/equity-diversity-and-admissions-all-nyc-high-schools\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/equity-diversity-and-admissions-all-nyc-high-schools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717647,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/equity-diversity-and-admissions-all-nyc-high-schools",
+	"url": "https://www.nysenate.gov/issues/equity-diversity-and-admissions-all-nyc-high-schools"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "s8m5Efk9zwIP7dH",
+	"json": "{\"id\":\"s8m5Efk9zwIP7dH\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/budget-testimony-dmv-2025-26.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/budget-testimony-dmv-2025-26.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570519175,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/budget-testimony-dmv-2025-26.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/budget-testimony-dmv-2025-26.pdf"
+}

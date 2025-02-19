@@ -1,0 +1,9 @@
+{
+	"id": "JQxuMkO6D3Bw1ef",
+	"json": "{\"id\":\"JQxuMkO6D3Bw1ef\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S7560\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S7560\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571280740,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S7560",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S7560"
+}

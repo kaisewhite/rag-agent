@@ -1,0 +1,9 @@
+{
+	"id": "thwNm0l1C94FWQB",
+	"json": "{\"id\":\"thwNm0l1C94FWQB\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/ny-times-ronda-kaysen-qa-unpaid-rent-highlights-kavanagh\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/ny-times-ronda-kaysen-qa-unpaid-rent-highlights-kavanagh\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798918,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/ny-times-ronda-kaysen-qa-unpaid-rent-highlights-kavanagh",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/ny-times-ronda-kaysen-qa-unpaid-rent-highlights-kavanagh"
+}

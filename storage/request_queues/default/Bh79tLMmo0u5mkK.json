@@ -1,0 +1,9 @@
+{
+	"id": "Bh79tLMmo0u5mkK",
+	"json": "{\"id\":\"Bh79tLMmo0u5mkK\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-attends-hicksville-water-district-ribbon\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-attends-hicksville-water-district-ribbon\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847618,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-attends-hicksville-water-district-ribbon",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-attends-hicksville-water-district-ribbon"
+}

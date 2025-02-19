@@ -1,0 +1,9 @@
+{
+	"id": "jlo3buPkdnnoCI2",
+	"json": "{\"id\":\"jlo3buPkdnnoCI2\",\"url\":\"https://www.nysenate.gov/issues/library-construction-grants\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/library-construction-grants\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571439446,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/library-construction-grants",
+	"url": "https://www.nysenate.gov/issues/library-construction-grants"
+}

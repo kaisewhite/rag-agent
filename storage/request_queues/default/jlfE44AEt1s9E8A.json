@@ -1,0 +1,9 @@
+{
+	"id": "jlfE44AEt1s9E8A",
+	"json": "{\"id\":\"jlfE44AEt1s9E8A\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-24-2019/free-health-insurance-enroll-help-senator\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-24-2019/free-health-insurance-enroll-help-senator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247087,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-24-2019/free-health-insurance-enroll-help-senator",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-24-2019/free-health-insurance-enroll-help-senator"
+}

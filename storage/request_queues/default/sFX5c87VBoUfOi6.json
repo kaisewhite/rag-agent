@@ -1,0 +1,9 @@
+{
+	"id": "sFX5c87VBoUfOi6",
+	"json": "{\"id\":\"sFX5c87VBoUfOi6\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2017/thomas-f-omara/omara-senate-gop-call-stronger-state-commitment-water-quality\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2017/thomas-f-omara/omara-senate-gop-call-stronger-state-commitment-water-quality\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770728,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2017/thomas-f-omara/omara-senate-gop-call-stronger-state-commitment-water-quality",
+	"url": "https://www.nysenate.gov/newsroom/articles/2017/thomas-f-omara/omara-senate-gop-call-stronger-state-commitment-water-quality"
+}

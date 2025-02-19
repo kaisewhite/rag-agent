@@ -1,0 +1,9 @@
+{
+	"id": "dYZZ1fAVFLt8VXX",
+	"json": "{\"id\":\"dYZZ1fAVFLt8VXX\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVP/A34\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVP/A34\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569898490,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVP/A34",
+	"url": "https://www.nysenate.gov/legislation/laws/CVP/A34"
+}

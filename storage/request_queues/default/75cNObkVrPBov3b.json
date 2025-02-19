@@ -1,0 +1,9 @@
+{
+	"id": "75cNObkVrPBov3b",
+	"json": "{\"id\":\"75cNObkVrPBov3b\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/michael-venditto/consumer-protection-alert-senator-venditto\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/michael-venditto/consumer-protection-alert-senator-venditto\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740978,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/michael-venditto/consumer-protection-alert-senator-venditto",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/michael-venditto/consumer-protection-alert-senator-venditto"
+}

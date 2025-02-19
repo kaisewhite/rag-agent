@@ -1,0 +1,9 @@
+{
+	"id": "oI6neSjPWCsFyQW",
+	"json": "{\"id\":\"oI6neSjPWCsFyQW\",\"url\":\"https://www.nysenate.gov/issues/combating-hate-speech\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/combating-hate-speech\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570131083,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/combating-hate-speech",
+	"url": "https://www.nysenate.gov/issues/combating-hate-speech"
+}

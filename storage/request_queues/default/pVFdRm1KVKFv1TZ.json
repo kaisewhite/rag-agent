@@ -1,0 +1,9 @@
+{
+	"id": "pVFdRm1KVKFv1TZ",
+	"json": "{\"id\":\"pVFdRm1KVKFv1TZ\",\"url\":\"https://www.nysenate.gov/issues/snap\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/snap\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570096833,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/snap",
+	"url": "https://www.nysenate.gov/issues/snap"
+}

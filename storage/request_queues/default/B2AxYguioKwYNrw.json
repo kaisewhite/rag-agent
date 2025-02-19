@@ -1,0 +1,9 @@
+{
+	"id": "B2AxYguioKwYNrw",
+	"json": "{\"id\":\"B2AxYguioKwYNrw\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/craig-johnson/times-union-albany-johnson-ferry-report-signals-need\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/craig-johnson/times-union-albany-johnson-ferry-report-signals-need\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808664,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/craig-johnson/times-union-albany-johnson-ferry-report-signals-need",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/craig-johnson/times-union-albany-johnson-ferry-report-signals-need"
+}

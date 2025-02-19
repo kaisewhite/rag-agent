@@ -1,0 +1,9 @@
+{
+	"id": "7sVQuCDIe3UqraW",
+	"json": "{\"id\":\"7sVQuCDIe3UqraW\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-01-2019/stay-updated-local-meetings-and-free-events\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-01-2019/stay-updated-local-meetings-and-free-events\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246661,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-01-2019/stay-updated-local-meetings-and-free-events",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-01-2019/stay-updated-local-meetings-and-free-events"
+}

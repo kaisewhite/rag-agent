@@ -1,0 +1,9 @@
+{
+	"id": "xBH4IVxsqwAJ0Z8",
+	"json": "{\"id\":\"xBH4IVxsqwAJ0Z8\",\"url\":\"https://www.nysenate.gov/issues/public-school-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/public-school-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751246,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/public-school-funding",
+	"url": "https://www.nysenate.gov/issues/public-school-funding"
+}

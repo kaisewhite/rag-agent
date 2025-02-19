@@ -1,0 +1,9 @@
+{
+	"id": "uLwdwFAbudoLdP0",
+	"json": "{\"id\":\"uLwdwFAbudoLdP0\",\"url\":\"https://www.nysenate.gov/system/files/filefield_paths/graduate-legislative-fellowship-application-dec-2024-fillable.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/system/files/filefield_paths/graduate-legislative-fellowship-application-dec-2024-fillable.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569872138,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/system/files/filefield_paths/graduate-legislative-fellowship-application-dec-2024-fillable.pdf",
+	"url": "https://www.nysenate.gov/system/files/filefield_paths/graduate-legislative-fellowship-application-dec-2024-fillable.pdf"
+}

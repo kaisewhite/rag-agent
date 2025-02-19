@@ -1,0 +1,9 @@
+{
+	"id": "09g8ECYdyYuYvjH",
+	"json": "{\"id\":\"09g8ECYdyYuYvjH\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBH/A27-CC\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBH/A27-CC\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569955993,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBH/A27-CC",
+	"url": "https://www.nysenate.gov/legislation/laws/PBH/A27-CC"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "nvu0DeMeKks8SN8",
+	"json": "{\"id\":\"nvu0DeMeKks8SN8\",\"url\":\"https://www.nysenate.gov/senators/liz-krueger\",\"loadedUrl\":\"https://www.nysenate.gov/senators/liz-krueger\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/liz-krueger\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:47:28.070Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/liz-krueger",
+	"url": "https://www.nysenate.gov/senators/liz-krueger"
+}

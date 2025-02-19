@@ -1,0 +1,9 @@
+{
+	"id": "8mX9MnzUeBAMBvU",
+	"json": "{\"id\":\"8mX9MnzUeBAMBvU\",\"url\":\"https://www.nysenate.gov/issues/edgemont-report\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/edgemont-report\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569677637,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/edgemont-report",
+	"url": "https://www.nysenate.gov/issues/edgemont-report"
+}

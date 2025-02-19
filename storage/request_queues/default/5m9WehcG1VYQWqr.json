@@ -1,0 +1,9 @@
+{
+	"id": "5m9WehcG1VYQWqr",
+	"json": "{\"id\":\"5m9WehcG1VYQWqr\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/november-29-2018/later-life-planning-series-session-iii\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/november-29-2018/later-life-planning-series-session-iii\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752669,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/november-29-2018/later-life-planning-series-session-iii",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/november-29-2018/later-life-planning-series-session-iii"
+}

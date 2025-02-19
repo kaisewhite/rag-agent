@@ -1,0 +1,9 @@
+{
+	"id": "hYhdwOFSz8FCG19",
+	"json": "{\"id\":\"hYhdwOFSz8FCG19\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2023/paper-shredding-and-e-waste-recycling\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2023/paper-shredding-and-e-waste-recycling\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247442,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2023/paper-shredding-and-e-waste-recycling",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2023/paper-shredding-and-e-waste-recycling"
+}

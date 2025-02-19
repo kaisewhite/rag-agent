@@ -1,0 +1,9 @@
+{
+	"id": "bO9ixv9Ohqdh70d",
+	"json": "{\"id\":\"bO9ixv9Ohqdh70d\",\"url\":\"https://www.nysenate.gov/questionnaires/kevin-s-parker/citation-request-form\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/kevin-s-parker/citation-request-form\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569664908,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/kevin-s-parker/citation-request-form",
+	"url": "https://www.nysenate.gov/questionnaires/kevin-s-parker/citation-request-form"
+}

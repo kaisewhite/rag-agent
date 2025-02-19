@@ -1,0 +1,9 @@
+{
+	"id": "K3rI72oDo3qczT0",
+	"json": "{\"id\":\"K3rI72oDo3qczT0\",\"url\":\"https://www.nysenate.gov/calendar/public-hearings/august-09-2021/public-hearing-solicit-testimony-voting-experiences-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public-hearings/august-09-2021/public-hearing-solicit-testimony-voting-experiences-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756045,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public-hearings/august-09-2021/public-hearing-solicit-testimony-voting-experiences-and",
+	"url": "https://www.nysenate.gov/calendar/public-hearings/august-09-2021/public-hearing-solicit-testimony-voting-experiences-and"
+}

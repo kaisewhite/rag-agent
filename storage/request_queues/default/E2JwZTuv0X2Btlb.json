@@ -1,0 +1,9 @@
+{
+	"id": "E2JwZTuv0X2Btlb",
+	"json": "{\"id\":\"E2JwZTuv0X2Btlb\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/new-york-state-senate-2012-session-highlights\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/new-york-state-senate-2012-session-highlights\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847703,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/new-york-state-senate-2012-session-highlights",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/new-york-state-senate-2012-session-highlights"
+}

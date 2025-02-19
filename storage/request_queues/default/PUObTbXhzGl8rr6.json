@@ -1,0 +1,9 @@
+{
+	"id": "PUObTbXhzGl8rr6",
+	"json": "{\"id\":\"PUObTbXhzGl8rr6\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/patty-ritchie/tax-season-beware-scams\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/patty-ritchie/tax-season-beware-scams\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571181877,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/patty-ritchie/tax-season-beware-scams",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/patty-ritchie/tax-season-beware-scams"
+}

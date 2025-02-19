@@ -1,0 +1,9 @@
+{
+	"id": "5qpWG0iQpyL4Gim",
+	"json": "{\"id\":\"5qpWG0iQpyL4Gim\",\"url\":\"https://www.nysenate.gov/legislation/laws/ENV/A19\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ENV/A19\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569912865,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ENV/A19",
+	"url": "https://www.nysenate.gov/legislation/laws/ENV/A19"
+}

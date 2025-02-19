@@ -1,0 +1,9 @@
+{
+	"id": "cMeV3ma9SXbtAEe",
+	"json": "{\"id\":\"cMeV3ma9SXbtAEe\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/december-15-2009/public-roundtable-patient-centered-medical-homes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/december-15-2009/public-roundtable-patient-centered-medical-homes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781042,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/december-15-2009/public-roundtable-patient-centered-medical-homes",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/december-15-2009/public-roundtable-patient-centered-medical-homes"
+}

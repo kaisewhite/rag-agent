@@ -1,0 +1,9 @@
+{
+	"id": "oNN6uxqkAM0KJLY",
+	"json": "{\"id\":\"oNN6uxqkAM0KJLY\",\"url\":\"https://www.nysenate.gov/issues/foreclosure\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/foreclosure\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706998,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/foreclosure",
+	"url": "https://www.nysenate.gov/issues/foreclosure"
+}

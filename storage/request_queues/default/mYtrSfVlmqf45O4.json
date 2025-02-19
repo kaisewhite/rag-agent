@@ -1,0 +1,9 @@
+{
+	"id": "mYtrSfVlmqf45O4",
+	"json": "{\"id\":\"mYtrSfVlmqf45O4\",\"url\":\"https://www.nysenate.gov/issues/juvenile-justice-reform\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/juvenile-justice-reform\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717582,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/juvenile-justice-reform",
+	"url": "https://www.nysenate.gov/issues/juvenile-justice-reform"
+}

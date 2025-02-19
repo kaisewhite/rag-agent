@@ -1,0 +1,9 @@
+{
+	"id": "RBbLCaoZsEsIG4x",
+	"json": "{\"id\":\"RBbLCaoZsEsIG4x\",\"url\":\"https://www.nysenate.gov/issues/nysdot\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nysdot\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569632162,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nysdot",
+	"url": "https://www.nysenate.gov/issues/nysdot"
+}

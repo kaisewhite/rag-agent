@@ -1,0 +1,9 @@
+{
+	"id": "vyrU330Uw9HcQOg",
+	"json": "{\"id\":\"vyrU330Uw9HcQOg\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2014/mark-grisanti/land-conservancy-awarded-49700-conservation-partnership\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2014/mark-grisanti/land-conservancy-awarded-49700-conservation-partnership\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770746,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2014/mark-grisanti/land-conservancy-awarded-49700-conservation-partnership",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2014/mark-grisanti/land-conservancy-awarded-49700-conservation-partnership"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Klzv6LkANtmQtJd",
+	"json": "{\"id\":\"Klzv6LkANtmQtJd\",\"url\":\"https://www.nysenate.gov/issues/black-lives-matter\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/black-lives-matter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569671162,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/black-lives-matter",
+	"url": "https://www.nysenate.gov/issues/black-lives-matter"
+}

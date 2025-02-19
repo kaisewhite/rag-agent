@@ -1,0 +1,9 @@
+{
+	"id": "1KKk9HJkrk1cKiZ",
+	"json": "{\"id\":\"1KKk9HJkrk1cKiZ\",\"url\":\"https://www.nysenate.gov/issues/fire-prevention\",\"loadedUrl\":\"https://www.nysenate.gov/issues/fire-prevention\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/fire-prevention\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:45:27.138Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/fire-prevention",
+	"url": "https://www.nysenate.gov/issues/fire-prevention"
+}

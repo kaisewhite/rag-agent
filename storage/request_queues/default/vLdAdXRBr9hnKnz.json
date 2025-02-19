@@ -1,0 +1,9 @@
+{
+	"id": "vLdAdXRBr9hnKnz",
+	"json": "{\"id\":\"vLdAdXRBr9hnKnz\",\"url\":\"https://www.nysenate.gov/issues/adult-use-marijuana\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/adult-use-marijuana\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571313756,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/adult-use-marijuana",
+	"url": "https://www.nysenate.gov/issues/adult-use-marijuana"
+}

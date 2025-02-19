@@ -1,0 +1,9 @@
+{
+	"id": "B3FhH0Vig8FHoNh",
+	"json": "{\"id\":\"B3FhH0Vig8FHoNh\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-28-2018/shred-day\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-28-2018/shred-day\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246548,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-28-2018/shred-day",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-28-2018/shred-day"
+}

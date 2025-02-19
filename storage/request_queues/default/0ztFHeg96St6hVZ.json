@@ -1,0 +1,9 @@
+{
+	"id": "0ztFHeg96St6hVZ",
+	"json": "{\"id\":\"0ztFHeg96St6hVZ\",\"url\":\"https://www.nysenate.gov/dashboard/senators/rich-funke\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/rich-funke\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569599940,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/rich-funke",
+	"url": "https://www.nysenate.gov/dashboard/senators/rich-funke"
+}

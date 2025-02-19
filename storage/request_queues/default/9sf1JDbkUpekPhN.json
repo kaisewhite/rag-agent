@@ -1,0 +1,9 @@
+{
+	"id": "9sf1JDbkUpekPhN",
+	"json": "{\"id\":\"9sf1JDbkUpekPhN\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/basic-star-registration-frequently-asked-questions\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/basic-star-registration-frequently-asked-questions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847614,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/basic-star-registration-frequently-asked-questions",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/basic-star-registration-frequently-asked-questions"
+}

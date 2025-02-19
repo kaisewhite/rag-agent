@@ -1,0 +1,9 @@
+{
+	"id": "zWIkUS92drqLURb",
+	"json": "{\"id\":\"zWIkUS92drqLURb\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/A915\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/A915\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570170620,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/A915",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/A915"
+}

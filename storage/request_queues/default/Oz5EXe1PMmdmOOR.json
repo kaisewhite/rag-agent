@@ -1,0 +1,9 @@
+{
+	"id": "Oz5EXe1PMmdmOOR",
+	"json": "{\"id\":\"Oz5EXe1PMmdmOOR\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/beyond-plastics_nys-budget-testimony-j-enck-jan-2025.docx_.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/beyond-plastics_nys-budget-testimony-j-enck-jan-2025.docx_.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570470600,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/beyond-plastics_nys-budget-testimony-j-enck-jan-2025.docx_.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/beyond-plastics_nys-budget-testimony-j-enck-jan-2025.docx_.pdf"
+}

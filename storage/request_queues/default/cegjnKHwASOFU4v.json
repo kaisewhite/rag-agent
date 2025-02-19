@@ -1,0 +1,9 @@
+{
+	"id": "cegjnKHwASOFU4v",
+	"json": "{\"id\":\"cegjnKHwASOFU4v\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/privacy-laws-are-best-defense-against-surveillance-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/privacy-laws-are-best-defense-against-surveillance-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740967,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/privacy-laws-are-best-defense-against-surveillance-state",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/privacy-laws-are-best-defense-against-surveillance-state"
+}

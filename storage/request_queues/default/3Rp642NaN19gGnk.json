@@ -1,0 +1,9 @@
+{
+	"id": "3Rp642NaN19gGnk",
+	"json": "{\"id\":\"3Rp642NaN19gGnk\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/sean-m-ryan/senator-sean-ryan-announces-state-construction-aid\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/sean-m-ryan/senator-sean-ryan-announces-state-construction-aid\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569812937,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/sean-m-ryan/senator-sean-ryan-announces-state-construction-aid",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/sean-m-ryan/senator-sean-ryan-announces-state-construction-aid"
+}

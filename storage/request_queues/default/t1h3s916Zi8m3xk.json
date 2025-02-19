@@ -1,0 +1,9 @@
+{
+	"id": "t1h3s916Zi8m3xk",
+	"json": "{\"id\":\"t1h3s916Zi8m3xk\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/joseph-addabbo/addabbo-co-sponsored-bill-provide-eligible-residents?page=7\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/joseph-addabbo/addabbo-co-sponsored-bill-provide-eligible-residents?page=7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571165416,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/joseph-addabbo/addabbo-co-sponsored-bill-provide-eligible-residents?page=7",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/joseph-addabbo/addabbo-co-sponsored-bill-provide-eligible-residents?page=7"
+}

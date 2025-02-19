@@ -1,0 +1,9 @@
+{
+	"id": "vE0HFEmrsCysRYi",
+	"json": "{\"id\":\"vE0HFEmrsCysRYi\",\"url\":\"https://www.nysenate.gov/legislation/laws/ENV/A7\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ENV/A7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569912861,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ENV/A7",
+	"url": "https://www.nysenate.gov/legislation/laws/ENV/A7"
+}

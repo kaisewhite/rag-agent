@@ -1,0 +1,9 @@
+{
+	"id": "s4u2ZczmFBYmKjZ",
+	"json": "{\"id\":\"s4u2ZczmFBYmKjZ\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2017/senator-persauds-trick-r-treat\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2017/senator-persauds-trick-r-treat\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246372,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2017/senator-persauds-trick-r-treat",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2017/senator-persauds-trick-r-treat"
+}

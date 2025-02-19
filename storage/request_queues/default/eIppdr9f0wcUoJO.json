@@ -1,0 +1,9 @@
+{
+	"id": "eIppdr9f0wcUoJO",
+	"json": "{\"id\":\"eIppdr9f0wcUoJO\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/june-05-2019/public-hearing-examine-health-racehorses-while-training-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/june-05-2019/public-hearing-examine-health-racehorses-while-training-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833543,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/june-05-2019/public-hearing-examine-health-racehorses-while-training-and",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/june-05-2019/public-hearing-examine-health-racehorses-while-training-and"
+}

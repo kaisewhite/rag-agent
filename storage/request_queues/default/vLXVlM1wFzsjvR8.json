@@ -1,0 +1,9 @@
+{
+	"id": "vLXVlM1wFzsjvR8",
+	"json": "{\"id\":\"vLXVlM1wFzsjvR8\",\"url\":\"https://www.nysenate.gov/issues/fishing-licenses\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/fishing-licenses\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569595436,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/fishing-licenses",
+	"url": "https://www.nysenate.gov/issues/fishing-licenses"
+}

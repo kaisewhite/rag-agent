@@ -1,0 +1,9 @@
+{
+	"id": "H3xg2tFcrFihIn9",
+	"json": "{\"id\":\"H3xg2tFcrFihIn9\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/new-york-state-moves-ban-foam-food-containers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/new-york-state-moves-ban-foam-food-containers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770700,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/new-york-state-moves-ban-foam-food-containers",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/new-york-state-moves-ban-foam-food-containers"
+}

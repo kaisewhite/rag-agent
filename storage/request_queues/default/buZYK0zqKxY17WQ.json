@@ -1,0 +1,9 @@
+{
+	"id": "buZYK0zqKxY17WQ",
+	"json": "{\"id\":\"buZYK0zqKxY17WQ\",\"url\":\"https://www.nysenate.gov/issues/school-gardens\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/school-gardens\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569551660,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/school-gardens",
+	"url": "https://www.nysenate.gov/issues/school-gardens"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "jKpTsREXqfpJnYn",
+	"json": "{\"id\":\"jKpTsREXqfpJnYn\",\"url\":\"https://www.nysenate.gov/calendar/events/insurance/james-l-seward/january-06-2016/demise-health-republic-and-preparing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/insurance/james-l-seward/january-06-2016/demise-health-republic-and-preparing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569793089,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/insurance/james-l-seward/january-06-2016/demise-health-republic-and-preparing",
+	"url": "https://www.nysenate.gov/calendar/events/insurance/james-l-seward/january-06-2016/demise-health-republic-and-preparing"
+}

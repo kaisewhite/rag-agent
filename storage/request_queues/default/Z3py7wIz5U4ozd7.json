@@ -1,0 +1,9 @@
+{
+	"id": "Z3py7wIz5U4ozd7",
+	"json": "{\"id\":\"Z3py7wIz5U4ozd7\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2025/brad-hoylman-sigal/response-letter-office-mental-health\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/articles/2025/brad-hoylman-sigal/response-letter-office-mental-health\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2025/brad-hoylman-sigal/response-letter-office-mental-health\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:56:38.862Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2025/brad-hoylman-sigal/response-letter-office-mental-health",
+	"url": "https://www.nysenate.gov/newsroom/articles/2025/brad-hoylman-sigal/response-letter-office-mental-health"
+}

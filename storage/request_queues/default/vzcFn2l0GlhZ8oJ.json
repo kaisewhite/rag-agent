@@ -1,0 +1,9 @@
+{
+	"id": "vzcFn2l0GlhZ8oJ",
+	"json": "{\"id\":\"vzcFn2l0GlhZ8oJ\",\"url\":\"https://www.nysenate.gov/sites/default/files/luz_marquez_benbow_testimony_for_ny_senate_hearing.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/luz_marquez_benbow_testimony_for_ny_senate_hearing.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716528,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/luz_marquez_benbow_testimony_for_ny_senate_hearing.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/luz_marquez_benbow_testimony_for_ny_senate_hearing.pdf"
+}

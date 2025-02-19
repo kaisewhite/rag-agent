@@ -1,0 +1,9 @@
+{
+	"id": "gB2ovcvw2nog3yP",
+	"json": "{\"id\":\"gB2ovcvw2nog3yP\",\"url\":\"https://www.nysenate.gov/issues/youth\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/youth\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717578,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/youth",
+	"url": "https://www.nysenate.gov/issues/youth"
+}

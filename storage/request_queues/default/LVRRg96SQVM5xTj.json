@@ -1,0 +1,9 @@
+{
+	"id": "LVRRg96SQVM5xTj",
+	"json": "{\"id\":\"LVRRg96SQVM5xTj\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/susan-serino/serino-makes-elder-abuse-prevention-priority\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/susan-serino/serino-makes-elder-abuse-prevention-priority\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698369,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/susan-serino/serino-makes-elder-abuse-prevention-priority",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/susan-serino/serino-makes-elder-abuse-prevention-priority"
+}

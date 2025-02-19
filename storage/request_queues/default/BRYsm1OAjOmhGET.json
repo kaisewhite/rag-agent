@@ -1,0 +1,9 @@
+{
+	"id": "BRYsm1OAjOmhGET",
+	"json": "{\"id\":\"BRYsm1OAjOmhGET\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/testimony-january-30-2013-budget-hearing-health-medicaid\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/testimony-january-30-2013-budget-hearing-health-medicaid\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781265,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/testimony-january-30-2013-budget-hearing-health-medicaid",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/testimony-january-30-2013-budget-hearing-health-medicaid"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "vgYy5q3aJ4b77ug",
+	"json": "{\"id\":\"vgYy5q3aJ4b77ug\",\"url\":\"https://www.nysenate.gov/legislation/laws/ENV/A13\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ENV/A13\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569912863,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ENV/A13",
+	"url": "https://www.nysenate.gov/legislation/laws/ENV/A13"
+}

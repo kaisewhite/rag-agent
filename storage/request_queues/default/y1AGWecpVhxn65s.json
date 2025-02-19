@@ -1,0 +1,9 @@
+{
+	"id": "y1AGWecpVhxn65s",
+	"json": "{\"id\":\"y1AGWecpVhxn65s\",\"url\":\"https://www.nysenate.gov/system/files/filefield_paths/senate-majority-passes-legislation-protecting-ratepayers.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/system/files/filefield_paths/senate-majority-passes-legislation-protecting-ratepayers.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571426043,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/system/files/filefield_paths/senate-majority-passes-legislation-protecting-ratepayers.pdf",
+	"url": "https://www.nysenate.gov/system/files/filefield_paths/senate-majority-passes-legislation-protecting-ratepayers.pdf"
+}

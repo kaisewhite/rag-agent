@@ -1,0 +1,9 @@
+{
+	"id": "6bQyYL5aMKv1TYA",
+	"json": "{\"id\":\"6bQyYL5aMKv1TYA\",\"url\":\"https://www.nysenate.gov/issues/summer-reading\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/summer-reading\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569812939,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/summer-reading",
+	"url": "https://www.nysenate.gov/issues/summer-reading"
+}

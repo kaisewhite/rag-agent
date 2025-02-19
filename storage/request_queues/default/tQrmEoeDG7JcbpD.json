@@ -1,0 +1,9 @@
+{
+	"id": "tQrmEoeDG7JcbpD",
+	"json": "{\"id\":\"tQrmEoeDG7JcbpD\",\"url\":\"https://www.nysenate.gov/issues/energy-bills\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/energy-bills\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570890982,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/energy-bills",
+	"url": "https://www.nysenate.gov/issues/energy-bills"
+}

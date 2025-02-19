@@ -1,0 +1,9 @@
+{
+	"id": "mjaNNfHwzd5tKwK",
+	"json": "{\"id\":\"mjaNNfHwzd5tKwK\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/ruth-hassell-thompson/senator-hassell-thompson-listens-testimony-public\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/ruth-hassell-thompson/senator-hassell-thompson-listens-testimony-public\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569748010,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/ruth-hassell-thompson/senator-hassell-thompson-listens-testimony-public",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/ruth-hassell-thompson/senator-hassell-thompson-listens-testimony-public"
+}

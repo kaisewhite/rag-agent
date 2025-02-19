@@ -1,0 +1,9 @@
+{
+	"id": "niuFLagPvk3Agxu",
+	"json": "{\"id\":\"niuFLagPvk3Agxu\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/power-authority-still-sending-mixed-messages-niagara\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/power-authority-still-sending-mixed-messages-niagara\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765733,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/power-authority-still-sending-mixed-messages-niagara",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/power-authority-still-sending-mixed-messages-niagara"
+}

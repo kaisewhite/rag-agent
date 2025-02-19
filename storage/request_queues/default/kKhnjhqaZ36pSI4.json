@@ -1,0 +1,9 @@
+{
+	"id": "kKhnjhqaZ36pSI4",
+	"json": "{\"id\":\"kKhnjhqaZ36pSI4\",\"url\":\"https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/april-27-2015/corporations-authorities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/april-27-2015/corporations-authorities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741817,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/april-27-2015/corporations-authorities",
+	"url": "https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/april-27-2015/corporations-authorities"
+}

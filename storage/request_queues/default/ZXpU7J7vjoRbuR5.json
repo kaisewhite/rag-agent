@@ -1,0 +1,9 @@
+{
+	"id": "ZXpU7J7vjoRbuR5",
+	"json": "{\"id\":\"ZXpU7J7vjoRbuR5\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2017/kemp-hannon/2017-health-session-highlights\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2017/kemp-hannon/2017-health-session-highlights\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781057,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2017/kemp-hannon/2017-health-session-highlights",
+	"url": "https://www.nysenate.gov/newsroom/articles/2017/kemp-hannon/2017-health-session-highlights"
+}

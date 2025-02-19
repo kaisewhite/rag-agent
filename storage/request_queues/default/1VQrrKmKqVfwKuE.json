@@ -1,0 +1,9 @@
+{
+	"id": "1VQrrKmKqVfwKuE",
+	"json": "{\"id\":\"1VQrrKmKqVfwKuE\",\"url\":\"https://www.nysenate.gov/issues/clean-air-and-water\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/clean-air-and-water\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770709,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/clean-air-and-water",
+	"url": "https://www.nysenate.gov/issues/clean-air-and-water"
+}

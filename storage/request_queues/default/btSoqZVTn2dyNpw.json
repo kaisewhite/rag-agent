@@ -1,0 +1,9 @@
+{
+	"id": "btSoqZVTn2dyNpw",
+	"json": "{\"id\":\"btSoqZVTn2dyNpw\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/ruben-diaz/hunger-tragic-reality-too-many-senior-citizens\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/ruben-diaz/hunger-tragic-reality-too-many-senior-citizens\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698379,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/ruben-diaz/hunger-tragic-reality-too-many-senior-citizens",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/ruben-diaz/hunger-tragic-reality-too-many-senior-citizens"
+}

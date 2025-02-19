@@ -1,0 +1,9 @@
+{
+	"id": "h1epi9DQcox1v9i",
+	"json": "{\"id\":\"h1epi9DQcox1v9i\",\"url\":\"https://www.nysenate.gov/profiles/2024/bill-weber/mary-p-leahy-md\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/bill-weber/mary-p-leahy-md\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/bill-weber/mary-p-leahy-md\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:59:01.551Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/bill-weber/mary-p-leahy-md",
+	"url": "https://www.nysenate.gov/profiles/2024/bill-weber/mary-p-leahy-md"
+}

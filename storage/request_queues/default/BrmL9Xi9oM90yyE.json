@@ -1,0 +1,9 @@
+{
+	"id": "BrmL9Xi9oM90yyE",
+	"json": "{\"id\":\"BrmL9Xi9oM90yyE\",\"url\":\"https://www.nysenate.gov/sites/default/files/haltsolitary_campaign_testimony_for_senate_hearing_on_elder_parole_and_fair_timely_parole_dec._7_2022.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/haltsolitary_campaign_testimony_for_senate_hearing_on_elder_parole_and_fair_timely_parole_dec._7_2022.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716501,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/haltsolitary_campaign_testimony_for_senate_hearing_on_elder_parole_and_fair_timely_parole_dec._7_2022.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/haltsolitary_campaign_testimony_for_senate_hearing_on_elder_parole_and_fair_timely_parole_dec._7_2022.pdf"
+}

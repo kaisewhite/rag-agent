@@ -1,0 +1,9 @@
+{
+	"id": "cd9hpenDyqBa5o3",
+	"json": "{\"id\":\"cd9hpenDyqBa5o3\",\"url\":\"https://www.nysenate.gov/issues/senator-harckham-sd40\",\"loadedUrl\":\"https://www.nysenate.gov/issues/senator-harckham-sd40\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/senator-harckham-sd40\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:18:57.061Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/senator-harckham-sd40",
+	"url": "https://www.nysenate.gov/issues/senator-harckham-sd40"
+}

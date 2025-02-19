@@ -1,0 +1,9 @@
+{
+	"id": "Urlv0aA0lRIOxST",
+	"json": "{\"id\":\"Urlv0aA0lRIOxST\",\"url\":\"https://www.nysenate.gov/legislation/laws/CAL/A12\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CAL/A12\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569888168,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CAL/A12",
+	"url": "https://www.nysenate.gov/legislation/laws/CAL/A12"
+}

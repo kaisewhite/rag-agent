@@ -1,0 +1,9 @@
+{
+	"id": "r6lJUmbuj8G85cn",
+	"json": "{\"id\":\"r6lJUmbuj8G85cn\",\"url\":\"https://www.nysenate.gov/calendar/events/legislative-commission-rural-resources/rachel-may/august-18-2023/senator-may-tours\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/legislative-commission-rural-resources/rachel-may/august-18-2023/senator-may-tours\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695477,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/legislative-commission-rural-resources/rachel-may/august-18-2023/senator-may-tours",
+	"url": "https://www.nysenate.gov/calendar/events/legislative-commission-rural-resources/rachel-may/august-18-2023/senator-may-tours"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "KRbPp2a9qR2SbUW",
+	"json": "{\"id\":\"KRbPp2a9qR2SbUW\",\"url\":\"https://www.nysenate.gov/calendar/events/aging/ruben-diaz/november-13-2009/elders-aging-place-whos-paying-bills\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/aging/ruben-diaz/november-13-2009/elders-aging-place-whos-paying-bills\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698343,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/aging/ruben-diaz/november-13-2009/elders-aging-place-whos-paying-bills",
+	"url": "https://www.nysenate.gov/calendar/events/aging/ruben-diaz/november-13-2009/elders-aging-place-whos-paying-bills"
+}

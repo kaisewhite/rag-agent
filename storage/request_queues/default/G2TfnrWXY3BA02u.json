@@ -1,0 +1,9 @@
+{
+	"id": "G2TfnrWXY3BA02u",
+	"json": "{\"id\":\"G2TfnrWXY3BA02u\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/john-defrancisco/senate-majority-leader-dean-skelos-appoints-senator\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/john-defrancisco/senate-majority-leader-dean-skelos-appoints-senator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781270,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/john-defrancisco/senate-majority-leader-dean-skelos-appoints-senator",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/john-defrancisco/senate-majority-leader-dean-skelos-appoints-senator"
+}

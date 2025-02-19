@@ -1,0 +1,9 @@
+{
+	"id": "zFk6GL6cZf53ZBn",
+	"json": "{\"id\":\"zFk6GL6cZf53ZBn\",\"url\":\"https://www.nysenate.gov/legislation/laws/EXC/A13-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EXC/A13-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569917152,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EXC/A13-A",
+	"url": "https://www.nysenate.gov/legislation/laws/EXC/A13-A"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Csb4P41wqQtxk6w",
+	"json": "{\"id\":\"Csb4P41wqQtxk6w\",\"url\":\"https://www.nysenate.gov/calendar/meetings/elections/april-25-2022/elections-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/elections/april-25-2022/elections-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756044,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/elections/april-25-2022/elections-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/elections/april-25-2022/elections-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "997txNLo4ETZQBi",
+	"json": "{\"id\":\"997txNLo4ETZQBi\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-celebrates-holidays-mineola-golden-age-club\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-celebrates-holidays-mineola-golden-age-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847666,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-celebrates-holidays-mineola-golden-age-club",
+	"url": "https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-celebrates-holidays-mineola-golden-age-club"
+}

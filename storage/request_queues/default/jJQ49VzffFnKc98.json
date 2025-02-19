@@ -1,0 +1,9 @@
+{
+	"id": "jJQ49VzffFnKc98",
+	"json": "{\"id\":\"jJQ49VzffFnKc98\",\"url\":\"https://www.nysenate.gov/questionnaires/anthony-h-palumbo/senator-palumbos-2022-legislative-survey\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/anthony-h-palumbo/senator-palumbos-2022-legislative-survey\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569662414,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/anthony-h-palumbo/senator-palumbos-2022-legislative-survey",
+	"url": "https://www.nysenate.gov/questionnaires/anthony-h-palumbo/senator-palumbos-2022-legislative-survey"
+}

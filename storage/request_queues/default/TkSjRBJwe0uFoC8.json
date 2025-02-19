@@ -1,0 +1,9 @@
+{
+	"id": "TkSjRBJwe0uFoC8",
+	"json": "{\"id\":\"TkSjRBJwe0uFoC8\",\"url\":\"https://www.nysenate.gov/issues/crime-and-corrections\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/crime-and-corrections\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569747976,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/crime-and-corrections",
+	"url": "https://www.nysenate.gov/issues/crime-and-corrections"
+}

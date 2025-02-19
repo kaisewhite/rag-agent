@@ -1,0 +1,9 @@
+{
+	"id": "l9yro1VnaQz8ylP",
+	"json": "{\"id\":\"l9yro1VnaQz8ylP\",\"url\":\"https://www.nysenate.gov/senators/john-l-sampson/landing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/john-l-sampson/landing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571198734,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/john-l-sampson/landing",
+	"url": "https://www.nysenate.gov/senators/john-l-sampson/landing"
+}

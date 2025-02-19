@@ -1,0 +1,9 @@
+{
+	"id": "64ANj934A9GeEua",
+	"json": "{\"id\":\"64ANj934A9GeEua\",\"url\":\"https://www.nysenate.gov/calendar/meetings/elections/june-06-2016/elections-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/elections/june-06-2016/elections-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756057,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/elections/june-06-2016/elections-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/elections/june-06-2016/elections-meeting"
+}

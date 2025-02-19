@@ -1,0 +1,9 @@
+{
+	"id": "zeaTi4aaqtW2Nre",
+	"json": "{\"id\":\"zeaTi4aaqtW2Nre\",\"url\":\"https://www.nysenate.gov/calendar/events/andrew-gounardes/november-21-2024/boxes-love-thanksgiving-care-packages-community\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/november-21-2024/boxes-love-thanksgiving-care-packages-community\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570125483,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/november-21-2024/boxes-love-thanksgiving-care-packages-community",
+	"url": "https://www.nysenate.gov/calendar/events/andrew-gounardes/november-21-2024/boxes-love-thanksgiving-care-packages-community"
+}

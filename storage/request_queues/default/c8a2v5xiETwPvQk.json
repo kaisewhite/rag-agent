@@ -1,0 +1,9 @@
+{
+	"id": "c8a2v5xiETwPvQk",
+	"json": "{\"id\":\"c8a2v5xiETwPvQk\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-16-2016/learn-bike-adults\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-16-2016/learn-bike-adults\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246328,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-16-2016/learn-bike-adults",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-16-2016/learn-bike-adults"
+}

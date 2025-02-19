@@ -1,0 +1,9 @@
+{
+	"id": "5dVr2FblOE6U7Dm",
+	"json": "{\"id\":\"5dVr2FblOE6U7Dm\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/george-maziarz/senator-maziarz-joins-rally-favor-safe-natural-gas-drilling\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/george-maziarz/senator-maziarz-joins-rally-favor-safe-natural-gas-drilling\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765731,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/george-maziarz/senator-maziarz-joins-rally-favor-safe-natural-gas-drilling",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/george-maziarz/senator-maziarz-joins-rally-favor-safe-natural-gas-drilling"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "zlK8ukHePdvE3jo",
+	"json": "{\"id\":\"zlK8ukHePdvE3jo\",\"url\":\"https://www.nysenate.gov/issues/sen-thomas\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/sen-thomas\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740914,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/sen-thomas",
+	"url": "https://www.nysenate.gov/issues/sen-thomas"
+}

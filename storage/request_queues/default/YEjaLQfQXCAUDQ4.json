@@ -1,0 +1,9 @@
+{
+	"id": "YEjaLQfQXCAUDQ4",
+	"json": "{\"id\":\"YEjaLQfQXCAUDQ4\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/catharine-young/coming-weekend-your-chance-be-hero\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/catharine-young/coming-weekend-your-chance-be-hero\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695521,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/catharine-young/coming-weekend-your-chance-be-hero",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/catharine-young/coming-weekend-your-chance-be-hero"
+}

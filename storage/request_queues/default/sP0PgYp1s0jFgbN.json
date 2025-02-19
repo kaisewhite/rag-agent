@@ -1,0 +1,9 @@
+{
+	"id": "sP0PgYp1s0jFgbN",
+	"json": "{\"id\":\"sP0PgYp1s0jFgbN\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/april-20-2010/public-campaign-financing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/april-20-2010/public-campaign-financing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756062,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/april-20-2010/public-campaign-financing",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/april-20-2010/public-campaign-financing"
+}

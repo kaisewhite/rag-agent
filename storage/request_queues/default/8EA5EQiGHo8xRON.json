@@ -1,0 +1,9 @@
+{
+	"id": "8EA5EQiGHo8xRON",
+	"json": "{\"id\":\"8EA5EQiGHo8xRON\",\"url\":\"https://www.nysenate.gov/issues/affordable\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/affordable\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695487,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/affordable",
+	"url": "https://www.nysenate.gov/issues/affordable"
+}

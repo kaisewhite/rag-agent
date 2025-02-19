@@ -1,0 +1,9 @@
+{
+	"id": "iuiU5dTNWq0PZNR",
+	"json": "{\"id\":\"iuiU5dTNWq0PZNR\",\"url\":\"https://www.nysenate.gov/issues/hempstead\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/hempstead\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571144565,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/hempstead",
+	"url": "https://www.nysenate.gov/issues/hempstead"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "NPw4Cc5SruA0Xwt",
+	"json": "{\"id\":\"NPw4Cc5SruA0Xwt\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/june-03-2021/roundtable-evaluate-states-response-covid-19-residential\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/june-03-2021/roundtable-evaluate-states-response-covid-19-residential\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751242,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/june-03-2021/roundtable-evaluate-states-response-covid-19-residential",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/june-03-2021/roundtable-evaluate-states-response-covid-19-residential"
+}

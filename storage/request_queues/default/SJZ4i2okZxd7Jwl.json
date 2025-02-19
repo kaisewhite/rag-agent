@@ -1,0 +1,9 @@
+{
+	"id": "SJZ4i2okZxd7Jwl",
+	"json": "{\"id\":\"SJZ4i2okZxd7Jwl\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/michelle-hinchey/governor-hochul-signs-senator-hinchey-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/michelle-hinchey/governor-hochul-signs-senator-hinchey-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707145,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/michelle-hinchey/governor-hochul-signs-senator-hinchey-and",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/michelle-hinchey/governor-hochul-signs-senator-hinchey-and"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Dvs94rjDObhk5bp",
+	"json": "{\"id\":\"Dvs94rjDObhk5bp\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/kenneth-p-lavalle/lavalle-legislation-passes-senate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/kenneth-p-lavalle/lavalle-legislation-passes-senate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788184,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/kenneth-p-lavalle/lavalle-legislation-passes-senate",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/kenneth-p-lavalle/lavalle-legislation-passes-senate"
+}

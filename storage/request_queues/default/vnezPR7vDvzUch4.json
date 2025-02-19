@@ -1,0 +1,9 @@
+{
+	"id": "vnezPR7vDvzUch4",
+	"json": "{\"id\":\"vnezPR7vDvzUch4\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders-jr/september-21-2024/book-fair-career-networking-day\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders-jr/september-21-2024/book-fair-career-networking-day\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019511,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders-jr/september-21-2024/book-fair-career-networking-day",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders-jr/september-21-2024/book-fair-career-networking-day"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "BbBiHo6v6I1V16G",
+	"json": "{\"id\":\"BbBiHo6v6I1V16G\",\"url\":\"https://www.nysenate.gov/issues/low-income-housing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/low-income-housing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571311368,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/low-income-housing",
+	"url": "https://www.nysenate.gov/issues/low-income-housing"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "DUjwh1JijQvg5hn",
+	"json": "{\"id\":\"DUjwh1JijQvg5hn\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVP/A100\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVP/A100\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569898512,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVP/A100",
+	"url": "https://www.nysenate.gov/legislation/laws/CVP/A100"
+}

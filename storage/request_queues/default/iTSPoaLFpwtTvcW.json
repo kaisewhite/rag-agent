@@ -1,0 +1,9 @@
+{
+	"id": "iTSPoaLFpwtTvcW",
+	"json": "{\"id\":\"iTSPoaLFpwtTvcW\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/historic-rehabilitation-tax-credit-brings\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/historic-rehabilitation-tax-credit-brings\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734391,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/historic-rehabilitation-tax-credit-brings",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/historic-rehabilitation-tax-credit-brings"
+}

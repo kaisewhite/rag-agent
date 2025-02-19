@@ -1,0 +1,9 @@
+{
+	"id": "9VSOFcJlk7TKJCH",
+	"json": "{\"id\":\"9VSOFcJlk7TKJCH\",\"url\":\"https://www.nysenate.gov/dashboard/senators/timothy-m-kennedy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/timothy-m-kennedy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571144545,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/timothy-m-kennedy",
+	"url": "https://www.nysenate.gov/dashboard/senators/timothy-m-kennedy"
+}

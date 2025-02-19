@@ -1,0 +1,9 @@
+{
+	"id": "6AVlhxJO2C2QBtU",
+	"json": "{\"id\":\"6AVlhxJO2C2QBtU\",\"url\":\"https://www.nysenate.gov/newsroom/video/lea-webb/senator-webb-explains-her-vote-s1522-menstrual-products\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/lea-webb/senator-webb-explains-her-vote-s1522-menstrual-products\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569589244,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/lea-webb/senator-webb-explains-her-vote-s1522-menstrual-products",
+	"url": "https://www.nysenate.gov/newsroom/video/lea-webb/senator-webb-explains-her-vote-s1522-menstrual-products"
+}

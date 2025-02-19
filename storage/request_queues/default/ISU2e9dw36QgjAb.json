@@ -1,0 +1,9 @@
+{
+	"id": "ISU2e9dw36QgjAb",
+	"json": "{\"id\":\"ISU2e9dw36QgjAb\",\"url\":\"https://www.nysenate.gov/issues/environmental\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/environmental\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571669491,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/environmental",
+	"url": "https://www.nysenate.gov/issues/environmental"
+}

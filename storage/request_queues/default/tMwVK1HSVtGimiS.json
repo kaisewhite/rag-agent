@@ -1,0 +1,9 @@
+{
+	"id": "tMwVK1HSVtGimiS",
+	"json": "{\"id\":\"tMwVK1HSVtGimiS\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/april-20-2023/rules-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/april-20-2023/rules-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839851,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/april-20-2023/rules-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/april-20-2023/rules-meeting"
+}

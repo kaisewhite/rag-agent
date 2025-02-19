@@ -1,0 +1,9 @@
+{
+	"id": "NBXODlCL7vRMaug",
+	"json": "{\"id\":\"NBXODlCL7vRMaug\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Road%20Safety%3B%20Infrastructure%3B%20Highway%20Safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Road+Safety%3B+Infrastructure%3B+Highway+Safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571539506,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Road+Safety%3B+Infrastructure%3B+Highway+Safety",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Road%20Safety%3B%20Infrastructure%3B%20Highway%20Safety"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0IruKI6WsbGRVGn",
+	"json": "{\"id\":\"0IruKI6WsbGRVGn\",\"url\":\"https://www.nysenate.gov/calendar/events/legislative-commission-rural-resources/rachel-may/march-27-2024/senator-may-host\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/legislative-commission-rural-resources/rachel-may/march-27-2024/senator-may-host\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695476,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/legislative-commission-rural-resources/rachel-may/march-27-2024/senator-may-host",
+	"url": "https://www.nysenate.gov/calendar/events/legislative-commission-rural-resources/rachel-may/march-27-2024/senator-may-host"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "hOGdF9fZI8DIC9v",
+	"json": "{\"id\":\"hOGdF9fZI8DIC9v\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/brad-hoylman-sigal/senator-brad-hoylman-and-assemblymember-harvey\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/brad-hoylman-sigal/senator-brad-hoylman-and-assemblymember-harvey\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571305836,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/brad-hoylman-sigal/senator-brad-hoylman-and-assemblymember-harvey",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/brad-hoylman-sigal/senator-brad-hoylman-and-assemblymember-harvey"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "TR0bHoNk83iC8qX",
+	"json": "{\"id\":\"TR0bHoNk83iC8qX\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/zellnor-myrie/myrie-and-senate-elections-committee-pass-boe-reform\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/zellnor-myrie/myrie-and-senate-elections-committee-pass-boe-reform\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756065,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/zellnor-myrie/myrie-and-senate-elections-committee-pass-boe-reform",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/zellnor-myrie/myrie-and-senate-elections-committee-pass-boe-reform"
+}

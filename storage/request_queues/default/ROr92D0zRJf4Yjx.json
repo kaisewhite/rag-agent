@@ -1,0 +1,9 @@
+{
+	"id": "ROr92D0zRJf4Yjx",
+	"json": "{\"id\":\"ROr92D0zRJf4Yjx\",\"url\":\"https://www.nysenate.gov/sites/default/files/public_citizen.21.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/public_citizen.21.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571268918,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/public_citizen.21.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/public_citizen.21.pdf"
+}

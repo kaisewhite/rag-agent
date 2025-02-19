@@ -1,0 +1,9 @@
+{
+	"id": "rBMDqcVEF2qyE0v",
+	"json": "{\"id\":\"rBMDqcVEF2qyE0v\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/senator-gounardes-and-assemblymember-rosenthal-join\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/senator-gounardes-and-assemblymember-rosenthal-join\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571669485,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/senator-gounardes-and-assemblymember-rosenthal-join",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/senator-gounardes-and-assemblymember-rosenthal-join"
+}

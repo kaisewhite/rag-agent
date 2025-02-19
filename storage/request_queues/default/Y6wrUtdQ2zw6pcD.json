@@ -1,0 +1,9 @@
+{
+	"id": "Y6wrUtdQ2zw6pcD",
+	"json": "{\"id\":\"Y6wrUtdQ2zw6pcD\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/rent-relief-nyc-tenants-sails-through-housing-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/rent-relief-nyc-tenants-sails-through-housing-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798928,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/rent-relief-nyc-tenants-sails-through-housing-committee",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/rent-relief-nyc-tenants-sails-through-housing-committee"
+}

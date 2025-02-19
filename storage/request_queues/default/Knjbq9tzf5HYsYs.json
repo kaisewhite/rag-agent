@@ -1,0 +1,9 @@
+{
+	"id": "Knjbq9tzf5HYsYs",
+	"json": "{\"id\":\"Knjbq9tzf5HYsYs\",\"url\":\"https://www.nysenate.gov/calendar/public-hearings/january-27-2025/joint-legislative-public-hearing-2025-executive-budget-3\",\"loadedUrl\":\"https://www.nysenate.gov/calendar/public-hearings/february-26-2025/joint-legislative-public-hearing-2025-executive-budget-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public-hearings/january-27-2025/joint-legislative-public-hearing-2025-executive-budget-3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:07:36.282Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public-hearings/january-27-2025/joint-legislative-public-hearing-2025-executive-budget-3",
+	"url": "https://www.nysenate.gov/calendar/public-hearings/january-27-2025/joint-legislative-public-hearing-2025-executive-budget-3"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "78G2Bqc6i2zZi1K",
+	"json": "{\"id\":\"78G2Bqc6i2zZi1K\",\"url\":\"https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/february-11-2025/corporations\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/february-11-2025/corporations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569604481,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/february-11-2025/corporations",
+	"url": "https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/february-11-2025/corporations"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "jnWi8WaahEJujfz",
+	"json": "{\"id\":\"jnWi8WaahEJujfz\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-gives-senator-perkins-signing-pen\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-gives-senator-perkins-signing-pen\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741852,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-gives-senator-perkins-signing-pen",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-gives-senator-perkins-signing-pen"
+}

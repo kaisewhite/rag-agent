@@ -1,0 +1,9 @@
+{
+	"id": "f4iqJ24ZM4fViMG",
+	"json": "{\"id\":\"f4iqJ24ZM4fViMG\",\"url\":\"https://www.nysenate.gov/issues/sd-27\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/sd-27\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570976505,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/sd-27",
+	"url": "https://www.nysenate.gov/issues/sd-27"
+}

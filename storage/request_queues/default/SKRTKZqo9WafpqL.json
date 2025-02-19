@@ -1,0 +1,9 @@
+{
+	"id": "SKRTKZqo9WafpqL",
+	"json": "{\"id\":\"SKRTKZqo9WafpqL\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-10-2023/celebrating-juneteenth-caribbean-heritage\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-10-2023/celebrating-juneteenth-caribbean-heritage\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247446,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-10-2023/celebrating-juneteenth-caribbean-heritage",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-10-2023/celebrating-juneteenth-caribbean-heritage"
+}

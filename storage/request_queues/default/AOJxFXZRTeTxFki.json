@@ -1,0 +1,9 @@
+{
+	"id": "AOJxFXZRTeTxFki",
+	"json": "{\"id\":\"AOJxFXZRTeTxFki\",\"url\":\"https://www.nysenate.gov/issues/green-energy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/green-energy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569556421,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/green-energy",
+	"url": "https://www.nysenate.gov/issues/green-energy"
+}

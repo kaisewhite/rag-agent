@@ -1,0 +1,9 @@
+{
+	"id": "EzrLbWvMZd43usN",
+	"json": "{\"id\":\"EzrLbWvMZd43usN\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/martins-thanks-men-and-women-uniform-service-south-floral\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/martins-thanks-men-and-women-uniform-service-south-floral\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847639,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/martins-thanks-men-and-women-uniform-service-south-floral",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/martins-thanks-men-and-women-uniform-service-south-floral"
+}

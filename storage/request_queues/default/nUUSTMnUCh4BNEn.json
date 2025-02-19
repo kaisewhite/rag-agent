@@ -1,0 +1,9 @@
+{
+	"id": "nUUSTMnUCh4BNEn",
+	"json": "{\"id\":\"nUUSTMnUCh4BNEn\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-assembles-racing-industry\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-assembles-racing-industry\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833567,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-assembles-racing-industry",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-assembles-racing-industry"
+}

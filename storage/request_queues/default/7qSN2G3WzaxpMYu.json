@@ -1,0 +1,9 @@
+{
+	"id": "7qSN2G3WzaxpMYu",
+	"json": "{\"id\":\"7qSN2G3WzaxpMYu\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-04-2018/mission-based-housing-development-conversations\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-04-2018/mission-based-housing-development-conversations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246617,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-04-2018/mission-based-housing-development-conversations",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-04-2018/mission-based-housing-development-conversations"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "eDsZc7bGRnUDmNp",
+	"json": "{\"id\":\"eDsZc7bGRnUDmNp\",\"url\":\"https://www.nysenate.gov/legislation/laws/MHR/A4\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/MHR/A4\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569942248,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/MHR/A4",
+	"url": "https://www.nysenate.gov/legislation/laws/MHR/A4"
+}

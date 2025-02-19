@@ -1,0 +1,9 @@
+{
+	"id": "21t3Ln3RNmoU3Es",
+	"json": "{\"id\":\"21t3Ln3RNmoU3Es\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-09/2018_blue_book.pdf\",\"loadedUrl\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-09/2018_blue_book.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-09/2018_blue_book.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:55:13.423Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-09/2018_blue_book.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-09/2018_blue_book.pdf"
+}

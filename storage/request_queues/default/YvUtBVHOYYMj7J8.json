@@ -1,0 +1,9 @@
+{
+	"id": "YvUtBVHOYYMj7J8",
+	"json": "{\"id\":\"YvUtBVHOYYMj7J8\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/rocklands-five-towns-square-blood-donation-contest\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/rocklands-five-towns-square-blood-donation-contest\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571353118,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/rocklands-five-towns-square-blood-donation-contest",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/rocklands-five-towns-square-blood-donation-contest"
+}

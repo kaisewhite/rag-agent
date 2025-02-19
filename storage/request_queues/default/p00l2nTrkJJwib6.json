@@ -1,0 +1,9 @@
+{
+	"id": "p00l2nTrkJJwib6",
+	"json": "{\"id\":\"p00l2nTrkJJwib6\",\"url\":\"https://www.nysenate.gov/questionnaires/youth-leadership-recognition-awards-program\",\"loadedUrl\":\"https://www.nysenate.gov/questionnaires/youth-leadership-recognition-awards-program\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/youth-leadership-recognition-awards-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:53:27.566Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/youth-leadership-recognition-awards-program",
+	"url": "https://www.nysenate.gov/questionnaires/youth-leadership-recognition-awards-program"
+}

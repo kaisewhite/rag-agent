@@ -1,0 +1,9 @@
+{
+	"id": "HS3Y1z60Qsm2Qhh",
+	"json": "{\"id\":\"HS3Y1z60Qsm2Qhh\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/federal-study-assessing-local-coastal-storm-risk-loses\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/federal-study-assessing-local-coastal-storm-risk-loses\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770695,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/federal-study-assessing-local-coastal-storm-risk-loses",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/federal-study-assessing-local-coastal-storm-risk-loses"
+}

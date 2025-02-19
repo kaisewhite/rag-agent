@@ -1,0 +1,9 @@
+{
+	"id": "HH8dGztKn21PviV",
+	"json": "{\"id\":\"HH8dGztKn21PviV\",\"url\":\"https://www.nysenate.gov/calendar/meetings/crime-victims-crime-and-correction/june-15-2017/crime-victims-crime-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/crime-victims-crime-and-correction/june-15-2017/crime-victims-crime-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569747983,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/crime-victims-crime-and-correction/june-15-2017/crime-victims-crime-and",
+	"url": "https://www.nysenate.gov/calendar/meetings/crime-victims-crime-and-correction/june-15-2017/crime-victims-crime-and"
+}

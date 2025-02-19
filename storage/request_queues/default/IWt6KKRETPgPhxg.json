@@ -1,0 +1,9 @@
+{
+	"id": "IWt6KKRETPgPhxg",
+	"json": "{\"id\":\"IWt6KKRETPgPhxg\",\"url\":\"https://www.nysenate.gov/issues/addiction-overdose-prevention\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/addiction-overdose-prevention\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569861690,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/addiction-overdose-prevention",
+	"url": "https://www.nysenate.gov/issues/addiction-overdose-prevention"
+}

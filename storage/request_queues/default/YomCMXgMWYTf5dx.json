@@ -1,0 +1,9 @@
+{
+	"id": "YomCMXgMWYTf5dx",
+	"json": "{\"id\":\"YomCMXgMWYTf5dx\",\"url\":\"https://www.nysenate.gov/issues/health-and-wellness\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/health-and-wellness\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571164234,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/health-and-wellness",
+	"url": "https://www.nysenate.gov/issues/health-and-wellness"
+}

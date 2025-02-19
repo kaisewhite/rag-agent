@@ -1,0 +1,9 @@
+{
+	"id": "8PHWY2jCRaSVlQ8",
+	"json": "{\"id\":\"8PHWY2jCRaSVlQ8\",\"url\":\"https://www.nysenate.gov/issues/nys-soil-health-climate-resiliency-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nys-soil-health-climate-resiliency-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707150,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nys-soil-health-climate-resiliency-act",
+	"url": "https://www.nysenate.gov/issues/nys-soil-health-climate-resiliency-act"
+}

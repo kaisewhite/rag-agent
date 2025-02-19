@@ -1,0 +1,9 @@
+{
+	"id": "14RXucS3zC8KwUR",
+	"json": "{\"id\":\"14RXucS3zC8KwUR\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/january-26-2017/sanders-bring-mobile-office-rochdale-village\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/january-26-2017/sanders-bring-mobile-office-rochdale-village\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019318,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/january-26-2017/sanders-bring-mobile-office-rochdale-village",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/january-26-2017/sanders-bring-mobile-office-rochdale-village"
+}

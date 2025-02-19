@@ -1,0 +1,9 @@
+{
+	"id": "xxkr7VcTDNmS1lv",
+	"json": "{\"id\":\"xxkr7VcTDNmS1lv\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/senator-ruth-hassell-thompsonchair-senate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/senator-ruth-hassell-thompsonchair-senate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569748009,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/senator-ruth-hassell-thompsonchair-senate",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/senator-ruth-hassell-thompsonchair-senate"
+}

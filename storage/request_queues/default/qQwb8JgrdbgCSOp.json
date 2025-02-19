@@ -1,0 +1,9 @@
+{
+	"id": "qQwb8JgrdbgCSOp",
+	"json": "{\"id\":\"qQwb8JgrdbgCSOp\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2019/college-resource-fair-east-brooklyn\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2019/college-resource-fair-east-brooklyn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246990,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2019/college-resource-fair-east-brooklyn",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2019/college-resource-fair-east-brooklyn"
+}

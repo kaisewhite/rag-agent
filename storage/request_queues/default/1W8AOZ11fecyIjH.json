@@ -1,0 +1,9 @@
+{
+	"id": "1W8AOZ11fecyIjH",
+	"json": "{\"id\":\"1W8AOZ11fecyIjH\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/edward-rath-iii/senator-rath-announces-legislation-increase-government\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/edward-rath-iii/senator-rath-announces-legislation-increase-government\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571047081,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/edward-rath-iii/senator-rath-announces-legislation-increase-government",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/edward-rath-iii/senator-rath-announces-legislation-increase-government"
+}

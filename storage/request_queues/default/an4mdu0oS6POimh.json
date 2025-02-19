@@ -1,0 +1,9 @@
+{
+	"id": "an4mdu0oS6POimh",
+	"json": "{\"id\":\"an4mdu0oS6POimh\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/growing-support-energize-ny-encouraging\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/growing-support-energize-ny-encouraging\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695524,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/growing-support-energize-ny-encouraging",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/growing-support-energize-ny-encouraging"
+}

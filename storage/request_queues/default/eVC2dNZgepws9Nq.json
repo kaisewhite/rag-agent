@@ -1,0 +1,9 @@
+{
+	"id": "eVC2dNZgepws9Nq",
+	"json": "{\"id\":\"eVC2dNZgepws9Nq\",\"url\":\"https://www.nysenate.gov/sites/default/files/alice_sutter.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/alice_sutter.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716506,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/alice_sutter.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/alice_sutter.pdf"
+}

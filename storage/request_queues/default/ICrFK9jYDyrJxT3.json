@@ -1,0 +1,9 @@
+{
+	"id": "ICrFK9jYDyrJxT3",
+	"json": "{\"id\":\"ICrFK9jYDyrJxT3\",\"url\":\"https://www.nysenate.gov/user/register?destination=/petitions/jack-m-martins/stop-governor-hochuls-housing-havoc\",\"uniqueKey\":\"GET():https://www.nysenate.gov/user/register?destination=%2Fpetitions%2Fjack-m-martins%2Fstop-governor-hochuls-housing-havoc\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571271395,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/user/register?destination=%2Fpetitions%2Fjack-m-martins%2Fstop-governor-hochuls-housing-havoc",
+	"url": "https://www.nysenate.gov/user/register?destination=/petitions/jack-m-martins/stop-governor-hochuls-housing-havoc"
+}

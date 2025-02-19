@@ -1,0 +1,9 @@
+{
+	"id": "3u3hXia5zzpTuwB",
+	"json": "{\"id\":\"3u3hXia5zzpTuwB\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/robert-g-ortt/senate-republican-conference-demands-transparency\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/robert-g-ortt/senate-republican-conference-demands-transparency\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571550947,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/robert-g-ortt/senate-republican-conference-demands-transparency",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/robert-g-ortt/senate-republican-conference-demands-transparency"
+}

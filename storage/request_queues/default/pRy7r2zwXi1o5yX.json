@@ -1,0 +1,9 @@
+{
+	"id": "pRy7r2zwXi1o5yX",
+	"json": "{\"id\":\"pRy7r2zwXi1o5yX\",\"url\":\"https://www.nysenate.gov/newsroom/articles/bill-perkins/committee-corporations-authorities-commissions-voting-records\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/bill-perkins/committee-corporations-authorities-commissions-voting-records\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741859,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/bill-perkins/committee-corporations-authorities-commissions-voting-records",
+	"url": "https://www.nysenate.gov/newsroom/articles/bill-perkins/committee-corporations-authorities-commissions-voting-records"
+}

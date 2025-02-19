@@ -1,0 +1,9 @@
+{
+	"id": "D3D8CkQm9Tu0KC5",
+	"json": "{\"id\":\"D3D8CkQm9Tu0KC5\",\"url\":\"https://www.nysenate.gov/calendar/events/health/thomas-duane/may-19-2009/senate-standing-committee-health-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/health/thomas-duane/may-19-2009/senate-standing-committee-health-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781042,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/health/thomas-duane/may-19-2009/senate-standing-committee-health-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/health/thomas-duane/may-19-2009/senate-standing-committee-health-meeting"
+}

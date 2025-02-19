@@ -1,0 +1,9 @@
+{
+	"id": "BEGvFW5RzBQ9Mmr",
+	"json": "{\"id\":\"BEGvFW5RzBQ9Mmr\",\"url\":\"https://www.nysenate.gov/issues/campaign-reform\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/campaign-reform\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571573124,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/campaign-reform",
+	"url": "https://www.nysenate.gov/issues/campaign-reform"
+}

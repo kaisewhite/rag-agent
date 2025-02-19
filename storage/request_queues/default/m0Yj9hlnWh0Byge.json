@@ -1,0 +1,9 @@
+{
+	"id": "m0Yj9hlnWh0Byge",
+	"json": "{\"id\":\"m0Yj9hlnWh0Byge\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-19-2019/police-service-area-2-community-council-monthly\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-19-2019/police-service-area-2-community-council-monthly\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246888,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-19-2019/police-service-area-2-community-council-monthly",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-19-2019/police-service-area-2-community-council-monthly"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "s3NhPAyAxjMvW50",
+	"json": "{\"id\":\"s3NhPAyAxjMvW50\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/michelle-hinchey/beech-syrup-bill-passes-state-legislature-advances\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/michelle-hinchey/beech-syrup-bill-passes-state-legislature-advances\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569600584,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/michelle-hinchey/beech-syrup-bill-passes-state-legislature-advances",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/michelle-hinchey/beech-syrup-bill-passes-state-legislature-advances"
+}

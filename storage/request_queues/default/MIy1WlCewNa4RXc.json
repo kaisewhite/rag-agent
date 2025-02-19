@@ -1,0 +1,9 @@
+{
+	"id": "MIy1WlCewNa4RXc",
+	"json": "{\"id\":\"MIy1WlCewNa4RXc\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/george-maziarz/senate-confirms-gil-quiniones-lead-new-york-power\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/george-maziarz/senate-confirms-gil-quiniones-lead-new-york-power\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765723,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/george-maziarz/senate-confirms-gil-quiniones-lead-new-york-power",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/george-maziarz/senate-confirms-gil-quiniones-lead-new-york-power"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "WYqugdp7bozU3OW",
+	"json": "{\"id\":\"WYqugdp7bozU3OW\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/A8803\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/A8803\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570590751,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/A8803",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/A8803"
+}

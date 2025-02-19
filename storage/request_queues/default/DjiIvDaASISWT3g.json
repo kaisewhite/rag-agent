@@ -1,0 +1,9 @@
+{
+	"id": "DjiIvDaASISWT3g",
+	"json": "{\"id\":\"DjiIvDaASISWT3g\",\"url\":\"https://www.nysenate.gov/issues/adirondack-park-agency\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/adirondack-park-agency\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770713,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/adirondack-park-agency",
+	"url": "https://www.nysenate.gov/issues/adirondack-park-agency"
+}

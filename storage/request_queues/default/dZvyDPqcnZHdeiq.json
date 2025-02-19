@@ -1,0 +1,9 @@
+{
+	"id": "dZvyDPqcnZHdeiq",
+	"json": "{\"id\":\"dZvyDPqcnZHdeiq\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S5312\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S5312\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571090507,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S5312",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S5312"
+}

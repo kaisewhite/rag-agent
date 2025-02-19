@@ -1,0 +1,9 @@
+{
+	"id": "YcGv1t9Rvo7THwW",
+	"json": "{\"id\":\"YcGv1t9Rvo7THwW\",\"url\":\"https://www.nysenate.gov/sites/default/files/music_for_bail.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/music_for_bail.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716531,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/music_for_bail.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/music_for_bail.pdf"
+}

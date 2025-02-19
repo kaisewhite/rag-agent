@@ -1,0 +1,9 @@
+{
+	"id": "u4zFlBRMxB92Z4a",
+	"json": "{\"id\":\"u4zFlBRMxB92Z4a\",\"url\":\"https://www.nysenate.gov/issues/banks\",\"loadedUrl\":\"https://www.nysenate.gov/issues/banks\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/banks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:12:30.821Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/banks",
+	"url": "https://www.nysenate.gov/issues/banks"
+}

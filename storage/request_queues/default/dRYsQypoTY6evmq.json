@@ -1,0 +1,9 @@
+{
+	"id": "dRYsQypoTY6evmq",
+	"json": "{\"id\":\"dRYsQypoTY6evmq\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/grant-aid-work-roycroft-power-house\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/grant-aid-work-roycroft-power-house\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734392,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/grant-aid-work-roycroft-power-house",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/grant-aid-work-roycroft-power-house"
+}

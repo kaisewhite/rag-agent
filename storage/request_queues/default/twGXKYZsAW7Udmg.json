@@ -1,0 +1,9 @@
+{
+	"id": "twGXKYZsAW7Udmg",
+	"json": "{\"id\":\"twGXKYZsAW7Udmg\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/june-02-2009/public-hearing-standing-committee-ethics\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/june-02-2009/public-hearing-standing-committee-ethics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770288,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/june-02-2009/public-hearing-standing-committee-ethics",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/june-02-2009/public-hearing-standing-committee-ethics"
+}

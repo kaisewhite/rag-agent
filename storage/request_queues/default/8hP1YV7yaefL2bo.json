@@ -1,0 +1,9 @@
+{
+	"id": "8hP1YV7yaefL2bo",
+	"json": "{\"id\":\"8hP1YV7yaefL2bo\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/neil-d-breslin/ny-senate-adopts-groundbreaking-legislation-protect\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/neil-d-breslin/ny-senate-adopts-groundbreaking-legislation-protect\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569793103,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/neil-d-breslin/ny-senate-adopts-groundbreaking-legislation-protect",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/neil-d-breslin/ny-senate-adopts-groundbreaking-legislation-protect"
+}

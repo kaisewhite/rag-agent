@@ -1,0 +1,9 @@
+{
+	"id": "8rhKLUq5rFs0zEk",
+	"json": "{\"id\":\"8rhKLUq5rFs0zEk\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-26-2019/free-mammogram-screenings\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-26-2019/free-mammogram-screenings\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246747,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-26-2019/free-mammogram-screenings",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-26-2019/free-mammogram-screenings"
+}

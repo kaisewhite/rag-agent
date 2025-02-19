@@ -1,0 +1,9 @@
+{
+	"id": "hBKgIMscCDpBSLi",
+	"json": "{\"id\":\"hBKgIMscCDpBSLi\",\"url\":\"https://www.nysenate.gov/issues/school-financing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/school-financing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569710577,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/school-financing",
+	"url": "https://www.nysenate.gov/issues/school-financing"
+}

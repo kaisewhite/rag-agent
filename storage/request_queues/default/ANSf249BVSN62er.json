@@ -1,0 +1,9 @@
+{
+	"id": "ANSf249BVSN62er",
+	"json": "{\"id\":\"ANSf249BVSN62er\",\"url\":\"https://www.nysenate.gov/senators/john-w-mannion/landing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/john-w-mannion/landing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570258285,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/john-w-mannion/landing",
+	"url": "https://www.nysenate.gov/senators/john-w-mannion/landing"
+}

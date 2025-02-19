@@ -1,0 +1,9 @@
+{
+	"id": "Cw3t55QYVsYwjNJ",
+	"json": "{\"id\":\"Cw3t55QYVsYwjNJ\",\"url\":\"https://www.nysenate.gov/senators/andrea-stewart-cousins/newsroom\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/andrea-stewart-cousins/newsroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569677634,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/andrea-stewart-cousins/newsroom",
+	"url": "https://www.nysenate.gov/senators/andrea-stewart-cousins/newsroom"
+}

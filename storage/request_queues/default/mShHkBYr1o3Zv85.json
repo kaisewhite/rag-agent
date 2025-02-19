@@ -1,0 +1,9 @@
+{
+	"id": "mShHkBYr1o3Zv85",
+	"json": "{\"id\":\"mShHkBYr1o3Zv85\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=local%20news\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=local+news\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571732386,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=local+news",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=local%20news"
+}

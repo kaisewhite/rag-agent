@@ -1,0 +1,9 @@
+{
+	"id": "6JJ8IIcWaAPFxRW",
+	"json": "{\"id\":\"6JJ8IIcWaAPFxRW\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S2047\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S2047\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571036561,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S2047",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S2047"
+}

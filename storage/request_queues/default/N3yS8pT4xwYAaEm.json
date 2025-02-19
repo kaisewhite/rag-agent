@@ -1,0 +1,9 @@
+{
+	"id": "N3yS8pT4xwYAaEm",
+	"json": "{\"id\":\"N3yS8pT4xwYAaEm\",\"url\":\"https://www.nysenate.gov/senators/luis-r-sepulveda/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/luis-r-sepulveda/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569673160,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/luis-r-sepulveda/district",
+	"url": "https://www.nysenate.gov/senators/luis-r-sepulveda/district"
+}

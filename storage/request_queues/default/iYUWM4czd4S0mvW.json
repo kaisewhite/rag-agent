@@ -1,0 +1,9 @@
+{
+	"id": "iYUWM4czd4S0mvW",
+	"json": "{\"id\":\"iYUWM4czd4S0mvW\",\"url\":\"https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/may-11-2011/housing-construction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/may-11-2011/housing-construction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798857,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/may-11-2011/housing-construction",
+	"url": "https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/may-11-2011/housing-construction"
+}

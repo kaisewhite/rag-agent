@@ -1,0 +1,9 @@
+{
+	"id": "lZCqqtk1UtWt5ly",
+	"json": "{\"id\":\"lZCqqtk1UtWt5ly\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/john-sampson/2010-arrc-legislation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/john-sampson/2010-arrc-legislation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686730,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/john-sampson/2010-arrc-legislation",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/john-sampson/2010-arrc-legislation"
+}

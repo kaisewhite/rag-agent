@@ -1,0 +1,9 @@
+{
+	"id": "IdJbZAvAK07s8sm",
+	"json": "{\"id\":\"IdJbZAvAK07s8sm\",\"url\":\"https://www.nysenate.gov/issues/new-york-power-authority\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-york-power-authority\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569616707,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-york-power-authority",
+	"url": "https://www.nysenate.gov/issues/new-york-power-authority"
+}

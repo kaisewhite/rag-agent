@@ -1,0 +1,9 @@
+{
+	"id": "fVq0THmrsOdTKrd",
+	"json": "{\"id\":\"fVq0THmrsOdTKrd\",\"url\":\"https://www.nysenate.gov/petitions/anthony-h-palumbo/hey-governor-leave-our-kids-school-funding-alone\",\"uniqueKey\":\"GET():https://www.nysenate.gov/petitions/anthony-h-palumbo/hey-governor-leave-our-kids-school-funding-alone\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569662412,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/petitions/anthony-h-palumbo/hey-governor-leave-our-kids-school-funding-alone",
+	"url": "https://www.nysenate.gov/petitions/anthony-h-palumbo/hey-governor-leave-our-kids-school-funding-alone"
+}

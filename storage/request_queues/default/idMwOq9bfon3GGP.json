@@ -1,0 +1,9 @@
+{
+	"id": "idMwOq9bfon3GGP",
+	"json": "{\"id\":\"idMwOq9bfon3GGP\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S8448\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S8448\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571442348,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S8448",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S8448"
+}

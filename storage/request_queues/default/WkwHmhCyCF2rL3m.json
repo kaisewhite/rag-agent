@@ -1,0 +1,9 @@
+{
+	"id": "WkwHmhCyCF2rL3m",
+	"json": "{\"id\":\"WkwHmhCyCF2rL3m\",\"url\":\"https://www.nysenate.gov/issues/investigation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/investigation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808636,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/investigation",
+	"url": "https://www.nysenate.gov/issues/investigation"
+}

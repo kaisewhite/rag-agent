@@ -1,0 +1,9 @@
+{
+	"id": "J30rAPFHlRwLEXq",
+	"json": "{\"id\":\"J30rAPFHlRwLEXq\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/diane-j-savino/staten-island-ferry-riders-clamor-retail-shops\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/diane-j-savino/staten-island-ferry-riders-clamor-retail-shops\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569724737,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/diane-j-savino/staten-island-ferry-riders-clamor-retail-shops",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/diane-j-savino/staten-island-ferry-riders-clamor-retail-shops"
+}

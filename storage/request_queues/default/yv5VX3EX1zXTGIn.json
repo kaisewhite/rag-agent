@@ -1,0 +1,9 @@
+{
+	"id": "yv5VX3EX1zXTGIn",
+	"json": "{\"id\":\"yv5VX3EX1zXTGIn\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2016/catharine-young/joint-legislative-public-hearing-2016-2017-executive-5\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2016/catharine-young/joint-legislative-public-hearing-2016-2017-executive-5\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781108,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2016/catharine-young/joint-legislative-public-hearing-2016-2017-executive-5",
+	"url": "https://www.nysenate.gov/newsroom/articles/2016/catharine-young/joint-legislative-public-hearing-2016-2017-executive-5"
+}

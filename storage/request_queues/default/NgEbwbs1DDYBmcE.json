@@ -1,0 +1,9 @@
+{
+	"id": "NgEbwbs1DDYBmcE",
+	"json": "{\"id\":\"NgEbwbs1DDYBmcE\",\"url\":\"https://www.nysenate.gov/issues/citizenship\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/citizenship\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571299891,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/citizenship",
+	"url": "https://www.nysenate.gov/issues/citizenship"
+}

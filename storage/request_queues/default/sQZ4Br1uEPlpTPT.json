@@ -1,0 +1,9 @@
+{
+	"id": "sQZ4Br1uEPlpTPT",
+	"json": "{\"id\":\"sQZ4Br1uEPlpTPT\",\"url\":\"https://www.nysenate.gov/dashboard/senators/todd-kaminsky\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/todd-kaminsky\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569557089,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/todd-kaminsky",
+	"url": "https://www.nysenate.gov/dashboard/senators/todd-kaminsky"
+}

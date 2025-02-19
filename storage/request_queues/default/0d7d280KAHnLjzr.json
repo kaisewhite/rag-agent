@@ -1,0 +1,9 @@
+{
+	"id": "0d7d280KAHnLjzr",
+	"json": "{\"id\":\"0d7d280KAHnLjzr\",\"url\":\"https://www.nysenate.gov/issues/cardboard\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/cardboard\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770686,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/cardboard",
+	"url": "https://www.nysenate.gov/issues/cardboard"
+}

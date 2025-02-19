@@ -1,0 +1,9 @@
+{
+	"id": "Xp1hdaZP4D0BI24",
+	"json": "{\"id\":\"Xp1hdaZP4D0BI24\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/roxanne-j-persaud/senator-persaud-presents-250000-check-brooklyn\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/roxanne-j-persaud/senator-persaud-presents-250000-check-brooklyn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570216170,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/roxanne-j-persaud/senator-persaud-presents-250000-check-brooklyn",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/roxanne-j-persaud/senator-persaud-presents-250000-check-brooklyn"
+}

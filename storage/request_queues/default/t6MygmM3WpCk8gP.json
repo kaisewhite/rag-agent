@@ -1,0 +1,9 @@
+{
+	"id": "t6MygmM3WpCk8gP",
+	"json": "{\"id\":\"t6MygmM3WpCk8gP\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/girls-gender-equity\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/girls-gender-equity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569858765,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/girls-gender-equity",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/girls-gender-equity"
+}

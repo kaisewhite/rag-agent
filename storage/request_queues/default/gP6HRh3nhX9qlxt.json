@@ -1,0 +1,9 @@
+{
+	"id": "gP6HRh3nhX9qlxt",
+	"json": "{\"id\":\"gP6HRh3nhX9qlxt\",\"url\":\"https://www.nysenate.gov/issues/sexual-assault-survivors\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/sexual-assault-survivors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781046,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/sexual-assault-survivors",
+	"url": "https://www.nysenate.gov/issues/sexual-assault-survivors"
+}

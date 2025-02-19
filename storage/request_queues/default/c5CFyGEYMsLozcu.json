@@ -1,0 +1,9 @@
+{
+	"id": "c5CFyGEYMsLozcu",
+	"json": "{\"id\":\"c5CFyGEYMsLozcu\",\"url\":\"https://www.nysenate.gov/newsroom/video/leroy-comrie/senator-comrie-2023-veteran-hall-fame\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/video/leroy-comrie/senator-comrie-2023-veteran-hall-fame\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/leroy-comrie/senator-comrie-2023-veteran-hall-fame\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:54:59.008Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/leroy-comrie/senator-comrie-2023-veteran-hall-fame",
+	"url": "https://www.nysenate.gov/newsroom/video/leroy-comrie/senator-comrie-2023-veteran-hall-fame"
+}

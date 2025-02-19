@@ -1,0 +1,9 @@
+{
+	"id": "67vVvAbsx9f4uJV",
+	"json": "{\"id\":\"67vVvAbsx9f4uJV\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/roxanne-j-persaud/important-phone-numbers-resources-senate-district-19?page=8\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/roxanne-j-persaud/important-phone-numbers-resources-senate-district-19?page=8\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570279054,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/roxanne-j-persaud/important-phone-numbers-resources-senate-district-19?page=8",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/roxanne-j-persaud/important-phone-numbers-resources-senate-district-19?page=8"
+}

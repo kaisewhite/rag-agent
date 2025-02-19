@@ -1,0 +1,9 @@
+{
+	"id": "pMSVJGw7WufXXHn",
+	"json": "{\"id\":\"pMSVJGw7WufXXHn\",\"url\":\"https://www.nysenate.gov/issues/cities-2-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/cities-2-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569718293,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/cities-2-committee",
+	"url": "https://www.nysenate.gov/issues/cities-2-committee"
+}

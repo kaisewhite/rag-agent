@@ -1,0 +1,9 @@
+{
+	"id": "loA8xXcpSz5hMSk",
+	"json": "{\"id\":\"loA8xXcpSz5hMSk\",\"url\":\"https://www.nysenate.gov/issues/2025-legislative-agenda\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/2025-legislative-agenda\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569578638,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/2025-legislative-agenda",
+	"url": "https://www.nysenate.gov/issues/2025-legislative-agenda"
+}

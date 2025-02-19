@@ -1,0 +1,9 @@
+{
+	"id": "HygyVvnZCH38tpi",
+	"json": "{\"id\":\"HygyVvnZCH38tpi\",\"url\":\"https://www.nysenate.gov/profiles/2024/kevin-s-parker/marietta-small\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/kevin-s-parker/marietta-small\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/kevin-s-parker/marietta-small\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:58:46.967Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/kevin-s-parker/marietta-small",
+	"url": "https://www.nysenate.gov/profiles/2024/kevin-s-parker/marietta-small"
+}

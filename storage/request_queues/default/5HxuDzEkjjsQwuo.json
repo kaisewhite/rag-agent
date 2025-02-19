@@ -1,0 +1,9 @@
+{
+	"id": "5HxuDzEkjjsQwuo",
+	"json": "{\"id\":\"5HxuDzEkjjsQwuo\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/energy-committee-hold-hearing-national-grid-accounting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/energy-committee-hold-hearing-national-grid-accounting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765730,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/energy-committee-hold-hearing-national-grid-accounting",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/energy-committee-hold-hearing-national-grid-accounting"
+}

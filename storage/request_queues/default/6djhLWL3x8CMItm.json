@@ -1,0 +1,9 @@
+{
+	"id": "6djhLWL3x8CMItm",
+	"json": "{\"id\":\"6djhLWL3x8CMItm\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/joseph-addabbo/addabbo-announces-senate-approval-package-crime-victims\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/joseph-addabbo/addabbo-announces-senate-approval-package-crime-victims\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571164233,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/joseph-addabbo/addabbo-announces-senate-approval-package-crime-victims",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/joseph-addabbo/addabbo-announces-senate-approval-package-crime-victims"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "J4U54hQ0MSkNlex",
+	"json": "{\"id\":\"J4U54hQ0MSkNlex\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/joint-legislative-public-hearing-2018-2019-executive-budget-proposal-topic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/joint-legislative-public-hearing-2018-2019-executive-budget-proposal-topic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781095,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/joint-legislative-public-hearing-2018-2019-executive-budget-proposal-topic",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/joint-legislative-public-hearing-2018-2019-executive-budget-proposal-topic"
+}

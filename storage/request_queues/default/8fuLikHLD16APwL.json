@@ -1,0 +1,9 @@
+{
+	"id": "8fuLikHLD16APwL",
+	"json": "{\"id\":\"8fuLikHLD16APwL\",\"url\":\"https://www.nysenate.gov/issues/federal-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/federal-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569654600,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/federal-funding",
+	"url": "https://www.nysenate.gov/issues/federal-funding"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "AEofWhZL5GVAmkn",
+	"json": "{\"id\":\"AEofWhZL5GVAmkn\",\"url\":\"https://www.nysenate.gov/issues/protests\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/protests\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570945038,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/protests",
+	"url": "https://www.nysenate.gov/issues/protests"
+}

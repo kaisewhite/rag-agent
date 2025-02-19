@@ -1,0 +1,9 @@
+{
+	"id": "xgIfOh3x47aMNxt",
+	"json": "{\"id\":\"xgIfOh3x47aMNxt\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2017/patty-ritchie/ritchie-secures-50000-oswego-school-district-public\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2017/patty-ritchie/ritchie-secures-50000-oswego-school-district-public\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569812940,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2017/patty-ritchie/ritchie-secures-50000-oswego-school-district-public",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2017/patty-ritchie/ritchie-secures-50000-oswego-school-district-public"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "1pEX3rH3ppJaPHE",
+	"json": "{\"id\":\"1pEX3rH3ppJaPHE\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/december-05-2017/gain-insight-logistics-ny-prize-program-including\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/december-05-2017/gain-insight-logistics-ny-prize-program-including\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765692,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/december-05-2017/gain-insight-logistics-ny-prize-program-including",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/december-05-2017/gain-insight-logistics-ny-prize-program-including"
+}

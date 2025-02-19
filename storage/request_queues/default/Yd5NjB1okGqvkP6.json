@@ -1,0 +1,9 @@
+{
+	"id": "Yd5NjB1okGqvkP6",
+	"json": "{\"id\":\"Yd5NjB1okGqvkP6\",\"url\":\"https://www.nysenate.gov/issues/universal-childcare\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/universal-childcare\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570136214,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/universal-childcare",
+	"url": "https://www.nysenate.gov/issues/universal-childcare"
+}

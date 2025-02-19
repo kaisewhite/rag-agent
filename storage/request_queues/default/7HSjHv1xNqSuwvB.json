@@ -1,0 +1,9 @@
+{
+	"id": "7HSjHv1xNqSuwvB",
+	"json": "{\"id\":\"7HSjHv1xNqSuwvB\",\"url\":\"https://www.nysenate.gov/open-data/2025-26-blue-book-annual-staff-analysis-executive-budget-proposal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/open-data/2025-26-blue-book-annual-staff-analysis-executive-budget-proposal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569875124,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/open-data/2025-26-blue-book-annual-staff-analysis-executive-budget-proposal",
+	"url": "https://www.nysenate.gov/open-data/2025-26-blue-book-annual-staff-analysis-executive-budget-proposal"
+}

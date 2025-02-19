@@ -1,0 +1,9 @@
+{
+	"id": "ihPWBPpNljgCSaU",
+	"json": "{\"id\":\"ihPWBPpNljgCSaU\",\"url\":\"https://www.nysenate.gov/sites/default/files/law_enforcement_action_partnership.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/law_enforcement_action_partnership.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716527,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/law_enforcement_action_partnership.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/law_enforcement_action_partnership.pdf"
+}

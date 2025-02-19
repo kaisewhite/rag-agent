@@ -1,0 +1,9 @@
+{
+	"id": "BQutm0cWeFKuHWe",
+	"json": "{\"id\":\"BQutm0cWeFKuHWe\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S6444\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S6444\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571550958,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S6444",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S6444"
+}

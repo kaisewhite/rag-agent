@@ -1,0 +1,9 @@
+{
+	"id": "7wbYOMHPMjKHRq8",
+	"json": "{\"id\":\"7wbYOMHPMjKHRq8\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/george-m-borrello/statement-senator-george-borrello-2024-25-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/george-m-borrello/statement-senator-george-borrello-2024-25-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569582576,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/george-m-borrello/statement-senator-george-borrello-2024-25-state",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/george-m-borrello/statement-senator-george-borrello-2024-25-state"
+}

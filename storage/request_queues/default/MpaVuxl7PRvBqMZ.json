@@ -1,0 +1,9 @@
+{
+	"id": "MpaVuxl7PRvBqMZ",
+	"json": "{\"id\":\"MpaVuxl7PRvBqMZ\",\"url\":\"https://www.nysenate.gov/calendar/meetings/local-government/january-31-2017/local-government-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/local-government/january-31-2017/local-government-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847552,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/local-government/january-31-2017/local-government-committee",
+	"url": "https://www.nysenate.gov/calendar/meetings/local-government/january-31-2017/local-government-committee"
+}

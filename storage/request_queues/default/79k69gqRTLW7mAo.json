@@ -1,0 +1,9 @@
+{
+	"id": "79k69gqRTLW7mAo",
+	"json": "{\"id\":\"79k69gqRTLW7mAo\",\"url\":\"https://www.nysenate.gov/issues/affordable-water\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/affordable-water\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770683,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/affordable-water",
+	"url": "https://www.nysenate.gov/issues/affordable-water"
+}

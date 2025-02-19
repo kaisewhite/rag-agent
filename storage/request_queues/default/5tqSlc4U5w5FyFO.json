@@ -1,0 +1,9 @@
+{
+	"id": "5tqSlc4U5w5FyFO",
+	"json": "{\"id\":\"5tqSlc4U5w5FyFO\",\"url\":\"https://www.nysenate.gov/legislation/laws/PTR/A5\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PTR/A5\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569962818,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PTR/A5",
+	"url": "https://www.nysenate.gov/legislation/laws/PTR/A5"
+}

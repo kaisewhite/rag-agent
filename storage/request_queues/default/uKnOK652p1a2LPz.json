@@ -1,0 +1,9 @@
+{
+	"id": "uKnOK652p1a2LPz",
+	"json": "{\"id\":\"uKnOK652p1a2LPz\",\"url\":\"https://www.nysenate.gov/committees/libraries\",\"loadedUrl\":\"https://www.nysenate.gov/committees/libraries\",\"uniqueKey\":\"GET():https://www.nysenate.gov/committees/libraries\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:50:12.941Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/committees/libraries",
+	"url": "https://www.nysenate.gov/committees/libraries"
+}

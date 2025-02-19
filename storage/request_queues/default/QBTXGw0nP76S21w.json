@@ -1,0 +1,9 @@
+{
+	"id": "QBTXGw0nP76S21w",
+	"json": "{\"id\":\"QBTXGw0nP76S21w\",\"url\":\"https://www.nysenate.gov/legislation/laws/GBS/A40\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GBS/A40\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569921834,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GBS/A40",
+	"url": "https://www.nysenate.gov/legislation/laws/GBS/A40"
+}

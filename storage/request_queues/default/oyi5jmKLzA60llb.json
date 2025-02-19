@@ -1,0 +1,9 @@
+{
+	"id": "oyi5jmKLzA60llb",
+	"json": "{\"id\":\"oyi5jmKLzA60llb\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2018/chris-jacobs/jacobs-kennedy-ryan-announce-5-million-dyouville-health\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2018/chris-jacobs/jacobs-kennedy-ryan-announce-5-million-dyouville-health\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571061555,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2018/chris-jacobs/jacobs-kennedy-ryan-announce-5-million-dyouville-health",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2018/chris-jacobs/jacobs-kennedy-ryan-announce-5-million-dyouville-health"
+}

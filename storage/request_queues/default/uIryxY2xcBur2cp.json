@@ -1,0 +1,9 @@
+{
+	"id": "uIryxY2xcBur2cp",
+	"json": "{\"id\":\"uIryxY2xcBur2cp\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/lee-zeldin/senate-passes-five-zeldin-bills-targeting-organized-retail\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/lee-zeldin/senate-passes-five-zeldin-bills-targeting-organized-retail\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740983,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/lee-zeldin/senate-passes-five-zeldin-bills-targeting-organized-retail",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/lee-zeldin/senate-passes-five-zeldin-bills-targeting-organized-retail"
+}

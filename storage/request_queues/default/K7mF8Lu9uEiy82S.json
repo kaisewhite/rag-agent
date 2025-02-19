@@ -1,0 +1,9 @@
+{
+	"id": "K7mF8Lu9uEiy82S",
+	"json": "{\"id\":\"K7mF8Lu9uEiy82S\",\"url\":\"https://www.nysenate.gov/issues/corruption\",\"loadedUrl\":\"https://www.nysenate.gov/issues/corruption\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/corruption\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:20:36.249Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/corruption",
+	"url": "https://www.nysenate.gov/issues/corruption"
+}

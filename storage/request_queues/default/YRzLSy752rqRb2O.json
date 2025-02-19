@@ -1,0 +1,9 @@
+{
+	"id": "YRzLSy752rqRb2O",
+	"json": "{\"id\":\"YRzLSy752rqRb2O\",\"url\":\"https://www.nysenate.gov/issues/school-districts\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/school-districts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571419525,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/school-districts",
+	"url": "https://www.nysenate.gov/issues/school-districts"
+}

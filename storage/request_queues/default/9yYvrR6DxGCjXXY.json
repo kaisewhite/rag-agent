@@ -1,0 +1,9 @@
+{
+	"id": "9yYvrR6DxGCjXXY",
+	"json": "{\"id\":\"9yYvrR6DxGCjXXY\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-14-2020/61st-precinct-community-council-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-14-2020/61st-precinct-community-council-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247215,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-14-2020/61st-precinct-community-council-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-14-2020/61st-precinct-community-council-monthly-meeting"
+}

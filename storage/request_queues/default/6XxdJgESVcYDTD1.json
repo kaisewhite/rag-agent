@@ -1,0 +1,9 @@
+{
+	"id": "6XxdJgESVcYDTD1",
+	"json": "{\"id\":\"6XxdJgESVcYDTD1\",\"url\":\"https://www.nysenate.gov/issues/housing-stability-and-tenant-protection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/housing-stability-and-tenant-protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798880,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/housing-stability-and-tenant-protection",
+	"url": "https://www.nysenate.gov/issues/housing-stability-and-tenant-protection"
+}

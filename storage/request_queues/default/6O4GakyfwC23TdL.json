@@ -1,0 +1,9 @@
+{
+	"id": "6O4GakyfwC23TdL",
+	"json": "{\"id\":\"6O4GakyfwC23TdL\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/daniel-g-stec/statement-senator-stec-recent-incidents-upstate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/daniel-g-stec/statement-senator-stec-recent-incidents-upstate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569676626,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/daniel-g-stec/statement-senator-stec-recent-incidents-upstate",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/daniel-g-stec/statement-senator-stec-recent-incidents-upstate"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0x95EZciRxePM7E",
+	"json": "{\"id\":\"0x95EZciRxePM7E\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/october-13-2017/flu-vaccines-adults\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/october-13-2017/flu-vaccines-adults\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752655,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/october-13-2017/flu-vaccines-adults",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/october-13-2017/flu-vaccines-adults"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "eOrigS0OQ0lFGrG",
+	"json": "{\"id\":\"eOrigS0OQ0lFGrG\",\"url\":\"https://www.nysenate.gov/legislation/laws/LEG/A3-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/LEG/A3-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569936244,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/LEG/A3-A",
+	"url": "https://www.nysenate.gov/legislation/laws/LEG/A3-A"
+}

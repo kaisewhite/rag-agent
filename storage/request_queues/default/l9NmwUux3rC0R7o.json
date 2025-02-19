@@ -1,0 +1,9 @@
+{
+	"id": "l9NmwUux3rC0R7o",
+	"json": "{\"id\":\"l9NmwUux3rC0R7o\",\"url\":\"https://www.nysenate.gov/issues/school-boards\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/school-boards\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284407,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/school-boards",
+	"url": "https://www.nysenate.gov/issues/school-boards"
+}

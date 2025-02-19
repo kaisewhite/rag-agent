@@ -1,0 +1,9 @@
+{
+	"id": "gFFhIJJuwduRVCI",
+	"json": "{\"id\":\"gFFhIJJuwduRVCI\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/report-public-funding-needs-more-oversight\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/report-public-funding-needs-more-oversight\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808641,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/report-public-funding-needs-more-oversight",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/report-public-funding-needs-more-oversight"
+}

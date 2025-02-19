@@ -1,0 +1,9 @@
+{
+	"id": "LkzKlxkg1bSvUO4",
+	"json": "{\"id\":\"LkzKlxkg1bSvUO4\",\"url\":\"https://www.nysenate.gov/issues/wind-development\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/wind-development\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770693,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/wind-development",
+	"url": "https://www.nysenate.gov/issues/wind-development"
+}

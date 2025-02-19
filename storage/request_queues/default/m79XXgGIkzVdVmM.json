@@ -1,0 +1,9 @@
+{
+	"id": "m79XXgGIkzVdVmM",
+	"json": "{\"id\":\"m79XXgGIkzVdVmM\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S6920\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S6920\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571668747,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S6920",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S6920"
+}

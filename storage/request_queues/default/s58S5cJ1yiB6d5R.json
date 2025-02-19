@@ -1,0 +1,9 @@
+{
+	"id": "s58S5cJ1yiB6d5R",
+	"json": "{\"id\":\"s58S5cJ1yiB6d5R\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/august-28-2016/its-my-park-fun-day-back-school-event\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/august-28-2016/its-my-park-fun-day-back-school-event\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019300,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/august-28-2016/its-my-park-fun-day-back-school-event",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/august-28-2016/its-my-park-fun-day-back-school-event"
+}

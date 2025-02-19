@@ -1,0 +1,9 @@
+{
+	"id": "VNeEfE44pk22qCz",
+	"json": "{\"id\":\"VNeEfE44pk22qCz\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-signing-public-authorities-reform-bill\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-signing-public-authorities-reform-bill\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741852,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-signing-public-authorities-reform-bill",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-signing-public-authorities-reform-bill"
+}

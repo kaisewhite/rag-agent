@@ -1,0 +1,9 @@
+{
+	"id": "3Mj1XWAMuFl1Jdu",
+	"json": "{\"id\":\"3Mj1XWAMuFl1Jdu\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2022/tick-lyme-disease-prevention\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2022/tick-lyme-disease-prevention\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569612048,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2022/tick-lyme-disease-prevention",
+	"url": "https://www.nysenate.gov/newsroom/articles/2022/tick-lyme-disease-prevention"
+}

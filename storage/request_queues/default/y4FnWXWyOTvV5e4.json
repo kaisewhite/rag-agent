@@ -1,0 +1,9 @@
+{
+	"id": "y4FnWXWyOTvV5e4",
+	"json": "{\"id\":\"y4FnWXWyOTvV5e4\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/daniel-l-squadron/notice-public-hearing-ending-perfect-storm-finding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/daniel-l-squadron/notice-public-hearing-ending-perfect-storm-finding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569576482,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/daniel-l-squadron/notice-public-hearing-ending-perfect-storm-finding",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/daniel-l-squadron/notice-public-hearing-ending-perfect-storm-finding"
+}

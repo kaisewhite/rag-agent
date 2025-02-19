@@ -1,0 +1,9 @@
+{
+	"id": "cZfb1Lup59C2zc0",
+	"json": "{\"id\":\"cZfb1Lup59C2zc0\",\"url\":\"https://www.nysenate.gov/issues/coopscondos\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/coopscondos\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570898351,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/coopscondos",
+	"url": "https://www.nysenate.gov/issues/coopscondos"
+}

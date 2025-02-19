@@ -1,0 +1,9 @@
+{
+	"id": "ICwjDg5j9DrFwYv",
+	"json": "{\"id\":\"ICwjDg5j9DrFwYv\",\"url\":\"https://www.nysenate.gov/issues/being-poor-not-crime\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/being-poor-not-crime\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717638,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/being-poor-not-crime",
+	"url": "https://www.nysenate.gov/issues/being-poor-not-crime"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "A3gASFrXf5RYvsI",
+	"json": "{\"id\":\"A3gASFrXf5RYvsI\",\"url\":\"https://www.nysenate.gov/calendar/events/social-services/david-carlucci/september-22-2016/food-pantries-identifying-best\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/social-services/david-carlucci/september-22-2016/food-pantries-identifying-best\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569845046,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/social-services/david-carlucci/september-22-2016/food-pantries-identifying-best",
+	"url": "https://www.nysenate.gov/calendar/events/social-services/david-carlucci/september-22-2016/food-pantries-identifying-best"
+}

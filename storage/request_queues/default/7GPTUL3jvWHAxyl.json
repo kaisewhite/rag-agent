@@ -1,0 +1,9 @@
+{
+	"id": "7GPTUL3jvWHAxyl",
+	"json": "{\"id\":\"7GPTUL3jvWHAxyl\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/senate-approves-measures-aid-statewide-storm-recovery-relief-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/senate-approves-measures-aid-statewide-storm-recovery-relief-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569555030,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/senate-approves-measures-aid-statewide-storm-recovery-relief-and",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/senate-approves-measures-aid-statewide-storm-recovery-relief-and"
+}

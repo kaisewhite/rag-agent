@@ -1,0 +1,9 @@
+{
+	"id": "jguFjFmlRIOBZb9",
+	"json": "{\"id\":\"jguFjFmlRIOBZb9\",\"url\":\"https://www.nysenate.gov/issues/religious-schools\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/religious-schools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571648994,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/religious-schools",
+	"url": "https://www.nysenate.gov/issues/religious-schools"
+}

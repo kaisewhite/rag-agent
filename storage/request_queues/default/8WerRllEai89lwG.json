@@ -1,0 +1,9 @@
+{
+	"id": "8WerRllEai89lwG",
+	"json": "{\"id\":\"8WerRllEai89lwG\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/newsday-ny-pols-move-provide-rent-vouchers-mortgage-lag\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/newsday-ny-pols-move-provide-rent-vouchers-mortgage-lag\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798916,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/newsday-ny-pols-move-provide-rent-vouchers-mortgage-lag",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/newsday-ny-pols-move-provide-rent-vouchers-mortgage-lag"
+}

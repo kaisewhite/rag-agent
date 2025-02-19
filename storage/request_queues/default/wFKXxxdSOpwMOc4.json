@@ -1,0 +1,9 @@
+{
+	"id": "wFKXxxdSOpwMOc4",
+	"json": "{\"id\":\"wFKXxxdSOpwMOc4\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/mario-r-mattera/senator-mattera-and-assemblyman-fitzpatrick-join\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/mario-r-mattera/senator-mattera-and-assemblyman-fitzpatrick-join\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571567979,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/mario-r-mattera/senator-mattera-and-assemblyman-fitzpatrick-join",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/mario-r-mattera/senator-mattera-and-assemblyman-fitzpatrick-join"
+}

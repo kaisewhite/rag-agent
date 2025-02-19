@@ -1,0 +1,9 @@
+{
+	"id": "7IA7me4InUDtMOs",
+	"json": "{\"id\":\"7IA7me4InUDtMOs\",\"url\":\"https://www.nysenate.gov/legislation/laws/MHY/TE\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/MHY/TE\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569943078,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/MHY/TE",
+	"url": "https://www.nysenate.gov/legislation/laws/MHY/TE"
+}

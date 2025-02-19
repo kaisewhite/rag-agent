@@ -1,0 +1,9 @@
+{
+	"id": "WafRaw1usVwGVFK",
+	"json": "{\"id\":\"WafRaw1usVwGVFK\",\"url\":\"https://www.nysenate.gov/issues/inmigrants\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/inmigrants\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571298245,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/inmigrants",
+	"url": "https://www.nysenate.gov/issues/inmigrants"
+}

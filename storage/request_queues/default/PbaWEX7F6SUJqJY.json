@@ -1,0 +1,9 @@
+{
+	"id": "PbaWEX7F6SUJqJY",
+	"json": "{\"id\":\"PbaWEX7F6SUJqJY\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/senator-riveras-day-care-bill-passes-senate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/senator-riveras-day-care-bill-passes-senate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569591597,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/senator-riveras-day-care-bill-passes-senate",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/senator-riveras-day-care-bill-passes-senate"
+}

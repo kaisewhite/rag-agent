@@ -1,0 +1,9 @@
+{
+	"id": "Xm7PTOByrPTu1CJ",
+	"json": "{\"id\":\"Xm7PTOByrPTu1CJ\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2023/michael-gianaris/spectrum-how-new-york-could-provide-tax-relief-student\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2023/michael-gianaris/spectrum-how-new-york-could-provide-tax-relief-student\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570953414,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2023/michael-gianaris/spectrum-how-new-york-could-provide-tax-relief-student",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2023/michael-gianaris/spectrum-how-new-york-could-provide-tax-relief-student"
+}

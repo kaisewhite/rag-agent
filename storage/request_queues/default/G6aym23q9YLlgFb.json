@@ -1,0 +1,9 @@
+{
+	"id": "G6aym23q9YLlgFb",
+	"json": "{\"id\":\"G6aym23q9YLlgFb\",\"url\":\"https://www.nysenate.gov/sites/default/files/articles/attachments/5517_persaud_506_2015_guide_to_credit_reports.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/articles/attachments/5517_persaud_506_2015_guide_to_credit_reports.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570279047,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/articles/attachments/5517_persaud_506_2015_guide_to_credit_reports.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/articles/attachments/5517_persaud_506_2015_guide_to_credit_reports.pdf"
+}

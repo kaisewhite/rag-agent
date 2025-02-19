@@ -1,0 +1,9 @@
+{
+	"id": "QRiteNTNZjQWprJ",
+	"json": "{\"id\":\"QRiteNTNZjQWprJ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/michael-gianaris/senate-deputy-leader-gianaris-announces-649000-arts\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/michael-gianaris/senate-deputy-leader-gianaris-announces-649000-arts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569638734,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/michael-gianaris/senate-deputy-leader-gianaris-announces-649000-arts",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/michael-gianaris/senate-deputy-leader-gianaris-announces-649000-arts"
+}

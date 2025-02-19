@@ -1,0 +1,9 @@
+{
+	"id": "XuHauIO5aMJe3fE",
+	"json": "{\"id\":\"XuHauIO5aMJe3fE\",\"url\":\"https://www.nysenate.gov/questionnaires/james-sanders-jr/senator-james-sanders-jr-newsletter\",\"loadedUrl\":\"https://www.nysenate.gov/questionnaires/james-sanders-jr/senator-james-sanders-jr-newsletter\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/james-sanders-jr/senator-james-sanders-jr-newsletter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:53:35.691Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/james-sanders-jr/senator-james-sanders-jr-newsletter",
+	"url": "https://www.nysenate.gov/questionnaires/james-sanders-jr/senator-james-sanders-jr-newsletter"
+}

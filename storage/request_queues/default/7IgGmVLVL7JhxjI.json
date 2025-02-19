@@ -1,0 +1,9 @@
+{
+	"id": "7IgGmVLVL7JhxjI",
+	"json": "{\"id\":\"7IgGmVLVL7JhxjI\",\"url\":\"https://www.nysenate.gov/sites/default/files/north_star_fund_testimony_for_senate_hearing_on_elder_parole_and_fair_timely_parole_1.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/north_star_fund_testimony_for_senate_hearing_on_elder_parole_and_fair_timely_parole_1.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716533,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/north_star_fund_testimony_for_senate_hearing_on_elder_parole_and_fair_timely_parole_1.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/north_star_fund_testimony_for_senate_hearing_on_elder_parole_and_fair_timely_parole_1.pdf"
+}

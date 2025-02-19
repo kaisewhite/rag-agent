@@ -1,0 +1,9 @@
+{
+	"id": "9X62hpaUQQYXx2Z",
+	"json": "{\"id\":\"9X62hpaUQQYXx2Z\",\"url\":\"https://www.nysenate.gov/issues/subsidies\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/subsidies\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571686354,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/subsidies",
+	"url": "https://www.nysenate.gov/issues/subsidies"
+}

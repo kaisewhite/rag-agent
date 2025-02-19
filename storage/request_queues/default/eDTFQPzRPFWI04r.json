@@ -1,0 +1,9 @@
+{
+	"id": "eDTFQPzRPFWI04r",
+	"json": "{\"id\":\"eDTFQPzRPFWI04r\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2019/anna-m-kaplan/free-smoke-alarms-available-constituents-through-red-cross\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2019/anna-m-kaplan/free-smoke-alarms-available-constituents-through-red-cross\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571363041,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2019/anna-m-kaplan/free-smoke-alarms-available-constituents-through-red-cross",
+	"url": "https://www.nysenate.gov/newsroom/articles/2019/anna-m-kaplan/free-smoke-alarms-available-constituents-through-red-cross"
+}

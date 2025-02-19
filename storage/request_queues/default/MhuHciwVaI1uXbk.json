@@ -1,0 +1,9 @@
+{
+	"id": "MhuHciwVaI1uXbk",
+	"json": "{\"id\":\"MhuHciwVaI1uXbk\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/senate-republicans-unveil-legislative-package-keep\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/senate-republicans-unveil-legislative-package-keep\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571532133,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/senate-republicans-unveil-legislative-package-keep",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/senate-republicans-unveil-legislative-package-keep"
+}

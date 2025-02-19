@@ -1,0 +1,9 @@
+{
+	"id": "yl88oxXLEICipBR",
+	"json": "{\"id\":\"yl88oxXLEICipBR\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/craig-johnson/legislative-gazette-calls-state-ethics-overhaul-increasing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/craig-johnson/legislative-gazette-calls-state-ethics-overhaul-increasing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808666,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/craig-johnson/legislative-gazette-calls-state-ethics-overhaul-increasing",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/craig-johnson/legislative-gazette-calls-state-ethics-overhaul-increasing"
+}

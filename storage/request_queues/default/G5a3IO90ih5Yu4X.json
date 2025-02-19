@@ -1,0 +1,9 @@
+{
+	"id": "G5a3IO90ih5Yu4X",
+	"json": "{\"id\":\"G5a3IO90ih5Yu4X\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/november-15-2012/forumtown-hall-senator-kruegers-roundtable-series\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/november-15-2012/forumtown-hall-senator-kruegers-roundtable-series\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752620,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/november-15-2012/forumtown-hall-senator-kruegers-roundtable-series",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/november-15-2012/forumtown-hall-senator-kruegers-roundtable-series"
+}

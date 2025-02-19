@@ -1,0 +1,9 @@
+{
+	"id": "ExiLZqNIOOFQDpB",
+	"json": "{\"id\":\"ExiLZqNIOOFQDpB\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2016/thomas-f-omara/state-announces-accelerated-application-process-next\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2016/thomas-f-omara/state-announces-accelerated-application-process-next\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770740,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2016/thomas-f-omara/state-announces-accelerated-application-process-next",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2016/thomas-f-omara/state-announces-accelerated-application-process-next"
+}

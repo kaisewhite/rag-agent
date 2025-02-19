@@ -1,0 +1,9 @@
+{
+	"id": "hTtuBoY9AegsQxW",
+	"json": "{\"id\":\"hTtuBoY9AegsQxW\",\"url\":\"https://www.nysenate.gov/issues/land-use\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/land-use\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798887,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/land-use",
+	"url": "https://www.nysenate.gov/issues/land-use"
+}

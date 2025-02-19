@@ -1,0 +1,9 @@
+{
+	"id": "I2fjxDAS8IvIqfg",
+	"json": "{\"id\":\"I2fjxDAS8IvIqfg\",\"url\":\"https://www.nysenate.gov/issues/air-pollution\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/air-pollution\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770672,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/air-pollution",
+	"url": "https://www.nysenate.gov/issues/air-pollution"
+}

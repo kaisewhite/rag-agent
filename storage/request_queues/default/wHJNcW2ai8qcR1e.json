@@ -1,0 +1,9 @@
+{
+	"id": "wHJNcW2ai8qcR1e",
+	"json": "{\"id\":\"wHJNcW2ai8qcR1e\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-years-budget-includes-wins-students\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-years-budget-includes-wins-students\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569582577,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-years-budget-includes-wins-students",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-years-budget-includes-wins-students"
+}

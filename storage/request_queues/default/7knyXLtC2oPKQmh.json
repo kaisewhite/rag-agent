@@ -1,0 +1,9 @@
+{
+	"id": "7knyXLtC2oPKQmh",
+	"json": "{\"id\":\"7knyXLtC2oPKQmh\",\"url\":\"https://www.nysenate.gov/issues/cir-seiu\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/cir-seiu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811621,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/cir-seiu",
+	"url": "https://www.nysenate.gov/issues/cir-seiu"
+}

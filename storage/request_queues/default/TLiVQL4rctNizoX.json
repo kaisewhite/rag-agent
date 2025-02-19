@@ -1,0 +1,9 @@
+{
+	"id": "TLiVQL4rctNizoX",
+	"json": "{\"id\":\"TLiVQL4rctNizoX\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-27-2020/new-york-legal-assistance-group\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-27-2020/new-york-legal-assistance-group\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247136,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-27-2020/new-york-legal-assistance-group",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-27-2020/new-york-legal-assistance-group"
+}

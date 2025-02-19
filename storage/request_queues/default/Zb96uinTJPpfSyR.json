@@ -1,0 +1,9 @@
+{
+	"id": "Zb96uinTJPpfSyR",
+	"json": "{\"id\":\"Zb96uinTJPpfSyR\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/christopher-j-ryan/senator-ryan-and-senate-majority-advance-critical\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2025/christopher-j-ryan/senator-ryan-and-senate-majority-advance-critical\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/christopher-j-ryan/senator-ryan-and-senate-majority-advance-critical\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:12:35.426Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/christopher-j-ryan/senator-ryan-and-senate-majority-advance-critical",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/christopher-j-ryan/senator-ryan-and-senate-majority-advance-critical"
+}

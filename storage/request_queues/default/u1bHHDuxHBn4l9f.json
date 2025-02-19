@@ -1,0 +1,9 @@
+{
+	"id": "u1bHHDuxHBn4l9f",
+	"json": "{\"id\":\"u1bHHDuxHBn4l9f\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/report-illegal-cannabis-shop?page=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/report-illegal-cannabis-shop?page=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570190562,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/report-illegal-cannabis-shop?page=1",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/report-illegal-cannabis-shop?page=1"
+}

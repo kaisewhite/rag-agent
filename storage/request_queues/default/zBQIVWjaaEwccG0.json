@@ -1,0 +1,9 @@
+{
+	"id": "zBQIVWjaaEwccG0",
+	"json": "{\"id\":\"zBQIVWjaaEwccG0\",\"url\":\"https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/january-24-2023/housing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/january-24-2023/housing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798827,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/january-24-2023/housing",
+	"url": "https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/january-24-2023/housing"
+}

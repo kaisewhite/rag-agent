@@ -1,0 +1,9 @@
+{
+	"id": "juk90lnSLJCeI3p",
+	"json": "{\"id\":\"juk90lnSLJCeI3p\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-06-2019/75th-precinct-community-council-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-06-2019/75th-precinct-community-council-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246875,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-06-2019/75th-precinct-community-council-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-06-2019/75th-precinct-community-council-monthly-meeting"
+}

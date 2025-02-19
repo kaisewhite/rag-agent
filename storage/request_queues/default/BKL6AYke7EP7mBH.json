@@ -1,0 +1,9 @@
+{
+	"id": "BKL6AYke7EP7mBH",
+	"json": "{\"id\":\"BKL6AYke7EP7mBH\",\"url\":\"https://www.nysenate.gov/legislation/laws/EXC/A6-G\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EXC/A6-G\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569917145,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EXC/A6-G",
+	"url": "https://www.nysenate.gov/legislation/laws/EXC/A6-G"
+}

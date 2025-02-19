@@ -1,0 +1,9 @@
+{
+	"id": "1fZeXgt6fKhfEMB",
+	"json": "{\"id\":\"1fZeXgt6fKhfEMB\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/susan-serino/statement-senator-sue-serino\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/susan-serino/statement-senator-sue-serino\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571636233,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/susan-serino/statement-senator-sue-serino",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/susan-serino/statement-senator-sue-serino"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "NHY8n7Xbz7O5rdI",
+	"json": "{\"id\":\"NHY8n7Xbz7O5rdI\",\"url\":\"https://www.nysenate.gov/issues/electric-school-buses-affordability-state-mandates\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/electric-school-buses-affordability-state-mandates\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569637328,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/electric-school-buses-affordability-state-mandates",
+	"url": "https://www.nysenate.gov/issues/electric-school-buses-affordability-state-mandates"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "h98vfCdPvaeKlGN",
+	"json": "{\"id\":\"h98vfCdPvaeKlGN\",\"url\":\"https://www.nysenate.gov/sites/default/files/alex_hansen_testimony_for_12-7-22_senate_hearing_on_elder_parole_and_fair_timely_parole.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/alex_hansen_testimony_for_12-7-22_senate_hearing_on_elder_parole_and_fair_timely_parole.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716505,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/alex_hansen_testimony_for_12-7-22_senate_hearing_on_elder_parole_and_fair_timely_parole.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/alex_hansen_testimony_for_12-7-22_senate_hearing_on_elder_parole_and_fair_timely_parole.pdf"
+}

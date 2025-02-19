@@ -1,0 +1,9 @@
+{
+	"id": "5tXtJuHnUMg8GMM",
+	"json": "{\"id\":\"5tXtJuHnUMg8GMM\",\"url\":\"https://www.nysenate.gov/issues/criminalizing-revenge-porn\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/criminalizing-revenge-porn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725862,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/criminalizing-revenge-porn",
+	"url": "https://www.nysenate.gov/issues/criminalizing-revenge-porn"
+}

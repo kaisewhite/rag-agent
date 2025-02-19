@@ -1,0 +1,9 @@
+{
+	"id": "1SEGXfYw0yxAk15",
+	"json": "{\"id\":\"1SEGXfYw0yxAk15\",\"url\":\"https://www.nysenate.gov/calendar/events/aging/eric-adams/august-28-2013/forumtown-hall-elder-financial-abuse-prevention\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/aging/eric-adams/august-28-2013/forumtown-hall-elder-financial-abuse-prevention\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698334,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/aging/eric-adams/august-28-2013/forumtown-hall-elder-financial-abuse-prevention",
+	"url": "https://www.nysenate.gov/calendar/events/aging/eric-adams/august-28-2013/forumtown-hall-elder-financial-abuse-prevention"
+}

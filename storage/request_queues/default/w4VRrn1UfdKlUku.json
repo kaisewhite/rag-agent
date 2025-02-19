@@ -1,0 +1,9 @@
+{
+	"id": "w4VRrn1UfdKlUku",
+	"json": "{\"id\":\"w4VRrn1UfdKlUku\",\"url\":\"https://www.nysenate.gov/profiles/2024/joseph-griffo/michael-j-basla\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/joseph-griffo/michael-j-basla\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/joseph-griffo/michael-j-basla\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:00:23.633Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/joseph-griffo/michael-j-basla",
+	"url": "https://www.nysenate.gov/profiles/2024/joseph-griffo/michael-j-basla"
+}

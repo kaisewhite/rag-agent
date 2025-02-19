@@ -1,0 +1,9 @@
+{
+	"id": "GWnQu0oNLoeZERi",
+	"json": "{\"id\":\"GWnQu0oNLoeZERi\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/shirley-huntley/june-2010-new-york-retail-serving-public-report\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/shirley-huntley/june-2010-new-york-retail-serving-public-report\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569714896,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/shirley-huntley/june-2010-new-york-retail-serving-public-report",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/shirley-huntley/june-2010-new-york-retail-serving-public-report"
+}

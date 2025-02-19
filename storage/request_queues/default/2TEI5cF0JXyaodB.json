@@ -1,0 +1,9 @@
+{
+	"id": "2TEI5cF0JXyaodB",
+	"json": "{\"id\":\"2TEI5cF0JXyaodB\",\"url\":\"https://www.nysenate.gov/issues/journalism\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/journalism\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571732388,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/journalism",
+	"url": "https://www.nysenate.gov/issues/journalism"
+}

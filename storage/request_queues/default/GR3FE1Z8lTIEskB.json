@@ -1,0 +1,9 @@
+{
+	"id": "GR3FE1Z8lTIEskB",
+	"json": "{\"id\":\"GR3FE1Z8lTIEskB\",\"url\":\"https://www.nysenate.gov/legislation/laws/GMU/A18-B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GMU/A18-B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569925308,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GMU/A18-B",
+	"url": "https://www.nysenate.gov/legislation/laws/GMU/A18-B"
+}

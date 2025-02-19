@@ -1,0 +1,9 @@
+{
+	"id": "vdsHc1Kf8pNSHhT",
+	"json": "{\"id\":\"vdsHc1Kf8pNSHhT\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/march-31-2018/womens-leadership-luncheon\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/march-31-2018/womens-leadership-luncheon\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019394,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/march-31-2018/womens-leadership-luncheon",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/march-31-2018/womens-leadership-luncheon"
+}

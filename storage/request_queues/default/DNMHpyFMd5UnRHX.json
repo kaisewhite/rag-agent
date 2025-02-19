@@ -1,0 +1,9 @@
+{
+	"id": "DNMHpyFMd5UnRHX",
+	"json": "{\"id\":\"DNMHpyFMd5UnRHX\",\"url\":\"https://www.nysenate.gov/profiles/2024/jamaal-t-bailey/george-c-crouch-iii\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/jamaal-t-bailey/george-c-crouch-iii\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/jamaal-t-bailey/george-c-crouch-iii\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:00:39.089Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/jamaal-t-bailey/george-c-crouch-iii",
+	"url": "https://www.nysenate.gov/profiles/2024/jamaal-t-bailey/george-c-crouch-iii"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Btc76NCEc8eeF7A",
+	"json": "{\"id\":\"Btc76NCEc8eeF7A\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/james-skoufis/industrial-development-agencies-compete-cut-business-breaks?page=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/james-skoufis/industrial-development-agencies-compete-cut-business-breaks?page=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571639774,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/james-skoufis/industrial-development-agencies-compete-cut-business-breaks?page=1",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/james-skoufis/industrial-development-agencies-compete-cut-business-breaks?page=1"
+}

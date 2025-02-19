@@ -1,0 +1,9 @@
+{
+	"id": "HinSSKYkW3bq4zr",
+	"json": "{\"id\":\"HinSSKYkW3bq4zr\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/liz-krueger/final-bill-introduced-legalize-tax-and-regulate-adult-use\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/liz-krueger/final-bill-introduced-legalize-tax-and-regulate-adult-use\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571313759,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/liz-krueger/final-bill-introduced-legalize-tax-and-regulate-adult-use",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/liz-krueger/final-bill-introduced-legalize-tax-and-regulate-adult-use"
+}

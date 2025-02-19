@@ -1,0 +1,9 @@
+{
+	"id": "RKqRqAzaakcqvaM",
+	"json": "{\"id\":\"RKqRqAzaakcqvaM\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/what-you-need-know-about-covid-19-pandemic-resources\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/what-you-need-know-about-covid-19-pandemic-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717618,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/what-you-need-know-about-covid-19-pandemic-resources",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/what-you-need-know-about-covid-19-pandemic-resources"
+}

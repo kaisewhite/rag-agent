@@ -1,0 +1,9 @@
+{
+	"id": "R03C0eKzPKru8Gb",
+	"json": "{\"id\":\"R03C0eKzPKru8Gb\",\"url\":\"https://www.nysenate.gov/calendar/events/monica-r-martinez/november-08-2023/senator-monica-r-martinez-free-mobile\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/monica-r-martinez/november-08-2023/senator-monica-r-martinez-free-mobile\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570291883,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/monica-r-martinez/november-08-2023/senator-monica-r-martinez-free-mobile",
+	"url": "https://www.nysenate.gov/calendar/events/monica-r-martinez/november-08-2023/senator-monica-r-martinez-free-mobile"
+}

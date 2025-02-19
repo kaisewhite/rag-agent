@@ -1,0 +1,9 @@
+{
+	"id": "PpdJcun4hi2Qb5d",
+	"json": "{\"id\":\"PpdJcun4hi2Qb5d\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2012/mark-grisanti/senator-grisanti-works-closely-officials-albany-including-lt\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2012/mark-grisanti/senator-grisanti-works-closely-officials-albany-including-lt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770755,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2012/mark-grisanti/senator-grisanti-works-closely-officials-albany-including-lt",
+	"url": "https://www.nysenate.gov/newsroom/articles/2012/mark-grisanti/senator-grisanti-works-closely-officials-albany-including-lt"
+}

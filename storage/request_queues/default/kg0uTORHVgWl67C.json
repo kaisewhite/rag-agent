@@ -1,0 +1,9 @@
+{
+	"id": "kg0uTORHVgWl67C",
+	"json": "{\"id\":\"kg0uTORHVgWl67C\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/senate-approves-greater-limousine-safety-reforms-passenger-protection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/senate-approves-greater-limousine-safety-reforms-passenger-protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571460670,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/senate-approves-greater-limousine-safety-reforms-passenger-protection",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/senate-approves-greater-limousine-safety-reforms-passenger-protection"
+}

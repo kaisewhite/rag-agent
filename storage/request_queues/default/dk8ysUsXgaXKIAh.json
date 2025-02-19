@@ -1,0 +1,9 @@
+{
+	"id": "dk8ysUsXgaXKIAh",
+	"json": "{\"id\":\"dk8ysUsXgaXKIAh\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/jeremy-cooney/nys-senator-jeremy-cooney-episcopal-senior-life-announce\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/jeremy-cooney/nys-senator-jeremy-cooney-episcopal-senior-life-announce\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570064698,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/jeremy-cooney/nys-senator-jeremy-cooney-episcopal-senior-life-announce",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/jeremy-cooney/nys-senator-jeremy-cooney-episcopal-senior-life-announce"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "1A4VjqTgzrAz5M4",
+	"json": "{\"id\":\"1A4VjqTgzrAz5M4\",\"url\":\"https://www.nysenate.gov/issues/green-jobs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/green-jobs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569556422,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/green-jobs",
+	"url": "https://www.nysenate.gov/issues/green-jobs"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "xbjOJJaq0bF6HgM",
+	"json": "{\"id\":\"xbjOJJaq0bF6HgM\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/ny-senate-report-urges-lawmakers-rein-pharmacy-benefit\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/ny-senate-report-urges-lawmakers-rein-pharmacy-benefit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808645,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/ny-senate-report-urges-lawmakers-rein-pharmacy-benefit",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/ny-senate-report-urges-lawmakers-rein-pharmacy-benefit"
+}

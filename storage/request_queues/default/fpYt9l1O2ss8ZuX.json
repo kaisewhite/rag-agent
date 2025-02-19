@@ -1,0 +1,9 @@
+{
+	"id": "fpYt9l1O2ss8ZuX",
+	"json": "{\"id\":\"fpYt9l1O2ss8ZuX\",\"url\":\"https://www.nysenate.gov/issues/judge\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/judge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804259,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/judge",
+	"url": "https://www.nysenate.gov/issues/judge"
+}

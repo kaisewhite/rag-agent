@@ -1,0 +1,9 @@
+{
+	"id": "qXL5WMf7VtnWqwu",
+	"json": "{\"id\":\"qXL5WMf7VtnWqwu\",\"url\":\"https://www.nysenate.gov/search/legislation?type=bill&session_year=2025&status=DELIVERED_TO_GOV&is_active_version=1\",\"loadedUrl\":\"https://www.nysenate.gov/search/legislation?type=bill&session_year=2025&status=DELIVERED_TO_GOV&is_active_version=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/legislation?is_active_version=1&session_year=2025&status=DELIVERED_TO_GOV&type=bill\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:44:19.310Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/legislation?is_active_version=1&session_year=2025&status=DELIVERED_TO_GOV&type=bill",
+	"url": "https://www.nysenate.gov/search/legislation?type=bill&session_year=2025&status=DELIVERED_TO_GOV&is_active_version=1"
+}

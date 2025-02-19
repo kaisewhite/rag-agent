@@ -1,0 +1,9 @@
+{
+	"id": "VihyYc30HAm9r3P",
+	"json": "{\"id\":\"VihyYc30HAm9r3P\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/stachowskihoyt-propose-amendments-sexual-offender\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/stachowskihoyt-propose-amendments-sexual-offender\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734385,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/stachowskihoyt-propose-amendments-sexual-offender",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/stachowskihoyt-propose-amendments-sexual-offender"
+}

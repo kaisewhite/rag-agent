@@ -1,0 +1,9 @@
+{
+	"id": "zwsPnzZMazAgN8a",
+	"json": "{\"id\":\"zwsPnzZMazAgN8a\",\"url\":\"https://www.nysenate.gov/newsroom/video/fred-akshar/senator-fred-akshar-protect-those-who-protect-us-law-enforcement-package\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/fred-akshar/senator-fred-akshar-protect-those-who-protect-us-law-enforcement-package\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570735793,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/fred-akshar/senator-fred-akshar-protect-those-who-protect-us-law-enforcement-package",
+	"url": "https://www.nysenate.gov/newsroom/video/fred-akshar/senator-fred-akshar-protect-those-who-protect-us-law-enforcement-package"
+}

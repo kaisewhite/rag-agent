@@ -1,0 +1,9 @@
+{
+	"id": "zL2bOAdOa6s8Ctk",
+	"json": "{\"id\":\"zL2bOAdOa6s8Ctk\",\"url\":\"https://www.nysenate.gov/issues/inauguration\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/inauguration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569622764,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/inauguration",
+	"url": "https://www.nysenate.gov/issues/inauguration"
+}

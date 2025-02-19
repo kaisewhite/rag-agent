@@ -1,0 +1,9 @@
+{
+	"id": "neczE6ILnGjrj3v",
+	"json": "{\"id\":\"neczE6ILnGjrj3v\",\"url\":\"https://www.nysenate.gov/issues/highway-safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/highway-safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571276813,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/highway-safety",
+	"url": "https://www.nysenate.gov/issues/highway-safety"
+}

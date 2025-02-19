@@ -1,0 +1,9 @@
+{
+	"id": "UFJUYt3DU2B7dec",
+	"json": "{\"id\":\"UFJUYt3DU2B7dec\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/S199\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/S199\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571568021,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/S199",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/S199"
+}

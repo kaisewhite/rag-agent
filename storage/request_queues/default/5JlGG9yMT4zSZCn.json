@@ -1,0 +1,9 @@
+{
+	"id": "5JlGG9yMT4zSZCn",
+	"json": "{\"id\":\"5JlGG9yMT4zSZCn\",\"url\":\"https://www.nysenate.gov/calendar/meetings/elections/march-12-2024/elections-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/elections/march-12-2024/elections-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756042,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/elections/march-12-2024/elections-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/elections/march-12-2024/elections-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "9lIoljXkEG7rJcO",
+	"json": "{\"id\":\"9lIoljXkEG7rJcO\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/george-borrello/statement-senator-george-borrello-restore-ny-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/george-borrello/statement-senator-george-borrello-restore-ny-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571258852,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/george-borrello/statement-senator-george-borrello-restore-ny-funding",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/george-borrello/statement-senator-george-borrello-restore-ny-funding"
+}

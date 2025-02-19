@@ -1,0 +1,9 @@
+{
+	"id": "15qcA4ILKPoL66p",
+	"json": "{\"id\":\"15qcA4ILKPoL66p\",\"url\":\"https://www.nysenate.gov/print/pdf/node/7136008\",\"uniqueKey\":\"GET():https://www.nysenate.gov/print/pdf/node/7136008\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570279048,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/print/pdf/node/7136008",
+	"url": "https://www.nysenate.gov/print/pdf/node/7136008"
+}

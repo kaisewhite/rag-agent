@@ -1,0 +1,9 @@
+{
+	"id": "awQBBoE7rMIRQ06",
+	"json": "{\"id\":\"awQBBoE7rMIRQ06\",\"url\":\"https://www.nysenate.gov/legislation/bills/2015/A8350\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2015/A8350\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571672395,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2015/A8350",
+	"url": "https://www.nysenate.gov/legislation/bills/2015/A8350"
+}

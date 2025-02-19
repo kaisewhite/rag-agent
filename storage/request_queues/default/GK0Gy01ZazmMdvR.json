@@ -1,0 +1,9 @@
+{
+	"id": "GK0Gy01ZazmMdvR",
+	"json": "{\"id\":\"GK0Gy01ZazmMdvR\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-20-2015/update-energy-highway-and-reform-energy-vision-initiatives-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-20-2015/update-energy-highway-and-reform-energy-vision-initiatives-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781004,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-20-2015/update-energy-highway-and-reform-energy-vision-initiatives-0",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-20-2015/update-energy-highway-and-reform-energy-vision-initiatives-0"
+}

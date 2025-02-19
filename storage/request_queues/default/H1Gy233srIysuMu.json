@@ -1,0 +1,9 @@
+{
+	"id": "H1Gy233srIysuMu",
+	"json": "{\"id\":\"H1Gy233srIysuMu\",\"url\":\"https://www.nysenate.gov/legislation/laws/RSS/A22\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RSS/A22\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569974695,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RSS/A22",
+	"url": "https://www.nysenate.gov/legislation/laws/RSS/A22"
+}

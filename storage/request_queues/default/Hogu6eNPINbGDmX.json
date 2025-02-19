@@ -1,0 +1,9 @@
+{
+	"id": "Hogu6eNPINbGDmX",
+	"json": "{\"id\":\"Hogu6eNPINbGDmX\",\"url\":\"https://www.nysenate.gov/issues/economic-development-and-jobs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/economic-development-and-jobs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707177,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/economic-development-and-jobs",
+	"url": "https://www.nysenate.gov/issues/economic-development-and-jobs"
+}

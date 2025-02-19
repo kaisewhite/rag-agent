@@ -1,0 +1,9 @@
+{
+	"id": "bRr9gmbBbs3yxDp",
+	"json": "{\"id\":\"bRr9gmbBbs3yxDp\",\"url\":\"https://www.nysenate.gov/issues/climate-leadership-and-community-protection-act-ccpa\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/climate-leadership-and-community-protection-act-ccpa\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569556420,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/climate-leadership-and-community-protection-act-ccpa",
+	"url": "https://www.nysenate.gov/issues/climate-leadership-and-community-protection-act-ccpa"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "FSNJnm0vXNN67IS",
+	"json": "{\"id\":\"FSNJnm0vXNN67IS\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-07-2011/discuss-potential-constitutional-amendment-relating\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-07-2011/discuss-potential-constitutional-amendment-relating\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833555,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-07-2011/discuss-potential-constitutional-amendment-relating",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-07-2011/discuss-potential-constitutional-amendment-relating"
+}

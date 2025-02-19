@@ -1,0 +1,9 @@
+{
+	"id": "t2UavVhkMt5w8JI",
+	"json": "{\"id\":\"t2UavVhkMt5w8JI\",\"url\":\"https://www.nysenate.gov/senators/brian-kavanagh/about\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/brian-kavanagh/about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569646995,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/brian-kavanagh/about",
+	"url": "https://www.nysenate.gov/senators/brian-kavanagh/about"
+}

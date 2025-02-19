@@ -1,0 +1,9 @@
+{
+	"id": "jFMKsHOdftrRGEH",
+	"json": "{\"id\":\"jFMKsHOdftrRGEH\",\"url\":\"https://www.nysenate.gov/issues/cell-towers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/cell-towers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571368073,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/cell-towers",
+	"url": "https://www.nysenate.gov/issues/cell-towers"
+}

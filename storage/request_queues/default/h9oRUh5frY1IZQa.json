@@ -1,0 +1,9 @@
+{
+	"id": "h9oRUh5frY1IZQa",
+	"json": "{\"id\":\"h9oRUh5frY1IZQa\",\"url\":\"https://www.nysenate.gov/senators/peter-oberacker/about\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/peter-oberacker/about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569660066,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/peter-oberacker/about",
+	"url": "https://www.nysenate.gov/senators/peter-oberacker/about"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "HPg5S2f5w4NZhs1",
+	"json": "{\"id\":\"HPg5S2f5w4NZhs1\",\"url\":\"https://www.nysenate.gov/issues/war-dogs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/war-dogs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571544229,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/war-dogs",
+	"url": "https://www.nysenate.gov/issues/war-dogs"
+}

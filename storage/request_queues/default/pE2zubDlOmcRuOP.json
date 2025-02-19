@@ -1,0 +1,9 @@
+{
+	"id": "pE2zubDlOmcRuOP",
+	"json": "{\"id\":\"pE2zubDlOmcRuOP\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=NY%20Privacy%20Act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=NY+Privacy+Act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571436255,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=NY+Privacy+Act",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=NY%20Privacy%20Act"
+}

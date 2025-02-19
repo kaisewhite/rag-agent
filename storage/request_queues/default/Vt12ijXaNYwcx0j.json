@@ -1,0 +1,9 @@
+{
+	"id": "Vt12ijXaNYwcx0j",
+	"json": "{\"id\":\"Vt12ijXaNYwcx0j\",\"url\":\"https://www.nysenate.gov/senators/zellnor-myrie/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/zellnor-myrie/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569656855,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/zellnor-myrie/district",
+	"url": "https://www.nysenate.gov/senators/zellnor-myrie/district"
+}

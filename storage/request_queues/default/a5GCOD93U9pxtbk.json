@@ -1,0 +1,9 @@
+{
+	"id": "a5GCOD93U9pxtbk",
+	"json": "{\"id\":\"a5GCOD93U9pxtbk\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2025/julia-salazar/correctional-association-new-york-violence-prisons-isnt\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2025/julia-salazar/correctional-association-new-york-violence-prisons-isnt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569671161,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2025/julia-salazar/correctional-association-new-york-violence-prisons-isnt",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2025/julia-salazar/correctional-association-new-york-violence-prisons-isnt"
+}

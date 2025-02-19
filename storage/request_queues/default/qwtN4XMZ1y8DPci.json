@@ -1,0 +1,9 @@
+{
+	"id": "qwtN4XMZ1y8DPci",
+	"json": "{\"id\":\"qwtN4XMZ1y8DPci\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/peter-oberacker/senate-passes-limo-safety-bills\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/peter-oberacker/senate-passes-limo-safety-bills\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571583892,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/peter-oberacker/senate-passes-limo-safety-bills",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/peter-oberacker/senate-passes-limo-safety-bills"
+}

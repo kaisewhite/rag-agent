@@ -1,0 +1,9 @@
+{
+	"id": "fsKAMzs97uHiDaW",
+	"json": "{\"id\":\"fsKAMzs97uHiDaW\",\"url\":\"https://www.nysenate.gov/issues/nomination\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nomination\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804259,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nomination",
+	"url": "https://www.nysenate.gov/issues/nomination"
+}

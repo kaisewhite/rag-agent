@@ -1,0 +1,9 @@
+{
+	"id": "soatLC39yF9Aauv",
+	"json": "{\"id\":\"soatLC39yF9Aauv\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/april-13-2021/joint-public-hearing-diversifying-agriculture-and-addressing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/april-13-2021/joint-public-hearing-diversifying-agriculture-and-addressing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707114,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/april-13-2021/joint-public-hearing-diversifying-agriculture-and-addressing",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/april-13-2021/joint-public-hearing-diversifying-agriculture-and-addressing"
+}

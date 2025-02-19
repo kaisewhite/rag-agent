@@ -1,0 +1,9 @@
+{
+	"id": "F4CU4nxQg2u1GIl",
+	"json": "{\"id\":\"F4CU4nxQg2u1GIl\",\"url\":\"https://www.nysenate.gov/senators/jamaal-t-bailey\",\"loadedUrl\":\"https://www.nysenate.gov/senators/jamaal-t-bailey\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/jamaal-t-bailey\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:46:55.883Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/jamaal-t-bailey",
+	"url": "https://www.nysenate.gov/senators/jamaal-t-bailey"
+}

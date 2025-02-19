@@ -1,0 +1,9 @@
+{
+	"id": "yBrNPUkd0PNSiFR",
+	"json": "{\"id\":\"yBrNPUkd0PNSiFR\",\"url\":\"https://www.nysenate.gov/senators/stephen-t-chan/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/stephen-t-chan/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569622760,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/stephen-t-chan/district",
+	"url": "https://www.nysenate.gov/senators/stephen-t-chan/district"
+}

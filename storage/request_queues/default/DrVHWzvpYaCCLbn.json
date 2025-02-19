@@ -1,0 +1,9 @@
+{
+	"id": "DrVHWzvpYaCCLbn",
+	"json": "{\"id\":\"DrVHWzvpYaCCLbn\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/senator-montgomerys-final-newsletter\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/senator-montgomerys-final-newsletter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717609,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/senator-montgomerys-final-newsletter",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/senator-montgomerys-final-newsletter"
+}

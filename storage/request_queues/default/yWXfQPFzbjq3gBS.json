@@ -1,0 +1,9 @@
+{
+	"id": "yWXfQPFzbjq3gBS",
+	"json": "{\"id\":\"yWXfQPFzbjq3gBS\",\"url\":\"https://www.nysenate.gov/issues/squatting\",\"loadedUrl\":\"https://www.nysenate.gov/issues/squatting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/squatting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:14:35.809Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/squatting",
+	"url": "https://www.nysenate.gov/issues/squatting"
+}

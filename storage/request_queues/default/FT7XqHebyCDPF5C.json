@@ -1,0 +1,9 @@
+{
+	"id": "FT7XqHebyCDPF5C",
+	"json": "{\"id\":\"FT7XqHebyCDPF5C\",\"url\":\"https://www.nysenate.gov/explore-issues/most-recent\",\"loadedUrl\":\"https://www.nysenate.gov/explore-issues/most-recent\",\"uniqueKey\":\"GET():https://www.nysenate.gov/explore-issues/most-recent\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:05:17.943Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/explore-issues/most-recent",
+	"url": "https://www.nysenate.gov/explore-issues/most-recent"
+}

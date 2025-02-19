@@ -1,0 +1,9 @@
+{
+	"id": "locDsCIOqJwrDT0",
+	"json": "{\"id\":\"locDsCIOqJwrDT0\",\"url\":\"https://www.nysenate.gov/profiles/2024/patricia-canzoneri-fitzpatrick/ali-artz\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/patricia-canzoneri-fitzpatrick/ali-artz\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/patricia-canzoneri-fitzpatrick/ali-artz\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:59:35.544Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/patricia-canzoneri-fitzpatrick/ali-artz",
+	"url": "https://www.nysenate.gov/profiles/2024/patricia-canzoneri-fitzpatrick/ali-artz"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ak2IO64wIhp3tgh",
+	"json": "{\"id\":\"ak2IO64wIhp3tgh\",\"url\":\"https://www.nysenate.gov/questionnaires/brian-kavanagh/district-27-email-newsletter-sign\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/brian-kavanagh/district-27-email-newsletter-sign\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569646997,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/brian-kavanagh/district-27-email-newsletter-sign",
+	"url": "https://www.nysenate.gov/questionnaires/brian-kavanagh/district-27-email-newsletter-sign"
+}

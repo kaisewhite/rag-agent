@@ -1,0 +1,9 @@
+{
+	"id": "0nQO0ruG7CooXpC",
+	"json": "{\"id\":\"0nQO0ruG7CooXpC\",\"url\":\"https://www.nysenate.gov/issues/new-york-city-high-schools\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-york-city-high-schools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717646,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-york-city-high-schools",
+	"url": "https://www.nysenate.gov/issues/new-york-city-high-schools"
+}

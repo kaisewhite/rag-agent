@@ -1,0 +1,9 @@
+{
+	"id": "uRu3VECKc5ZBkga",
+	"json": "{\"id\":\"uRu3VECKc5ZBkga\",\"url\":\"https://www.nysenate.gov/sites/default/files/new_york_state_community_association_nyscaa.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/new_york_state_community_association_nyscaa.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571237410,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/new_york_state_community_association_nyscaa.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/new_york_state_community_association_nyscaa.pdf"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ySkNipzllR7ux1o",
+	"json": "{\"id\":\"ySkNipzllR7ux1o\",\"url\":\"https://www.nysenate.gov/issues/government-transparency\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/government-transparency\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808644,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/government-transparency",
+	"url": "https://www.nysenate.gov/issues/government-transparency"
+}

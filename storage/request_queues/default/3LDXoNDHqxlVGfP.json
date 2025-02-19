@@ -1,0 +1,9 @@
+{
+	"id": "3LDXoNDHqxlVGfP",
+	"json": "{\"id\":\"3LDXoNDHqxlVGfP\",\"url\":\"https://www.nysenate.gov/sites/default/files/showing_up_for_racial_justice_nyc.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/showing_up_for_racial_justice_nyc.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716545,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/showing_up_for_racial_justice_nyc.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/showing_up_for_racial_justice_nyc.pdf"
+}

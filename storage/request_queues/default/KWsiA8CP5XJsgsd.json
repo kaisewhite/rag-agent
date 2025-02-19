@@ -1,0 +1,9 @@
+{
+	"id": "KWsiA8CP5XJsgsd",
+	"json": "{\"id\":\"KWsiA8CP5XJsgsd\",\"url\":\"https://www.nysenate.gov/senators/april-baskin/newsroom\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/april-baskin/newsroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569614957,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/april-baskin/newsroom",
+	"url": "https://www.nysenate.gov/senators/april-baskin/newsroom"
+}

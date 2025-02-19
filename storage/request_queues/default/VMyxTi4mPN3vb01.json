@@ -1,0 +1,9 @@
+{
+	"id": "VMyxTi4mPN3vb01",
+	"json": "{\"id\":\"VMyxTi4mPN3vb01\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/august-29-2017/public-hearing-identify-and-determine-best-practices-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/august-29-2017/public-hearing-identify-and-determine-best-practices-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780989,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/august-29-2017/public-hearing-identify-and-determine-best-practices-0",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/august-29-2017/public-hearing-identify-and-determine-best-practices-0"
+}

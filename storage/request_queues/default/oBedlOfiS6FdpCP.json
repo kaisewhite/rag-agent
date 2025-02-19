@@ -1,0 +1,9 @@
+{
+	"id": "oBedlOfiS6FdpCP",
+	"json": "{\"id\":\"oBedlOfiS6FdpCP\",\"url\":\"https://www.nysenate.gov/calendar/meetings/codes/may-15-2018/codes-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/codes/may-15-2018/codes-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725863,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/codes/may-15-2018/codes-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/codes/may-15-2018/codes-meeting"
+}

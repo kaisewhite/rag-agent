@@ -1,0 +1,9 @@
+{
+	"id": "riI3MfKOO3AF4cW",
+	"json": "{\"id\":\"riI3MfKOO3AF4cW\",\"url\":\"https://www.nysenate.gov/issues/roadway-excavation-quality-assurance-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/roadway-excavation-quality-assurance-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569571288,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/roadway-excavation-quality-assurance-act",
+	"url": "https://www.nysenate.gov/issues/roadway-excavation-quality-assurance-act"
+}

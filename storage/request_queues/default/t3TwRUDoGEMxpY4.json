@@ -1,0 +1,9 @@
+{
+	"id": "t3TwRUDoGEMxpY4",
+	"json": "{\"id\":\"t3TwRUDoGEMxpY4\",\"url\":\"https://www.nysenate.gov/calendar/events/andrew-gounardes/october-10-2019/senior-resource-fair-bay-ridge\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/october-10-2019/senior-resource-fair-bay-ridge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570125466,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/october-10-2019/senior-resource-fair-bay-ridge",
+	"url": "https://www.nysenate.gov/calendar/events/andrew-gounardes/october-10-2019/senior-resource-fair-bay-ridge"
+}

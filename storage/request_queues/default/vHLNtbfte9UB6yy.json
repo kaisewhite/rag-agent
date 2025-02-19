@@ -1,0 +1,9 @@
+{
+	"id": "vHLNtbfte9UB6yy",
+	"json": "{\"id\":\"vHLNtbfte9UB6yy\",\"url\":\"https://www.nysenate.gov/issues/black-community\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/black-community\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570930784,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/black-community",
+	"url": "https://www.nysenate.gov/issues/black-community"
+}

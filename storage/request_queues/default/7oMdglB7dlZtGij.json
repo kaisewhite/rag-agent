@@ -1,0 +1,9 @@
+{
+	"id": "7oMdglB7dlZtGij",
+	"json": "{\"id\":\"7oMdglB7dlZtGij\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/senator-grisanti-named-elected-official-year-southtowns\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/senator-grisanti-named-elected-official-year-southtowns\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770751,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/senator-grisanti-named-elected-official-year-southtowns",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/senator-grisanti-named-elected-official-year-southtowns"
+}

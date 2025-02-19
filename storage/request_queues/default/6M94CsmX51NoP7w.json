@@ -1,0 +1,9 @@
+{
+	"id": "6M94CsmX51NoP7w",
+	"json": "{\"id\":\"6M94CsmX51NoP7w\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-24-2022/property-tax-benefits-home-owners-webinar\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-24-2022/property-tax-benefits-home-owners-webinar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247384,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-24-2022/property-tax-benefits-home-owners-webinar",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-24-2022/property-tax-benefits-home-owners-webinar"
+}

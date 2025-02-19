@@ -1,0 +1,9 @@
+{
+	"id": "SHEKnCquvSgX8f6",
+	"json": "{\"id\":\"SHEKnCquvSgX8f6\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/patty-ritchie/state-agrees-put-ny-milk-employee-lunchrooms\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/patty-ritchie/state-agrees-put-ny-milk-employee-lunchrooms\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707191,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/patty-ritchie/state-agrees-put-ny-milk-employee-lunchrooms",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/patty-ritchie/state-agrees-put-ny-milk-employee-lunchrooms"
+}

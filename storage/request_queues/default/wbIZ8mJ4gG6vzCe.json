@@ -1,0 +1,9 @@
+{
+	"id": "wbIZ8mJ4gG6vzCe",
+	"json": "{\"id\":\"wbIZ8mJ4gG6vzCe\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/james-skoufis/or-rate-case-letter-october-2024\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/james-skoufis/or-rate-case-letter-october-2024\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570890981,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/james-skoufis/or-rate-case-letter-october-2024",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/james-skoufis/or-rate-case-letter-october-2024"
+}

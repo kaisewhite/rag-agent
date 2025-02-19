@@ -1,0 +1,9 @@
+{
+	"id": "fINIXTZ7hNftTtW",
+	"json": "{\"id\":\"fINIXTZ7hNftTtW\",\"url\":\"https://www.nysenate.gov/issues/senior-citizens\",\"loadedUrl\":\"https://www.nysenate.gov/issues/senior-citizens\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/senior-citizens\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:14:18.855Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/senior-citizens",
+	"url": "https://www.nysenate.gov/issues/senior-citizens"
+}

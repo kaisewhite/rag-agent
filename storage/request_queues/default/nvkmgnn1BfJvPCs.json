@@ -1,0 +1,9 @@
+{
+	"id": "nvkmgnn1BfJvPCs",
+	"json": "{\"id\":\"nvkmgnn1BfJvPCs\",\"url\":\"https://www.nysenate.gov/issues/district-attorney\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/district-attorney\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569657527,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/district-attorney",
+	"url": "https://www.nysenate.gov/issues/district-attorney"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3rjZx9hnTbjN6FP",
+	"json": "{\"id\":\"3rjZx9hnTbjN6FP\",\"url\":\"https://www.nysenate.gov/issues/fix-subways\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/fix-subways\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571642494,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/fix-subways",
+	"url": "https://www.nysenate.gov/issues/fix-subways"
+}

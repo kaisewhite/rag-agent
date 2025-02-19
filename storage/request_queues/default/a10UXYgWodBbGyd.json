@@ -1,0 +1,9 @@
+{
+	"id": "a10UXYgWodBbGyd",
+	"json": "{\"id\":\"a10UXYgWodBbGyd\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senator-kevin-thomas-advances-bill-expand-lemon-law\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senator-kevin-thomas-advances-bill-expand-lemon-law\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740957,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senator-kevin-thomas-advances-bill-expand-lemon-law",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senator-kevin-thomas-advances-bill-expand-lemon-law"
+}

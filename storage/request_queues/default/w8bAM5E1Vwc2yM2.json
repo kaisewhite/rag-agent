@@ -1,0 +1,9 @@
+{
+	"id": "w8bAM5E1Vwc2yM2",
+	"json": "{\"id\":\"w8bAM5E1Vwc2yM2\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/officials-want-explore-feasibility-tapping-nycs-upstate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/officials-want-explore-feasibility-tapping-nycs-upstate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770704,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/officials-want-explore-feasibility-tapping-nycs-upstate",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/officials-want-explore-feasibility-tapping-nycs-upstate"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ueUOwzjLw8d3Bh9",
+	"json": "{\"id\":\"ueUOwzjLw8d3Bh9\",\"url\":\"https://www.nysenate.gov/legislation/laws/RCO/A5\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RCO/A5\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569967052,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RCO/A5",
+	"url": "https://www.nysenate.gov/legislation/laws/RCO/A5"
+}

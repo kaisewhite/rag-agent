@@ -1,0 +1,9 @@
+{
+	"id": "6JZPoeA1qcYIxba",
+	"json": "{\"id\":\"6JZPoeA1qcYIxba\",\"url\":\"https://www.nysenate.gov/questionnaires/jessica-ramos/child-care-survey-child-care-providers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/jessica-ramos/child-care-survey-child-care-providers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569665066,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/jessica-ramos/child-care-survey-child-care-providers",
+	"url": "https://www.nysenate.gov/questionnaires/jessica-ramos/child-care-survey-child-care-providers"
+}

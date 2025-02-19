@@ -1,0 +1,9 @@
+{
+	"id": "Y5feA0DZtMjR5Zl",
+	"json": "{\"id\":\"Y5feA0DZtMjR5Zl\",\"url\":\"https://www.nysenate.gov/legislation/laws/EXC/A19-I\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EXC/A19-I\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569917161,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EXC/A19-I",
+	"url": "https://www.nysenate.gov/legislation/laws/EXC/A19-I"
+}

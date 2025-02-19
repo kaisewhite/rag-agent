@@ -1,0 +1,9 @@
+{
+	"id": "rNinwFje80TqI5Q",
+	"json": "{\"id\":\"rNinwFje80TqI5Q\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/june-09-2010/joint-senate-and-assembly-standing-committee-s-7302a-6634\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/june-09-2010/joint-senate-and-assembly-standing-committee-s-7302a-6634\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740931,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/june-09-2010/joint-senate-and-assembly-standing-committee-s-7302a-6634",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/june-09-2010/joint-senate-and-assembly-standing-committee-s-7302a-6634"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4QHJNR2GAdQYvzx",
+	"json": "{\"id\":\"4QHJNR2GAdQYvzx\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-holds-listening-session-magnet-sports-lounge\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-holds-listening-session-magnet-sports-lounge\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847666,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-holds-listening-session-magnet-sports-lounge",
+	"url": "https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-holds-listening-session-magnet-sports-lounge"
+}

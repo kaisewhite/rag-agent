@@ -1,0 +1,9 @@
+{
+	"id": "VNMy6i9at0NxR1t",
+	"json": "{\"id\":\"VNMy6i9at0NxR1t\",\"url\":\"https://www.nysenate.gov/legislation/laws/MISC\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/MISC\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569876364,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/MISC",
+	"url": "https://www.nysenate.gov/legislation/laws/MISC"
+}

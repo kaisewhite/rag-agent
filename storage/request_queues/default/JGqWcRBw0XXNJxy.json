@@ -1,0 +1,9 @@
+{
+	"id": "JGqWcRBw0XXNJxy",
+	"json": "{\"id\":\"JGqWcRBw0XXNJxy\",\"url\":\"https://www.nysenate.gov/senators/michael-gianaris/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/michael-gianaris/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569638729,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/michael-gianaris/district",
+	"url": "https://www.nysenate.gov/senators/michael-gianaris/district"
+}

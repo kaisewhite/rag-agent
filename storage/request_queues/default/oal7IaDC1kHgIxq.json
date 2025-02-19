@@ -1,0 +1,9 @@
+{
+	"id": "oal7IaDC1kHgIxq",
+	"json": "{\"id\":\"oal7IaDC1kHgIxq\",\"url\":\"https://www.nysenate.gov/issues/tropical-storm-isaias\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/tropical-storm-isaias\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740962,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/tropical-storm-isaias",
+	"url": "https://www.nysenate.gov/issues/tropical-storm-isaias"
+}

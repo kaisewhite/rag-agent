@@ -1,0 +1,9 @@
+{
+	"id": "McUr2vwKoFu8TS5",
+	"json": "{\"id\":\"McUr2vwKoFu8TS5\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/michael-gianaris/new-york-law-journal-new-york-legislature-oks-automatic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/michael-gianaris/new-york-law-journal-new-york-legislature-oks-automatic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570728689,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/michael-gianaris/new-york-law-journal-new-york-legislature-oks-automatic",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/michael-gianaris/new-york-law-journal-new-york-legislature-oks-automatic"
+}

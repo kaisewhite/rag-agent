@@ -1,0 +1,9 @@
+{
+	"id": "ZsZpZ6qhOoZYTIy",
+	"json": "{\"id\":\"ZsZpZ6qhOoZYTIy\",\"url\":\"https://www.nysenate.gov/questionnaires/roxanne-j-persaud/latest-sd19-weekly-e-newsletters\",\"loadedUrl\":\"https://www.nysenate.gov/questionnaires/roxanne-j-persaud/latest-sd19-weekly-e-newsletters\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/roxanne-j-persaud/latest-sd19-weekly-e-newsletters\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:57:54.602Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/roxanne-j-persaud/latest-sd19-weekly-e-newsletters",
+	"url": "https://www.nysenate.gov/questionnaires/roxanne-j-persaud/latest-sd19-weekly-e-newsletters"
+}

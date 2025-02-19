@@ -1,0 +1,9 @@
+{
+	"id": "WLNIXrc7tNm0gLT",
+	"json": "{\"id\":\"WLNIXrc7tNm0gLT\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/senate-republican-majority-plan-agriculture-and-jobs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/senate-republican-majority-plan-agriculture-and-jobs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707175,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/senate-republican-majority-plan-agriculture-and-jobs",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/senate-republican-majority-plan-agriculture-and-jobs"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "poAFPlt8w1IFi7g",
+	"json": "{\"id\":\"poAFPlt8w1IFi7g\",\"url\":\"https://www.nysenate.gov/issues/family-issues\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/family-issues\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571682799,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/family-issues",
+	"url": "https://www.nysenate.gov/issues/family-issues"
+}

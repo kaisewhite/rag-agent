@@ -1,0 +1,9 @@
+{
+	"id": "HiDqF5sle6k27bZ",
+	"json": "{\"id\":\"HiDqF5sle6k27bZ\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-17-2010/water-quality-nassau-county\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-17-2010/water-quality-nassau-county\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808630,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-17-2010/water-quality-nassau-county",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-17-2010/water-quality-nassau-county"
+}

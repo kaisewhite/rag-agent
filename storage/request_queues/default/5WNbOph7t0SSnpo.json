@@ -1,0 +1,9 @@
+{
+	"id": "5WNbOph7t0SSnpo",
+	"json": "{\"id\":\"5WNbOph7t0SSnpo\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-20-2018/police-service-area-2psa2-community-affairs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-20-2018/police-service-area-2psa2-community-affairs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246441,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-20-2018/police-service-area-2psa2-community-affairs",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-20-2018/police-service-area-2psa2-community-affairs"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "9wpfeKhDnmXzUx7",
+	"json": "{\"id\":\"9wpfeKhDnmXzUx7\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/letter-nys-dot-route-9a\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/letter-nys-dot-route-9a\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570888151,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/letter-nys-dot-route-9a",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/letter-nys-dot-route-9a"
+}

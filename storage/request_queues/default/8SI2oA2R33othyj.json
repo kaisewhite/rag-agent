@@ -1,0 +1,9 @@
+{
+	"id": "8SI2oA2R33othyj",
+	"json": "{\"id\":\"8SI2oA2R33othyj\",\"url\":\"https://www.nysenate.gov/sites/default/files/robert_lind.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/robert_lind.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716538,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/robert_lind.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/robert_lind.pdf"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3GhOuq9zsRWnEMP",
+	"json": "{\"id\":\"3GhOuq9zsRWnEMP\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/586_ny_state_constitution_-_generic_version2.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/586_ny_state_constitution_-_generic_version2.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569562276,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/586_ny_state_constitution_-_generic_version2.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/586_ny_state_constitution_-_generic_version2.pdf"
+}

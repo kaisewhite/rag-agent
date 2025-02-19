@@ -1,0 +1,9 @@
+{
+	"id": "0ZPQIMSb3ygMUTx",
+	"json": "{\"id\":\"0ZPQIMSb3ygMUTx\",\"url\":\"https://www.nysenate.gov/issues/confronting-anti-semitism\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/confronting-anti-semitism\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571293548,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/confronting-anti-semitism",
+	"url": "https://www.nysenate.gov/issues/confronting-anti-semitism"
+}

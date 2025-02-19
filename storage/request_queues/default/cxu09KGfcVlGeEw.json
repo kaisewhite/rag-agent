@@ -1,0 +1,9 @@
+{
+	"id": "cxu09KGfcVlGeEw",
+	"json": "{\"id\":\"cxu09KGfcVlGeEw\",\"url\":\"https://www.nysenate.gov/legislation/laws/TAX/A24-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/TAX/A24-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569984690,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/TAX/A24-A",
+	"url": "https://www.nysenate.gov/legislation/laws/TAX/A24-A"
+}

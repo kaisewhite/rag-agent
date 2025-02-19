@@ -1,0 +1,9 @@
+{
+	"id": "PDnr7EPPru2sGb4",
+	"json": "{\"id\":\"PDnr7EPPru2sGb4\",\"url\":\"https://www.nysenate.gov/issues/bond-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/bond-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695476,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/bond-act",
+	"url": "https://www.nysenate.gov/issues/bond-act"
+}

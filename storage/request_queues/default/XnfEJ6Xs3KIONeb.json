@@ -1,0 +1,9 @@
+{
+	"id": "XnfEJ6Xs3KIONeb",
+	"json": "{\"id\":\"XnfEJ6Xs3KIONeb\",\"url\":\"https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/april-12-2011/corporations-authorities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/april-12-2011/corporations-authorities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741828,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/april-12-2011/corporations-authorities",
+	"url": "https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/april-12-2011/corporations-authorities"
+}

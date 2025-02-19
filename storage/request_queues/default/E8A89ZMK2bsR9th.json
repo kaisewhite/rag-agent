@@ -1,0 +1,9 @@
+{
+	"id": "E8A89ZMK2bsR9th",
+	"json": "{\"id\":\"E8A89ZMK2bsR9th\",\"url\":\"https://www.nysenate.gov/issues/community-services-elderly\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/community-services-elderly\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698369,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/community-services-elderly",
+	"url": "https://www.nysenate.gov/issues/community-services-elderly"
+}

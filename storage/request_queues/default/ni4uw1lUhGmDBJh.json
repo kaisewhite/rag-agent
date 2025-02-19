@@ -1,0 +1,9 @@
+{
+	"id": "ni4uw1lUhGmDBJh",
+	"json": "{\"id\":\"ni4uw1lUhGmDBJh\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2022/kevin-thomas/new-york-state-senator-proposes-criminalise-crypto-frauds\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2022/kevin-thomas/new-york-state-senator-proposes-criminalise-crypto-frauds\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740935,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2022/kevin-thomas/new-york-state-senator-proposes-criminalise-crypto-frauds",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2022/kevin-thomas/new-york-state-senator-proposes-criminalise-crypto-frauds"
+}

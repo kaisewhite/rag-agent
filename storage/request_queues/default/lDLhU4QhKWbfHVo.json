@@ -1,0 +1,9 @@
+{
+	"id": "lDLhU4QhKWbfHVo",
+	"json": "{\"id\":\"lDLhU4QhKWbfHVo\",\"url\":\"https://www.nysenate.gov/sites/default/files/articles/attachments/3948_persaud_521_2015_gang_prevention.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/articles/attachments/3948_persaud_521_2015_gang_prevention.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570279040,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/articles/attachments/3948_persaud_521_2015_gang_prevention.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/articles/attachments/3948_persaud_521_2015_gang_prevention.pdf"
+}

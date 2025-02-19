@@ -1,0 +1,9 @@
+{
+	"id": "hGKFLpTC6FCidUS",
+	"json": "{\"id\":\"hGKFLpTC6FCidUS\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-passes-bill-protect-businesses-job-killing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-passes-bill-protect-businesses-job-killing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686725,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-passes-bill-protect-businesses-job-killing",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-passes-bill-protect-businesses-job-killing"
+}

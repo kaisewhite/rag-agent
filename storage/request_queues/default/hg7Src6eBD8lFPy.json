@@ -1,0 +1,9 @@
+{
+	"id": "hg7Src6eBD8lFPy",
+	"json": "{\"id\":\"hg7Src6eBD8lFPy\",\"url\":\"https://www.nysenate.gov/issues/veterans-and-military-families\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/veterans-and-military-families\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570981476,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/veterans-and-military-families",
+	"url": "https://www.nysenate.gov/issues/veterans-and-military-families"
+}

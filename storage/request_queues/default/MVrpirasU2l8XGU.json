@@ -1,0 +1,9 @@
+{
+	"id": "MVrpirasU2l8XGU",
+	"json": "{\"id\":\"MVrpirasU2l8XGU\",\"url\":\"https://www.nysenate.gov/issues/nyaw\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nyaw\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770683,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nyaw",
+	"url": "https://www.nysenate.gov/issues/nyaw"
+}

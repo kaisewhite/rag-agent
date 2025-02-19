@@ -1,0 +1,9 @@
+{
+	"id": "fLUHJEjN7OL8U8g",
+	"json": "{\"id\":\"fLUHJEjN7OL8U8g\",\"url\":\"https://www.nysenate.gov/issues/escooters\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/escooters\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571355881,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/escooters",
+	"url": "https://www.nysenate.gov/issues/escooters"
+}

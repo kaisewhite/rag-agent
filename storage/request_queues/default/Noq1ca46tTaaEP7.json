@@ -1,0 +1,9 @@
+{
+	"id": "Noq1ca46tTaaEP7",
+	"json": "{\"id\":\"Noq1ca46tTaaEP7\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/john-w-mannion/senator-john-w-mannion-continues-record-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/john-w-mannion/senator-john-w-mannion-continues-record-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570987145,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/john-w-mannion/senator-john-w-mannion-continues-record-funding",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/john-w-mannion/senator-john-w-mannion-continues-record-funding"
+}

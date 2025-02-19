@@ -1,0 +1,9 @@
+{
+	"id": "XHg0Dx8oF0Fng68",
+	"json": "{\"id\":\"XHg0Dx8oF0Fng68\",\"url\":\"https://www.nysenate.gov/senators/mario-r-mattera/newsroom\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/mario-r-mattera/newsroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569652530,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/mario-r-mattera/newsroom",
+	"url": "https://www.nysenate.gov/senators/mario-r-mattera/newsroom"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "d8pxw7oxvXUQhvk",
+	"json": "{\"id\":\"d8pxw7oxvXUQhvk\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVP/A14-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVP/A14-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569898474,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVP/A14-A",
+	"url": "https://www.nysenate.gov/legislation/laws/CVP/A14-A"
+}

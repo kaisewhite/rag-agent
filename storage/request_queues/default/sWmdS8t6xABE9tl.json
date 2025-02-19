@@ -1,0 +1,9 @@
+{
+	"id": "sWmdS8t6xABE9tl",
+	"json": "{\"id\":\"sWmdS8t6xABE9tl\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-14-2017/bergen-beach-civic-association-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-14-2017/bergen-beach-civic-association-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246385,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-14-2017/bergen-beach-civic-association-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-14-2017/bergen-beach-civic-association-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "r3nUL6cWphf6h55",
+	"json": "{\"id\":\"r3nUL6cWphf6h55\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/david-carlucci/governor-cuomo-signs-senator-carlucci-regulatory-reform\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/david-carlucci/governor-cuomo-signs-senator-carlucci-regulatory-reform\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686729,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/david-carlucci/governor-cuomo-signs-senator-carlucci-regulatory-reform",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/david-carlucci/governor-cuomo-signs-senator-carlucci-regulatory-reform"
+}

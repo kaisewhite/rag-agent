@@ -1,0 +1,9 @@
+{
+	"id": "fvJV42Z26K9A4mA",
+	"json": "{\"id\":\"fvJV42Z26K9A4mA\",\"url\":\"https://www.nysenate.gov/legislation/laws/NAV\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/NAV\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/NAV\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:52:26.056Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/NAV",
+	"url": "https://www.nysenate.gov/legislation/laws/NAV"
+}

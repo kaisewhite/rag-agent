@@ -1,0 +1,9 @@
+{
+	"id": "oojLpM2Lq5fpLfU",
+	"json": "{\"id\":\"oojLpM2Lq5fpLfU\",\"url\":\"https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/march-02-2020/corporations-authorities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/march-02-2020/corporations-authorities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741801,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/march-02-2020/corporations-authorities",
+	"url": "https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/march-02-2020/corporations-authorities"
+}

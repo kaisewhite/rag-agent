@@ -1,0 +1,9 @@
+{
+	"id": "kDva8oU7BKDKOZv",
+	"json": "{\"id\":\"kDva8oU7BKDKOZv\",\"url\":\"https://www.nysenate.gov/issues/national-grid\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/national-grid\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284278,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/national-grid",
+	"url": "https://www.nysenate.gov/issues/national-grid"
+}

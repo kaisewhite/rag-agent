@@ -1,0 +1,9 @@
+{
+	"id": "iqQlrRMKcgCtzOZ",
+	"json": "{\"id\":\"iqQlrRMKcgCtzOZ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/legislation-provide-13-weeks-extended-unemployment\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/legislation-provide-13-weeks-extended-unemployment\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781277,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/legislation-provide-13-weeks-extended-unemployment",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/legislation-provide-13-weeks-extended-unemployment"
+}

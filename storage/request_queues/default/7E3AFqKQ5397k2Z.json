@@ -1,0 +1,9 @@
+{
+	"id": "7E3AFqKQ5397k2Z",
+	"json": "{\"id\":\"7E3AFqKQ5397k2Z\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/george-borrello/statement-senator-george-borrello-fiscal-year-2023\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/george-borrello/statement-senator-george-borrello-fiscal-year-2023\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571286645,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/george-borrello/statement-senator-george-borrello-fiscal-year-2023",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/george-borrello/statement-senator-george-borrello-fiscal-year-2023"
+}

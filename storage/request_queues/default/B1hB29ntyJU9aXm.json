@@ -1,0 +1,9 @@
+{
+	"id": "B1hB29ntyJU9aXm",
+	"json": "{\"id\":\"B1hB29ntyJU9aXm\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/elementary-and-secondary-education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/elementary-and-secondary-education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781274,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/elementary-and-secondary-education",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/elementary-and-secondary-education"
+}

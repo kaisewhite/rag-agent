@@ -1,0 +1,9 @@
+{
+	"id": "l2WnG4bJQWvCBgN",
+	"json": "{\"id\":\"l2WnG4bJQWvCBgN\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-03-2018/constituent-services-senator-persauds-district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-03-2018/constituent-services-senator-persauds-district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246454,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-03-2018/constituent-services-senator-persauds-district",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-03-2018/constituent-services-senator-persauds-district"
+}

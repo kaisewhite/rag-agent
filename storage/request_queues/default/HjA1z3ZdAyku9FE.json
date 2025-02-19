@@ -1,0 +1,9 @@
+{
+	"id": "HjA1z3ZdAyku9FE",
+	"json": "{\"id\":\"HjA1z3ZdAyku9FE\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-23-2019/public-hearing-examine-how-code-enforcement-across-new-york-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-23-2019/public-hearing-examine-how-code-enforcement-across-new-york-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798840,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-23-2019/public-hearing-examine-how-code-enforcement-across-new-york-0",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-23-2019/public-hearing-examine-how-code-enforcement-across-new-york-0"
+}

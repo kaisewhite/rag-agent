@@ -1,0 +1,9 @@
+{
+	"id": "EFy7vUb7XjGjMaB",
+	"json": "{\"id\":\"EFy7vUb7XjGjMaB\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/first-nation-legislation-limiting-social-media-algorithmic-reach\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/first-nation-legislation-limiting-social-media-algorithmic-reach\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569584532,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/first-nation-legislation-limiting-social-media-algorithmic-reach",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/first-nation-legislation-limiting-social-media-algorithmic-reach"
+}

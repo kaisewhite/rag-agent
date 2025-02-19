@@ -1,0 +1,9 @@
+{
+	"id": "s5KasUlWzG0i7bt",
+	"json": "{\"id\":\"s5KasUlWzG0i7bt\",\"url\":\"https://www.nysenate.gov/issues/straphangers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/straphangers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571429422,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/straphangers",
+	"url": "https://www.nysenate.gov/issues/straphangers"
+}

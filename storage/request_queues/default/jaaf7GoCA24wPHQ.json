@@ -1,0 +1,9 @@
+{
+	"id": "jaaf7GoCA24wPHQ",
+	"json": "{\"id\":\"jaaf7GoCA24wPHQ\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/june-20-2014/rules-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/june-20-2014/rules-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839923,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/june-20-2014/rules-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/june-20-2014/rules-meeting"
+}

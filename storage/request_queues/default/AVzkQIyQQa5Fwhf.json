@@ -1,0 +1,9 @@
+{
+	"id": "AVzkQIyQQa5Fwhf",
+	"json": "{\"id\":\"AVzkQIyQQa5Fwhf\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/june-01-2016/examination-credit-and-capital-access-minority-and-women\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/june-01-2016/examination-credit-and-capital-access-minority-and-women\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706971,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/june-01-2016/examination-credit-and-capital-access-minority-and-women",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/june-01-2016/examination-credit-and-capital-access-minority-and-women"
+}

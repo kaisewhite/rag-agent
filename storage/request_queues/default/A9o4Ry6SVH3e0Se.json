@@ -1,0 +1,9 @@
+{
+	"id": "A9o4Ry6SVH3e0Se",
+	"json": "{\"id\":\"A9o4Ry6SVH3e0Se\",\"url\":\"https://www.nysenate.gov/senators/simcha-felder/thankful\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/simcha-felder/thankful\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569635182,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/simcha-felder/thankful",
+	"url": "https://www.nysenate.gov/senators/simcha-felder/thankful"
+}

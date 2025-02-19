@@ -1,0 +1,9 @@
+{
+	"id": "ig7674Se7WNSlpW",
+	"json": "{\"id\":\"ig7674Se7WNSlpW\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/march-20-2017/veterans-job-and-resource-fair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/march-20-2017/veterans-job-and-resource-fair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019327,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/march-20-2017/veterans-job-and-resource-fair",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/march-20-2017/veterans-job-and-resource-fair"
+}

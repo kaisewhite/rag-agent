@@ -1,0 +1,9 @@
+{
+	"id": "anHf8KN20z4NAyh",
+	"json": "{\"id\":\"anHf8KN20z4NAyh\",\"url\":\"https://www.nysenate.gov/issues/tenants-rights-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/tenants-rights-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570898353,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/tenants-rights-0",
+	"url": "https://www.nysenate.gov/issues/tenants-rights-0"
+}

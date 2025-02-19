@@ -1,0 +1,9 @@
+{
+	"id": "EevmJqf6g0DmEyQ",
+	"json": "{\"id\":\"EevmJqf6g0DmEyQ\",\"url\":\"https://www.nysenate.gov/issues/honoring-local-heroes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/honoring-local-heroes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571570729,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/honoring-local-heroes",
+	"url": "https://www.nysenate.gov/issues/honoring-local-heroes"
+}

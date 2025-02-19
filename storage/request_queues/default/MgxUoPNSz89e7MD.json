@@ -1,0 +1,9 @@
+{
+	"id": "MgxUoPNSz89e7MD",
+	"json": "{\"id\":\"MgxUoPNSz89e7MD\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/february-03-2017/free-rockaway-legal-clinic-women\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/february-03-2017/free-rockaway-legal-clinic-women\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019321,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/february-03-2017/free-rockaway-legal-clinic-women",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/february-03-2017/free-rockaway-legal-clinic-women"
+}

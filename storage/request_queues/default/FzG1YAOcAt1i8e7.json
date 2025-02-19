@@ -1,0 +1,9 @@
+{
+	"id": "FzG1YAOcAt1i8e7",
+	"json": "{\"id\":\"FzG1YAOcAt1i8e7\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/simcha-felder/felder-praises-federal-judge-ruling-nyc-special-ed\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/simcha-felder/felder-praises-federal-judge-ruling-nyc-special-ed\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570194132,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/simcha-felder/felder-praises-federal-judge-ruling-nyc-special-ed",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/simcha-felder/felder-praises-federal-judge-ruling-nyc-special-ed"
+}

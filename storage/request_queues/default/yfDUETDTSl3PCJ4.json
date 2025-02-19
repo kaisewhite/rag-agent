@@ -1,0 +1,9 @@
+{
+	"id": "yfDUETDTSl3PCJ4",
+	"json": "{\"id\":\"yfDUETDTSl3PCJ4\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/alessandra-biaggi/biaggi-looks-revive-state-senate-ethics-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/alessandra-biaggi/biaggi-looks-revive-state-senate-ethics-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770306,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/alessandra-biaggi/biaggi-looks-revive-state-senate-ethics-committee",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/alessandra-biaggi/biaggi-looks-revive-state-senate-ethics-committee"
+}

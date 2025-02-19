@@ -1,0 +1,9 @@
+{
+	"id": "QPwklu4rciZOmq0",
+	"json": "{\"id\":\"QPwklu4rciZOmq0\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/albany-announces-157m-li-road-paving-projects\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/albany-announces-157m-li-road-paving-projects\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571567976,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/albany-announces-157m-li-road-paving-projects",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/albany-announces-157m-li-road-paving-projects"
+}

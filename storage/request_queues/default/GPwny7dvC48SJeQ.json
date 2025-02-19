@@ -1,0 +1,9 @@
+{
+	"id": "GPwny7dvC48SJeQ",
+	"json": "{\"id\":\"GPwny7dvC48SJeQ\",\"url\":\"https://www.nysenate.gov/issues/elmhurst\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/elmhurst\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571642489,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/elmhurst",
+	"url": "https://www.nysenate.gov/issues/elmhurst"
+}

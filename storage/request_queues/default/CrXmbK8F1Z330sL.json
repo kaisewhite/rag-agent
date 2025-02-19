@@ -1,0 +1,9 @@
+{
+	"id": "CrXmbK8F1Z330sL",
+	"json": "{\"id\":\"CrXmbK8F1Z330sL\",\"url\":\"https://www.nysenate.gov/calendar/meetings/agriculture/june-05-2018/agriculture-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/agriculture/june-05-2018/agriculture-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707125,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/agriculture/june-05-2018/agriculture-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/agriculture/june-05-2018/agriculture-meeting"
+}

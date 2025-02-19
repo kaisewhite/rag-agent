@@ -1,0 +1,9 @@
+{
+	"id": "dqYXRX95vwGNNij",
+	"json": "{\"id\":\"dqYXRX95vwGNNij\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-25-2018/community-conversation-metropolitan\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-25-2018/community-conversation-metropolitan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246576,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-25-2018/community-conversation-metropolitan",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-25-2018/community-conversation-metropolitan"
+}

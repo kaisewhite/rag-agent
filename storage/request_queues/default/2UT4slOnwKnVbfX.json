@@ -1,0 +1,9 @@
+{
+	"id": "2UT4slOnwKnVbfX",
+	"json": "{\"id\":\"2UT4slOnwKnVbfX\",\"url\":\"https://www.nysenate.gov/issues/one-house-agriculture-budget-proposals\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/one-house-agriculture-budget-proposals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707157,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/one-house-agriculture-budget-proposals",
+	"url": "https://www.nysenate.gov/issues/one-house-agriculture-budget-proposals"
+}

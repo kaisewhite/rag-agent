@@ -1,0 +1,9 @@
+{
+	"id": "d6lXFTSDKitc1sU",
+	"json": "{\"id\":\"d6lXFTSDKitc1sU\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/june-29-2019/caribbean-carnival-exclusive-preview\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/june-29-2019/caribbean-carnival-exclusive-preview\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019420,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/june-29-2019/caribbean-carnival-exclusive-preview",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/june-29-2019/caribbean-carnival-exclusive-preview"
+}

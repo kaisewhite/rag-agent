@@ -1,0 +1,9 @@
+{
+	"id": "i2wiiSH0cLxr0pB",
+	"json": "{\"id\":\"i2wiiSH0cLxr0pB\",\"url\":\"https://www.nysenate.gov/senators/gustavo-rivera/thankful\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/gustavo-rivera/thankful\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569666563,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/gustavo-rivera/thankful",
+	"url": "https://www.nysenate.gov/senators/gustavo-rivera/thankful"
+}

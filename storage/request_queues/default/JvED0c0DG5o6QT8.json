@@ -1,0 +1,9 @@
+{
+	"id": "JvED0c0DG5o6QT8",
+	"json": "{\"id\":\"JvED0c0DG5o6QT8\",\"url\":\"https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/march-28-2016/corporations-authorities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/march-28-2016/corporations-authorities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741816,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/march-28-2016/corporations-authorities",
+	"url": "https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/march-28-2016/corporations-authorities"
+}

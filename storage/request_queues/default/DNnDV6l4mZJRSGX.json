@@ -1,0 +1,9 @@
+{
+	"id": "DNnDV6l4mZJRSGX",
+	"json": "{\"id\":\"DNnDV6l4mZJRSGX\",\"url\":\"https://www.nysenate.gov/issues/electricity\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/electricity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707180,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/electricity",
+	"url": "https://www.nysenate.gov/issues/electricity"
+}

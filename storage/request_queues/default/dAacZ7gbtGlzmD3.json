@@ -1,0 +1,9 @@
+{
+	"id": "dAacZ7gbtGlzmD3",
+	"json": "{\"id\":\"dAacZ7gbtGlzmD3\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/fema-application-deadline-extended-until-january-28\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/fema-application-deadline-extended-until-january-28\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847665,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/fema-application-deadline-extended-until-january-28",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/fema-application-deadline-extended-until-january-28"
+}

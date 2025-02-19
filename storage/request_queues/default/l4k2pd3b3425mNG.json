@@ -1,0 +1,9 @@
+{
+	"id": "l4k2pd3b3425mNG",
+	"json": "{\"id\":\"l4k2pd3b3425mNG\",\"url\":\"https://www.nysenate.gov/senators/jessica-ramos/about\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/jessica-ramos/about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569665043,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/jessica-ramos/about",
+	"url": "https://www.nysenate.gov/senators/jessica-ramos/about"
+}

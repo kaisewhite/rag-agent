@@ -1,0 +1,9 @@
+{
+	"id": "ZoGdoKmZ307zSf4",
+	"json": "{\"id\":\"ZoGdoKmZ307zSf4\",\"url\":\"https://www.nysenate.gov/issues/local-government-officials-general-government\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/local-government-officials-general-government\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781104,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/local-government-officials-general-government",
+	"url": "https://www.nysenate.gov/issues/local-government-officials-general-government"
+}

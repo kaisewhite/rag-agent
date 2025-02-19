@@ -1,0 +1,9 @@
+{
+	"id": "9x7VJ4OSXF8SC2O",
+	"json": "{\"id\":\"9x7VJ4OSXF8SC2O\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S512\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S512\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571128537,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S512",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S512"
+}

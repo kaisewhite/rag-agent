@@ -1,0 +1,9 @@
+{
+	"id": "0YQjUN2bRK1qfvo",
+	"json": "{\"id\":\"0YQjUN2bRK1qfvo\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Animal%20Advocacy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Animal+Advocacy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739572375474,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Animal+Advocacy",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Animal%20Advocacy"
+}

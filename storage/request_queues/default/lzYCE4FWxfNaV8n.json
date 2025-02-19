@@ -1,0 +1,9 @@
+{
+	"id": "lzYCE4FWxfNaV8n",
+	"json": "{\"id\":\"lzYCE4FWxfNaV8n\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-joins-sewanhaka-football-team-homecoming\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-joins-sewanhaka-football-team-homecoming\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847603,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-joins-sewanhaka-football-team-homecoming",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-joins-sewanhaka-football-team-homecoming"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "nvtz3iPykJjsaH2",
+	"json": "{\"id\":\"nvtz3iPykJjsaH2\",\"url\":\"https://www.nysenate.gov/issues/bike-lanes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/bike-lanes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570731148,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/bike-lanes",
+	"url": "https://www.nysenate.gov/issues/bike-lanes"
+}

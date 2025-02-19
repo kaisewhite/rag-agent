@@ -1,0 +1,9 @@
+{
+	"id": "U38niC8wW4t1R0I",
+	"json": "{\"id\":\"U38niC8wW4t1R0I\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2010/suzi-oppenheimer/maintaining-educational-excellence-tough-times\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2010/suzi-oppenheimer/maintaining-educational-excellence-tough-times\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755189,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2010/suzi-oppenheimer/maintaining-educational-excellence-tough-times",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2010/suzi-oppenheimer/maintaining-educational-excellence-tough-times"
+}

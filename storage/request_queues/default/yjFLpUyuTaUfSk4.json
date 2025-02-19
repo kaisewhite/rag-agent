@@ -1,0 +1,9 @@
+{
+	"id": "yjFLpUyuTaUfSk4",
+	"json": "{\"id\":\"yjFLpUyuTaUfSk4\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-attends-mineola-junior-fd-installation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-attends-mineola-junior-fd-installation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847811,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-attends-mineola-junior-fd-installation",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-attends-mineola-junior-fd-installation"
+}

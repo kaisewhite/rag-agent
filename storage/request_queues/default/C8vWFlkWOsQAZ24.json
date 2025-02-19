@@ -1,0 +1,9 @@
+{
+	"id": "C8vWFlkWOsQAZ24",
+	"json": "{\"id\":\"C8vWFlkWOsQAZ24\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/todd-kaminsky/new-york-hotels-may-soon-have-ditch-environmentally\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/todd-kaminsky/new-york-hotels-may-soon-have-ditch-environmentally\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770681,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/todd-kaminsky/new-york-hotels-may-soon-have-ditch-environmentally",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/todd-kaminsky/new-york-hotels-may-soon-have-ditch-environmentally"
+}

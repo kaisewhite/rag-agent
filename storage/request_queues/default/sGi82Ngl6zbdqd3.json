@@ -1,0 +1,9 @@
+{
+	"id": "sGi82Ngl6zbdqd3",
+	"json": "{\"id\":\"sGi82Ngl6zbdqd3\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/stachowski-calls-senate-act-bill-rescinding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/stachowski-calls-senate-act-bill-rescinding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734389,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/stachowski-calls-senate-act-bill-rescinding",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/stachowski-calls-senate-act-bill-rescinding"
+}

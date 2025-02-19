@@ -1,0 +1,9 @@
+{
+	"id": "Qo1gkHohDU5wYZi",
+	"json": "{\"id\":\"Qo1gkHohDU5wYZi\",\"url\":\"https://www.nysenate.gov/issues/gold-star-families\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/gold-star-families\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855408,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/gold-star-families",
+	"url": "https://www.nysenate.gov/issues/gold-star-families"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3o7o6wYvAjJyqKQ",
+	"json": "{\"id\":\"3o7o6wYvAjJyqKQ\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/ira-millstein-assemblyman-brodsky-governor-paterson-speaker\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/ira-millstein-assemblyman-brodsky-governor-paterson-speaker\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741853,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/ira-millstein-assemblyman-brodsky-governor-paterson-speaker",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/ira-millstein-assemblyman-brodsky-governor-paterson-speaker"
+}

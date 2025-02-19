@@ -1,0 +1,9 @@
+{
+	"id": "zGB3SUJVX4t2P7V",
+	"json": "{\"id\":\"zGB3SUJVX4t2P7V\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBB/A1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBB/A1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569950163,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBB/A1",
+	"url": "https://www.nysenate.gov/legislation/laws/PBB/A1"
+}

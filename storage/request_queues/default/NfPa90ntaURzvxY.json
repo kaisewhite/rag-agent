@@ -1,0 +1,9 @@
+{
+	"id": "NfPa90ntaURzvxY",
+	"json": "{\"id\":\"NfPa90ntaURzvxY\",\"url\":\"https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/january-27-2025/housing?page=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/january-27-2025/housing?page=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571340820,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/january-27-2025/housing?page=1",
+	"url": "https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/january-27-2025/housing?page=1"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "8ASW69Fqo2KHFGQ",
+	"json": "{\"id\":\"8ASW69Fqo2KHFGQ\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/A5100\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/A5100\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571397239,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/A5100",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/A5100"
+}

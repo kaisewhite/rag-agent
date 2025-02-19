@@ -1,0 +1,9 @@
+{
+	"id": "7MfIWKZ4za0p6nW",
+	"json": "{\"id\":\"7MfIWKZ4za0p6nW\",\"url\":\"https://www.nysenate.gov/questionnaires/steven-d-rhoads/please-join-rhoads-report-email-newsletter-today\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/steven-d-rhoads/please-join-rhoads-report-email-newsletter-today\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569667231,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/steven-d-rhoads/please-join-rhoads-report-email-newsletter-today",
+	"url": "https://www.nysenate.gov/questionnaires/steven-d-rhoads/please-join-rhoads-report-email-newsletter-today"
+}

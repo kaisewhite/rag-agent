@@ -1,0 +1,9 @@
+{
+	"id": "5KUVbGQPDRKONjd",
+	"json": "{\"id\":\"5KUVbGQPDRKONjd\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2023/andrew-j-lanza/home-energy-assistance-program-heap\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2023/andrew-j-lanza/home-energy-assistance-program-heap\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571150316,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2023/andrew-j-lanza/home-energy-assistance-program-heap",
+	"url": "https://www.nysenate.gov/newsroom/articles/2023/andrew-j-lanza/home-energy-assistance-program-heap"
+}

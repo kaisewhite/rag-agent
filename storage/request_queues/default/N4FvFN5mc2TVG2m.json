@@ -1,0 +1,9 @@
+{
+	"id": "N4FvFN5mc2TVG2m",
+	"json": "{\"id\":\"N4FvFN5mc2TVG2m\",\"url\":\"https://www.nysenate.gov/sites/default/files/nyu_parole_advocacy_and_epic_testimony_re_elder_parole_and_fair_timely_parole_1.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/nyu_parole_advocacy_and_epic_testimony_re_elder_parole_and_fair_timely_parole_1.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716535,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/nyu_parole_advocacy_and_epic_testimony_re_elder_parole_and_fair_timely_parole_1.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/nyu_parole_advocacy_and_epic_testimony_re_elder_parole_and_fair_timely_parole_1.pdf"
+}

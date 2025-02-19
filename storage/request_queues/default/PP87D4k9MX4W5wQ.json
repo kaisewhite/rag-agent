@@ -1,0 +1,9 @@
+{
+	"id": "PP87D4k9MX4W5wQ",
+	"json": "{\"id\":\"PP87D4k9MX4W5wQ\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S4089\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S4089\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571558401,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S4089",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S4089"
+}

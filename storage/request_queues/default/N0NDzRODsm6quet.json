@@ -1,0 +1,9 @@
+{
+	"id": "N0NDzRODsm6quet",
+	"json": "{\"id\":\"N0NDzRODsm6quet\",\"url\":\"https://www.nysenate.gov/issues/new-york-state-parks\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-york-state-parks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770645,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-york-state-parks",
+	"url": "https://www.nysenate.gov/issues/new-york-state-parks"
+}

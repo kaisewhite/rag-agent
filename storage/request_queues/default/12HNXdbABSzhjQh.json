@@ -1,0 +1,9 @@
+{
+	"id": "12HNXdbABSzhjQh",
+	"json": "{\"id\":\"12HNXdbABSzhjQh\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/october-17-2019/public-hearing-policing-s3695-repeals-provisions-relating\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/october-17-2019/public-hearing-policing-s3695-repeals-provisions-relating\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725859,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/october-17-2019/public-hearing-policing-s3695-repeals-provisions-relating",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/october-17-2019/public-hearing-policing-s3695-repeals-provisions-relating"
+}

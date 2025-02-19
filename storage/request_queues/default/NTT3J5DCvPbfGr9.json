@@ -1,0 +1,9 @@
+{
+	"id": "NTT3J5DCvPbfGr9",
+	"json": "{\"id\":\"NTT3J5DCvPbfGr9\",\"url\":\"https://www.nysenate.gov/issues/highways\",\"loadedUrl\":\"https://www.nysenate.gov/issues/highways\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/highways\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:19:28.028Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/highways",
+	"url": "https://www.nysenate.gov/issues/highways"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "wnb4tTkSGNzd7ZA",
+	"json": "{\"id\":\"wnb4tTkSGNzd7ZA\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-29-2019/public-hearing-examine-alternative-methods-financing-public\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-29-2019/public-hearing-examine-alternative-methods-financing-public\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755154,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-29-2019/public-hearing-examine-alternative-methods-financing-public",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-29-2019/public-hearing-examine-alternative-methods-financing-public"
+}

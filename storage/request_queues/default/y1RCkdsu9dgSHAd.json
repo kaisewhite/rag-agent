@@ -1,0 +1,9 @@
+{
+	"id": "y1RCkdsu9dgSHAd",
+	"json": "{\"id\":\"y1RCkdsu9dgSHAd\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2011/darrel-aubertine/2009-2010-session-report-new-york-state-legislative\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2011/darrel-aubertine/2009-2010-session-report-new-york-state-legislative\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695523,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2011/darrel-aubertine/2009-2010-session-report-new-york-state-legislative",
+	"url": "https://www.nysenate.gov/newsroom/articles/2011/darrel-aubertine/2009-2010-session-report-new-york-state-legislative"
+}

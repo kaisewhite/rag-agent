@@ -1,0 +1,9 @@
+{
+	"id": "GnY3Kv8cjKy0Z1r",
+	"json": "{\"id\":\"GnY3Kv8cjKy0Z1r\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/senate-passes-2019-20-budget-resolution-restore-integrity-reinvigorate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/senate-passes-2019-20-budget-resolution-restore-integrity-reinvigorate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781084,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/senate-passes-2019-20-budget-resolution-restore-integrity-reinvigorate",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/senate-passes-2019-20-budget-resolution-restore-integrity-reinvigorate"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "TOUhNSIzF4LWPmX",
+	"json": "{\"id\":\"TOUhNSIzF4LWPmX\",\"url\":\"https://www.nysenate.gov/legislation/bills/2017/S652\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2017/S652\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571104616,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2017/S652",
+	"url": "https://www.nysenate.gov/legislation/bills/2017/S652"
+}

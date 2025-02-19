@@ -1,0 +1,9 @@
+{
+	"id": "qxI5A3TGPRXuHBF",
+	"json": "{\"id\":\"qxI5A3TGPRXuHBF\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2019/psa2-community-council-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2019/psa2-community-council-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246991,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2019/psa2-community-council-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2019/psa2-community-council-monthly-meeting"
+}

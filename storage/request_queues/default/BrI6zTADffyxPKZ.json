@@ -1,0 +1,9 @@
+{
+	"id": "BrI6zTADffyxPKZ",
+	"json": "{\"id\":\"BrI6zTADffyxPKZ\",\"url\":\"https://www.nysenate.gov/sites/default/files/edwin_grant_ny_state_senate_hearing_testimony_sent_1.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/edwin_grant_ny_state_senate_hearing_testimony_sent_1.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716518,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/edwin_grant_ny_state_senate_hearing_testimony_sent_1.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/edwin_grant_ny_state_senate_hearing_testimony_sent_1.pdf"
+}

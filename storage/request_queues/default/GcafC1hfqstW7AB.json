@@ -1,0 +1,9 @@
+{
+	"id": "GcafC1hfqstW7AB",
+	"json": "{\"id\":\"GcafC1hfqstW7AB\",\"url\":\"https://www.nysenate.gov/newsroom/video/liz-krueger/sen-kruegers-2023-roundtable-boomers-and-seniors-session-ii-stay-put\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/video/liz-krueger/sen-kruegers-2023-roundtable-boomers-and-seniors-session-ii-stay-put\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/liz-krueger/sen-kruegers-2023-roundtable-boomers-and-seniors-session-ii-stay-put\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:12:41.793Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/liz-krueger/sen-kruegers-2023-roundtable-boomers-and-seniors-session-ii-stay-put",
+	"url": "https://www.nysenate.gov/newsroom/video/liz-krueger/sen-kruegers-2023-roundtable-boomers-and-seniors-session-ii-stay-put"
+}

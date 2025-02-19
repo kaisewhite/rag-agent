@@ -1,0 +1,9 @@
+{
+	"id": "pg828JZkRgJFuY1",
+	"json": "{\"id\":\"pg828JZkRgJFuY1\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2025/shelley-b-mayer/community-update-mayer-bills-passing-response-state-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2025/shelley-b-mayer/community-update-mayer-bills-passing-response-state-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569654600,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2025/shelley-b-mayer/community-update-mayer-bills-passing-response-state-state",
+	"url": "https://www.nysenate.gov/newsroom/articles/2025/shelley-b-mayer/community-update-mayer-bills-passing-response-state-state"
+}

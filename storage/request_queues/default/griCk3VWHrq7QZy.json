@@ -1,0 +1,9 @@
+{
+	"id": "griCk3VWHrq7QZy",
+	"json": "{\"id\":\"griCk3VWHrq7QZy\",\"url\":\"https://www.nysenate.gov/issues/protecting-second-amendment-rights\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/protecting-second-amendment-rights\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571666406,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/protecting-second-amendment-rights",
+	"url": "https://www.nysenate.gov/issues/protecting-second-amendment-rights"
+}

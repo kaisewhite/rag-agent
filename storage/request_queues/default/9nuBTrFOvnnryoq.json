@@ -1,0 +1,9 @@
+{
+	"id": "9nuBTrFOvnnryoq",
+	"json": "{\"id\":\"9nuBTrFOvnnryoq\",\"url\":\"https://www.nysenate.gov/newsroom/video/leroy-comrie/senator-comrie-2024-veterans-hall-fame\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/video/leroy-comrie/senator-comrie-2024-veterans-hall-fame\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/leroy-comrie/senator-comrie-2024-veterans-hall-fame\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:54:55.744Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/leroy-comrie/senator-comrie-2024-veterans-hall-fame",
+	"url": "https://www.nysenate.gov/newsroom/video/leroy-comrie/senator-comrie-2024-veterans-hall-fame"
+}

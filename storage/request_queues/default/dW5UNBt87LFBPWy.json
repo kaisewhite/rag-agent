@@ -1,0 +1,9 @@
+{
+	"id": "dW5UNBt87LFBPWy",
+	"json": "{\"id\":\"dW5UNBt87LFBPWy\",\"url\":\"https://www.nysenate.gov/sites/default/files/article/attachment/ice_knowyourrights.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/article/attachment/ice_knowyourrights.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569638739,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/article/attachment/ice_knowyourrights.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/article/attachment/ice_knowyourrights.pdf"
+}

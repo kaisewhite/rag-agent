@@ -1,0 +1,9 @@
+{
+	"id": "mVJ9lxL80oKhjZh",
+	"json": "{\"id\":\"mVJ9lxL80oKhjZh\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-cheers-national-grid-rate-decrease\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-cheers-national-grid-rate-decrease\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765721,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-cheers-national-grid-rate-decrease",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-cheers-national-grid-rate-decrease"
+}

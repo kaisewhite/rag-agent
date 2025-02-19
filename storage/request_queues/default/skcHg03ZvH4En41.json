@@ -1,0 +1,9 @@
+{
+	"id": "skcHg03ZvH4En41",
+	"json": "{\"id\":\"skcHg03ZvH4En41\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/october-28-2019/public-hearing-implementation-discovery-reform-s1509-part\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/october-28-2019/public-hearing-implementation-discovery-reform-s1509-part\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725857,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/october-28-2019/public-hearing-implementation-discovery-reform-s1509-part",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/october-28-2019/public-hearing-implementation-discovery-reform-s1509-part"
+}

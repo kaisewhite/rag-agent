@@ -1,0 +1,9 @@
+{
+	"id": "I3XijTFIdELrilh",
+	"json": "{\"id\":\"I3XijTFIdELrilh\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/senator-schneiderman-chairs-hearing-residential-mortgage\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/senator-schneiderman-chairs-hearing-residential-mortgage\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725901,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/senator-schneiderman-chairs-hearing-residential-mortgage",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/senator-schneiderman-chairs-hearing-residential-mortgage"
+}

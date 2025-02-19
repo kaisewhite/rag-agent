@@ -1,0 +1,9 @@
+{
+	"id": "cOWMWPf74rfEsnP",
+	"json": "{\"id\":\"cOWMWPf74rfEsnP\",\"url\":\"https://www.nysenate.gov/dashboard/senators/patrick-m-gallivan\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/patrick-m-gallivan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569593418,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/patrick-m-gallivan",
+	"url": "https://www.nysenate.gov/dashboard/senators/patrick-m-gallivan"
+}

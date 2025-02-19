@@ -1,0 +1,9 @@
+{
+	"id": "70wJDE6rkNaOHHj",
+	"json": "{\"id\":\"70wJDE6rkNaOHHj\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/thomas-f-omara/legislature-unanimously-approves-change-strengthen\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/thomas-f-omara/legislature-unanimously-approves-change-strengthen\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756066,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/thomas-f-omara/legislature-unanimously-approves-change-strengthen",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/thomas-f-omara/legislature-unanimously-approves-change-strengthen"
+}

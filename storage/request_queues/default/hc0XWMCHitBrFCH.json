@@ -1,0 +1,9 @@
+{
+	"id": "hc0XWMCHitBrFCH",
+	"json": "{\"id\":\"hc0XWMCHitBrFCH\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senator-kevin-thomas-proposes-bill-ban-live-ammunition\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senator-kevin-thomas-proposes-bill-ban-live-ammunition\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740950,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senator-kevin-thomas-proposes-bill-ban-live-ammunition",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senator-kevin-thomas-proposes-bill-ban-live-ammunition"
+}

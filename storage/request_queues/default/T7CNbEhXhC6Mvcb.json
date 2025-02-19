@@ -1,0 +1,9 @@
+{
+	"id": "T7CNbEhXhC6Mvcb",
+	"json": "{\"id\":\"T7CNbEhXhC6Mvcb\",\"url\":\"https://www.nysenate.gov/legislation/resolutions/2017/2017-j4151\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/resolutions/2017/2017-j4151\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571467182,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/resolutions/2017/2017-j4151",
+	"url": "https://www.nysenate.gov/legislation/resolutions/2017/2017-j4151"
+}

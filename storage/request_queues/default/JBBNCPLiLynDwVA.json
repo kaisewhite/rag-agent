@@ -1,0 +1,9 @@
+{
+	"id": "JBBNCPLiLynDwVA",
+	"json": "{\"id\":\"JBBNCPLiLynDwVA\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/letter-to-co-chairs-of-joint-budget-committee_february-2025.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/letter-to-co-chairs-of-joint-budget-committee_february-2025.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570519173,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/letter-to-co-chairs-of-joint-budget-committee_february-2025.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/letter-to-co-chairs-of-joint-budget-committee_february-2025.pdf"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ulrrpN2RfvAeZGt",
+	"json": "{\"id\":\"ulrrpN2RfvAeZGt\",\"url\":\"https://www.nysenate.gov/issues/adoptees-access-birth-records\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/adoptees-access-birth-records\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717626,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/adoptees-access-birth-records",
+	"url": "https://www.nysenate.gov/issues/adoptees-access-birth-records"
+}

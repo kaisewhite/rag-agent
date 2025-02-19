@@ -1,0 +1,9 @@
+{
+	"id": "VMRZmRPh78k6qEy",
+	"json": "{\"id\":\"VMRZmRPh78k6qEy\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2016/thomas-f-omara/senator-omaras-weekly-column-capitol-week-may-2-2016\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2016/thomas-f-omara/senator-omaras-weekly-column-capitol-week-may-2-2016\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770738,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2016/thomas-f-omara/senator-omaras-weekly-column-capitol-week-may-2-2016",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2016/thomas-f-omara/senator-omaras-weekly-column-capitol-week-may-2-2016"
+}

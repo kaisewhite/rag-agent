@@ -1,0 +1,9 @@
+{
+	"id": "8hLevk36h2yC6Ij",
+	"json": "{\"id\":\"8hLevk36h2yC6Ij\",\"url\":\"https://www.nysenate.gov/legislation/laws/RCO/A9\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RCO/A9\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569967057,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RCO/A9",
+	"url": "https://www.nysenate.gov/legislation/laws/RCO/A9"
+}

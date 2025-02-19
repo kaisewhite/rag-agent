@@ -1,0 +1,9 @@
+{
+	"id": "Z6NbYlaT00UDP2y",
+	"json": "{\"id\":\"Z6NbYlaT00UDP2y\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/pete-harckham/senator-harckhams-hearing-legalization-marijuana\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/pete-harckham/senator-harckhams-hearing-legalization-marijuana\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569702210,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/pete-harckham/senator-harckhams-hearing-legalization-marijuana",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/pete-harckham/senator-harckhams-hearing-legalization-marijuana"
+}

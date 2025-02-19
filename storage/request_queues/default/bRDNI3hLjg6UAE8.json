@@ -1,0 +1,9 @@
+{
+	"id": "bRDNI3hLjg6UAE8",
+	"json": "{\"id\":\"bRDNI3hLjg6UAE8\",\"url\":\"https://www.nysenate.gov/issues/protect-those-who-protect-us\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/protect-those-who-protect-us\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571668741,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/protect-those-who-protect-us",
+	"url": "https://www.nysenate.gov/issues/protect-those-who-protect-us"
+}

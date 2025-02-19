@@ -1,0 +1,9 @@
+{
+	"id": "QiZG5IHfKb3CCL7",
+	"json": "{\"id\":\"QiZG5IHfKb3CCL7\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/new-york-farmers-food-producers-benefit-senate-measures\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/new-york-farmers-food-producers-benefit-senate-measures\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571185224,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/new-york-farmers-food-producers-benefit-senate-measures",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/new-york-farmers-food-producers-benefit-senate-measures"
+}

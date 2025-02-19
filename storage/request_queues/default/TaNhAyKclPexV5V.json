@@ -1,0 +1,9 @@
+{
+	"id": "TaNhAyKclPexV5V",
+	"json": "{\"id\":\"TaNhAyKclPexV5V\",\"url\":\"https://www.nysenate.gov/legislation/laws/MRE/A1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/MRE/A1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569945450,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/MRE/A1",
+	"url": "https://www.nysenate.gov/legislation/laws/MRE/A1"
+}

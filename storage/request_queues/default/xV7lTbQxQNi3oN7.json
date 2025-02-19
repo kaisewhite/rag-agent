@@ -1,0 +1,9 @@
+{
+	"id": "xV7lTbQxQNi3oN7",
+	"json": "{\"id\":\"xV7lTbQxQNi3oN7\",\"url\":\"https://www.nysenate.gov/issues/railroad-safety\",\"loadedUrl\":\"https://www.nysenate.gov/issues/railroad-safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/railroad-safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:19:13.630Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/railroad-safety",
+	"url": "https://www.nysenate.gov/issues/railroad-safety"
+}

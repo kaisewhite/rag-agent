@@ -1,0 +1,9 @@
+{
+	"id": "8ihS0h7b3OBadca",
+	"json": "{\"id\":\"8ihS0h7b3OBadca\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/antoine-thompson/green-loans-press-conference\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/antoine-thompson/green-loans-press-conference\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770761,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/antoine-thompson/green-loans-press-conference",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/antoine-thompson/green-loans-press-conference"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "FvRuHyOzIT611E4",
+	"json": "{\"id\":\"FvRuHyOzIT611E4\",\"url\":\"https://www.nysenate.gov/issues/farm-workforce-retention-credit\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/farm-workforce-retention-credit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707166,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/farm-workforce-retention-credit",
+	"url": "https://www.nysenate.gov/issues/farm-workforce-retention-credit"
+}

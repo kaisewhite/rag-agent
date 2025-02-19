@@ -1,0 +1,9 @@
+{
+	"id": "Fn6JyndV7FTB0DY",
+	"json": "{\"id\":\"Fn6JyndV7FTB0DY\",\"url\":\"https://www.nysenate.gov/legislation/bills/2017/A2725\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2017/A2725\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571672397,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2017/A2725",
+	"url": "https://www.nysenate.gov/legislation/bills/2017/A2725"
+}

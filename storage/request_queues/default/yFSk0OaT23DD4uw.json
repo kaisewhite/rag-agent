@@ -1,0 +1,9 @@
+{
+	"id": "yFSk0OaT23DD4uw",
+	"json": "{\"id\":\"yFSk0OaT23DD4uw\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/chairman-ny-senate-committee-veterans-has-full-slate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/chairman-ny-senate-committee-veterans-has-full-slate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855410,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/chairman-ny-senate-committee-veterans-has-full-slate",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/chairman-ny-senate-committee-veterans-has-full-slate"
+}

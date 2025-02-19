@@ -1,0 +1,9 @@
+{
+	"id": "zS2PYE9XfLAlGCg",
+	"json": "{\"id\":\"zS2PYE9XfLAlGCg\",\"url\":\"https://www.nysenate.gov/dashboard/senators/anthony-h-palumbo\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/anthony-h-palumbo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570103148,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/anthony-h-palumbo",
+	"url": "https://www.nysenate.gov/dashboard/senators/anthony-h-palumbo"
+}

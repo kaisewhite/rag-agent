@@ -1,0 +1,9 @@
+{
+	"id": "iidUy0tq9vcKJ7e",
+	"json": "{\"id\":\"iidUy0tq9vcKJ7e\",\"url\":\"https://www.nysenate.gov/senators/steven-d-rhoads\",\"loadedUrl\":\"https://www.nysenate.gov/senators/steven-d-rhoads\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/steven-d-rhoads\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:47:47.245Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/steven-d-rhoads",
+	"url": "https://www.nysenate.gov/senators/steven-d-rhoads"
+}

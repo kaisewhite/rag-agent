@@ -1,0 +1,9 @@
+{
+	"id": "a7XVROJXKu80oft",
+	"json": "{\"id\":\"a7XVROJXKu80oft\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/december-07-2022/joint-public-hearing-solicit-public-opinion-bills-s15a\",\"loadedUrl\":\"https://www.nysenate.gov/calendar/public_hearings/december-07-2022/joint-public-hearing-solicit-public-opinion-bills-s15a\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/december-07-2022/joint-public-hearing-solicit-public-opinion-bills-s15a\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:21:56.568Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/december-07-2022/joint-public-hearing-solicit-public-opinion-bills-s15a",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/december-07-2022/joint-public-hearing-solicit-public-opinion-bills-s15a"
+}

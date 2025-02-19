@@ -1,0 +1,9 @@
+{
+	"id": "uI6U5eqnq6vex8q",
+	"json": "{\"id\":\"uI6U5eqnq6vex8q\",\"url\":\"https://www.nysenate.gov/issues/senior-resource-fair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/senior-resource-fair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570096824,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/senior-resource-fair",
+	"url": "https://www.nysenate.gov/issues/senior-resource-fair"
+}

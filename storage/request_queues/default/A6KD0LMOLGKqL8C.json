@@ -1,0 +1,9 @@
+{
+	"id": "A6KD0LMOLGKqL8C",
+	"json": "{\"id\":\"A6KD0LMOLGKqL8C\",\"url\":\"https://www.nysenate.gov/issues/bay-park-water-reclamation-facility\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/bay-park-water-reclamation-facility\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770691,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/bay-park-water-reclamation-facility",
+	"url": "https://www.nysenate.gov/issues/bay-park-water-reclamation-facility"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lARkhcyzXxsuQWL",
+	"json": "{\"id\":\"lARkhcyzXxsuQWL\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/kemp-hannon/234th-235th-legislative-session-report\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/kemp-hannon/234th-235th-legislative-session-report\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781063,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/kemp-hannon/234th-235th-legislative-session-report",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/kemp-hannon/234th-235th-legislative-session-report"
+}

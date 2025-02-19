@@ -1,0 +1,9 @@
+{
+	"id": "pCqh1Wl2Tqcuaar",
+	"json": "{\"id\":\"pCqh1Wl2Tqcuaar\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-17-2020/its-my-park-canarsie-park\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-17-2020/its-my-park-canarsie-park\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247221,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-17-2020/its-my-park-canarsie-park",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-17-2020/its-my-park-canarsie-park"
+}

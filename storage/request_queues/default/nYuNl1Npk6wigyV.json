@@ -1,0 +1,9 @@
+{
+	"id": "nYuNl1Npk6wigyV",
+	"json": "{\"id\":\"nYuNl1Npk6wigyV\",\"url\":\"https://www.nysenate.gov/issues/emergency-response\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/emergency-response\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569680166,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/emergency-response",
+	"url": "https://www.nysenate.gov/issues/emergency-response"
+}

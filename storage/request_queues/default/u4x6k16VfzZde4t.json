@@ -1,0 +1,9 @@
+{
+	"id": "u4x6k16VfzZde4t",
+	"json": "{\"id\":\"u4x6k16VfzZde4t\",\"url\":\"https://www.nysenate.gov/sites/default/files/village_independent_democrats.21.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/village_independent_democrats.21.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571268938,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/village_independent_democrats.21.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/village_independent_democrats.21.pdf"
+}

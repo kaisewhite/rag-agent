@@ -1,0 +1,9 @@
+{
+	"id": "82acpEGjNCzhHID",
+	"json": "{\"id\":\"82acpEGjNCzhHID\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/kevin-guest-house-awarded-legislative-grant-senator\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/kevin-guest-house-awarded-legislative-grant-senator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734387,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/kevin-guest-house-awarded-legislative-grant-senator",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/william-stachowski/kevin-guest-house-awarded-legislative-grant-senator"
+}

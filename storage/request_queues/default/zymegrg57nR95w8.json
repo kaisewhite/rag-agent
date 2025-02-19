@@ -1,0 +1,9 @@
+{
+	"id": "zymegrg57nR95w8",
+	"json": "{\"id\":\"zymegrg57nR95w8\",\"url\":\"https://www.nysenate.gov/calendar/meetings/cities-2/may-04-2021/cities-2-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/cities-2/may-04-2021/cities-2-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569718291,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/cities-2/may-04-2021/cities-2-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/cities-2/may-04-2021/cities-2-meeting"
+}

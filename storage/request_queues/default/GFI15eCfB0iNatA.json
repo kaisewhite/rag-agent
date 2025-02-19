@@ -1,0 +1,9 @@
+{
+	"id": "GFI15eCfB0iNatA",
+	"json": "{\"id\":\"GFI15eCfB0iNatA\",\"url\":\"https://www.nysenate.gov/calendar/events/finance/andrea-stewart-cousins/march-20-2023/senate-and-assembly-announce-general\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/finance/andrea-stewart-cousins/march-20-2023/senate-and-assembly-announce-general\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780844,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/finance/andrea-stewart-cousins/march-20-2023/senate-and-assembly-announce-general",
+	"url": "https://www.nysenate.gov/calendar/events/finance/andrea-stewart-cousins/march-20-2023/senate-and-assembly-announce-general"
+}

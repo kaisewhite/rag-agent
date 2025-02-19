@@ -1,0 +1,9 @@
+{
+	"id": "zLk9ssFGfZrcO4P",
+	"json": "{\"id\":\"zLk9ssFGfZrcO4P\",\"url\":\"https://www.nysenate.gov/issues/western-ny-and-north-country\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/western-ny-and-north-country\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756046,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/western-ny-and-north-country",
+	"url": "https://www.nysenate.gov/issues/western-ny-and-north-country"
+}

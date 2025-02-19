@@ -1,0 +1,9 @@
+{
+	"id": "up58XVbweFOM3RQ",
+	"json": "{\"id\":\"up58XVbweFOM3RQ\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-congratulates-carey-high-school-football\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-congratulates-carey-high-school-football\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847599,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-congratulates-carey-high-school-football",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-congratulates-carey-high-school-football"
+}

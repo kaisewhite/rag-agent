@@ -1,0 +1,9 @@
+{
+	"id": "IerwpcsR3tmXQzl",
+	"json": "{\"id\":\"IerwpcsR3tmXQzl\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-03-2024/sd-19-food-distribution-616-belmont-ave-thursday\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-03-2024/sd-19-food-distribution-616-belmont-ave-thursday\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247539,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-03-2024/sd-19-food-distribution-616-belmont-ave-thursday",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-03-2024/sd-19-food-distribution-616-belmont-ave-thursday"
+}

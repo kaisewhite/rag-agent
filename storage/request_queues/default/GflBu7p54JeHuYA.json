@@ -1,0 +1,9 @@
+{
+	"id": "GflBu7p54JeHuYA",
+	"json": "{\"id\":\"GflBu7p54JeHuYA\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S6241\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S6241\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571612063,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S6241",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S6241"
+}

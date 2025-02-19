@@ -1,0 +1,9 @@
+{
+	"id": "TawNLFbBDBtoATP",
+	"json": "{\"id\":\"TawNLFbBDBtoATP\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2015/terrence-murphy/small-biz-regulatory-watch-april-7th-2015\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2015/terrence-murphy/small-biz-regulatory-watch-april-7th-2015\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686727,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2015/terrence-murphy/small-biz-regulatory-watch-april-7th-2015",
+	"url": "https://www.nysenate.gov/newsroom/articles/2015/terrence-murphy/small-biz-regulatory-watch-april-7th-2015"
+}

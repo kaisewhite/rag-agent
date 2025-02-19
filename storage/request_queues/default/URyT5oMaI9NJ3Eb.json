@@ -1,0 +1,9 @@
+{
+	"id": "URyT5oMaI9NJ3Eb",
+	"json": "{\"id\":\"URyT5oMaI9NJ3Eb\",\"url\":\"https://www.nysenate.gov/newsroom/video/jack-m-martins/senator-martins-2024-woman-distinction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/jack-m-martins/senator-martins-2024-woman-distinction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569651958,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/jack-m-martins/senator-martins-2024-woman-distinction",
+	"url": "https://www.nysenate.gov/newsroom/video/jack-m-martins/senator-martins-2024-woman-distinction"
+}

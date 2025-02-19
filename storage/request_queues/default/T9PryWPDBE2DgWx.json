@@ -1,0 +1,9 @@
+{
+	"id": "T9PryWPDBE2DgWx",
+	"json": "{\"id\":\"T9PryWPDBE2DgWx\",\"url\":\"https://www.nysenate.gov/issues/w42st\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/w42st\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571732383,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/w42st",
+	"url": "https://www.nysenate.gov/issues/w42st"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3DskNSeZOLtjp0f",
+	"json": "{\"id\":\"3DskNSeZOLtjp0f\",\"url\":\"https://www.nysenate.gov/user/register?destination=/petitions/patricia-canzoneri-fitzpatrick/stop-suny-tuition-hike\",\"uniqueKey\":\"GET():https://www.nysenate.gov/user/register?destination=%2Fpetitions%2Fpatricia-canzoneri-fitzpatrick%2Fstop-suny-tuition-hike\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571058649,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/user/register?destination=%2Fpetitions%2Fpatricia-canzoneri-fitzpatrick%2Fstop-suny-tuition-hike",
+	"url": "https://www.nysenate.gov/user/register?destination=/petitions/patricia-canzoneri-fitzpatrick/stop-suny-tuition-hike"
+}

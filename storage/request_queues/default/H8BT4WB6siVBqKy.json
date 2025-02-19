@@ -1,0 +1,9 @@
+{
+	"id": "H8BT4WB6siVBqKy",
+	"json": "{\"id\":\"H8BT4WB6siVBqKy\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/martin-j-golden/2018-civil-service-pensions-committee-annual-report\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/martin-j-golden/2018-civil-service-pensions-committee-annual-report\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569724728,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/martin-j-golden/2018-civil-service-pensions-committee-annual-report",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/martin-j-golden/2018-civil-service-pensions-committee-annual-report"
+}

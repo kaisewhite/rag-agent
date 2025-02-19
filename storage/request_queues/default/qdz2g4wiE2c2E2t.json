@@ -1,0 +1,9 @@
+{
+	"id": "qdz2g4wiE2c2E2t",
+	"json": "{\"id\":\"qdz2g4wiE2c2E2t\",\"url\":\"https://www.nysenate.gov/issues/local-government?page=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/local-government?page=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571550950,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/local-government?page=1",
+	"url": "https://www.nysenate.gov/issues/local-government?page=1"
+}

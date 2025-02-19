@@ -1,0 +1,9 @@
+{
+	"id": "hWDXJVnOd2e9Evf",
+	"json": "{\"id\":\"hWDXJVnOd2e9Evf\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2008/report-fiscal-committees-executive-budget-fy-2008-09\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2008/report-fiscal-committees-executive-budget-fy-2008-09\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781281,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2008/report-fiscal-committees-executive-budget-fy-2008-09",
+	"url": "https://www.nysenate.gov/newsroom/articles/2008/report-fiscal-committees-executive-budget-fy-2008-09"
+}

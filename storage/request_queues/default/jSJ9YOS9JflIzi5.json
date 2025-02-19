@@ -1,0 +1,9 @@
+{
+	"id": "jSJ9YOS9JflIzi5",
+	"json": "{\"id\":\"jSJ9YOS9JflIzi5\",\"url\":\"https://www.nysenate.gov/sites/default/files/thankgiving/12017207/109915/img_2787.jpg\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/thankgiving/12017207/109915/img_2787.jpg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570093262,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/thankgiving/12017207/109915/img_2787.jpg",
+	"url": "https://www.nysenate.gov/sites/default/files/thankgiving/12017207/109915/img_2787.jpg"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lP5urWa3BuCGQW7",
+	"json": "{\"id\":\"lP5urWa3BuCGQW7\",\"url\":\"https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-08-2013/new-york-city-education-subcommittee-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-08-2013/new-york-city-education-subcommittee-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569823658,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-08-2013/new-york-city-education-subcommittee-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-08-2013/new-york-city-education-subcommittee-meeting"
+}

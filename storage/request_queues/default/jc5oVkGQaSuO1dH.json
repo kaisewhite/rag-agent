@@ -1,0 +1,9 @@
+{
+	"id": "jc5oVkGQaSuO1dH",
+	"json": "{\"id\":\"jc5oVkGQaSuO1dH\",\"url\":\"https://www.nysenate.gov/issues/ratepayers\",\"loadedUrl\":\"https://www.nysenate.gov/issues/ratepayers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/ratepayers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:08:02.822Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/ratepayers",
+	"url": "https://www.nysenate.gov/issues/ratepayers"
+}

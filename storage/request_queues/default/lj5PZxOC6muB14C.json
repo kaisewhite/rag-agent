@@ -1,0 +1,9 @@
+{
+	"id": "lj5PZxOC6muB14C",
+	"json": "{\"id\":\"lj5PZxOC6muB14C\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/lea-webb/senator-lea-webb-secures-150000-chenango-ambulances-services\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/lea-webb/senator-lea-webb-secures-150000-chenango-ambulances-services\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571662817,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/lea-webb/senator-lea-webb-secures-150000-chenango-ambulances-services",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/lea-webb/senator-lea-webb-secures-150000-chenango-ambulances-services"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "MIRwzljYfVuQt1R",
+	"json": "{\"id\":\"MIRwzljYfVuQt1R\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-announces-summer-reading-program\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-announces-summer-reading-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847645,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-announces-summer-reading-program",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-announces-summer-reading-program"
+}

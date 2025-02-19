@@ -1,0 +1,9 @@
+{
+	"id": "xOio07VR3wxmQYO",
+	"json": "{\"id\":\"xOio07VR3wxmQYO\",\"url\":\"https://www.nysenate.gov/newsroom/video/robert-jackson/senator-jackson-2022-woman-distinction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/robert-jackson/senator-jackson-2022-woman-distinction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569646427,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/robert-jackson/senator-jackson-2022-woman-distinction",
+	"url": "https://www.nysenate.gov/newsroom/video/robert-jackson/senator-jackson-2022-woman-distinction"
+}

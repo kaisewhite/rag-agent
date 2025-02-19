@@ -1,0 +1,9 @@
+{
+	"id": "7qIJShthADut4KO",
+	"json": "{\"id\":\"7qIJShthADut4KO\",\"url\":\"https://www.nysenate.gov/calendar/meetings/environmental-conservation/may-03-2022/environmental-conservation-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/environmental-conservation/may-03-2022/environmental-conservation-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770640,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/environmental-conservation/may-03-2022/environmental-conservation-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/environmental-conservation/may-03-2022/environmental-conservation-meeting"
+}

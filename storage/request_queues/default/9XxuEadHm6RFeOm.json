@@ -1,0 +1,9 @@
+{
+	"id": "9XxuEadHm6RFeOm",
+	"json": "{\"id\":\"9XxuEadHm6RFeOm\",\"url\":\"https://www.nysenate.gov/issues/chips\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/chips\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570988177,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/chips",
+	"url": "https://www.nysenate.gov/issues/chips"
+}

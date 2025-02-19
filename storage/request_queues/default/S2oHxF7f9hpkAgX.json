@@ -1,0 +1,9 @@
+{
+	"id": "S2oHxF7f9hpkAgX",
+	"json": "{\"id\":\"S2oHxF7f9hpkAgX\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-guest-reads-floral-park-library-thanksgiving\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-guest-reads-floral-park-library-thanksgiving\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847601,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-guest-reads-floral-park-library-thanksgiving",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-guest-reads-floral-park-library-thanksgiving"
+}

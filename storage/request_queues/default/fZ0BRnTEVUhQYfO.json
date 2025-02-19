@@ -1,0 +1,9 @@
+{
+	"id": "fZ0BRnTEVUhQYfO",
+	"json": "{\"id\":\"fZ0BRnTEVUhQYfO\",\"url\":\"https://www.nysenate.gov/dashboard/senators/fred-akshar\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/fred-akshar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570735796,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/fred-akshar",
+	"url": "https://www.nysenate.gov/dashboard/senators/fred-akshar"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "vD9dlXVSsponAy7",
+	"json": "{\"id\":\"vD9dlXVSsponAy7\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/statement-senator-ramos-and-assemblymember-burgos\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/statement-senator-ramos-and-assemblymember-burgos\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811622,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/statement-senator-ramos-and-assemblymember-burgos",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/statement-senator-ramos-and-assemblymember-burgos"
+}

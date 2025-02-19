@@ -1,0 +1,9 @@
+{
+	"id": "OuQtth9kSI19tRM",
+	"json": "{\"id\":\"OuQtth9kSI19tRM\",\"url\":\"https://www.nysenate.gov/legislation/laws/DOM/A2\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/DOM/A2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569902730,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/DOM/A2",
+	"url": "https://www.nysenate.gov/legislation/laws/DOM/A2"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "XngcUDgBalrmmYy",
+	"json": "{\"id\":\"XngcUDgBalrmmYy\",\"url\":\"https://www.nysenate.gov/dashboard/senators/james-l-seward\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/james-l-seward\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571276815,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/james-l-seward",
+	"url": "https://www.nysenate.gov/dashboard/senators/james-l-seward"
+}

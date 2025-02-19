@@ -1,0 +1,9 @@
+{
+	"id": "j3Q4wnetj5eNT57",
+	"json": "{\"id\":\"j3Q4wnetj5eNT57\",\"url\":\"https://www.nysenate.gov/issues/senator-rachel-may\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/senator-rachel-may\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695478,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/senator-rachel-may",
+	"url": "https://www.nysenate.gov/issues/senator-rachel-may"
+}

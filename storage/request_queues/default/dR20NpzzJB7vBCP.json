@@ -1,0 +1,9 @@
+{
+	"id": "dR20NpzzJB7vBCP",
+	"json": "{\"id\":\"dR20NpzzJB7vBCP\",\"url\":\"https://www.nysenate.gov/calendar/events/social-services/patrick-m-gallivan/february-09-2012/forumtown-hall-human-services\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/social-services/patrick-m-gallivan/february-09-2012/forumtown-hall-human-services\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569845050,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/social-services/patrick-m-gallivan/february-09-2012/forumtown-hall-human-services",
+	"url": "https://www.nysenate.gov/calendar/events/social-services/patrick-m-gallivan/february-09-2012/forumtown-hall-human-services"
+}

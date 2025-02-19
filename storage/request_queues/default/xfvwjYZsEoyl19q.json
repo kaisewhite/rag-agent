@@ -1,0 +1,9 @@
+{
+	"id": "xfvwjYZsEoyl19q",
+	"json": "{\"id\":\"xfvwjYZsEoyl19q\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/A4120/amendment/A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/A4120/amendment/A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571534871,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/A4120/amendment/A",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/A4120/amendment/A"
+}

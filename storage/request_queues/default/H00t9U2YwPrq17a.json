@@ -1,0 +1,9 @@
+{
+	"id": "H00t9U2YwPrq17a",
+	"json": "{\"id\":\"H00t9U2YwPrq17a\",\"url\":\"https://www.nysenate.gov/issues/prescription-drugs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/prescription-drugs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570096829,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/prescription-drugs",
+	"url": "https://www.nysenate.gov/issues/prescription-drugs"
+}

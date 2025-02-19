@@ -1,0 +1,9 @@
+{
+	"id": "b2wafQDcf8EIZMR",
+	"json": "{\"id\":\"b2wafQDcf8EIZMR\",\"url\":\"https://www.nysenate.gov/issues/vaccine-misinformation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/vaccine-misinformation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570131115,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/vaccine-misinformation",
+	"url": "https://www.nysenate.gov/issues/vaccine-misinformation"
+}

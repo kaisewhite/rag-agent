@@ -1,0 +1,9 @@
+{
+	"id": "ybfWeJ5rQZr9nP5",
+	"json": "{\"id\":\"ybfWeJ5rQZr9nP5\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/november-20-2009/public-hearing-new-york-state-department-transportation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/november-20-2009/public-hearing-new-york-state-department-transportation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855281,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/november-20-2009/public-hearing-new-york-state-department-transportation",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/november-20-2009/public-hearing-new-york-state-department-transportation"
+}

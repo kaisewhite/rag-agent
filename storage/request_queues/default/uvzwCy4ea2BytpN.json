@@ -1,0 +1,9 @@
+{
+	"id": "uvzwCy4ea2BytpN",
+	"json": "{\"id\":\"uvzwCy4ea2BytpN\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/october-14-2016/free-flu-shot-drive\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/october-14-2016/free-flu-shot-drive\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752640,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/october-14-2016/free-flu-shot-drive",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/october-14-2016/free-flu-shot-drive"
+}

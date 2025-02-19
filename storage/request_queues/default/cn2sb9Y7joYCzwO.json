@@ -1,0 +1,9 @@
+{
+	"id": "cn2sb9Y7joYCzwO",
+	"json": "{\"id\":\"cn2sb9Y7joYCzwO\",\"url\":\"https://www.nysenate.gov/issues/campaign-fiscal-equity\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/campaign-fiscal-equity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569823663,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/campaign-fiscal-equity",
+	"url": "https://www.nysenate.gov/issues/campaign-fiscal-equity"
+}

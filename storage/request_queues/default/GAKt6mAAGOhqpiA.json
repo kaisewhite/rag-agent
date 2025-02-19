@@ -1,0 +1,9 @@
+{
+	"id": "GAKt6mAAGOhqpiA",
+	"json": "{\"id\":\"GAKt6mAAGOhqpiA\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/april-24-2012/forumtown-hall-war-women-evening-basic-training\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/april-24-2012/forumtown-hall-war-women-evening-basic-training\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752617,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/april-24-2012/forumtown-hall-war-women-evening-basic-training",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/april-24-2012/forumtown-hall-war-women-evening-basic-training"
+}

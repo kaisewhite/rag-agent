@@ -1,0 +1,9 @@
+{
+	"id": "liaTxXX2DHFckro",
+	"json": "{\"id\":\"liaTxXX2DHFckro\",\"url\":\"https://www.nysenate.gov/issues/deportation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/deportation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570127849,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/deportation",
+	"url": "https://www.nysenate.gov/issues/deportation"
+}

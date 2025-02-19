@@ -1,0 +1,9 @@
+{
+	"id": "DOiJK4ndFoeFmGl",
+	"json": "{\"id\":\"DOiJK4ndFoeFmGl\",\"url\":\"https://www.nysenate.gov/issues/political-campaigns\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/political-campaigns\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571040490,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/political-campaigns",
+	"url": "https://www.nysenate.gov/issues/political-campaigns"
+}

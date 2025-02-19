@@ -1,0 +1,9 @@
+{
+	"id": "4Rz9kkaxnAmlZQF",
+	"json": "{\"id\":\"4Rz9kkaxnAmlZQF\",\"url\":\"https://www.nysenate.gov/issues/amazon-key-program\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/amazon-key-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740939,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/amazon-key-program",
+	"url": "https://www.nysenate.gov/issues/amazon-key-program"
+}

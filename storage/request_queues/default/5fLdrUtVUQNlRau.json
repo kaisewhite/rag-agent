@@ -1,0 +1,9 @@
+{
+	"id": "5fLdrUtVUQNlRau",
+	"json": "{\"id\":\"5fLdrUtVUQNlRau\",\"url\":\"https://www.nysenate.gov/legislation/laws/SOS/A8-B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/SOS/A8-B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569979717,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/SOS/A8-B",
+	"url": "https://www.nysenate.gov/legislation/laws/SOS/A8-B"
+}

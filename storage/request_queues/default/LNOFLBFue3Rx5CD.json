@@ -1,0 +1,9 @@
+{
+	"id": "LNOFLBFue3Rx5CD",
+	"json": "{\"id\":\"LNOFLBFue3Rx5CD\",\"url\":\"https://www.nysenate.gov/issues/construction-aid\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/construction-aid\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569812937,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/construction-aid",
+	"url": "https://www.nysenate.gov/issues/construction-aid"
+}

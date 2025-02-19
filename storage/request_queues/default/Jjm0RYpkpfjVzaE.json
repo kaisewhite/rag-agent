@@ -1,0 +1,9 @@
+{
+	"id": "Jjm0RYpkpfjVzaE",
+	"json": "{\"id\":\"Jjm0RYpkpfjVzaE\",\"url\":\"https://www.nysenate.gov/senators/jose-m-serrano/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/jose-m-serrano/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569673971,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/jose-m-serrano/district",
+	"url": "https://www.nysenate.gov/senators/jose-m-serrano/district"
+}

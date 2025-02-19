@@ -1,0 +1,9 @@
+{
+	"id": "g6WW4E2txuN4fRH",
+	"json": "{\"id\":\"g6WW4E2txuN4fRH\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/senator-bill-weber-politico-maternal-health\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/senator-bill-weber-politico-maternal-health\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569681275,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/senator-bill-weber-politico-maternal-health",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/senator-bill-weber-politico-maternal-health"
+}

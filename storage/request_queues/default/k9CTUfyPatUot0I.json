@@ -1,0 +1,9 @@
+{
+	"id": "k9CTUfyPatUot0I",
+	"json": "{\"id\":\"k9CTUfyPatUot0I\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-16-2018/police-service-area-1psa1-sector-c-neighborhood\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-16-2018/police-service-area-1psa1-sector-c-neighborhood\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246438,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-16-2018/police-service-area-1psa1-sector-c-neighborhood",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-16-2018/police-service-area-1psa1-sector-c-neighborhood"
+}

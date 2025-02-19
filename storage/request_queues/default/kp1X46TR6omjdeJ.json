@@ -1,0 +1,9 @@
+{
+	"id": "kp1X46TR6omjdeJ",
+	"json": "{\"id\":\"kp1X46TR6omjdeJ\",\"url\":\"https://www.nysenate.gov/legislation/laws/PAR/TF\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PAR/TF\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569948261,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PAR/TF",
+	"url": "https://www.nysenate.gov/legislation/laws/PAR/TF"
+}

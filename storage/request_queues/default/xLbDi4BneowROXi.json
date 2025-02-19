@@ -1,0 +1,9 @@
+{
+	"id": "xLbDi4BneowROXi",
+	"json": "{\"id\":\"xLbDi4BneowROXi\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284422,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Education",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Education"
+}

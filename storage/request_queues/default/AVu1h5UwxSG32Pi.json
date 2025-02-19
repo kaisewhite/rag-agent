@@ -1,0 +1,9 @@
+{
+	"id": "AVu1h5UwxSG32Pi",
+	"json": "{\"id\":\"AVu1h5UwxSG32Pi\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S1284\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S1284\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571616237,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S1284",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S1284"
+}

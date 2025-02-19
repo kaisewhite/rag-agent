@@ -1,0 +1,9 @@
+{
+	"id": "ZP4yRM3BK66iot1",
+	"json": "{\"id\":\"ZP4yRM3BK66iot1\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-bill-aid-downtowns-awaits-governors\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-bill-aid-downtowns-awaits-governors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847633,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-bill-aid-downtowns-awaits-governors",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-bill-aid-downtowns-awaits-governors"
+}

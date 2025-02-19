@@ -1,0 +1,9 @@
+{
+	"id": "jWKeO8tPMvkYZV1",
+	"json": "{\"id\":\"jWKeO8tPMvkYZV1\",\"url\":\"https://www.nysenate.gov/calendar/meetings/cities-1/june-01-2016/cities-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/cities-1/june-01-2016/cities-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569714887,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/cities-1/june-01-2016/cities-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/cities-1/june-01-2016/cities-meeting"
+}

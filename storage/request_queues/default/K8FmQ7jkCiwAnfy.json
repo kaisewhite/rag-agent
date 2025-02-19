@@ -1,0 +1,9 @@
+{
+	"id": "K8FmQ7jkCiwAnfy",
+	"json": "{\"id\":\"K8FmQ7jkCiwAnfy\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/james-l-seward/senator-seward-named-chairman-senate-insurance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/james-l-seward/senator-seward-named-chairman-senate-insurance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569793102,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/james-l-seward/senator-seward-named-chairman-senate-insurance",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/james-l-seward/senator-seward-named-chairman-senate-insurance"
+}

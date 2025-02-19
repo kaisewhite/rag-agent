@@ -1,0 +1,9 @@
+{
+	"id": "a0nl3LGtrQeMmw3",
+	"json": "{\"id\":\"a0nl3LGtrQeMmw3\",\"url\":\"https://www.nysenate.gov/senators/andrew-gounardes/calendar\",\"loadedUrl\":\"https://www.nysenate.gov/senators/andrew-gounardes/calendar\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/andrew-gounardes/calendar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:55:25.486Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/andrew-gounardes/calendar",
+	"url": "https://www.nysenate.gov/senators/andrew-gounardes/calendar"
+}

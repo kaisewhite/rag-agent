@@ -1,0 +1,9 @@
+{
+	"id": "jZ9q7Hm7r8FmGlf",
+	"json": "{\"id\":\"jZ9q7Hm7r8FmGlf\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/new-yorks-section-8-problem\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/new-yorks-section-8-problem\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798929,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/new-yorks-section-8-problem",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/new-yorks-section-8-problem"
+}

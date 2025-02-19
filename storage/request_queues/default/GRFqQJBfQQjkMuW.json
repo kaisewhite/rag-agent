@@ -1,0 +1,9 @@
+{
+	"id": "GRFqQJBfQQjkMuW",
+	"json": "{\"id\":\"GRFqQJBfQQjkMuW\",\"url\":\"https://www.nysenate.gov/issues/economic-growth?page=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/economic-growth?page=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571286649,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/economic-growth?page=1",
+	"url": "https://www.nysenate.gov/issues/economic-growth?page=1"
+}

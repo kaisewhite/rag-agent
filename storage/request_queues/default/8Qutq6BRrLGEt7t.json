@@ -1,0 +1,9 @@
+{
+	"id": "8Qutq6BRrLGEt7t",
+	"json": "{\"id\":\"8Qutq6BRrLGEt7t\",\"url\":\"https://www.nysenate.gov/legislation/laws/ENV/A38\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ENV/A38\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569912875,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ENV/A38",
+	"url": "https://www.nysenate.gov/legislation/laws/ENV/A38"
+}

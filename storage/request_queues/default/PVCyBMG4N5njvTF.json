@@ -1,0 +1,9 @@
+{
+	"id": "PVCyBMG4N5njvTF",
+	"json": "{\"id\":\"PVCyBMG4N5njvTF\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-announces-100000-grant-funding-hempstead\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-announces-100000-grant-funding-hempstead\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847667,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-announces-100000-grant-funding-hempstead",
+	"url": "https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-announces-100000-grant-funding-hempstead"
+}

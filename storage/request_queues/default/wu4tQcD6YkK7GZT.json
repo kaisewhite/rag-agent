@@ -1,0 +1,9 @@
+{
+	"id": "wu4tQcD6YkK7GZT",
+	"json": "{\"id\":\"wu4tQcD6YkK7GZT\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/S6232\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/S6232\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571104618,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/S6232",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/S6232"
+}

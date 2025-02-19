@@ -1,0 +1,9 @@
+{
+	"id": "bYy19ClQsxlvmFB",
+	"json": "{\"id\":\"bYy19ClQsxlvmFB\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/february-13-2019/public-hearing-sexual-harassment-workplace\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/february-13-2019/public-hearing-sexual-harassment-workplace\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808601,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/february-13-2019/public-hearing-sexual-harassment-workplace",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/february-13-2019/public-hearing-sexual-harassment-workplace"
+}

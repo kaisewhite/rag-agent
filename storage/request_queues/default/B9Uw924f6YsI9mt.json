@@ -1,0 +1,9 @@
+{
+	"id": "B9Uw924f6YsI9mt",
+	"json": "{\"id\":\"B9Uw924f6YsI9mt\",\"url\":\"https://www.nysenate.gov/dashboard/senators/brad-hoylman-sigal\",\"loadedUrl\":\"https://www.nysenate.gov/\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/brad-hoylman-sigal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:22:14.266Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/brad-hoylman-sigal",
+	"url": "https://www.nysenate.gov/dashboard/senators/brad-hoylman-sigal"
+}

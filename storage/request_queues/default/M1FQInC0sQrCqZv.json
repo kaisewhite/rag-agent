@@ -1,0 +1,9 @@
+{
+	"id": "M1FQInC0sQrCqZv",
+	"json": "{\"id\":\"M1FQInC0sQrCqZv\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Railroad%20Safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Railroad+Safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571553629,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Railroad+Safety",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Railroad%20Safety"
+}

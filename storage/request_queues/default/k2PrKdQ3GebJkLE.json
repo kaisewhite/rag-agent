@@ -1,0 +1,9 @@
+{
+	"id": "k2PrKdQ3GebJkLE",
+	"json": "{\"id\":\"k2PrKdQ3GebJkLE\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/november-16-2018/sanders-provide-utility-bill-property-tax-assistance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/november-16-2018/sanders-provide-utility-bill-property-tax-assistance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019403,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/november-16-2018/sanders-provide-utility-bill-property-tax-assistance",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/november-16-2018/sanders-provide-utility-bill-property-tax-assistance"
+}

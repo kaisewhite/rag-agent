@@ -1,0 +1,9 @@
+{
+	"id": "KESypFEdstsW1fS",
+	"json": "{\"id\":\"KESypFEdstsW1fS\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/A7483\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/A7483\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571397235,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/A7483",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/A7483"
+}

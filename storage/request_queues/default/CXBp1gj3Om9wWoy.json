@@ -1,0 +1,9 @@
+{
+	"id": "CXBp1gj3Om9wWoy",
+	"json": "{\"id\":\"CXBp1gj3Om9wWoy\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/june-08-2016/rules\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/june-08-2016/rules\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839912,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/june-08-2016/rules",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/june-08-2016/rules"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Ve1oslKVI68BMz8",
+	"json": "{\"id\":\"Ve1oslKVI68BMz8\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-06-2019/nypd-national-night-out-against-crime-73rd\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-06-2019/nypd-national-night-out-against-crime-73rd\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247036,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-06-2019/nypd-national-night-out-against-crime-73rd",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-06-2019/nypd-national-night-out-against-crime-73rd"
+}

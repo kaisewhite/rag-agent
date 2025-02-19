@@ -1,0 +1,9 @@
+{
+	"id": "pHnDNAj2HLeUv6m",
+	"json": "{\"id\":\"pHnDNAj2HLeUv6m\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S2899\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S2899\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571179381,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S2899",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S2899"
+}

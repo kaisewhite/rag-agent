@@ -1,0 +1,9 @@
+{
+	"id": "ealLsHrp2CwMHX6",
+	"json": "{\"id\":\"ealLsHrp2CwMHX6\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/skoufis-secures-85k-repave-old-windsor-road\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/skoufis-secures-85k-repave-old-windsor-road\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571539505,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/skoufis-secures-85k-repave-old-windsor-road",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/skoufis-secures-85k-repave-old-windsor-road"
+}

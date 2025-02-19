@@ -1,0 +1,9 @@
+{
+	"id": "H1JGGXKgmYrZPPd",
+	"json": "{\"id\":\"H1JGGXKgmYrZPPd\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/november-20-2019/public-hearing-discuss-implementation-early-voting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/november-20-2019/public-hearing-discuss-implementation-early-voting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756051,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/november-20-2019/public-hearing-discuss-implementation-early-voting",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/november-20-2019/public-hearing-discuss-implementation-early-voting"
+}

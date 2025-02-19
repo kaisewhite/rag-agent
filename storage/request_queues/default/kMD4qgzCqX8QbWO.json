@@ -1,0 +1,9 @@
+{
+	"id": "kMD4qgzCqX8QbWO",
+	"json": "{\"id\":\"kMD4qgzCqX8QbWO\",\"url\":\"https://www.nysenate.gov/issues/multi-modal-program\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/multi-modal-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571539504,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/multi-modal-program",
+	"url": "https://www.nysenate.gov/issues/multi-modal-program"
+}

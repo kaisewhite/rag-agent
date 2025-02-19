@@ -1,0 +1,9 @@
+{
+	"id": "MNHtqSNWJ0PdVsY",
+	"json": "{\"id\":\"MNHtqSNWJ0PdVsY\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S1865\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S1865\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570286873,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S1865",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S1865"
+}

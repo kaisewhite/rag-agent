@@ -1,0 +1,9 @@
+{
+	"id": "AxtUi85SR9YMvuW",
+	"json": "{\"id\":\"AxtUi85SR9YMvuW\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Public%20Safety\",\"loadedUrl\":\"https://www.nysenate.gov/search/global/result?full_text=Public%20Safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Public+Safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:21:01.811Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Public+Safety",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Public%20Safety"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Nb8NQVaAFge2yEQ",
+	"json": "{\"id\":\"Nb8NQVaAFge2yEQ\",\"url\":\"https://www.nysenate.gov/calendar/events/social-services/patrick-m-gallivan/december-14-2011/forumtown-hall-roundtable\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/social-services/patrick-m-gallivan/december-14-2011/forumtown-hall-roundtable\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569845050,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/social-services/patrick-m-gallivan/december-14-2011/forumtown-hall-roundtable",
+	"url": "https://www.nysenate.gov/calendar/events/social-services/patrick-m-gallivan/december-14-2011/forumtown-hall-roundtable"
+}

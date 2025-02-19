@@ -1,0 +1,9 @@
+{
+	"id": "pGBTlpioWevVD1j",
+	"json": "{\"id\":\"pGBTlpioWevVD1j\",\"url\":\"https://www.nysenate.gov/issues/extortion\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/extortion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570127848,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/extortion",
+	"url": "https://www.nysenate.gov/issues/extortion"
+}

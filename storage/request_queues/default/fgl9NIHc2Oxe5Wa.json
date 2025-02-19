@@ -1,0 +1,9 @@
+{
+	"id": "fgl9NIHc2Oxe5Wa",
+	"json": "{\"id\":\"fgl9NIHc2Oxe5Wa\",\"url\":\"https://www.nysenate.gov/issues/capital-plan\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/capital-plan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571574496,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/capital-plan",
+	"url": "https://www.nysenate.gov/issues/capital-plan"
+}

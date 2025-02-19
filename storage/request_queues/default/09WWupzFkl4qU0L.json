@@ -1,0 +1,9 @@
+{
+	"id": "09WWupzFkl4qU0L",
+	"json": "{\"id\":\"09WWupzFkl4qU0L\",\"url\":\"https://www.nysenate.gov/legislation/laws/GBS/A29-D\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GBS/A29-D\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569921809,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GBS/A29-D",
+	"url": "https://www.nysenate.gov/legislation/laws/GBS/A29-D"
+}

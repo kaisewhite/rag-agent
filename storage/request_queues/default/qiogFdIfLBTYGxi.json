@@ -1,0 +1,9 @@
+{
+	"id": "qiogFdIfLBTYGxi",
+	"json": "{\"id\":\"qiogFdIfLBTYGxi\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-19-2018/brooklyn-public-librarys-jamaica-bay-library-jbl\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-19-2018/brooklyn-public-librarys-jamaica-bay-library-jbl\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246422,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-19-2018/brooklyn-public-librarys-jamaica-bay-library-jbl",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-19-2018/brooklyn-public-librarys-jamaica-bay-library-jbl"
+}

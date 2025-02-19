@@ -1,0 +1,9 @@
+{
+	"id": "TFy7H81kWI8QkNT",
+	"json": "{\"id\":\"TFy7H81kWI8QkNT\",\"url\":\"https://www.nysenate.gov/senators/michelle-hinchey/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/michelle-hinchey/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569644385,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/michelle-hinchey/district",
+	"url": "https://www.nysenate.gov/senators/michelle-hinchey/district"
+}

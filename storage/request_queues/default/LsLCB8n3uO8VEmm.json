@@ -1,0 +1,9 @@
+{
+	"id": "LsLCB8n3uO8VEmm",
+	"json": "{\"id\":\"LsLCB8n3uO8VEmm\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/ruben-diaz/senator-diaz-announces-restoration-funds-senior-centers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruben-diaz/senator-diaz-announces-restoration-funds-senior-centers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698378,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruben-diaz/senator-diaz-announces-restoration-funds-senior-centers",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/ruben-diaz/senator-diaz-announces-restoration-funds-senior-centers"
+}

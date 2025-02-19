@@ -1,0 +1,9 @@
+{
+	"id": "i18MI2Y3EF92W6T",
+	"json": "{\"id\":\"i18MI2Y3EF92W6T\",\"url\":\"https://www.nysenate.gov/issues/spca\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/spca\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569546683,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/spca",
+	"url": "https://www.nysenate.gov/issues/spca"
+}

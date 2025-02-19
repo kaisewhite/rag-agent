@@ -1,0 +1,9 @@
+{
+	"id": "Z3K7ojrLCKjWOT2",
+	"json": "{\"id\":\"Z3K7ojrLCKjWOT2\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/housing-testimony-feb-3-2010\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/housing-testimony-feb-3-2010\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781272,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/housing-testimony-feb-3-2010",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/housing-testimony-feb-3-2010"
+}

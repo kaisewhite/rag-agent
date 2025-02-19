@@ -1,0 +1,9 @@
+{
+	"id": "KhV0neUpfmbRmF7",
+	"json": "{\"id\":\"KhV0neUpfmbRmF7\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/long-island-pet-store-sued-ny-ag-selling-sick-puppies\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/long-island-pet-store-sued-ny-ag-selling-sick-puppies\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740945,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/long-island-pet-store-sued-ny-ag-selling-sick-puppies",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/long-island-pet-store-sued-ny-ag-selling-sick-puppies"
+}

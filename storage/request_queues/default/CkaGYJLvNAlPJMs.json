@@ -1,0 +1,9 @@
+{
+	"id": "CkaGYJLvNAlPJMs",
+	"json": "{\"id\":\"CkaGYJLvNAlPJMs\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/peter-oberacker/senator-oberacker-sworn-third-term-representing-new\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/peter-oberacker/senator-oberacker-sworn-third-term-representing-new\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569660070,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/peter-oberacker/senator-oberacker-sworn-third-term-representing-new",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/peter-oberacker/senator-oberacker-sworn-third-term-representing-new"
+}

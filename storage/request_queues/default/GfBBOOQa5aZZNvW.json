@@ -1,0 +1,9 @@
+{
+	"id": "GfBBOOQa5aZZNvW",
+	"json": "{\"id\":\"GfBBOOQa5aZZNvW\",\"url\":\"https://www.nysenate.gov/calendar/meetings/cities-1/june-06-2017/cities-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/cities-1/june-06-2017/cities-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569714885,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/cities-1/june-06-2017/cities-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/cities-1/june-06-2017/cities-meeting"
+}

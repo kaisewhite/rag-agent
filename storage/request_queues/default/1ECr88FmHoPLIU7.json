@@ -1,0 +1,9 @@
+{
+	"id": "1ECr88FmHoPLIU7",
+	"json": "{\"id\":\"1ECr88FmHoPLIU7\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S6042\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/bills/2019/S6042\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S6042\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:11:24.949Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S6042",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S6042"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0U4S1ySFVWuDlsG",
+	"json": "{\"id\":\"0U4S1ySFVWuDlsG\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2014/george-maziarz/national-fuel-customers-wny-enjoy-rate-freeze\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2014/george-maziarz/national-fuel-customers-wny-enjoy-rate-freeze\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765718,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2014/george-maziarz/national-fuel-customers-wny-enjoy-rate-freeze",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2014/george-maziarz/national-fuel-customers-wny-enjoy-rate-freeze"
+}

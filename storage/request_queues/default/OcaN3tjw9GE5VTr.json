@@ -1,0 +1,9 @@
+{
+	"id": "OcaN3tjw9GE5VTr",
+	"json": "{\"id\":\"OcaN3tjw9GE5VTr\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/june-11-2012/rules-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/june-11-2012/rules-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839954,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/june-11-2012/rules-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/june-11-2012/rules-meeting"
+}

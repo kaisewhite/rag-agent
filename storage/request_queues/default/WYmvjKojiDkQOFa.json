@@ -1,0 +1,9 @@
+{
+	"id": "WYmvjKojiDkQOFa",
+	"json": "{\"id\":\"WYmvjKojiDkQOFa\",\"url\":\"https://www.nysenate.gov/issues/senate-bill\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/senate-bill\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571553625,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/senate-bill",
+	"url": "https://www.nysenate.gov/issues/senate-bill"
+}

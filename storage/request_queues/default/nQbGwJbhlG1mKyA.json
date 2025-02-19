@@ -1,0 +1,9 @@
+{
+	"id": "nQbGwJbhlG1mKyA",
+	"json": "{\"id\":\"nQbGwJbhlG1mKyA\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/velmanette-montgomery/time-unseal-birth-records-new-york-report\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/velmanette-montgomery/time-unseal-birth-records-new-york-report\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717651,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/velmanette-montgomery/time-unseal-birth-records-new-york-report",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/velmanette-montgomery/time-unseal-birth-records-new-york-report"
+}

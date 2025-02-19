@@ -1,0 +1,9 @@
+{
+	"id": "1j3w6OztAcIZpAx",
+	"json": "{\"id\":\"1j3w6OztAcIZpAx\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/brian-kavanagh/senate-majority-announces-series-hearings-rent\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/brian-kavanagh/senate-majority-announces-series-hearings-rent\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798927,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/brian-kavanagh/senate-majority-announces-series-hearings-rent",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/brian-kavanagh/senate-majority-announces-series-hearings-rent"
+}

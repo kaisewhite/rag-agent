@@ -1,0 +1,9 @@
+{
+	"id": "0pVEE2RnfIlctfv",
+	"json": "{\"id\":\"0pVEE2RnfIlctfv\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/s2813/amendment/a\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/s2813/amendment/a\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571368068,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/s2813/amendment/a",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/s2813/amendment/a"
+}

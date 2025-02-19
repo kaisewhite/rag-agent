@@ -1,0 +1,9 @@
+{
+	"id": "lSxWMjWn9C8Ekq7",
+	"json": "{\"id\":\"lSxWMjWn9C8Ekq7\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/state-senator-gustavo-rivera-2024-2025-new-york-state?page=8\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/state-senator-gustavo-rivera-2024-2025-new-york-state?page=8\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571273888,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/state-senator-gustavo-rivera-2024-2025-new-york-state?page=8",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/state-senator-gustavo-rivera-2024-2025-new-york-state?page=8"
+}

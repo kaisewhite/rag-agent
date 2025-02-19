@@ -1,0 +1,9 @@
+{
+	"id": "nPfJSsUF596uoSJ",
+	"json": "{\"id\":\"nPfJSsUF596uoSJ\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/august-11-2014/olmstead-implementation-and-future-supports-and-services\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/august-11-2014/olmstead-implementation-and-future-supports-and-services\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569819310,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/august-11-2014/olmstead-implementation-and-future-supports-and-services",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/august-11-2014/olmstead-implementation-and-future-supports-and-services"
+}

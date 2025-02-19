@@ -1,0 +1,9 @@
+{
+	"id": "qoY0Hd9h6zTIsoQ",
+	"json": "{\"id\":\"qoY0Hd9h6zTIsoQ\",\"url\":\"https://www.nysenate.gov/issues/including-s6538\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/including-s6538\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569796254,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/including-s6538",
+	"url": "https://www.nysenate.gov/issues/including-s6538"
+}

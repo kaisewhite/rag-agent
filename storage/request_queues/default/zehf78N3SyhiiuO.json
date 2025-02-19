@@ -1,0 +1,9 @@
+{
+	"id": "zehf78N3SyhiiuO",
+	"json": "{\"id\":\"zehf78N3SyhiiuO\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Subways\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Subways\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571644950,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Subways",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Subways"
+}

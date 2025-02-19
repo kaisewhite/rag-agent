@@ -1,0 +1,9 @@
+{
+	"id": "jMPDw9IRb1KlwS8",
+	"json": "{\"id\":\"jMPDw9IRb1KlwS8\",\"url\":\"https://www.nysenate.gov/issues/israel-hostages\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/israel-hostages\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570945036,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/israel-hostages",
+	"url": "https://www.nysenate.gov/issues/israel-hostages"
+}

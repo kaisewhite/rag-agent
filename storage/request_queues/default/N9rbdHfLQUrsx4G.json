@@ -1,0 +1,9 @@
+{
+	"id": "N9rbdHfLQUrsx4G",
+	"json": "{\"id\":\"N9rbdHfLQUrsx4G\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/anna-m-kaplan/cuomo-wants-consolidate-high-tech-research-programs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/anna-m-kaplan/cuomo-wants-consolidate-high-tech-research-programs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570984975,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/anna-m-kaplan/cuomo-wants-consolidate-high-tech-research-programs",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/anna-m-kaplan/cuomo-wants-consolidate-high-tech-research-programs"
+}

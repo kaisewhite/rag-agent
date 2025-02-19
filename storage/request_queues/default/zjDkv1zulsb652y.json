@@ -1,0 +1,9 @@
+{
+	"id": "zjDkv1zulsb652y",
+	"json": "{\"id\":\"zjDkv1zulsb652y\",\"url\":\"https://www.nysenate.gov/issues/nuclear\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nuclear\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765716,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nuclear",
+	"url": "https://www.nysenate.gov/issues/nuclear"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "R8pQLhVnPvglSIh",
+	"json": "{\"id\":\"R8pQLhVnPvglSIh\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/james-skoufis/skoufis-launches-senate-investigation-skyrocketing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/james-skoufis/skoufis-launches-senate-investigation-skyrocketing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808637,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/james-skoufis/skoufis-launches-senate-investigation-skyrocketing",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/james-skoufis/skoufis-launches-senate-investigation-skyrocketing"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "cqUkaoeR6BnXRBV",
+	"json": "{\"id\":\"cqUkaoeR6BnXRBV\",\"url\":\"https://www.nysenate.gov/legislation/laws/BSC\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/BSC\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/BSC\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:25.304Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/BSC",
+	"url": "https://www.nysenate.gov/legislation/laws/BSC"
+}

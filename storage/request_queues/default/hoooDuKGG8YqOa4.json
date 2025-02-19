@@ -1,0 +1,9 @@
+{
+	"id": "hoooDuKGG8YqOa4",
+	"json": "{\"id\":\"hoooDuKGG8YqOa4\",\"url\":\"https://www.nysenate.gov/sites/default/files/ronald_mack.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/ronald_mack.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716541,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/ronald_mack.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/ronald_mack.pdf"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "tY9b0uKMM2M85nD",
+	"json": "{\"id\":\"tY9b0uKMM2M85nD\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-chair-committee-veterans-homeland\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-chair-committee-veterans-homeland\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855413,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-chair-committee-veterans-homeland",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-chair-committee-veterans-homeland"
+}

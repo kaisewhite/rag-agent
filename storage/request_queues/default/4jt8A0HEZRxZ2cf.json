@@ -1,0 +1,9 @@
+{
+	"id": "4jt8A0HEZRxZ2cf",
+	"json": "{\"id\":\"4jt8A0HEZRxZ2cf\",\"url\":\"https://www.nysenate.gov/legislation/laws/UCC/A9\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/UCC/A9\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569993655,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/UCC/A9",
+	"url": "https://www.nysenate.gov/legislation/laws/UCC/A9"
+}

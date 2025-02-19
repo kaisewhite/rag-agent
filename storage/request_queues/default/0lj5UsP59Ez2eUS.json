@@ -1,0 +1,9 @@
+{
+	"id": "0lj5UsP59Ez2eUS",
+	"json": "{\"id\":\"0lj5UsP59Ez2eUS\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/s4938\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/s4938\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571368066,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/s4938",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/s4938"
+}

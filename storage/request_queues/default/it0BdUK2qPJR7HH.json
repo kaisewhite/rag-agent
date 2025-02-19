@@ -1,0 +1,9 @@
+{
+	"id": "it0BdUK2qPJR7HH",
+	"json": "{\"id\":\"it0BdUK2qPJR7HH\",\"url\":\"https://www.nysenate.gov/issues/rural\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/rural\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695476,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/rural",
+	"url": "https://www.nysenate.gov/issues/rural"
+}

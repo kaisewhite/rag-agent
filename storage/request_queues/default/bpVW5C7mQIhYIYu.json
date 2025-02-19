@@ -1,0 +1,9 @@
+{
+	"id": "bpVW5C7mQIhYIYu",
+	"json": "{\"id\":\"bpVW5C7mQIhYIYu\",\"url\":\"https://www.nysenate.gov/committees/veterans-homeland-security-and-military-affairs\",\"loadedUrl\":\"https://www.nysenate.gov/committees/veterans-homeland-security-and-military-affairs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/committees/veterans-homeland-security-and-military-affairs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:50:55.436Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/committees/veterans-homeland-security-and-military-affairs",
+	"url": "https://www.nysenate.gov/committees/veterans-homeland-security-and-military-affairs"
+}

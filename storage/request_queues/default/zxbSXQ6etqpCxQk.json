@@ -1,0 +1,9 @@
+{
+	"id": "zxbSXQ6etqpCxQk",
+	"json": "{\"id\":\"zxbSXQ6etqpCxQk\",\"url\":\"https://www.nysenate.gov/honorees/2022/honoring-our-veterans\",\"loadedUrl\":\"https://www.nysenate.gov/honorees/2022/honoring-our-veterans\",\"uniqueKey\":\"GET():https://www.nysenate.gov/honorees/2022/honoring-our-veterans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:44:57.098Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/honorees/2022/honoring-our-veterans",
+	"url": "https://www.nysenate.gov/honorees/2022/honoring-our-veterans"
+}

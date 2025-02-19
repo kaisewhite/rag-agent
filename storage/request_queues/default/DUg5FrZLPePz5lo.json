@@ -1,0 +1,9 @@
+{
+	"id": "DUg5FrZLPePz5lo",
+	"json": "{\"id\":\"DUg5FrZLPePz5lo\",\"url\":\"https://www.nysenate.gov/legislation/laws/TAX/A31-G\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/TAX/A31-G\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569984707,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/TAX/A31-G",
+	"url": "https://www.nysenate.gov/legislation/laws/TAX/A31-G"
+}

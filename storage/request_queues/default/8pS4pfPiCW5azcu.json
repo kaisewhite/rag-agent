@@ -1,0 +1,9 @@
+{
+	"id": "8pS4pfPiCW5azcu",
+	"json": "{\"id\":\"8pS4pfPiCW5azcu\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/audio-wcny-capitol-pressroom-interviews-kavanagh-eviction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/audio-wcny-capitol-pressroom-interviews-kavanagh-eviction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798917,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/audio-wcny-capitol-pressroom-interviews-kavanagh-eviction",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/audio-wcny-capitol-pressroom-interviews-kavanagh-eviction"
+}

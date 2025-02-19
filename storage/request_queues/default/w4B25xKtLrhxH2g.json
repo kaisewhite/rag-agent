@@ -1,0 +1,9 @@
+{
+	"id": "w4B25xKtLrhxH2g",
+	"json": "{\"id\":\"w4B25xKtLrhxH2g\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2021/daphne-jordan/masks-toddlers-cuomos-it-again\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2021/daphne-jordan/masks-toddlers-cuomos-it-again\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571688895,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2021/daphne-jordan/masks-toddlers-cuomos-it-again",
+	"url": "https://www.nysenate.gov/newsroom/articles/2021/daphne-jordan/masks-toddlers-cuomos-it-again"
+}

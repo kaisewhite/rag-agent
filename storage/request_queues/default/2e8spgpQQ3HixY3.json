@@ -1,0 +1,9 @@
+{
+	"id": "2e8spgpQQ3HixY3",
+	"json": "{\"id\":\"2e8spgpQQ3HixY3\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2015/patrick-m-gallivan/past-legislative-annual-committee-reports\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2015/patrick-m-gallivan/past-legislative-annual-committee-reports\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569748003,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2015/patrick-m-gallivan/past-legislative-annual-committee-reports",
+	"url": "https://www.nysenate.gov/newsroom/articles/2015/patrick-m-gallivan/past-legislative-annual-committee-reports"
+}

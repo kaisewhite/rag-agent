@@ -1,0 +1,9 @@
+{
+	"id": "LcQ8CLXGGjPgrce",
+	"json": "{\"id\":\"LcQ8CLXGGjPgrce\",\"url\":\"https://www.nysenate.gov/issues/military-affairs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/military-affairs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695529,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/military-affairs",
+	"url": "https://www.nysenate.gov/issues/military-affairs"
+}

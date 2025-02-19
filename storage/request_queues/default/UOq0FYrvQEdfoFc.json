@@ -1,0 +1,9 @@
+{
+	"id": "UOq0FYrvQEdfoFc",
+	"json": "{\"id\":\"UOq0FYrvQEdfoFc\",\"url\":\"https://www.nysenate.gov/senators/george-amedore/landing\",\"loadedUrl\":\"https://www.nysenate.gov/user/login?destination=/senators/george-amedore/landing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/george-amedore/landing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:56:30.759Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/george-amedore/landing",
+	"url": "https://www.nysenate.gov/senators/george-amedore/landing"
+}

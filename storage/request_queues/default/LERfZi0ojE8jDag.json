@@ -1,0 +1,9 @@
+{
+	"id": "LERfZi0ojE8jDag",
+	"json": "{\"id\":\"LERfZi0ojE8jDag\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/staff-analysis-fy2019-executive-budget-whitebook\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/staff-analysis-fy2019-executive-budget-whitebook\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781095,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/staff-analysis-fy2019-executive-budget-whitebook",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/staff-analysis-fy2019-executive-budget-whitebook"
+}

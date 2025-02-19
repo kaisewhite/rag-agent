@@ -1,0 +1,9 @@
+{
+	"id": "oPHffUMexHlH6Q6",
+	"json": "{\"id\":\"oPHffUMexHlH6Q6\",\"url\":\"https://www.nysenate.gov/calendar/meetings/judiciary/july-23-2020/judiciary-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/judiciary/july-23-2020/judiciary-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804267,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/judiciary/july-23-2020/judiciary-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/judiciary/july-23-2020/judiciary-meeting"
+}

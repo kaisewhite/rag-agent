@@ -1,0 +1,9 @@
+{
+	"id": "wj00qydq5qsRrqk",
+	"json": "{\"id\":\"wj00qydq5qsRrqk\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/testimony-february-11-2013-budget-hearing-higher-education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/testimony-february-11-2013-budget-hearing-higher-education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781263,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/testimony-february-11-2013-budget-hearing-higher-education",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/testimony-february-11-2013-budget-hearing-higher-education"
+}

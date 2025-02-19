@@ -1,0 +1,9 @@
+{
+	"id": "RzZYINC2Za4Br6Z",
+	"json": "{\"id\":\"RzZYINC2Za4Br6Z\",\"url\":\"https://www.nysenate.gov/issues/alcohol\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/alcohol\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698371,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/alcohol",
+	"url": "https://www.nysenate.gov/issues/alcohol"
+}

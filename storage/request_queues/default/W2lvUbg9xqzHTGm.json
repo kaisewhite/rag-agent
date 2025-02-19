@@ -1,0 +1,9 @@
+{
+	"id": "W2lvUbg9xqzHTGm",
+	"json": "{\"id\":\"W2lvUbg9xqzHTGm\",\"url\":\"https://www.nysenate.gov/calendar/meetings/environmental-conservation/may-29-2018/consider-state-legislation-which-would\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/environmental-conservation/may-29-2018/consider-state-legislation-which-would\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770648,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/environmental-conservation/may-29-2018/consider-state-legislation-which-would",
+	"url": "https://www.nysenate.gov/calendar/meetings/environmental-conservation/may-29-2018/consider-state-legislation-which-would"
+}

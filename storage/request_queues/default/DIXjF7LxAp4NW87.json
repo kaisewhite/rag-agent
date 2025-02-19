@@ -1,0 +1,9 @@
+{
+	"id": "DIXjF7LxAp4NW87",
+	"json": "{\"id\":\"DIXjF7LxAp4NW87\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/A3593\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/A3593\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571487718,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/A3593",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/A3593"
+}

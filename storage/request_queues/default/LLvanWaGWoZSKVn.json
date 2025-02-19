@@ -1,0 +1,9 @@
+{
+	"id": "LLvanWaGWoZSKVn",
+	"json": "{\"id\":\"LLvanWaGWoZSKVn\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/testimony-february-4-2013-budget-hearing-environmental-conservation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/testimony-february-4-2013-budget-hearing-environmental-conservation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781264,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/testimony-february-4-2013-budget-hearing-environmental-conservation",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/testimony-february-4-2013-budget-hearing-environmental-conservation"
+}

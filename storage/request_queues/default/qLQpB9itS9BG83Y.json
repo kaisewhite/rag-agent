@@ -1,0 +1,9 @@
+{
+	"id": "qLQpB9itS9BG83Y",
+	"json": "{\"id\":\"qLQpB9itS9BG83Y\",\"url\":\"https://www.nysenate.gov/issues/protecting-lgbtq-rights\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/protecting-lgbtq-rights\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570201283,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/protecting-lgbtq-rights",
+	"url": "https://www.nysenate.gov/issues/protecting-lgbtq-rights"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "zaLtEJWIe1QkImd",
+	"json": "{\"id\":\"zaLtEJWIe1QkImd\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/A3309\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/A3309\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571147597,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/A3309",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/A3309"
+}

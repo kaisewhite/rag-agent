@@ -1,0 +1,9 @@
+{
+	"id": "QBGQUku3akf17SS",
+	"json": "{\"id\":\"QBGQUku3akf17SS\",\"url\":\"https://www.nysenate.gov/issues/hurricanes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/hurricanes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847652,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/hurricanes",
+	"url": "https://www.nysenate.gov/issues/hurricanes"
+}

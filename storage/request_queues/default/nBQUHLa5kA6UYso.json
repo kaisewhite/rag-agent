@@ -1,0 +1,9 @@
+{
+	"id": "nBQUHLa5kA6UYso",
+	"json": "{\"id\":\"nBQUHLa5kA6UYso\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2017/chris-jacobs/jacobs-announces-approval-community-college-economic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2017/chris-jacobs/jacobs-announces-approval-community-college-economic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571049951,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2017/chris-jacobs/jacobs-announces-approval-community-college-economic",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2017/chris-jacobs/jacobs-announces-approval-community-college-economic"
+}

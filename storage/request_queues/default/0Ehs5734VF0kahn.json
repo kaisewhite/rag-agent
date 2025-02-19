@@ -1,0 +1,9 @@
+{
+	"id": "0Ehs5734VF0kahn",
+	"json": "{\"id\":\"0Ehs5734VF0kahn\",\"url\":\"https://www.nysenate.gov/issues/public-transit\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/public-transit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570122344,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/public-transit",
+	"url": "https://www.nysenate.gov/issues/public-transit"
+}

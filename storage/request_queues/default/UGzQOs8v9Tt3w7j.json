@@ -1,0 +1,9 @@
+{
+	"id": "UGzQOs8v9Tt3w7j",
+	"json": "{\"id\":\"UGzQOs8v9Tt3w7j\",\"url\":\"https://www.nysenate.gov/calendar/events/racing-gaming-and-wagering/joseph-addabbo/february-12-2020/public-meeting-economic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/racing-gaming-and-wagering/joseph-addabbo/february-12-2020/public-meeting-economic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833538,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/racing-gaming-and-wagering/joseph-addabbo/february-12-2020/public-meeting-economic",
+	"url": "https://www.nysenate.gov/calendar/events/racing-gaming-and-wagering/joseph-addabbo/february-12-2020/public-meeting-economic"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "GFDSxgxIBR3bBOS",
+	"json": "{\"id\":\"GFDSxgxIBR3bBOS\",\"url\":\"https://www.nysenate.gov/issues/codes-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/codes-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725861,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/codes-committee",
+	"url": "https://www.nysenate.gov/issues/codes-committee"
+}

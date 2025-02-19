@@ -1,0 +1,9 @@
+{
+	"id": "PuFdRhRXiW3nwR8",
+	"json": "{\"id\":\"PuFdRhRXiW3nwR8\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/anna-m-kaplan/fight-stop-anti-semitism\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/anna-m-kaplan/fight-stop-anti-semitism\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571732384,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/anna-m-kaplan/fight-stop-anti-semitism",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/anna-m-kaplan/fight-stop-anti-semitism"
+}

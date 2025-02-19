@@ -1,0 +1,9 @@
+{
+	"id": "6073ohw0pyhOwVo",
+	"json": "{\"id\":\"6073ohw0pyhOwVo\",\"url\":\"https://www.nysenate.gov/issues/farm-worker-overtime-threshold\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/farm-worker-overtime-threshold\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569551650,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/farm-worker-overtime-threshold",
+	"url": "https://www.nysenate.gov/issues/farm-worker-overtime-threshold"
+}

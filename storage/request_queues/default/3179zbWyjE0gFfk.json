@@ -1,0 +1,9 @@
+{
+	"id": "3179zbWyjE0gFfk",
+	"json": "{\"id\":\"3179zbWyjE0gFfk\",\"url\":\"https://www.nysenate.gov/senators/brad-hoylman-sigal/calendar\",\"loadedUrl\":\"https://www.nysenate.gov/senators/brad-hoylman-sigal/calendar\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/brad-hoylman-sigal/calendar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:56:19.060Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/brad-hoylman-sigal/calendar",
+	"url": "https://www.nysenate.gov/senators/brad-hoylman-sigal/calendar"
+}

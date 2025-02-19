@@ -1,0 +1,9 @@
+{
+	"id": "0yybcJIMiPsQIsL",
+	"json": "{\"id\":\"0yybcJIMiPsQIsL\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/pedro-espada/senator-espada-jr-chairman-committee-housing-construction-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/pedro-espada/senator-espada-jr-chairman-committee-housing-construction-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798929,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/pedro-espada/senator-espada-jr-chairman-committee-housing-construction-and",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/pedro-espada/senator-espada-jr-chairman-committee-housing-construction-and"
+}

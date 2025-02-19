@@ -1,0 +1,9 @@
+{
+	"id": "UL2OHYA8XUEV2q0",
+	"json": "{\"id\":\"UL2OHYA8XUEV2q0\",\"url\":\"https://www.nysenate.gov/issues/historic-preservation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/historic-preservation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284440,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/historic-preservation",
+	"url": "https://www.nysenate.gov/issues/historic-preservation"
+}

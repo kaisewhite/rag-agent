@@ -1,0 +1,9 @@
+{
+	"id": "6dP6d6GZz5AZ4UK",
+	"json": "{\"id\":\"6dP6d6GZz5AZ4UK\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/rachel-may/senator-rachel-may-advances-two-bills-through-senate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/rachel-may/senator-rachel-may-advances-two-bills-through-senate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571367411,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/rachel-may/senator-rachel-may-advances-two-bills-through-senate",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/rachel-may/senator-rachel-may-advances-two-bills-through-senate"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4ulXdjfoXlnE3Ds",
+	"json": "{\"id\":\"4ulXdjfoXlnE3Ds\",\"url\":\"https://www.nysenate.gov/senators/jacob-ashby/about\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/jacob-ashby/about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569611751,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/jacob-ashby/about",
+	"url": "https://www.nysenate.gov/senators/jacob-ashby/about"
+}

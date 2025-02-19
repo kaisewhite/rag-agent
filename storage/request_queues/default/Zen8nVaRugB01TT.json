@@ -1,0 +1,9 @@
+{
+	"id": "Zen8nVaRugB01TT",
+	"json": "{\"id\":\"Zen8nVaRugB01TT\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-07-2016/water-quality-and-contamination\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-07-2016/water-quality-and-contamination\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780994,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-07-2016/water-quality-and-contamination",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-07-2016/water-quality-and-contamination"
+}

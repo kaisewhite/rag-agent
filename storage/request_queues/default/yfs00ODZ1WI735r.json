@@ -1,0 +1,9 @@
+{
+	"id": "yfs00ODZ1WI735r",
+	"json": "{\"id\":\"yfs00ODZ1WI735r\",\"url\":\"https://www.nysenate.gov/issues/decarceration\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/decarceration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717636,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/decarceration",
+	"url": "https://www.nysenate.gov/issues/decarceration"
+}

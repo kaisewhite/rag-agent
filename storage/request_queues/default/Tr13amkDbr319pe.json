@@ -1,0 +1,9 @@
+{
+	"id": "Tr13amkDbr319pe",
+	"json": "{\"id\":\"Tr13amkDbr319pe\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-16-2020/community-board-18-virtual-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-16-2020/community-board-18-virtual-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247172,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-16-2020/community-board-18-virtual-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-16-2020/community-board-18-virtual-meeting"
+}

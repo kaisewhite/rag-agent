@@ -1,0 +1,9 @@
+{
+	"id": "3De3lHQQ4xdb6TP",
+	"json": "{\"id\":\"3De3lHQQ4xdb6TP\",\"url\":\"https://www.nysenate.gov/legislation/laws/ENV/A34\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ENV/A34\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569912872,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ENV/A34",
+	"url": "https://www.nysenate.gov/legislation/laws/ENV/A34"
+}

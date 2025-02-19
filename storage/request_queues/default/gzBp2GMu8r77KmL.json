@@ -1,0 +1,9 @@
+{
+	"id": "gzBp2GMu8r77KmL",
+	"json": "{\"id\":\"gzBp2GMu8r77KmL\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2022/samra-g-brouk/maternal-health-resources\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2022/samra-g-brouk/maternal-health-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569619545,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2022/samra-g-brouk/maternal-health-resources",
+	"url": "https://www.nysenate.gov/newsroom/articles/2022/samra-g-brouk/maternal-health-resources"
+}

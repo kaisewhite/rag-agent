@@ -1,0 +1,9 @@
+{
+	"id": "ypwcaHnbhBNyuRk",
+	"json": "{\"id\":\"ypwcaHnbhBNyuRk\",\"url\":\"https://www.nysenate.gov/issues/supporting-local-municipalities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/supporting-local-municipalities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571537051,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/supporting-local-municipalities",
+	"url": "https://www.nysenate.gov/issues/supporting-local-municipalities"
+}

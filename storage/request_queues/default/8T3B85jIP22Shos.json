@@ -1,0 +1,9 @@
+{
+	"id": "8T3B85jIP22Shos",
+	"json": "{\"id\":\"8T3B85jIP22Shos\",\"url\":\"https://www.nysenate.gov/legislation/bills/2013/A8352\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2013/A8352\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571456035,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2013/A8352",
+	"url": "https://www.nysenate.gov/legislation/bills/2013/A8352"
+}

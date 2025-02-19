@@ -1,0 +1,9 @@
+{
+	"id": "pqZbgyf4jmQdhyy",
+	"json": "{\"id\":\"pqZbgyf4jmQdhyy\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/michael-gianaris/senate-deputy-leader-gianaris-announces-passage-his\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/michael-gianaris/senate-deputy-leader-gianaris-announces-passage-his\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570728700,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/michael-gianaris/senate-deputy-leader-gianaris-announces-passage-his",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/michael-gianaris/senate-deputy-leader-gianaris-announces-passage-his"
+}

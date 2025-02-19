@@ -1,0 +1,9 @@
+{
+	"id": "sbmlUsKCDoSf51B",
+	"json": "{\"id\":\"sbmlUsKCDoSf51B\",\"url\":\"https://www.nysenate.gov/legislation/laws/STT/A4\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/STT/A4\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569981592,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/STT/A4",
+	"url": "https://www.nysenate.gov/legislation/laws/STT/A4"
+}

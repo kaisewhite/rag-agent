@@ -1,0 +1,9 @@
+{
+	"id": "o4OPFrKGiXTIkJd",
+	"json": "{\"id\":\"o4OPFrKGiXTIkJd\",\"url\":\"https://www.nysenate.gov/legislation/laws/RPA/A2\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RPA/A2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569972339,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RPA/A2",
+	"url": "https://www.nysenate.gov/legislation/laws/RPA/A2"
+}

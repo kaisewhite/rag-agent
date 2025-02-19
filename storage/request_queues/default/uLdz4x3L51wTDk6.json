@@ -1,0 +1,9 @@
+{
+	"id": "uLdz4x3L51wTDk6",
+	"json": "{\"id\":\"uLdz4x3L51wTDk6\",\"url\":\"https://www.nysenate.gov/calendar/public-hearings/december-12-2023/public-hearing-receive-testimony-causes-and-effects\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public-hearings/december-12-2023/public-hearing-receive-testimony-causes-and-effects\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569718288,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public-hearings/december-12-2023/public-hearing-receive-testimony-causes-and-effects",
+	"url": "https://www.nysenate.gov/calendar/public-hearings/december-12-2023/public-hearing-receive-testimony-causes-and-effects"
+}

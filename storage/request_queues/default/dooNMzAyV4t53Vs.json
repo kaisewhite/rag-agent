@@ -1,0 +1,9 @@
+{
+	"id": "dooNMzAyV4t53Vs",
+	"json": "{\"id\":\"dooNMzAyV4t53Vs\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/senate-passes-net-metering-bill-reduce-energy-costs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/senate-passes-net-metering-bill-reduce-energy-costs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707199,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/senate-passes-net-metering-bill-reduce-energy-costs",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/senate-passes-net-metering-bill-reduce-energy-costs"
+}

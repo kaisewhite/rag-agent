@@ -1,0 +1,9 @@
+{
+	"id": "pnxWCy1GL8MfN6c",
+	"json": "{\"id\":\"pnxWCy1GL8MfN6c\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/economic-development-testimony-feb-1-2010\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/economic-development-testimony-feb-1-2010\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781275,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/economic-development-testimony-feb-1-2010",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/economic-development-testimony-feb-1-2010"
+}

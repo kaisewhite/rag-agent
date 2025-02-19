@@ -1,0 +1,9 @@
+{
+	"id": "JsznapWjpioeZRM",
+	"json": "{\"id\":\"JsznapWjpioeZRM\",\"url\":\"https://www.nysenate.gov/questionnaires/sean-m-ryan/i-love-my-neighborhood-my-neighborhood-needs-some-love\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/sean-m-ryan/i-love-my-neighborhood-my-neighborhood-needs-some-love\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570063363,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/sean-m-ryan/i-love-my-neighborhood-my-neighborhood-needs-some-love",
+	"url": "https://www.nysenate.gov/questionnaires/sean-m-ryan/i-love-my-neighborhood-my-neighborhood-needs-some-love"
+}

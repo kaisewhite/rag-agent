@@ -1,0 +1,9 @@
+{
+	"id": "N3uhPdP27AjE0vD",
+	"json": "{\"id\":\"N3uhPdP27AjE0vD\",\"url\":\"https://www.nysenate.gov/issues/islamophobia\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/islamophobia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571293558,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/islamophobia",
+	"url": "https://www.nysenate.gov/issues/islamophobia"
+}

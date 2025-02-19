@@ -1,0 +1,9 @@
+{
+	"id": "FTrJoKrDWSSx0Gh",
+	"json": "{\"id\":\"FTrJoKrDWSSx0Gh\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2011/lee-zeldin/senator-lee-zeldin-hosts-home-mortgage-information-seminar\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2011/lee-zeldin/senator-lee-zeldin-hosts-home-mortgage-information-seminar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740987,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2011/lee-zeldin/senator-lee-zeldin-hosts-home-mortgage-information-seminar",
+	"url": "https://www.nysenate.gov/newsroom/articles/2011/lee-zeldin/senator-lee-zeldin-hosts-home-mortgage-information-seminar"
+}

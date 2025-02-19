@@ -1,0 +1,9 @@
+{
+	"id": "UAVM7dZc8fbClF8",
+	"json": "{\"id\":\"UAVM7dZc8fbClF8\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-28-2019/free-shredding-event-senate-district-19\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-28-2019/free-shredding-event-senate-district-19\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247084,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-28-2019/free-shredding-event-senate-district-19",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-28-2019/free-shredding-event-senate-district-19"
+}

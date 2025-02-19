@@ -1,0 +1,9 @@
+{
+	"id": "7el4fwsOyqmA8pK",
+	"json": "{\"id\":\"7el4fwsOyqmA8pK\",\"url\":\"https://www.nysenate.gov/senators/jabari-brisport/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/jabari-brisport/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569617843,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/jabari-brisport/district",
+	"url": "https://www.nysenate.gov/senators/jabari-brisport/district"
+}

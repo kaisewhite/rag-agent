@@ -1,0 +1,9 @@
+{
+	"id": "h7fpIPEcZyH10qq",
+	"json": "{\"id\":\"h7fpIPEcZyH10qq\",\"url\":\"https://www.nysenate.gov/issues/civil-service-and-pension\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/civil-service-and-pension\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569724713,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/civil-service-and-pension",
+	"url": "https://www.nysenate.gov/issues/civil-service-and-pension"
+}

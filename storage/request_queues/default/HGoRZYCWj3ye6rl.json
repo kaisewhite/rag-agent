@@ -1,0 +1,9 @@
+{
+	"id": "HGoRZYCWj3ye6rl",
+	"json": "{\"id\":\"HGoRZYCWj3ye6rl\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/eric-adams/senator-adams-chairs-public-hearing-racing-gaming-and-wagering-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/eric-adams/senator-adams-chairs-public-hearing-racing-gaming-and-wagering-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833570,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/eric-adams/senator-adams-chairs-public-hearing-racing-gaming-and-wagering-0",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/eric-adams/senator-adams-chairs-public-hearing-racing-gaming-and-wagering-0"
+}

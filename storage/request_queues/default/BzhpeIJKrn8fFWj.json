@@ -1,0 +1,9 @@
+{
+	"id": "BzhpeIJKrn8fFWj",
+	"json": "{\"id\":\"BzhpeIJKrn8fFWj\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Squatting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Squatting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571275807,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Squatting",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Squatting"
+}

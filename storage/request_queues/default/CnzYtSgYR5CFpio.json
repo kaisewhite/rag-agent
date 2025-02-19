@@ -1,0 +1,9 @@
+{
+	"id": "CnzYtSgYR5CFpio",
+	"json": "{\"id\":\"CnzYtSgYR5CFpio\",\"url\":\"https://www.nysenate.gov/calendar/meetings/labor/january-22-2019/labor-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/labor/january-22-2019/labor-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811588,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/labor/january-22-2019/labor-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/labor/january-22-2019/labor-meeting"
+}

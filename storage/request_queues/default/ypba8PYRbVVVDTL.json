@@ -1,0 +1,9 @@
+{
+	"id": "ypba8PYRbVVVDTL",
+	"json": "{\"id\":\"ypba8PYRbVVVDTL\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/jamaal-t-bailey/senator-jamaal-t-bailey-mayor-shawyn-patterson-howard\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/jamaal-t-bailey/senator-jamaal-t-bailey-mayor-shawyn-patterson-howard\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569615878,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/jamaal-t-bailey/senator-jamaal-t-bailey-mayor-shawyn-patterson-howard",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/jamaal-t-bailey/senator-jamaal-t-bailey-mayor-shawyn-patterson-howard"
+}

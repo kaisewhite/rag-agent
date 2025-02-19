@@ -1,0 +1,9 @@
+{
+	"id": "HehXPaZ02XlbZx6",
+	"json": "{\"id\":\"HehXPaZ02XlbZx6\",\"url\":\"https://www.nysenate.gov/issues/environment\",\"loadedUrl\":\"https://www.nysenate.gov/issues/environment\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/environment\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:14:44.288Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/environment",
+	"url": "https://www.nysenate.gov/issues/environment"
+}

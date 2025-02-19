@@ -1,0 +1,9 @@
+{
+	"id": "7KzyxZj9J3oGrq9",
+	"json": "{\"id\":\"7KzyxZj9J3oGrq9\",\"url\":\"https://www.nysenate.gov/sites/default/files/shneaqua_purvis_for_ny_senate_hearing_on_parole_justice.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/shneaqua_purvis_for_ny_senate_hearing_on_parole_justice.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716543,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/shneaqua_purvis_for_ny_senate_hearing_on_parole_justice.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/shneaqua_purvis_for_ny_senate_hearing_on_parole_justice.pdf"
+}

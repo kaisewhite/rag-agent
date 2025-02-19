@@ -1,0 +1,9 @@
+{
+	"id": "h3EMnB78cskSNHi",
+	"json": "{\"id\":\"h3EMnB78cskSNHi\",\"url\":\"https://www.nysenate.gov/issues/wire-fraud-warning\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/wire-fraud-warning\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571429406,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/wire-fraud-warning",
+	"url": "https://www.nysenate.gov/issues/wire-fraud-warning"
+}

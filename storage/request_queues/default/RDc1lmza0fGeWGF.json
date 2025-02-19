@@ -1,0 +1,9 @@
+{
+	"id": "RDc1lmza0fGeWGF",
+	"json": "{\"id\":\"RDc1lmza0fGeWGF\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/brad-hoylman-sigal/senators-hoylman-sigal-krueger-and-assembly-member\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/brad-hoylman-sigal/senators-hoylman-sigal-krueger-and-assembly-member\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571442345,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/brad-hoylman-sigal/senators-hoylman-sigal-krueger-and-assembly-member",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/brad-hoylman-sigal/senators-hoylman-sigal-krueger-and-assembly-member"
+}

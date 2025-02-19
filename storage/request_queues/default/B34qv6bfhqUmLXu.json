@@ -1,0 +1,9 @@
+{
+	"id": "B34qv6bfhqUmLXu",
+	"json": "{\"id\":\"B34qv6bfhqUmLXu\",\"url\":\"https://www.nysenate.gov/newsroom/articles/shirley-huntley/3092009-passed-senate-huntley-sponsors-s-2225\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/shirley-huntley/3092009-passed-senate-huntley-sponsors-s-2225\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569819334,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/shirley-huntley/3092009-passed-senate-huntley-sponsors-s-2225",
+	"url": "https://www.nysenate.gov/newsroom/articles/shirley-huntley/3092009-passed-senate-huntley-sponsors-s-2225"
+}

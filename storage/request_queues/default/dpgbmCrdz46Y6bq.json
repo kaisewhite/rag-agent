@@ -1,0 +1,9 @@
+{
+	"id": "dpgbmCrdz46Y6bq",
+	"json": "{\"id\":\"dpgbmCrdz46Y6bq\",\"url\":\"https://www.nysenate.gov/calendar/events/andrew-gounardes/august-29-2019/summer-concert-series-sound-affair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/august-29-2019/summer-concert-series-sound-affair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570125461,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/august-29-2019/summer-concert-series-sound-affair",
+	"url": "https://www.nysenate.gov/calendar/events/andrew-gounardes/august-29-2019/summer-concert-series-sound-affair"
+}

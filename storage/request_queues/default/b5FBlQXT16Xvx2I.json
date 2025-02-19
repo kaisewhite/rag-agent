@@ -1,0 +1,9 @@
+{
+	"id": "b5FBlQXT16Xvx2I",
+	"json": "{\"id\":\"b5FBlQXT16Xvx2I\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/green-gateway-project\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/green-gateway-project\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571570725,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/green-gateway-project",
+	"url": "https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/green-gateway-project"
+}

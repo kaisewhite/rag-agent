@@ -1,0 +1,9 @@
+{
+	"id": "1B4Y1zTtbvkJhQy",
+	"json": "{\"id\":\"1B4Y1zTtbvkJhQy\",\"url\":\"https://www.nysenate.gov/issues/governor-kathy-hochul\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/governor-kathy-hochul\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740942,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/governor-kathy-hochul",
+	"url": "https://www.nysenate.gov/issues/governor-kathy-hochul"
+}

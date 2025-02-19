@@ -1,0 +1,9 @@
+{
+	"id": "L94sOvMV6eqyBBf",
+	"json": "{\"id\":\"L94sOvMV6eqyBBf\",\"url\":\"https://www.nysenate.gov/issues/coronavirus-covid-19-seniors-nursing-homes-adult-care-facilities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/coronavirus-covid-19-seniors-nursing-homes-adult-care-facilities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698348,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/coronavirus-covid-19-seniors-nursing-homes-adult-care-facilities",
+	"url": "https://www.nysenate.gov/issues/coronavirus-covid-19-seniors-nursing-homes-adult-care-facilities"
+}

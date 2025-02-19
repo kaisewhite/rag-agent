@@ -1,0 +1,9 @@
+{
+	"id": "jHPthxOvntoPht1",
+	"json": "{\"id\":\"jHPthxOvntoPht1\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-announces-passage-three-bills\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-announces-passage-three-bills\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855413,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-announces-passage-three-bills",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/nys-senator-eric-adams-announces-passage-three-bills"
+}

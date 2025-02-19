@@ -1,0 +1,9 @@
+{
+	"id": "9qw7wMVO6CmemM6",
+	"json": "{\"id\":\"9qw7wMVO6CmemM6\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/usa-today-lohud-mortgage-forbearance-100m-covid-19-rent\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/usa-today-lohud-mortgage-forbearance-100m-covid-19-rent\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798912,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/usa-today-lohud-mortgage-forbearance-100m-covid-19-rent",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/usa-today-lohud-mortgage-forbearance-100m-covid-19-rent"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Z9fm4hbhmHt3hGX",
+	"json": "{\"id\":\"Z9fm4hbhmHt3hGX\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Resiliency\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Resiliency\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570888157,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Resiliency",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Resiliency"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "27qEuBlI5uWkGWM",
+	"json": "{\"id\":\"27qEuBlI5uWkGWM\",\"url\":\"https://www.nysenate.gov/issues/trans-healthcare\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/trans-healthcare\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569639734,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/trans-healthcare",
+	"url": "https://www.nysenate.gov/issues/trans-healthcare"
+}

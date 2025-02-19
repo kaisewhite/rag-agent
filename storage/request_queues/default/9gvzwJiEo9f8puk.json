@@ -1,0 +1,9 @@
+{
+	"id": "9gvzwJiEo9f8puk",
+	"json": "{\"id\":\"9gvzwJiEo9f8puk\",\"url\":\"https://www.nysenate.gov/issues/uber\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/uber\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571662835,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/uber",
+	"url": "https://www.nysenate.gov/issues/uber"
+}

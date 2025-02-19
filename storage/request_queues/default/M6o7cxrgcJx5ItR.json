@@ -1,0 +1,9 @@
+{
+	"id": "M6o7cxrgcJx5ItR",
+	"json": "{\"id\":\"M6o7cxrgcJx5ItR\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-17-2019/public-hearing-identify-current-broadband-needs-rural\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-17-2019/public-hearing-identify-current-broadband-needs-rural\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695479,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-17-2019/public-hearing-identify-current-broadband-needs-rural",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-17-2019/public-hearing-identify-current-broadband-needs-rural"
+}

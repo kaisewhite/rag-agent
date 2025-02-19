@@ -1,0 +1,9 @@
+{
+	"id": "hUjwnV1u43lKZQj",
+	"json": "{\"id\":\"hUjwnV1u43lKZQj\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/luis-r-sepulveda/senator-luis-sepulveda-and-senator-gustavo-rivera\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/luis-r-sepulveda/senator-luis-sepulveda-and-senator-gustavo-rivera\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569748003,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/luis-r-sepulveda/senator-luis-sepulveda-and-senator-gustavo-rivera",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/luis-r-sepulveda/senator-luis-sepulveda-and-senator-gustavo-rivera"
+}

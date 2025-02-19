@@ -1,0 +1,9 @@
+{
+	"id": "BIm4DKBgC8zDbda",
+	"json": "{\"id\":\"BIm4DKBgC8zDbda\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/thomas-f-omara/may-lyme-disease-awareness-month-read-more-senate-task\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/thomas-f-omara/may-lyme-disease-awareness-month-read-more-senate-task\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770745,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/thomas-f-omara/may-lyme-disease-awareness-month-read-more-senate-task",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/thomas-f-omara/may-lyme-disease-awareness-month-read-more-senate-task"
+}

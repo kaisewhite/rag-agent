@@ -1,0 +1,9 @@
+{
+	"id": "LDqvIcFcMEaAup7",
+	"json": "{\"id\":\"LDqvIcFcMEaAup7\",\"url\":\"https://www.nysenate.gov/questionnaires/robert-jackson/sign-receive-news-and-updates-senator-jackson\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/robert-jackson/sign-receive-news-and-updates-senator-jackson\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569646429,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/robert-jackson/sign-receive-news-and-updates-senator-jackson",
+	"url": "https://www.nysenate.gov/questionnaires/robert-jackson/sign-receive-news-and-updates-senator-jackson"
+}

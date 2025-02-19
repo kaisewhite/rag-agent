@@ -1,0 +1,9 @@
+{
+	"id": "Osd3XDZSdzmevwo",
+	"json": "{\"id\":\"Osd3XDZSdzmevwo\",\"url\":\"https://www.nysenate.gov/newsroom/video/rachel-may/senator-may-speaks-support-her-cider-legislation-senator-floor\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/rachel-may/senator-may-speaks-support-her-cider-legislation-senator-floor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695484,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/rachel-may/senator-may-speaks-support-her-cider-legislation-senator-floor",
+	"url": "https://www.nysenate.gov/newsroom/video/rachel-may/senator-may-speaks-support-her-cider-legislation-senator-floor"
+}

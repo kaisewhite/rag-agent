@@ -1,0 +1,9 @@
+{
+	"id": "AR9pqRLXY0glEw7",
+	"json": "{\"id\":\"AR9pqRLXY0glEw7\",\"url\":\"https://www.nysenate.gov/calendar/meetings/banks/june-03-2015/banks-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/banks/june-03-2015/banks-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706973,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/banks/june-03-2015/banks-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/banks/june-03-2015/banks-meeting"
+}

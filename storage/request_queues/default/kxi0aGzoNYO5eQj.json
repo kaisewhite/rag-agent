@@ -1,0 +1,9 @@
+{
+	"id": "kxi0aGzoNYO5eQj",
+	"json": "{\"id\":\"kxi0aGzoNYO5eQj\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/march-17-2014/joint-budget-legislative-general-conference-committee-topic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/march-17-2014/joint-budget-legislative-general-conference-committee-topic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569747991,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/march-17-2014/joint-budget-legislative-general-conference-committee-topic",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/march-17-2014/joint-budget-legislative-general-conference-committee-topic"
+}

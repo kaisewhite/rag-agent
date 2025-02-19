@@ -1,0 +1,9 @@
+{
+	"id": "NCUqXIlp0Th4ceq",
+	"json": "{\"id\":\"NCUqXIlp0Th4ceq\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/xxx-hcp-fy2026-state-budget-health-hearing-testimony-2.11.2025_lje.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/xxx-hcp-fy2026-state-budget-health-hearing-testimony-2.11.2025_lje.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570534131,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/xxx-hcp-fy2026-state-budget-health-hearing-testimony-2.11.2025_lje.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/xxx-hcp-fy2026-state-budget-health-hearing-testimony-2.11.2025_lje.pdf"
+}

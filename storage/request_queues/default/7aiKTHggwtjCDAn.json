@@ -1,0 +1,9 @@
+{
+	"id": "7aiKTHggwtjCDAn",
+	"json": "{\"id\":\"7aiKTHggwtjCDAn\",\"url\":\"https://www.nysenate.gov/senators/patricia-fahy/legislation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/patricia-fahy/legislation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569633466,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/patricia-fahy/legislation",
+	"url": "https://www.nysenate.gov/senators/patricia-fahy/legislation"
+}

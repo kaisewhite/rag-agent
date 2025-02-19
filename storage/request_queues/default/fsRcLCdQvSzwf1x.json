@@ -1,0 +1,9 @@
+{
+	"id": "fsRcLCdQvSzwf1x",
+	"json": "{\"id\":\"fsRcLCdQvSzwf1x\",\"url\":\"https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/february-27-2013/energy-telecommunications-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/february-27-2013/energy-telecommunications-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765700,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/february-27-2013/energy-telecommunications-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/february-27-2013/energy-telecommunications-meeting"
+}

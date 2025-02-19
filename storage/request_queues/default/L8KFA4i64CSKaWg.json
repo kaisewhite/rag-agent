@@ -1,0 +1,9 @@
+{
+	"id": "L8KFA4i64CSKaWg",
+	"json": "{\"id\":\"L8KFA4i64CSKaWg\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2015/newsday-flanagan-cant-wait-until-june-school-aid-totals\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2015/newsday-flanagan-cant-wait-until-june-school-aid-totals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755185,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2015/newsday-flanagan-cant-wait-until-june-school-aid-totals",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2015/newsday-flanagan-cant-wait-until-june-school-aid-totals"
+}

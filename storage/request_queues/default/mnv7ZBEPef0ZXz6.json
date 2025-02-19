@@ -1,0 +1,9 @@
+{
+	"id": "mnv7ZBEPef0ZXz6",
+	"json": "{\"id\":\"mnv7ZBEPef0ZXz6\",\"url\":\"https://www.nysenate.gov/calendar/events/crime-victims-crime-and-correction/patrick-m-gallivan/january-09-2017/senate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/crime-victims-crime-and-correction/patrick-m-gallivan/january-09-2017/senate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569747985,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/crime-victims-crime-and-correction/patrick-m-gallivan/january-09-2017/senate",
+	"url": "https://www.nysenate.gov/calendar/events/crime-victims-crime-and-correction/patrick-m-gallivan/january-09-2017/senate"
+}

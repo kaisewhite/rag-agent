@@ -1,0 +1,9 @@
+{
+	"id": "2mE8T51ZK1an4zZ",
+	"json": "{\"id\":\"2mE8T51ZK1an4zZ\",\"url\":\"https://www.nysenate.gov/legislation/laws/ENV/A76\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ENV/A76\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569912889,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ENV/A76",
+	"url": "https://www.nysenate.gov/legislation/laws/ENV/A76"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "i05cIy2B2NbZO1d",
+	"json": "{\"id\":\"i05cIy2B2NbZO1d\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2019/brad-hoylman-sigal/senate-unanimously-passes-historic-child-victims-act#main-content\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2019/brad-hoylman-sigal/senate-unanimously-passes-historic-child-victims-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570202732,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2019/brad-hoylman-sigal/senate-unanimously-passes-historic-child-victims-act",
+	"url": "https://www.nysenate.gov/newsroom/articles/2019/brad-hoylman-sigal/senate-unanimously-passes-historic-child-victims-act#main-content"
+}

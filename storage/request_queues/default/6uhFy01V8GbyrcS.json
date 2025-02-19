@@ -1,0 +1,9 @@
+{
+	"id": "6uhFy01V8GbyrcS",
+	"json": "{\"id\":\"6uhFy01V8GbyrcS\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/kevin-thomas/covid-19-data-privacy-legislation-passes-new-york-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/kevin-thomas/covid-19-data-privacy-legislation-passes-new-york-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740963,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/kevin-thomas/covid-19-data-privacy-legislation-passes-new-york-state",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/kevin-thomas/covid-19-data-privacy-legislation-passes-new-york-state"
+}

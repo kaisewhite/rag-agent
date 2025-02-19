@@ -1,0 +1,9 @@
+{
+	"id": "PAjpTRfMw0kniyk",
+	"json": "{\"id\":\"PAjpTRfMw0kniyk\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/senator-grisanti-introduces-sewage-pollution-right-know\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/senator-grisanti-introduces-sewage-pollution-right-know\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770754,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/senator-grisanti-introduces-sewage-pollution-right-know",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/senator-grisanti-introduces-sewage-pollution-right-know"
+}

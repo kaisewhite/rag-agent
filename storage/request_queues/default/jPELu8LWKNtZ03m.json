@@ -1,0 +1,9 @@
+{
+	"id": "jPELu8LWKNtZ03m",
+	"json": "{\"id\":\"jPELu8LWKNtZ03m\",\"url\":\"https://www.nysenate.gov/legislation/laws/ENV/A57\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ENV/A57\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569912886,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ENV/A57",
+	"url": "https://www.nysenate.gov/legislation/laws/ENV/A57"
+}

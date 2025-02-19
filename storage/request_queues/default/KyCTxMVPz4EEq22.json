@@ -1,0 +1,9 @@
+{
+	"id": "KyCTxMVPz4EEq22",
+	"json": "{\"id\":\"KyCTxMVPz4EEq22\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/newsbeat-no-15-charter-school-reform-corporate-accountability\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/newsbeat-no-15-charter-school-reform-corporate-accountability\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741841,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/newsbeat-no-15-charter-school-reform-corporate-accountability",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/newsbeat-no-15-charter-school-reform-corporate-accountability"
+}

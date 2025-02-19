@@ -1,0 +1,9 @@
+{
+	"id": "sUAY9cNXdX0s68y",
+	"json": "{\"id\":\"sUAY9cNXdX0s68y\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-16-2018/building-bridges-still-we-rise-nyc\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-16-2018/building-bridges-still-we-rise-nyc\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246529,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-16-2018/building-bridges-still-we-rise-nyc",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-16-2018/building-bridges-still-we-rise-nyc"
+}

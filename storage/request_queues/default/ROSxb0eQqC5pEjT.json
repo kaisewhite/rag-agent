@@ -1,0 +1,9 @@
+{
+	"id": "ROSxb0eQqC5pEjT",
+	"json": "{\"id\":\"ROSxb0eQqC5pEjT\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBH/A49-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBH/A49-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569956020,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBH/A49-A",
+	"url": "https://www.nysenate.gov/legislation/laws/PBH/A49-A"
+}

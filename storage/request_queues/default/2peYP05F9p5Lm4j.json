@@ -1,0 +1,9 @@
+{
+	"id": "2peYP05F9p5Lm4j",
+	"json": "{\"id\":\"2peYP05F9p5Lm4j\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-20-2023/sd-19-food-distribution-event\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-20-2023/sd-19-food-distribution-event\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247450,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-20-2023/sd-19-food-distribution-event",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-20-2023/sd-19-food-distribution-event"
+}

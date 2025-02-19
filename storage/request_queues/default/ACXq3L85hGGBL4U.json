@@ -1,0 +1,9 @@
+{
+	"id": "ACXq3L85hGGBL4U",
+	"json": "{\"id\":\"ACXq3L85hGGBL4U\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/june-04-2012/use-automated-sales-suppression-devices-evade-new-york-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/june-04-2012/use-automated-sales-suppression-devices-evade-new-york-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808620,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/june-04-2012/use-automated-sales-suppression-devices-evade-new-york-state",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/june-04-2012/use-automated-sales-suppression-devices-evade-new-york-state"
+}

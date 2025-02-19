@@ -1,0 +1,9 @@
+{
+	"id": "lQq0dH5iI3tnCzd",
+	"json": "{\"id\":\"lQq0dH5iI3tnCzd\",\"url\":\"https://www.nysenate.gov/legislation/bills/2017/A538\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2017/A538\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571456038,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2017/A538",
+	"url": "https://www.nysenate.gov/legislation/bills/2017/A538"
+}

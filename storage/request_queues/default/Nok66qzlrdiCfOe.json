@@ -1,0 +1,9 @@
+{
+	"id": "Nok66qzlrdiCfOe",
+	"json": "{\"id\":\"Nok66qzlrdiCfOe\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2016/joseph-griffo/statement-senate-energy-chair-griffo-responds-pscs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2016/joseph-griffo/statement-senate-energy-chair-griffo-responds-pscs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765716,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2016/joseph-griffo/statement-senate-energy-chair-griffo-responds-pscs",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2016/joseph-griffo/statement-senate-energy-chair-griffo-responds-pscs"
+}

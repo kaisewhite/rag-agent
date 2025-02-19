@@ -1,0 +1,9 @@
+{
+	"id": "YmaN94QfT6lpG2U",
+	"json": "{\"id\":\"YmaN94QfT6lpG2U\",\"url\":\"https://www.nysenate.gov/issues/pension\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/pension\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570257772,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/pension",
+	"url": "https://www.nysenate.gov/issues/pension"
+}

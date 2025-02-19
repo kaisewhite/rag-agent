@@ -1,0 +1,9 @@
+{
+	"id": "89Asc5SMJTZCOpI",
+	"json": "{\"id\":\"89Asc5SMJTZCOpI\",\"url\":\"https://www.nysenate.gov/issues/agencies\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/agencies\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686725,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/agencies",
+	"url": "https://www.nysenate.gov/issues/agencies"
+}

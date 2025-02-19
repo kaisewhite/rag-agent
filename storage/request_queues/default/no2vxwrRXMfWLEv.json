@@ -1,0 +1,9 @@
+{
+	"id": "no2vxwrRXMfWLEv",
+	"json": "{\"id\":\"no2vxwrRXMfWLEv\",\"url\":\"https://www.nysenate.gov/issues/business-awareness\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/business-awareness\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571686366,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/business-awareness",
+	"url": "https://www.nysenate.gov/issues/business-awareness"
+}

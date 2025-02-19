@@ -1,0 +1,9 @@
+{
+	"id": "7hnk7g9A0K30DFl",
+	"json": "{\"id\":\"7hnk7g9A0K30DFl\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/thomas-f-omara/state-announces-start-grant-program-help-localities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/thomas-f-omara/state-announces-start-grant-program-help-localities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770743,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/thomas-f-omara/state-announces-start-grant-program-help-localities",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/thomas-f-omara/state-announces-start-grant-program-help-localities"
+}

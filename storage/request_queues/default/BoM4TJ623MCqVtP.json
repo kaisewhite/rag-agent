@@ -1,0 +1,9 @@
+{
+	"id": "BoM4TJ623MCqVtP",
+	"json": "{\"id\":\"BoM4TJ623MCqVtP\",\"url\":\"https://www.nysenate.gov/senators/michael-h-ranzenhofer/landing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/michael-h-ranzenhofer/landing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571079784,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/michael-h-ranzenhofer/landing",
+	"url": "https://www.nysenate.gov/senators/michael-h-ranzenhofer/landing"
+}

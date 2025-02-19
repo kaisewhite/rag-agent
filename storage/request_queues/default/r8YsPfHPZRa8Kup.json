@@ -1,0 +1,9 @@
+{
+	"id": "r8YsPfHPZRa8Kup",
+	"json": "{\"id\":\"r8YsPfHPZRa8Kup\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/michael-gianaris/senate-passes-deputy-leader-gianaris-legislation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/michael-gianaris/senate-passes-deputy-leader-gianaris-legislation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571150812,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/michael-gianaris/senate-passes-deputy-leader-gianaris-legislation",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/michael-gianaris/senate-passes-deputy-leader-gianaris-legislation"
+}

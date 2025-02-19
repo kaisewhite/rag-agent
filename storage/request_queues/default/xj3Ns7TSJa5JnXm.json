@@ -1,0 +1,9 @@
+{
+	"id": "xj3Ns7TSJa5JnXm",
+	"json": "{\"id\":\"xj3Ns7TSJa5JnXm\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Ghost%20Guns\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Ghost+Guns\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571672337,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Ghost+Guns",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Ghost%20Guns"
+}

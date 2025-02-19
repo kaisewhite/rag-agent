@@ -1,0 +1,9 @@
+{
+	"id": "7LuBrT5uzzaYQoS",
+	"json": "{\"id\":\"7LuBrT5uzzaYQoS\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-congratulates-mineola-american-legions\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-congratulates-mineola-american-legions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847696,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-congratulates-mineola-american-legions",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-congratulates-mineola-american-legions"
+}

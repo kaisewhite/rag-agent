@@ -1,0 +1,9 @@
+{
+	"id": "6tiY7hTTH3T2Qte",
+	"json": "{\"id\":\"6tiY7hTTH3T2Qte\",\"url\":\"https://www.nysenate.gov/sites/default/files/jose_saldana_rapp.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/jose_saldana_rapp.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716526,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/jose_saldana_rapp.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/jose_saldana_rapp.pdf"
+}

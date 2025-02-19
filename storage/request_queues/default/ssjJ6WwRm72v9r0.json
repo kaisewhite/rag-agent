@@ -1,0 +1,9 @@
+{
+	"id": "ssjJ6WwRm72v9r0",
+	"json": "{\"id\":\"ssjJ6WwRm72v9r0\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/march-27-2018/joint-public-hearing-evaluate-reason-behind-widespread-1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/march-27-2018/joint-public-hearing-evaluate-reason-behind-widespread-1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698329,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/march-27-2018/joint-public-hearing-evaluate-reason-behind-widespread-1",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/march-27-2018/joint-public-hearing-evaluate-reason-behind-widespread-1"
+}

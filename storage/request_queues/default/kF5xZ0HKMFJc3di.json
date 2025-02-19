@@ -1,0 +1,9 @@
+{
+	"id": "kF5xZ0HKMFJc3di",
+	"json": "{\"id\":\"kF5xZ0HKMFJc3di\",\"url\":\"https://www.nysenate.gov/questionnaires/robert-g-ortt/support-state-senator-rob-ortts-plan-protect-our-troops-and-shake\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/robert-g-ortt/support-state-senator-rob-ortts-plan-protect-our-troops-and-shake\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569662180,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/robert-g-ortt/support-state-senator-rob-ortts-plan-protect-our-troops-and-shake",
+	"url": "https://www.nysenate.gov/questionnaires/robert-g-ortt/support-state-senator-rob-ortts-plan-protect-our-troops-and-shake"
+}

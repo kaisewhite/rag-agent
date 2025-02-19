@@ -1,0 +1,9 @@
+{
+	"id": "KPBx5s4lwHF3GKX",
+	"json": "{\"id\":\"KPBx5s4lwHF3GKX\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/medline-no-longer-seeks-176m-tax-breaks-warehouse\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/medline-no-longer-seeks-176m-tax-breaks-warehouse\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808642,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/medline-no-longer-seeks-176m-tax-breaks-warehouse",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/medline-no-longer-seeks-176m-tax-breaks-warehouse"
+}

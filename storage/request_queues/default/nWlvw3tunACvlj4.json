@@ -1,0 +1,9 @@
+{
+	"id": "nWlvw3tunACvlj4",
+	"json": "{\"id\":\"nWlvw3tunACvlj4\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-26-2018/joint-public-hearing-examine-minority-and-women-owned\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-26-2018/joint-public-hearing-examine-minority-and-women-owned\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734317,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-26-2018/joint-public-hearing-examine-minority-and-women-owned",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-26-2018/joint-public-hearing-examine-minority-and-women-owned"
+}

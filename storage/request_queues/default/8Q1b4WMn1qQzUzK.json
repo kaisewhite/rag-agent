@@ -1,0 +1,9 @@
+{
+	"id": "8Q1b4WMn1qQzUzK",
+	"json": "{\"id\":\"8Q1b4WMn1qQzUzK\",\"url\":\"https://www.nysenate.gov/issues/food-procurement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/food-procurement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707148,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/food-procurement",
+	"url": "https://www.nysenate.gov/issues/food-procurement"
+}

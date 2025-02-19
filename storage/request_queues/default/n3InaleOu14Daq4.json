@@ -1,0 +1,9 @@
+{
+	"id": "n3InaleOu14Daq4",
+	"json": "{\"id\":\"n3InaleOu14Daq4\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Veterans%20Hall%20of%20Fame\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Veterans+Hall+of+Fame\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570098885,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Veterans+Hall+of+Fame",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Veterans%20Hall%20of%20Fame"
+}

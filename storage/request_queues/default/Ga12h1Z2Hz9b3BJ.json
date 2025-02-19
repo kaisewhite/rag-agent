@@ -1,0 +1,9 @@
+{
+	"id": "Ga12h1Z2Hz9b3BJ",
+	"json": "{\"id\":\"Ga12h1Z2Hz9b3BJ\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2021/rachel-may/senator-rachel-mays-statement-cuomo-administration-falsifying\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2021/rachel-may/senator-rachel-mays-statement-cuomo-administration-falsifying\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698347,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2021/rachel-may/senator-rachel-mays-statement-cuomo-administration-falsifying",
+	"url": "https://www.nysenate.gov/newsroom/articles/2021/rachel-may/senator-rachel-mays-statement-cuomo-administration-falsifying"
+}

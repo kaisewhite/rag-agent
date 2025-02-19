@@ -1,0 +1,9 @@
+{
+	"id": "SP7kPrRZji9CMlM",
+	"json": "{\"id\":\"SP7kPrRZji9CMlM\",\"url\":\"https://www.nysenate.gov/issues/fishermen\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/fishermen\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770692,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/fishermen",
+	"url": "https://www.nysenate.gov/issues/fishermen"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "1COoWDmCqyKHMcx",
+	"json": "{\"id\":\"1COoWDmCqyKHMcx\",\"url\":\"https://www.nysenate.gov/issues/racial-equity\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/racial-equity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570945034,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/racial-equity",
+	"url": "https://www.nysenate.gov/issues/racial-equity"
+}

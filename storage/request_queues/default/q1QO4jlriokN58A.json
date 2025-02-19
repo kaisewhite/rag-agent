@@ -1,0 +1,9 @@
+{
+	"id": "q1QO4jlriokN58A",
+	"json": "{\"id\":\"q1QO4jlriokN58A\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/june-17-2010/benefit-corporations-expanding-corporate-purpose\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/june-17-2010/benefit-corporations-expanding-corporate-purpose\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741831,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/june-17-2010/benefit-corporations-expanding-corporate-purpose",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/june-17-2010/benefit-corporations-expanding-corporate-purpose"
+}

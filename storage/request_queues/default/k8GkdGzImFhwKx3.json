@@ -1,0 +1,9 @@
+{
+	"id": "k8GkdGzImFhwKx3",
+	"json": "{\"id\":\"k8GkdGzImFhwKx3\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/girl-scout-troop-1501-pet-adoption-event-sunday\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/girl-scout-troop-1501-pet-adoption-event-sunday\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847585,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/girl-scout-troop-1501-pet-adoption-event-sunday",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/girl-scout-troop-1501-pet-adoption-event-sunday"
+}

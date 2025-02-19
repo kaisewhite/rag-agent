@@ -1,0 +1,9 @@
+{
+	"id": "gXUBa8WlSpycubf",
+	"json": "{\"id\":\"gXUBa8WlSpycubf\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/july-24-2020/how-create-black-owned-financial-institution\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/july-24-2020/how-create-black-owned-financial-institution\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019458,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/july-24-2020/how-create-black-owned-financial-institution",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/july-24-2020/how-create-black-owned-financial-institution"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "rvQ1EW3OgS0gZIf",
+	"json": "{\"id\":\"rvQ1EW3OgS0gZIf\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/june-21-2013/rules-meeting-1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/june-21-2013/rules-meeting-1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839937,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/june-21-2013/rules-meeting-1",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/june-21-2013/rules-meeting-1"
+}

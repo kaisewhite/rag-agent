@@ -1,0 +1,9 @@
+{
+	"id": "uP5miGHndmLXjA0",
+	"json": "{\"id\":\"uP5miGHndmLXjA0\",\"url\":\"https://www.nysenate.gov/senators/brad-hoylman-sigal/legislation\",\"loadedUrl\":\"https://www.nysenate.gov/senators/brad-hoylman-sigal/legislation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/brad-hoylman-sigal/legislation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:56:18.732Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/brad-hoylman-sigal/legislation",
+	"url": "https://www.nysenate.gov/senators/brad-hoylman-sigal/legislation"
+}

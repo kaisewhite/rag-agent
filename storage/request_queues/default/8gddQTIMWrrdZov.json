@@ -1,0 +1,9 @@
+{
+	"id": "8gddQTIMWrrdZov",
+	"json": "{\"id\":\"8gddQTIMWrrdZov\",\"url\":\"https://www.nysenate.gov/issues/solicit-views-interested-parties-new-york-voting-rights-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/solicit-views-interested-parties-new-york-voting-rights-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756049,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/solicit-views-interested-parties-new-york-voting-rights-act",
+	"url": "https://www.nysenate.gov/issues/solicit-views-interested-parties-new-york-voting-rights-act"
+}

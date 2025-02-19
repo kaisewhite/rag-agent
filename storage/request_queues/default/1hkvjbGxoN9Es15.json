@@ -1,0 +1,9 @@
+{
+	"id": "1hkvjbGxoN9Es15",
+	"json": "{\"id\":\"1hkvjbGxoN9Es15\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-22-2018/kings-plaza-job-fair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-22-2018/kings-plaza-job-fair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246444,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-22-2018/kings-plaza-job-fair",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-22-2018/kings-plaza-job-fair"
+}

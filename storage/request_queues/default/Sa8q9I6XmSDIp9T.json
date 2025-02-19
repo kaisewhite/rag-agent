@@ -1,0 +1,9 @@
+{
+	"id": "Sa8q9I6XmSDIp9T",
+	"json": "{\"id\":\"Sa8q9I6XmSDIp9T\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2012/sfy-2012-13-enacted-budget-summary\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2012/sfy-2012-13-enacted-budget-summary\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781267,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2012/sfy-2012-13-enacted-budget-summary",
+	"url": "https://www.nysenate.gov/newsroom/articles/2012/sfy-2012-13-enacted-budget-summary"
+}

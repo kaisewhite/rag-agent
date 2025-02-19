@@ -1,0 +1,9 @@
+{
+	"id": "K47v5NYlx0G8Szf",
+	"json": "{\"id\":\"K47v5NYlx0G8Szf\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Town%20Hall%20Event\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Town+Hall+Event\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571157791,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Town+Hall+Event",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Town%20Hall%20Event"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "IZmwcsDsrnV9fWm",
+	"json": "{\"id\":\"IZmwcsDsrnV9fWm\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/new-york-senate-holds-housing-bias-hearings-long-island\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/new-york-senate-holds-housing-bias-hearings-long-island\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740968,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/new-york-senate-holds-housing-bias-hearings-long-island",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/new-york-senate-holds-housing-bias-hearings-long-island"
+}

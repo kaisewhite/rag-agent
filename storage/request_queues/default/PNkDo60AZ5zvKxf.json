@@ -1,0 +1,9 @@
+{
+	"id": "PNkDo60AZ5zvKxf",
+	"json": "{\"id\":\"PNkDo60AZ5zvKxf\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-named-senate-leadership-post\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-named-senate-leadership-post\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686727,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-named-senate-leadership-post",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-named-senate-leadership-post"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Mw7CysEjQFMC5QW",
+	"json": "{\"id\":\"Mw7CysEjQFMC5QW\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/senator-bonacic-releases-statement-re-report-inspector\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/senator-bonacic-releases-statement-re-report-inspector\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833563,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/senator-bonacic-releases-statement-re-report-inspector",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/senator-bonacic-releases-statement-re-report-inspector"
+}

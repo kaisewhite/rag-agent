@@ -1,0 +1,9 @@
+{
+	"id": "Lm1ZAmRbWcevtDG",
+	"json": "{\"id\":\"Lm1ZAmRbWcevtDG\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/kevin-thomas/senator-kevin-thomas-advances-legislation-strengthen\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/kevin-thomas/senator-kevin-thomas-advances-legislation-strengthen\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740963,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/kevin-thomas/senator-kevin-thomas-advances-legislation-strengthen",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/kevin-thomas/senator-kevin-thomas-advances-legislation-strengthen"
+}

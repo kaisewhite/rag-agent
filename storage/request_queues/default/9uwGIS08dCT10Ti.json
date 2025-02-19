@@ -1,0 +1,9 @@
+{
+	"id": "9uwGIS08dCT10Ti",
+	"json": "{\"id\":\"9uwGIS08dCT10Ti\",\"url\":\"https://www.nysenate.gov/legislation/laws/GMU/A12-I\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GMU/A12-I\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569925294,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GMU/A12-I",
+	"url": "https://www.nysenate.gov/legislation/laws/GMU/A12-I"
+}

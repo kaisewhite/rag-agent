@@ -1,0 +1,9 @@
+{
+	"id": "gYWTAKkWIIG66bP",
+	"json": "{\"id\":\"gYWTAKkWIIG66bP\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/leroy-comrie/queens-elected-officials-launch-22nd-annual-senior\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2024/leroy-comrie/queens-elected-officials-launch-22nd-annual-senior\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/leroy-comrie/queens-elected-officials-launch-22nd-annual-senior\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:54:53.227Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/leroy-comrie/queens-elected-officials-launch-22nd-annual-senior",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/leroy-comrie/queens-elected-officials-launch-22nd-annual-senior"
+}

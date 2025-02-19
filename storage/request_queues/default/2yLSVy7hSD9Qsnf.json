@@ -1,0 +1,9 @@
+{
+	"id": "2yLSVy7hSD9Qsnf",
+	"json": "{\"id\":\"2yLSVy7hSD9Qsnf\",\"url\":\"https://www.nysenate.gov/issues/kincare\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/kincare\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717629,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/kincare",
+	"url": "https://www.nysenate.gov/issues/kincare"
+}

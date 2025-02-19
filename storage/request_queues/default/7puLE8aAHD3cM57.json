@@ -1,0 +1,9 @@
+{
+	"id": "7puLE8aAHD3cM57",
+	"json": "{\"id\":\"7puLE8aAHD3cM57\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-14-2019/nylag-mobile-legal-help-center-sponsored-senator\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-14-2019/nylag-mobile-legal-help-center-sponsored-senator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247048,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-14-2019/nylag-mobile-legal-help-center-sponsored-senator",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-14-2019/nylag-mobile-legal-help-center-sponsored-senator"
+}

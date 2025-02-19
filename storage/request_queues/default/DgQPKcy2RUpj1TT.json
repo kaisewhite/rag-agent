@@ -1,0 +1,9 @@
+{
+	"id": "DgQPKcy2RUpj1TT",
+	"json": "{\"id\":\"DgQPKcy2RUpj1TT\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/june-10-2020/rules-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/june-10-2020/rules-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839875,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/june-10-2020/rules-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/june-10-2020/rules-meeting"
+}

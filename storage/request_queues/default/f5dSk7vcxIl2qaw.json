@@ -1,0 +1,9 @@
+{
+	"id": "f5dSk7vcxIl2qaw",
+	"json": "{\"id\":\"f5dSk7vcxIl2qaw\",\"url\":\"https://www.nysenate.gov/legislation/laws/TRA/A9-B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/TRA/A9-B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569987433,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/TRA/A9-B",
+	"url": "https://www.nysenate.gov/legislation/laws/TRA/A9-B"
+}

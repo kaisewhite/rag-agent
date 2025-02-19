@@ -1,0 +1,9 @@
+{
+	"id": "Rtwv30Lw54mrkV1",
+	"json": "{\"id\":\"Rtwv30Lw54mrkV1\",\"url\":\"https://www.nysenate.gov/issues/4-dioxane\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/4-dioxane\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770691,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/4-dioxane",
+	"url": "https://www.nysenate.gov/issues/4-dioxane"
+}

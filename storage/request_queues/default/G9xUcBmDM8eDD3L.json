@@ -1,0 +1,9 @@
+{
+	"id": "G9xUcBmDM8eDD3L",
+	"json": "{\"id\":\"G9xUcBmDM8eDD3L\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-facilitates-meeting-state-dot-villages\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-facilitates-meeting-state-dot-villages\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847674,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-facilitates-meeting-state-dot-villages",
+	"url": "https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-facilitates-meeting-state-dot-villages"
+}

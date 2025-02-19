@@ -1,0 +1,9 @@
+{
+	"id": "BmRr3MYqV8nfDhR",
+	"json": "{\"id\":\"BmRr3MYqV8nfDhR\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-jack-m-martins-football-tournament-scores\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-jack-m-martins-football-tournament-scores\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848851,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-jack-m-martins-football-tournament-scores",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-jack-m-martins-football-tournament-scores"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "8HPj1om6X7mqMiM",
+	"json": "{\"id\":\"8HPj1om6X7mqMiM\",\"url\":\"https://www.nysenate.gov/issues/senate-democratic-majority\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/senate-democratic-majority\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571544226,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/senate-democratic-majority",
+	"url": "https://www.nysenate.gov/issues/senate-democratic-majority"
+}

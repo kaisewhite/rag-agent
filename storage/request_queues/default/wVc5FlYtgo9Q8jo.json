@@ -1,0 +1,9 @@
+{
+	"id": "wVc5FlYtgo9Q8jo",
+	"json": "{\"id\":\"wVc5FlYtgo9Q8jo\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/S385\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/S385\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571682797,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/S385",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/S385"
+}

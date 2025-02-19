@@ -1,0 +1,9 @@
+{
+	"id": "tLpOZe0iAPxWWIr",
+	"json": "{\"id\":\"tLpOZe0iAPxWWIr\",\"url\":\"https://www.nysenate.gov/issues/eviction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/eviction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798894,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/eviction",
+	"url": "https://www.nysenate.gov/issues/eviction"
+}

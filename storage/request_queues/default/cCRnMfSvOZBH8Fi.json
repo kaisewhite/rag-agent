@@ -1,0 +1,9 @@
+{
+	"id": "cCRnMfSvOZBH8Fi",
+	"json": "{\"id\":\"cCRnMfSvOZBH8Fi\",\"url\":\"https://www.nysenate.gov/calendar/meetings/finance/may-26-2020/finance-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/finance/may-26-2020/finance-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780955,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/finance/may-26-2020/finance-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/finance/may-26-2020/finance-meeting"
+}

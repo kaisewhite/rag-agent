@@ -1,0 +1,9 @@
+{
+	"id": "hRu7hs3SSjOJ7do",
+	"json": "{\"id\":\"hRu7hs3SSjOJ7do\",\"url\":\"https://www.nysenate.gov/student-programs/2020-margaret-j-hughes-scholarship-award-winner-ana-ortiz-bravo\",\"uniqueKey\":\"GET():https://www.nysenate.gov/student-programs/2020-margaret-j-hughes-scholarship-award-winner-ana-ortiz-bravo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569869700,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/student-programs/2020-margaret-j-hughes-scholarship-award-winner-ana-ortiz-bravo",
+	"url": "https://www.nysenate.gov/student-programs/2020-margaret-j-hughes-scholarship-award-winner-ana-ortiz-bravo"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0d7uB9kZ2UwaN4Q",
+	"json": "{\"id\":\"0d7uB9kZ2UwaN4Q\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/january-28-2014/joint-legislative-public-hearing-2014-2015-executive\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/january-28-2014/joint-legislative-public-hearing-2014-2015-executive\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755167,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/january-28-2014/joint-legislative-public-hearing-2014-2015-executive",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/january-28-2014/joint-legislative-public-hearing-2014-2015-executive"
+}

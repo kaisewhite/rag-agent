@@ -1,0 +1,9 @@
+{
+	"id": "G3qt0Yhd4yMj85m",
+	"json": "{\"id\":\"G3qt0Yhd4yMj85m\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-13-2025/sd-19-food-distribution-616-belmont-ave-thursday\",\"loadedUrl\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-13-2025/sd-19-food-distribution-616-belmont-ave-thursday\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-13-2025/sd-19-food-distribution-616-belmont-ave-thursday\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:57:48.167Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-13-2025/sd-19-food-distribution-616-belmont-ave-thursday",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-13-2025/sd-19-food-distribution-616-belmont-ave-thursday"
+}

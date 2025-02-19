@@ -1,0 +1,9 @@
+{
+	"id": "axsxOYgP61E7RrL",
+	"json": "{\"id\":\"axsxOYgP61E7RrL\",\"url\":\"https://www.nysenate.gov/legislation/laws/ELN/A15\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ELN/A15\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569913232,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ELN/A15",
+	"url": "https://www.nysenate.gov/legislation/laws/ELN/A15"
+}

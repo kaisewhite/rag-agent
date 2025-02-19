@@ -1,0 +1,9 @@
+{
+	"id": "UqnAaThdev9LUQa",
+	"json": "{\"id\":\"UqnAaThdev9LUQa\",\"url\":\"https://www.nysenate.gov/sites/default/files/articles/attachments/4059_persaud_519_2015_epic.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/articles/attachments/4059_persaud_519_2015_epic.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570279039,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/articles/attachments/4059_persaud_519_2015_epic.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/articles/attachments/4059_persaud_519_2015_epic.pdf"
+}

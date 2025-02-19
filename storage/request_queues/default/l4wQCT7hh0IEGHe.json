@@ -1,0 +1,9 @@
+{
+	"id": "l4wQCT7hh0IEGHe",
+	"json": "{\"id\":\"l4wQCT7hh0IEGHe\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S5230\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S5230\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571296331,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S5230",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S5230"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ZPCBPrxZ7Vv50g6",
+	"json": "{\"id\":\"ZPCBPrxZ7Vv50g6\",\"url\":\"https://www.nysenate.gov/issues/tobacco\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/tobacco\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569702211,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/tobacco",
+	"url": "https://www.nysenate.gov/issues/tobacco"
+}

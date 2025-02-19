@@ -1,0 +1,9 @@
+{
+	"id": "xaOoN3SUfP1TwFs",
+	"json": "{\"id\":\"xaOoN3SUfP1TwFs\",\"url\":\"https://www.nysenate.gov/issues/automatic-voter-registration\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/automatic-voter-registration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756052,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/automatic-voter-registration",
+	"url": "https://www.nysenate.gov/issues/automatic-voter-registration"
+}

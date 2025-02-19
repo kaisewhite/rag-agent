@@ -1,0 +1,9 @@
+{
+	"id": "mxMDH3mFJP95xne",
+	"json": "{\"id\":\"mxMDH3mFJP95xne\",\"url\":\"https://www.nysenate.gov/issues/statewide-central-register-child-abuse-and-maltreatment-scr\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/statewide-central-register-child-abuse-and-maltreatment-scr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717628,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/statewide-central-register-child-abuse-and-maltreatment-scr",
+	"url": "https://www.nysenate.gov/issues/statewide-central-register-child-abuse-and-maltreatment-scr"
+}

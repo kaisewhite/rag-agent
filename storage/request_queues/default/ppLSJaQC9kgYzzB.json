@@ -1,0 +1,9 @@
+{
+	"id": "ppLSJaQC9kgYzzB",
+	"json": "{\"id\":\"ppLSJaQC9kgYzzB\",\"url\":\"https://www.nysenate.gov/legislation/laws/GMU/A11-AAAA\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GMU/A11-AAAA\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569925290,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GMU/A11-AAAA",
+	"url": "https://www.nysenate.gov/legislation/laws/GMU/A11-AAAA"
+}

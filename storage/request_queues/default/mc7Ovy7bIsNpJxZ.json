@@ -1,0 +1,9 @@
+{
+	"id": "mc7Ovy7bIsNpJxZ",
+	"json": "{\"id\":\"mc7Ovy7bIsNpJxZ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/lee-zeldin/consumer-protection-alert\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/lee-zeldin/consumer-protection-alert\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740982,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/lee-zeldin/consumer-protection-alert",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/lee-zeldin/consumer-protection-alert"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "qYmLT0HCzvbtmQw",
+	"json": "{\"id\":\"qYmLT0HCzvbtmQw\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/senate-passes-2024-25-budget-addressing-critical-priorities-new\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2024/senate-passes-2024-25-budget-addressing-critical-priorities-new\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/senate-passes-2024-25-budget-addressing-critical-priorities-new\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:45:39.596Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/senate-passes-2024-25-budget-addressing-critical-priorities-new",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/senate-passes-2024-25-budget-addressing-critical-priorities-new"
+}

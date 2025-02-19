@@ -1,0 +1,9 @@
+{
+	"id": "90ReEXNLmliaV2Y",
+	"json": "{\"id\":\"90ReEXNLmliaV2Y\",\"url\":\"https://www.nysenate.gov/sites/default/files/10-02-18_nys_senate_-_parole_hearing_final.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/10-02-18_nys_senate_-_parole_hearing_final.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571709818,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/10-02-18_nys_senate_-_parole_hearing_final.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/10-02-18_nys_senate_-_parole_hearing_final.pdf"
+}

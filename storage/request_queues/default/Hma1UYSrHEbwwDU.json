@@ -1,0 +1,9 @@
+{
+	"id": "Hma1UYSrHEbwwDU",
+	"json": "{\"id\":\"Hma1UYSrHEbwwDU\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/senator-mannion-introduces-legislation-providing-early-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/senator-mannion-introduces-legislation-providing-early-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751246,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/senator-mannion-introduces-legislation-providing-early-0",
+	"url": "https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/senator-mannion-introduces-legislation-providing-early-0"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "DuCezujOy4ppfzN",
+	"json": "{\"id\":\"DuCezujOy4ppfzN\",\"url\":\"https://www.nysenate.gov/senators/joseph-p-addabbo-jr/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/joseph-p-addabbo-jr/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569612044,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/joseph-p-addabbo-jr/district",
+	"url": "https://www.nysenate.gov/senators/joseph-p-addabbo-jr/district"
+}

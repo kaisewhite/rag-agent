@@ -1,0 +1,9 @@
+{
+	"id": "fs6FyxIwS6jwK2v",
+	"json": "{\"id\":\"fs6FyxIwS6jwK2v\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/march-27-2019/joint-budget-subcommittees-higher-education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/march-27-2019/joint-budget-subcommittees-higher-education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788148,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/march-27-2019/joint-budget-subcommittees-higher-education",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/march-27-2019/joint-budget-subcommittees-higher-education"
+}

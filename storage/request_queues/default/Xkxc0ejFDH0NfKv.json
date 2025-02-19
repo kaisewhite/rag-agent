@@ -1,0 +1,9 @@
+{
+	"id": "Xkxc0ejFDH0NfKv",
+	"json": "{\"id\":\"Xkxc0ejFDH0NfKv\",\"url\":\"https://www.nysenate.gov/senators/patty-ritchie/landing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/patty-ritchie/landing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570967786,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/patty-ritchie/landing",
+	"url": "https://www.nysenate.gov/senators/patty-ritchie/landing"
+}

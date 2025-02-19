@@ -1,0 +1,9 @@
+{
+	"id": "4E2BrakPUxHbHxx",
+	"json": "{\"id\":\"4E2BrakPUxHbHxx\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/kavanagh-lentol-adams-back-shuttle-service-greater-access\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/kavanagh-lentol-adams-back-shuttle-service-greater-access\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798912,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/kavanagh-lentol-adams-back-shuttle-service-greater-access",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/kavanagh-lentol-adams-back-shuttle-service-greater-access"
+}

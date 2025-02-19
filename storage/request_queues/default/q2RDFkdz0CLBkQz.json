@@ -1,0 +1,9 @@
+{
+	"id": "q2RDFkdz0CLBkQz",
+	"json": "{\"id\":\"q2RDFkdz0CLBkQz\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-supports-shoes-all\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-supports-shoes-all\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847676,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-supports-shoes-all",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-supports-shoes-all"
+}

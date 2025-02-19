@@ -1,0 +1,9 @@
+{
+	"id": "iwAmFtpnfhBzAgA",
+	"json": "{\"id\":\"iwAmFtpnfhBzAgA\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S3678\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S3678\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571287919,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S3678",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S3678"
+}

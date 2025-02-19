@@ -1,0 +1,9 @@
+{
+	"id": "aakR83WYefSrMPZ",
+	"json": "{\"id\":\"aakR83WYefSrMPZ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/good-news-animal-lovers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/good-news-animal-lovers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847628,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/good-news-animal-lovers",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/good-news-animal-lovers"
+}

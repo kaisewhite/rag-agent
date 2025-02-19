@@ -1,0 +1,9 @@
+{
+	"id": "vkMrq19vD045OoX",
+	"json": "{\"id\":\"vkMrq19vD045OoX\",\"url\":\"https://www.nysenate.gov/issues/housing-and-industrial-development\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/housing-and-industrial-development\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798841,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/housing-and-industrial-development",
+	"url": "https://www.nysenate.gov/issues/housing-and-industrial-development"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "o2j8SQpUD5yiEMb",
+	"json": "{\"id\":\"o2j8SQpUD5yiEMb\",\"url\":\"https://www.nysenate.gov/legislation/laws/RSS/A14-B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RSS/A14-B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569974689,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RSS/A14-B",
+	"url": "https://www.nysenate.gov/legislation/laws/RSS/A14-B"
+}

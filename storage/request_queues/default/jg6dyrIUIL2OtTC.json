@@ -1,0 +1,9 @@
+{
+	"id": "jg6dyrIUIL2OtTC",
+	"json": "{\"id\":\"jg6dyrIUIL2OtTC\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/eric-adams/senator-adams-remarks-governor-patersons-executive-order\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/eric-adams/senator-adams-remarks-governor-patersons-executive-order\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833569,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/eric-adams/senator-adams-remarks-governor-patersons-executive-order",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/eric-adams/senator-adams-remarks-governor-patersons-executive-order"
+}

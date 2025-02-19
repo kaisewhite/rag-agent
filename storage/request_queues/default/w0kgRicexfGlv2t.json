@@ -1,0 +1,9 @@
+{
+	"id": "w0kgRicexfGlv2t",
+	"json": "{\"id\":\"w0kgRicexfGlv2t\",\"url\":\"https://www.nysenate.gov/issues/victims-compensation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/victims-compensation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717641,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/victims-compensation",
+	"url": "https://www.nysenate.gov/issues/victims-compensation"
+}

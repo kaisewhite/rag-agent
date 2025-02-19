@@ -1,0 +1,9 @@
+{
+	"id": "rbh5EqtoLESEV2a",
+	"json": "{\"id\":\"rbh5EqtoLESEV2a\",\"url\":\"https://www.nysenate.gov/issues/legislator-year-award\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/legislator-year-award\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570287030,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/legislator-year-award",
+	"url": "https://www.nysenate.gov/issues/legislator-year-award"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "D6ZG2lI3iGAtc04",
+	"json": "{\"id\":\"D6ZG2lI3iGAtc04\",\"url\":\"https://www.nysenate.gov/legislation/laws/SOS\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/SOS\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/SOS\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:52:59.731Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/SOS",
+	"url": "https://www.nysenate.gov/legislation/laws/SOS"
+}

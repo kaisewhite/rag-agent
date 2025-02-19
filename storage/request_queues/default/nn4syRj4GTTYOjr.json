@@ -1,0 +1,9 @@
+{
+	"id": "nn4syRj4GTTYOjr",
+	"json": "{\"id\":\"nn4syRj4GTTYOjr\",\"url\":\"https://www.nysenate.gov/issues/cancelstudentdebt\",\"loadedUrl\":\"https://www.nysenate.gov/issues/cancelstudentdebt\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/cancelstudentdebt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:05:33.992Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/cancelstudentdebt",
+	"url": "https://www.nysenate.gov/issues/cancelstudentdebt"
+}

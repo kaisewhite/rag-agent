@@ -1,0 +1,9 @@
+{
+	"id": "9p4WP6Tk0QBzLGK",
+	"json": "{\"id\":\"9p4WP6Tk0QBzLGK\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/mario-r-mattera/senator-mattera-joins-senate-republican-conference\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/mario-r-mattera/senator-mattera-joins-senate-republican-conference\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571574483,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/mario-r-mattera/senator-mattera-joins-senate-republican-conference",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/mario-r-mattera/senator-mattera-joins-senate-republican-conference"
+}

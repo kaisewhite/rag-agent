@@ -1,0 +1,9 @@
+{
+	"id": "5yn0yQXvaotoRU7",
+	"json": "{\"id\":\"5yn0yQXvaotoRU7\",\"url\":\"https://www.nysenate.gov/issues/executive-budget-proposal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/executive-budget-proposal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569676627,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/executive-budget-proposal",
+	"url": "https://www.nysenate.gov/issues/executive-budget-proposal"
+}

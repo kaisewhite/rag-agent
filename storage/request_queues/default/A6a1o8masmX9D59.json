@@ -1,0 +1,9 @@
+{
+	"id": "A6a1o8masmX9D59",
+	"json": "{\"id\":\"A6a1o8masmX9D59\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/august-20-2013/review-state-laws-and-state-imposed-municipal-finance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/august-20-2013/review-state-laws-and-state-imposed-municipal-finance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847560,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/august-20-2013/review-state-laws-and-state-imposed-municipal-finance",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/august-20-2013/review-state-laws-and-state-imposed-municipal-finance"
+}

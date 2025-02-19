@@ -1,0 +1,9 @@
+{
+	"id": "OrdheCfgA6U0S0n",
+	"json": "{\"id\":\"OrdheCfgA6U0S0n\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/january-17-2017/consider-future-new-york-racing-association\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/january-17-2017/consider-future-new-york-racing-association\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833549,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/january-17-2017/consider-future-new-york-racing-association",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/january-17-2017/consider-future-new-york-racing-association"
+}

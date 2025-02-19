@@ -1,0 +1,9 @@
+{
+	"id": "fOzLsYIi8ZArDCI",
+	"json": "{\"id\":\"fOzLsYIi8ZArDCI\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2022/anna-m-kaplan/small-business-seed-funding-grants-now-available\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2022/anna-m-kaplan/small-business-seed-funding-grants-now-available\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734353,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2022/anna-m-kaplan/small-business-seed-funding-grants-now-available",
+	"url": "https://www.nysenate.gov/newsroom/articles/2022/anna-m-kaplan/small-business-seed-funding-grants-now-available"
+}

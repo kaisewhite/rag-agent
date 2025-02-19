@@ -1,0 +1,9 @@
+{
+	"id": "8XTO7UROjYO78xK",
+	"json": "{\"id\":\"8XTO7UROjYO78xK\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-29-2020/new-york-legal-assistance-group\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-29-2020/new-york-legal-assistance-group\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247114,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-29-2020/new-york-legal-assistance-group",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-29-2020/new-york-legal-assistance-group"
+}

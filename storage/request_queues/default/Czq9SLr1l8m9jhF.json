@@ -1,0 +1,9 @@
+{
+	"id": "Czq9SLr1l8m9jhF",
+	"json": "{\"id\":\"Czq9SLr1l8m9jhF\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/lea-webb/senator-lea-webb-announces-49-million-state-funding-support?page=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/lea-webb/senator-lea-webb-announces-49-million-state-funding-support?page=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571119052,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/lea-webb/senator-lea-webb-announces-49-million-state-funding-support?page=1",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/lea-webb/senator-lea-webb-announces-49-million-state-funding-support?page=1"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4BwJRI7JrRa71wr",
+	"json": "{\"id\":\"4BwJRI7JrRa71wr\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/sheridan-hollow-alliance-for-renewable-energy.docx_.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/sheridan-hollow-alliance-for-renewable-energy.docx_.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570470672,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/sheridan-hollow-alliance-for-renewable-energy.docx_.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/sheridan-hollow-alliance-for-renewable-energy.docx_.pdf"
+}

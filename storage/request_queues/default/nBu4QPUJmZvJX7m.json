@@ -1,0 +1,9 @@
+{
+	"id": "nBu4QPUJmZvJX7m",
+	"json": "{\"id\":\"nBu4QPUJmZvJX7m\",\"url\":\"https://www.nysenate.gov/calendar/meetings/higher-education/may-30-2019/higher-education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-30-2019/higher-education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788147,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-30-2019/higher-education",
+	"url": "https://www.nysenate.gov/calendar/meetings/higher-education/may-30-2019/higher-education"
+}

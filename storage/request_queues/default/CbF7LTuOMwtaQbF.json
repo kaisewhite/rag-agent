@@ -1,0 +1,9 @@
+{
+	"id": "CbF7LTuOMwtaQbF",
+	"json": "{\"id\":\"CbF7LTuOMwtaQbF\",\"url\":\"https://www.nysenate.gov/issues/correctional-facilities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/correctional-facilities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569632164,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/correctional-facilities",
+	"url": "https://www.nysenate.gov/issues/correctional-facilities"
+}

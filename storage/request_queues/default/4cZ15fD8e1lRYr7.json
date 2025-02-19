@@ -1,0 +1,9 @@
+{
+	"id": "4cZ15fD8e1lRYr7",
+	"json": "{\"id\":\"4cZ15fD8e1lRYr7\",\"url\":\"https://www.nysenate.gov/issues/digital-literacy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/digital-literacy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570984972,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/digital-literacy",
+	"url": "https://www.nysenate.gov/issues/digital-literacy"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "8w0YEbvkZZYsnQD",
+	"json": "{\"id\":\"8w0YEbvkZZYsnQD\",\"url\":\"https://www.nysenate.gov/issues/sound-alarm\",\"loadedUrl\":\"https://www.nysenate.gov/issues/sound-alarm\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/sound-alarm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:15:58.209Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/sound-alarm",
+	"url": "https://www.nysenate.gov/issues/sound-alarm"
+}

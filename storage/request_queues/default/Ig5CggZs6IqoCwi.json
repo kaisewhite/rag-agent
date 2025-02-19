@@ -1,0 +1,9 @@
+{
+	"id": "Ig5CggZs6IqoCwi",
+	"json": "{\"id\":\"Ig5CggZs6IqoCwi\",\"url\":\"https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/june-07-2023/corporations-authorities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/june-07-2023/corporations-authorities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741790,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/june-07-2023/corporations-authorities",
+	"url": "https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/june-07-2023/corporations-authorities"
+}

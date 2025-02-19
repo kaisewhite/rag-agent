@@ -1,0 +1,9 @@
+{
+	"id": "RV0QyW9QgmHODRF",
+	"json": "{\"id\":\"RV0QyW9QgmHODRF\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/october-13-2021/joint-public-hearing-s3979c-hear-testimony-regarding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/october-13-2021/joint-public-hearing-s3979c-hear-testimony-regarding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569747976,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/october-13-2021/joint-public-hearing-s3979c-hear-testimony-regarding",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/october-13-2021/joint-public-hearing-s3979c-hear-testimony-regarding"
+}

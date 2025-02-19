@@ -1,0 +1,9 @@
+{
+	"id": "NiTi83nORvkJb9T",
+	"json": "{\"id\":\"NiTi83nORvkJb9T\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/george-onorato/legislation-crack-down-employee-misclassification\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/george-onorato/legislation-crack-down-employee-misclassification\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811634,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/george-onorato/legislation-crack-down-employee-misclassification",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/george-onorato/legislation-crack-down-employee-misclassification"
+}

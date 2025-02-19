@@ -1,0 +1,9 @@
+{
+	"id": "4DBnkj6bGvUo6fq",
+	"json": "{\"id\":\"4DBnkj6bGvUo6fq\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/april-18-2012/rules-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/april-18-2012/rules-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839956,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/april-18-2012/rules-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/april-18-2012/rules-meeting"
+}

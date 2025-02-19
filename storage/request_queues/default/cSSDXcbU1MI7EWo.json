@@ -1,0 +1,9 @@
+{
+	"id": "cSSDXcbU1MI7EWo",
+	"json": "{\"id\":\"cSSDXcbU1MI7EWo\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/jeffrey-d-klein/klein-plan-increase-access-healthcare\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/jeffrey-d-klein/klein-plan-increase-access-healthcare\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781074,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/jeffrey-d-klein/klein-plan-increase-access-healthcare",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/jeffrey-d-klein/klein-plan-increase-access-healthcare"
+}

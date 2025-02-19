@@ -1,0 +1,9 @@
+{
+	"id": "BN2EOAfc5r5pqi3",
+	"json": "{\"id\":\"BN2EOAfc5r5pqi3\",\"url\":\"https://www.nysenate.gov/issues/capital-grants\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/capital-grants\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569682556,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/capital-grants",
+	"url": "https://www.nysenate.gov/issues/capital-grants"
+}

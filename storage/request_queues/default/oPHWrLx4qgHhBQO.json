@@ -1,0 +1,9 @@
+{
+	"id": "oPHWrLx4qgHhBQO",
+	"json": "{\"id\":\"oPHWrLx4qgHhBQO\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/senate-legislation-sponsored-senator-dilan-bans\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/senate-legislation-sponsored-senator-dilan-bans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855303,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/senate-legislation-sponsored-senator-dilan-bans",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/senate-legislation-sponsored-senator-dilan-bans"
+}

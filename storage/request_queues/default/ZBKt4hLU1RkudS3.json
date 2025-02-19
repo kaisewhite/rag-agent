@@ -1,0 +1,9 @@
+{
+	"id": "ZBKt4hLU1RkudS3",
+	"json": "{\"id\":\"ZBKt4hLU1RkudS3\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2025/rachel-may/syracuse-legislators-budget-must-recognize-nys-reliance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2025/rachel-may/syracuse-legislators-budget-must-recognize-nys-reliance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569591596,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2025/rachel-may/syracuse-legislators-budget-must-recognize-nys-reliance",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2025/rachel-may/syracuse-legislators-budget-must-recognize-nys-reliance"
+}

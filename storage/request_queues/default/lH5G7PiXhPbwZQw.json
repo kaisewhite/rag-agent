@@ -1,0 +1,9 @@
+{
+	"id": "lH5G7PiXhPbwZQw",
+	"json": "{\"id\":\"lH5G7PiXhPbwZQw\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/andrew-gounardes/gold-bars-private-jets-and-racehorses-report-sen\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2025/andrew-gounardes/gold-bars-private-jets-and-racehorses-report-sen\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/andrew-gounardes/gold-bars-private-jets-and-racehorses-report-sen\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:55:31.109Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/andrew-gounardes/gold-bars-private-jets-and-racehorses-report-sen",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/andrew-gounardes/gold-bars-private-jets-and-racehorses-report-sen"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CqIijrGSZUBxGb3",
+	"json": "{\"id\":\"CqIijrGSZUBxGb3\",\"url\":\"https://www.nysenate.gov/calendar/events/education/shelley-mayer/august-05-2020/roundtable-discussion-hosted-senate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/education/shelley-mayer/august-05-2020/roundtable-discussion-hosted-senate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755150,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/education/shelley-mayer/august-05-2020/roundtable-discussion-hosted-senate",
+	"url": "https://www.nysenate.gov/calendar/events/education/shelley-mayer/august-05-2020/roundtable-discussion-hosted-senate"
+}

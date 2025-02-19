@@ -1,0 +1,9 @@
+{
+	"id": "P69J4N6q8gtd0EX",
+	"json": "{\"id\":\"P69J4N6q8gtd0EX\",\"url\":\"https://www.nysenate.gov/legislation/laws/EXC/A10\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EXC/A10\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569917149,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EXC/A10",
+	"url": "https://www.nysenate.gov/legislation/laws/EXC/A10"
+}

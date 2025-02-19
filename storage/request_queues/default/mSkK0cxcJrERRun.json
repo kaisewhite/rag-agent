@@ -1,0 +1,9 @@
+{
+	"id": "mSkK0cxcJrERRun",
+	"json": "{\"id\":\"mSkK0cxcJrERRun\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/desk-senator-jack-m-martins-lipa-kept-us-dark\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/desk-senator-jack-m-martins-lipa-kept-us-dark\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848840,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/desk-senator-jack-m-martins-lipa-kept-us-dark",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/desk-senator-jack-m-martins-lipa-kept-us-dark"
+}

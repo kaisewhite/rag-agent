@@ -1,0 +1,9 @@
+{
+	"id": "8BaVXlEJNwrTDg3",
+	"json": "{\"id\":\"8BaVXlEJNwrTDg3\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/2023-24_rules_of_the_senate_-_march_2023_update.pdf\",\"loadedUrl\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/2023-24_rules_of_the_senate_-_march_2023_update.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/2023-24_rules_of_the_senate_-_march_2023_update.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:46:00.407Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/2023-24_rules_of_the_senate_-_march_2023_update.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/2023-24_rules_of_the_senate_-_march_2023_update.pdf"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "E6tztOa0oAw71mc",
+	"json": "{\"id\":\"E6tztOa0oAw71mc\",\"url\":\"https://www.nysenate.gov/issues/sen-kennedy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/sen-kennedy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855233,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/sen-kennedy",
+	"url": "https://www.nysenate.gov/issues/sen-kennedy"
+}

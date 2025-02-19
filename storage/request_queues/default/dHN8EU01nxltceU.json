@@ -1,0 +1,9 @@
+{
+	"id": "dHN8EU01nxltceU",
+	"json": "{\"id\":\"dHN8EU01nxltceU\",\"url\":\"https://www.nysenate.gov/issues/racial-and-religious-bias\",\"loadedUrl\":\"https://www.nysenate.gov/issues/racial-and-religious-bias\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/racial-and-religious-bias\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:14:50.246Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/racial-and-religious-bias",
+	"url": "https://www.nysenate.gov/issues/racial-and-religious-bias"
+}

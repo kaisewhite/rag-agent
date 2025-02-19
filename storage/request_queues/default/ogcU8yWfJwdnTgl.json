@@ -1,0 +1,9 @@
+{
+	"id": "ogcU8yWfJwdnTgl",
+	"json": "{\"id\":\"ogcU8yWfJwdnTgl\",\"url\":\"https://www.nysenate.gov/questionnaires/robert-g-ortt/senator-ortts-plan-clean-albany-and-shake-status-quo\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/robert-g-ortt/senator-ortts-plan-clean-albany-and-shake-status-quo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569662181,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/robert-g-ortt/senator-ortts-plan-clean-albany-and-shake-status-quo",
+	"url": "https://www.nysenate.gov/questionnaires/robert-g-ortt/senator-ortts-plan-clean-albany-and-shake-status-quo"
+}

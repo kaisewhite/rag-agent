@@ -1,0 +1,9 @@
+{
+	"id": "Ud0geFxtmVoZh0B",
+	"json": "{\"id\":\"Ud0geFxtmVoZh0B\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2016/senator-persauds-brownsville-mobile-office\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2016/senator-persauds-brownsville-mobile-office\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246324,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2016/senator-persauds-brownsville-mobile-office",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2016/senator-persauds-brownsville-mobile-office"
+}

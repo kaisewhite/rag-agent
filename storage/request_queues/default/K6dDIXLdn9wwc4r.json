@@ -1,0 +1,9 @@
+{
+	"id": "K6dDIXLdn9wwc4r",
+	"json": "{\"id\":\"K6dDIXLdn9wwc4r\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/joseph-griffo/griffo-honors-redmond-military-service-induction-new\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/joseph-griffo/griffo-honors-redmond-military-service-induction-new\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570103144,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/joseph-griffo/griffo-honors-redmond-military-service-induction-new",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/joseph-griffo/griffo-honors-redmond-military-service-induction-new"
+}

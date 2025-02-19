@@ -1,0 +1,9 @@
+{
+	"id": "omKIzfSXTKroRCz",
+	"json": "{\"id\":\"omKIzfSXTKroRCz\",\"url\":\"https://www.nysenate.gov/issues/economic-development-and-small-business-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/economic-development-and-small-business-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734353,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/economic-development-and-small-business-committee",
+	"url": "https://www.nysenate.gov/issues/economic-development-and-small-business-committee"
+}

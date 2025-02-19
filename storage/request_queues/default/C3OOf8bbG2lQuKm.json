@@ -1,0 +1,9 @@
+{
+	"id": "C3OOf8bbG2lQuKm",
+	"json": "{\"id\":\"C3OOf8bbG2lQuKm\",\"url\":\"https://www.nysenate.gov/user/login?destination=/questionnaires/monica-r-martinez/subscribe-senator-monica-r-martinezs-newsletter#main-content\",\"uniqueKey\":\"GET():https://www.nysenate.gov/user/login?destination=%2Fquestionnaires%2Fmonica-r-martinez%2Fsubscribe-senator-monica-r-martinezs-newsletter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570329457,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/user/login?destination=%2Fquestionnaires%2Fmonica-r-martinez%2Fsubscribe-senator-monica-r-martinezs-newsletter",
+	"url": "https://www.nysenate.gov/user/login?destination=/questionnaires/monica-r-martinez/subscribe-senator-monica-r-martinezs-newsletter#main-content"
+}

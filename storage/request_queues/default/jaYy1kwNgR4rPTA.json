@@ -1,0 +1,9 @@
+{
+	"id": "jaYy1kwNgR4rPTA",
+	"json": "{\"id\":\"jaYy1kwNgR4rPTA\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/A351\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/A351\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570059603,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/A351",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/A351"
+}

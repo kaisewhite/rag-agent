@@ -1,0 +1,9 @@
+{
+	"id": "OIt2X8AzOKvaCzI",
+	"json": "{\"id\":\"OIt2X8AzOKvaCzI\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/senator-martins-passes-bill-protecting-children-left\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/senator-martins-passes-bill-protecting-children-left\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847584,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/senator-martins-passes-bill-protecting-children-left",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/senator-martins-passes-bill-protecting-children-left"
+}

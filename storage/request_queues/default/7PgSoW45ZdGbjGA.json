@@ -1,0 +1,9 @@
+{
+	"id": "7PgSoW45ZdGbjGA",
+	"json": "{\"id\":\"7PgSoW45ZdGbjGA\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/S5692\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/S5692\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570916943,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/S5692",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/S5692"
+}

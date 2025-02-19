@@ -1,0 +1,9 @@
+{
+	"id": "RrlcX51xFhKYy9E",
+	"json": "{\"id\":\"RrlcX51xFhKYy9E\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-15-2020/housing-virtual-town-hall\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-15-2020/housing-virtual-town-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247102,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-15-2020/housing-virtual-town-hall",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-15-2020/housing-virtual-town-hall"
+}

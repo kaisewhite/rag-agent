@@ -1,0 +1,9 @@
+{
+	"id": "6zaNrAASM4mCHrj",
+	"json": "{\"id\":\"6zaNrAASM4mCHrj\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/senate-advances-protections-quality-life-elder-new-yorkers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/senate-advances-protections-quality-life-elder-new-yorkers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571263974,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/senate-advances-protections-quality-life-elder-new-yorkers",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/senate-advances-protections-quality-life-elder-new-yorkers"
+}

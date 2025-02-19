@@ -1,0 +1,9 @@
+{
+	"id": "tjfgC8MsUhJAIZU",
+	"json": "{\"id\":\"tjfgC8MsUhJAIZU\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2014/mark-grisanti/supporting-lake-shore-central-school-districts-energy-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2014/mark-grisanti/supporting-lake-shore-central-school-districts-energy-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770746,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2014/mark-grisanti/supporting-lake-shore-central-school-districts-energy-0",
+	"url": "https://www.nysenate.gov/newsroom/articles/2014/mark-grisanti/supporting-lake-shore-central-school-districts-energy-0"
+}

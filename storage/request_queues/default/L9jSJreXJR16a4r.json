@@ -1,0 +1,9 @@
+{
+	"id": "L9jSJreXJR16a4r",
+	"json": "{\"id\":\"L9jSJreXJR16a4r\",\"url\":\"https://www.nysenate.gov/legislation/laws/GCT/A7\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GCT/A7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569923424,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GCT/A7",
+	"url": "https://www.nysenate.gov/legislation/laws/GCT/A7"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "b6PoBu2RgaX1SXf",
+	"json": "{\"id\":\"b6PoBu2RgaX1SXf\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2023/sd-19-halloween-candy-distribution-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2023/sd-19-halloween-candy-distribution-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247481,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2023/sd-19-halloween-candy-distribution-0",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2023/sd-19-halloween-candy-distribution-0"
+}

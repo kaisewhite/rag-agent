@@ -1,0 +1,17 @@
+{
+  "ignore": [
+    ".git",
+    "node_modules/**/node_modules",
+    "dist",
+    "*.test.js",
+    "documentation/*",
+    ".crawlee/*",
+    "storage/*"
+  ],
+  "verbose": true,
+  "watch": [
+    "src/",
+    "routes/",
+    "server.js"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"id": "vx9FCDibMqG9tvq",
+	"json": "{\"id\":\"vx9FCDibMqG9tvq\",\"url\":\"https://www.nysenate.gov/sites/default/files/articles/attachments/5614_persaud_552_prostate_brochure_2014.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/articles/attachments/5614_persaud_552_prostate_brochure_2014.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570279044,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/articles/attachments/5614_persaud_552_prostate_brochure_2014.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/articles/attachments/5614_persaud_552_prostate_brochure_2014.pdf"
+}

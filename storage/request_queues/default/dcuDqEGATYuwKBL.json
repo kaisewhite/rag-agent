@@ -1,0 +1,9 @@
+{
+	"id": "dcuDqEGATYuwKBL",
+	"json": "{\"id\":\"dcuDqEGATYuwKBL\",\"url\":\"https://www.nysenate.gov/questionnaires/zellnor-myrie/request-proclamation-or-award-senator-myrie\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/zellnor-myrie/request-proclamation-or-award-senator-myrie\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569656861,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/zellnor-myrie/request-proclamation-or-award-senator-myrie",
+	"url": "https://www.nysenate.gov/questionnaires/zellnor-myrie/request-proclamation-or-award-senator-myrie"
+}

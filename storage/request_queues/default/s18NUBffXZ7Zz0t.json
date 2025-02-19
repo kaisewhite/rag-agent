@@ -1,0 +1,9 @@
+{
+	"id": "s18NUBffXZ7Zz0t",
+	"json": "{\"id\":\"s18NUBffXZ7Zz0t\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/suzi-oppenheimer/universal-pre-k-has-new-best-friend\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/suzi-oppenheimer/universal-pre-k-has-new-best-friend\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755193,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/suzi-oppenheimer/universal-pre-k-has-new-best-friend",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/suzi-oppenheimer/universal-pre-k-has-new-best-friend"
+}

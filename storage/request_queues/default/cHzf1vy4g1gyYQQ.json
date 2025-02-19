@@ -1,0 +1,9 @@
+{
+	"id": "cHzf1vy4g1gyYQQ",
+	"json": "{\"id\":\"cHzf1vy4g1gyYQQ\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/james-skoufis/senate-probe-power-plant-calls-stronger-anti-corruption\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/james-skoufis/senate-probe-power-plant-calls-stronger-anti-corruption\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284265,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/james-skoufis/senate-probe-power-plant-calls-stronger-anti-corruption",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/james-skoufis/senate-probe-power-plant-calls-stronger-anti-corruption"
+}

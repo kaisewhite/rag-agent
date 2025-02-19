@@ -1,0 +1,9 @@
+{
+	"id": "tbUikeXNHEtehN6",
+	"json": "{\"id\":\"tbUikeXNHEtehN6\",\"url\":\"https://www.nysenate.gov/issues/combating-covid-19-and-protecting-new-yorkers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/combating-covid-19-and-protecting-new-yorkers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569598414,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/combating-covid-19-and-protecting-new-yorkers",
+	"url": "https://www.nysenate.gov/issues/combating-covid-19-and-protecting-new-yorkers"
+}

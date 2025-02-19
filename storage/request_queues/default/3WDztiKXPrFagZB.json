@@ -1,0 +1,9 @@
+{
+	"id": "3WDztiKXPrFagZB",
+	"json": "{\"id\":\"3WDztiKXPrFagZB\",\"url\":\"https://www.nysenate.gov/issues/organized-retail-theft-small-businesses-crime\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/organized-retail-theft-small-businesses-crime\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571071251,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/organized-retail-theft-small-businesses-crime",
+	"url": "https://www.nysenate.gov/issues/organized-retail-theft-small-businesses-crime"
+}

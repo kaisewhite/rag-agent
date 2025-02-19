@@ -1,0 +1,9 @@
+{
+	"id": "j1H20i1d4KSN0Zq",
+	"json": "{\"id\":\"j1H20i1d4KSN0Zq\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-23-2022/rockaway-parkway-merchants-corridor-association\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-23-2022/rockaway-parkway-merchants-corridor-association\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247428,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-23-2022/rockaway-parkway-merchants-corridor-association",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-23-2022/rockaway-parkway-merchants-corridor-association"
+}

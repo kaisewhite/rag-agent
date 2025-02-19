@@ -1,0 +1,9 @@
+{
+	"id": "5RBLWMKPfSDLuvO",
+	"json": "{\"id\":\"5RBLWMKPfSDLuvO\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/testimony-state-senator-brad-hoylman-sigal-and-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/testimony-state-senator-brad-hoylman-sigal-and-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571150315,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/testimony-state-senator-brad-hoylman-sigal-and-state",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/testimony-state-senator-brad-hoylman-sigal-and-state"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "w6Ozy5ZeqXaVMY6",
+	"json": "{\"id\":\"w6Ozy5ZeqXaVMY6\",\"url\":\"https://www.nysenate.gov/questionnaires/pamela-helming/sign-my-monthly-newsletter\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/pamela-helming/sign-my-monthly-newsletter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569643821,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/pamela-helming/sign-my-monthly-newsletter",
+	"url": "https://www.nysenate.gov/questionnaires/pamela-helming/sign-my-monthly-newsletter"
+}

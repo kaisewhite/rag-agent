@@ -1,0 +1,9 @@
+{
+	"id": "UWSkHhS86yx2iMq",
+	"json": "{\"id\":\"UWSkHhS86yx2iMq\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/senate-strengthens-protections-domestic-animals\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/senate-strengthens-protections-domestic-animals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569549332,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/senate-strengthens-protections-domestic-animals",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/senate-strengthens-protections-domestic-animals"
+}

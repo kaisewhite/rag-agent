@@ -1,0 +1,9 @@
+{
+	"id": "o84LOa17sv2VUOI",
+	"json": "{\"id\":\"o84LOa17sv2VUOI\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/january-23-2020/public-hearing-review-proposed-legislation-regarding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/january-23-2020/public-hearing-review-proposed-legislation-regarding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798838,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/january-23-2020/public-hearing-review-proposed-legislation-regarding",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/january-23-2020/public-hearing-review-proposed-legislation-regarding"
+}

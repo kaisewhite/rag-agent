@@ -1,0 +1,9 @@
+{
+	"id": "mTyf8PVhjcRbfVU",
+	"json": "{\"id\":\"mTyf8PVhjcRbfVU\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/new-york-state-senate-human-services-report-and?page=7\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/new-york-state-senate-human-services-report-and?page=7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570267104,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/new-york-state-senate-human-services-report-and?page=7",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/new-york-state-senate-human-services-report-and?page=7"
+}

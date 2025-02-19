@@ -1,0 +1,9 @@
+{
+	"id": "ZR02GwZmINBXiqd",
+	"json": "{\"id\":\"ZR02GwZmINBXiqd\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/october-17-2016/connie-cook-documentary\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/october-17-2016/connie-cook-documentary\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752641,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/october-17-2016/connie-cook-documentary",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/october-17-2016/connie-cook-documentary"
+}

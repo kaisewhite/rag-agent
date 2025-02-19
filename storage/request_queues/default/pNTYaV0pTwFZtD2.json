@@ -1,0 +1,9 @@
+{
+	"id": "pNTYaV0pTwFZtD2",
+	"json": "{\"id\":\"pNTYaV0pTwFZtD2\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/A2486\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/A2486\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571689633,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/A2486",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/A2486"
+}

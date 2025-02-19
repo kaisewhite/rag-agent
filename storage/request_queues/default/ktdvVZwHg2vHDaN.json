@@ -1,0 +1,9 @@
+{
+	"id": "ktdvVZwHg2vHDaN",
+	"json": "{\"id\":\"ktdvVZwHg2vHDaN\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/john-c-liu/year-end-statement-state-senator-john-liu\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/john-c-liu/year-end-statement-state-senator-john-liu\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569649458,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/john-c-liu/year-end-statement-state-senator-john-liu",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/john-c-liu/year-end-statement-state-senator-john-liu"
+}

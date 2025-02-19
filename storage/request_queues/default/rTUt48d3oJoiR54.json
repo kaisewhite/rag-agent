@@ -1,0 +1,9 @@
+{
+	"id": "rTUt48d3oJoiR54",
+	"json": "{\"id\":\"rTUt48d3oJoiR54\",\"url\":\"https://www.nysenate.gov/issues/licensing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/licensing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686725,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/licensing",
+	"url": "https://www.nysenate.gov/issues/licensing"
+}

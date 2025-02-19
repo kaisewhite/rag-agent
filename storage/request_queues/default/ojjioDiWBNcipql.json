@@ -1,0 +1,9 @@
+{
+	"id": "ojjioDiWBNcipql",
+	"json": "{\"id\":\"ojjioDiWBNcipql\",\"url\":\"https://www.nysenate.gov/questionnaires/jacob-ashby/sen-jake-ashby-2024-state-budget-questionnaire\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/jacob-ashby/sen-jake-ashby-2024-state-budget-questionnaire\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569611754,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/jacob-ashby/sen-jake-ashby-2024-state-budget-questionnaire",
+	"url": "https://www.nysenate.gov/questionnaires/jacob-ashby/sen-jake-ashby-2024-state-budget-questionnaire"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "JMQG14UqFytZL4C",
+	"json": "{\"id\":\"JMQG14UqFytZL4C\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-04-2023/69th-precinct-community-council-person-job-fair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-04-2023/69th-precinct-community-council-person-job-fair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247435,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-04-2023/69th-precinct-community-council-person-job-fair",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-04-2023/69th-precinct-community-council-person-job-fair"
+}

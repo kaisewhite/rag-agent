@@ -1,0 +1,9 @@
+{
+	"id": "w2URWoze3SLpGMV",
+	"json": "{\"id\":\"w2URWoze3SLpGMV\",\"url\":\"https://www.nysenate.gov/calendar/meetings/elections/may-20-2024/elections-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/elections/may-20-2024/elections-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756041,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/elections/may-20-2024/elections-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/elections/may-20-2024/elections-meeting"
+}

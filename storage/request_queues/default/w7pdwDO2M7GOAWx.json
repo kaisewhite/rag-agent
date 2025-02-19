@@ -1,0 +1,9 @@
+{
+	"id": "w7pdwDO2M7GOAWx",
+	"json": "{\"id\":\"w7pdwDO2M7GOAWx\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/senator-ramos-issues-statement-minimum-wage-negotiations\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/senator-ramos-issues-statement-minimum-wage-negotiations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811623,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/senator-ramos-issues-statement-minimum-wage-negotiations",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/senator-ramos-issues-statement-minimum-wage-negotiations"
+}

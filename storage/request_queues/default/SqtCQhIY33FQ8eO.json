@@ -1,0 +1,9 @@
+{
+	"id": "SqtCQhIY33FQ8eO",
+	"json": "{\"id\":\"SqtCQhIY33FQ8eO\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/eric-schneiderman/senator-schneiderman-speaking-support-empire-state-film\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/eric-schneiderman/senator-schneiderman-speaking-support-empire-state-film\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725900,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/eric-schneiderman/senator-schneiderman-speaking-support-empire-state-film",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/eric-schneiderman/senator-schneiderman-speaking-support-empire-state-film"
+}

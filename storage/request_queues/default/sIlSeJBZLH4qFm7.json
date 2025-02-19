@@ -1,0 +1,9 @@
+{
+	"id": "sIlSeJBZLH4qFm7",
+	"json": "{\"id\":\"sIlSeJBZLH4qFm7\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2017/69th-precinct-community-council-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2017/69th-precinct-community-council-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246372,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2017/69th-precinct-community-council-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-31-2017/69th-precinct-community-council-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "5wmvScDPeiQR6Xs",
+	"json": "{\"id\":\"5wmvScDPeiQR6Xs\",\"url\":\"https://www.nysenate.gov/calendar/meetings/finance/february-25-2020/finance-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/finance/february-25-2020/finance-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780961,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/finance/february-25-2020/finance-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/finance/february-25-2020/finance-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "IjXpuKRGhVDE43Y",
+	"json": "{\"id\":\"IjXpuKRGhVDE43Y\",\"url\":\"https://www.nysenate.gov/calendar/events/new-york-city-education/john-liu/april-11-2019/school-diversity-and-specialized\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/new-york-city-education/john-liu/april-11-2019/school-diversity-and-specialized\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569823655,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/new-york-city-education/john-liu/april-11-2019/school-diversity-and-specialized",
+	"url": "https://www.nysenate.gov/calendar/events/new-york-city-education/john-liu/april-11-2019/school-diversity-and-specialized"
+}

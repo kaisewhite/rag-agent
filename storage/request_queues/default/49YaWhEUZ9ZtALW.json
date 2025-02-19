@@ -1,0 +1,9 @@
+{
+	"id": "49YaWhEUZ9ZtALW",
+	"json": "{\"id\":\"49YaWhEUZ9ZtALW\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/roxanne-j-persaud/senator-roxanne-j-persaud-and-assembly-member\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2025/roxanne-j-persaud/senator-roxanne-j-persaud-and-assembly-member\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/roxanne-j-persaud/senator-roxanne-j-persaud-and-assembly-member\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:57:30.544Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/roxanne-j-persaud/senator-roxanne-j-persaud-and-assembly-member",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/roxanne-j-persaud/senator-roxanne-j-persaud-and-assembly-member"
+}

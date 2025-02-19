@@ -1,0 +1,9 @@
+{
+	"id": "0TZ9PfW3NfqJrg7",
+	"json": "{\"id\":\"0TZ9PfW3NfqJrg7\",\"url\":\"https://www.nysenate.gov/issues/fracking-waste\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/fracking-waste\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569554243,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/fracking-waste",
+	"url": "https://www.nysenate.gov/issues/fracking-waste"
+}

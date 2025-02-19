@@ -1,0 +1,9 @@
+{
+	"id": "tXJqsT0RT3PiE4E",
+	"json": "{\"id\":\"tXJqsT0RT3PiE4E\",\"url\":\"https://www.nysenate.gov/issues/community-and-economic-empowerment\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/community-and-economic-empowerment\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717609,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/community-and-economic-empowerment",
+	"url": "https://www.nysenate.gov/issues/community-and-economic-empowerment"
+}

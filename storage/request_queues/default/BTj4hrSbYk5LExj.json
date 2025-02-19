@@ -1,0 +1,9 @@
+{
+	"id": "BTj4hrSbYk5LExj",
+	"json": "{\"id\":\"BTj4hrSbYk5LExj\",\"url\":\"https://www.nysenate.gov/legislation/bills/2015/A8337\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2015/A8337\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571665366,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2015/A8337",
+	"url": "https://www.nysenate.gov/legislation/bills/2015/A8337"
+}

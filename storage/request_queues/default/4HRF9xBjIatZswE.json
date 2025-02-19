@@ -1,0 +1,9 @@
+{
+	"id": "4HRF9xBjIatZswE",
+	"json": "{\"id\":\"4HRF9xBjIatZswE\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2017/joint-legislative-public-hearing-2017-2018-executive-budget-proposal-10\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2017/joint-legislative-public-hearing-2017-2018-executive-budget-proposal-10\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781097,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2017/joint-legislative-public-hearing-2017-2018-executive-budget-proposal-10",
+	"url": "https://www.nysenate.gov/newsroom/articles/2017/joint-legislative-public-hearing-2017-2018-executive-budget-proposal-10"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ZmgH0TvMkifRQ86",
+	"json": "{\"id\":\"ZmgH0TvMkifRQ86\",\"url\":\"https://www.nysenate.gov/issues/infrastructure-and-government-investment?page=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/infrastructure-and-government-investment?page=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571147556,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/infrastructure-and-government-investment?page=1",
+	"url": "https://www.nysenate.gov/issues/infrastructure-and-government-investment?page=1"
+}

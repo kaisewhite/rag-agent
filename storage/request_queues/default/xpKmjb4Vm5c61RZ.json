@@ -1,0 +1,9 @@
+{
+	"id": "xpKmjb4Vm5c61RZ",
+	"json": "{\"id\":\"xpKmjb4Vm5c61RZ\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/omh-response-senators-krueger-and-hoylman-sigal-final.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/omh-response-senators-krueger-and-hoylman-sigal-final.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570198849,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/omh-response-senators-krueger-and-hoylman-sigal-final.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/omh-response-senators-krueger-and-hoylman-sigal-final.pdf"
+}

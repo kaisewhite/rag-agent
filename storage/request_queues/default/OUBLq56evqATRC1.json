@@ -1,0 +1,9 @@
+{
+	"id": "OUBLq56evqATRC1",
+	"json": "{\"id\":\"OUBLq56evqATRC1\",\"url\":\"https://www.nysenate.gov/newsroom/articles/jeffrey-d-klein/swine-flu-update\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/jeffrey-d-klein/swine-flu-update\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781079,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/jeffrey-d-klein/swine-flu-update",
+	"url": "https://www.nysenate.gov/newsroom/articles/jeffrey-d-klein/swine-flu-update"
+}

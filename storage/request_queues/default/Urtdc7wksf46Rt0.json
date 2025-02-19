@@ -1,0 +1,9 @@
+{
+	"id": "Urtdc7wksf46Rt0",
+	"json": "{\"id\":\"Urtdc7wksf46Rt0\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2010/william-stachowski/state-must-help-its-universities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2010/william-stachowski/state-must-help-its-universities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734376,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2010/william-stachowski/state-must-help-its-universities",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2010/william-stachowski/state-must-help-its-universities"
+}

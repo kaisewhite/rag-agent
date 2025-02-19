@@ -1,0 +1,9 @@
+{
+	"id": "2QeoAUvheKnR58F",
+	"json": "{\"id\":\"2QeoAUvheKnR58F\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/kenneth-p-lavalle/lavalle-urges-education-leaders-open-dialogue-about\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/kenneth-p-lavalle/lavalle-urges-education-leaders-open-dialogue-about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788184,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/kenneth-p-lavalle/lavalle-urges-education-leaders-open-dialogue-about",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/kenneth-p-lavalle/lavalle-urges-education-leaders-open-dialogue-about"
+}

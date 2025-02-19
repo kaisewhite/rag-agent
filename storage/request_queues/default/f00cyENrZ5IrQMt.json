@@ -1,0 +1,9 @@
+{
+	"id": "f00cyENrZ5IrQMt",
+	"json": "{\"id\":\"f00cyENrZ5IrQMt\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2014/joint-legislative-public-hearing-2014-2015-executive-budget-proposal-1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2014/joint-legislative-public-hearing-2014-2015-executive-budget-proposal-1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781259,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2014/joint-legislative-public-hearing-2014-2015-executive-budget-proposal-1",
+	"url": "https://www.nysenate.gov/newsroom/articles/2014/joint-legislative-public-hearing-2014-2015-executive-budget-proposal-1"
+}

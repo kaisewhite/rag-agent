@@ -1,0 +1,9 @@
+{
+	"id": "5mVxHPKvEf4cylo",
+	"json": "{\"id\":\"5mVxHPKvEf4cylo\",\"url\":\"https://www.nysenate.gov/issues/new-york-city-housing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-york-city-housing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571305842,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-york-city-housing",
+	"url": "https://www.nysenate.gov/issues/new-york-city-housing"
+}

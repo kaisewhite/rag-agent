@@ -1,0 +1,9 @@
+{
+	"id": "dtJqys2H7VuyFll",
+	"json": "{\"id\":\"dtJqys2H7VuyFll\",\"url\":\"https://www.nysenate.gov/issues/economic-development-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/economic-development-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570287023,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/economic-development-funding",
+	"url": "https://www.nysenate.gov/issues/economic-development-funding"
+}

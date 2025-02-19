@@ -1,0 +1,9 @@
+{
+	"id": "cx4dqMHbenqbjQZ",
+	"json": "{\"id\":\"cx4dqMHbenqbjQZ\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/ruben-diaz/seniors-say-thanks\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/ruben-diaz/seniors-say-thanks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698375,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/ruben-diaz/seniors-say-thanks",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/ruben-diaz/seniors-say-thanks"
+}

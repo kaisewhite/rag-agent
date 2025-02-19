@@ -1,0 +1,9 @@
+{
+	"id": "1ELcltjyLViJdra",
+	"json": "{\"id\":\"1ELcltjyLViJdra\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/desk-senator-jack-m-martins-21\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/desk-senator-jack-m-martins-21\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847601,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/desk-senator-jack-m-martins-21",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/desk-senator-jack-m-martins-21"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "m2fLUalnt6NgUnL",
+	"json": "{\"id\":\"m2fLUalnt6NgUnL\",\"url\":\"https://www.nysenate.gov/legislation/laws/TRA/A21\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/TRA/A21\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569987441,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/TRA/A21",
+	"url": "https://www.nysenate.gov/legislation/laws/TRA/A21"
+}

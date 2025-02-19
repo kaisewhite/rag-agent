@@ -1,0 +1,9 @@
+{
+	"id": "T3GV1WmVCM2UoWp",
+	"json": "{\"id\":\"T3GV1WmVCM2UoWp\",\"url\":\"https://www.nysenate.gov/issues/tax-incentives\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/tax-incentives\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808588,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/tax-incentives",
+	"url": "https://www.nysenate.gov/issues/tax-incentives"
+}

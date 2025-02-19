@@ -1,0 +1,9 @@
+{
+	"id": "8GkEHCQoR6Nmqfg",
+	"json": "{\"id\":\"8GkEHCQoR6Nmqfg\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-and-attorney-general-cuomo-announcing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-and-attorney-general-cuomo-announcing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725903,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-and-attorney-general-cuomo-announcing",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-and-attorney-general-cuomo-announcing"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "W5Iwc5wO9fOBCnV",
+	"json": "{\"id\":\"W5Iwc5wO9fOBCnV\",\"url\":\"https://www.nysenate.gov/issues/law-enforcement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/law-enforcement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569546684,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/law-enforcement",
+	"url": "https://www.nysenate.gov/issues/law-enforcement"
+}

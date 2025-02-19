@@ -1,0 +1,9 @@
+{
+	"id": "azC7gMDK2L6sVRv",
+	"json": "{\"id\":\"azC7gMDK2L6sVRv\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/stand-against-eminent-domain-abuse\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/stand-against-eminent-domain-abuse\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741840,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/stand-against-eminent-domain-abuse",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/stand-against-eminent-domain-abuse"
+}

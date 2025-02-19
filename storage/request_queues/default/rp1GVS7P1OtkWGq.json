@@ -1,0 +1,9 @@
+{
+	"id": "rp1GVS7P1OtkWGq",
+	"json": "{\"id\":\"rp1GVS7P1OtkWGq\",\"url\":\"https://www.nysenate.gov/legislation/laws/RCO/A3-C\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RCO/A3-C\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569967051,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RCO/A3-C",
+	"url": "https://www.nysenate.gov/legislation/laws/RCO/A3-C"
+}

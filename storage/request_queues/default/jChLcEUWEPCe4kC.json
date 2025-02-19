@@ -1,0 +1,9 @@
+{
+	"id": "jChLcEUWEPCe4kC",
+	"json": "{\"id\":\"jChLcEUWEPCe4kC\",\"url\":\"https://www.nysenate.gov/issues/immigration-status\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/immigration-status\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571299893,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/immigration-status",
+	"url": "https://www.nysenate.gov/issues/immigration-status"
+}

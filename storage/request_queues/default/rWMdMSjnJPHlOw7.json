@@ -1,0 +1,9 @@
+{
+	"id": "rWMdMSjnJPHlOw7",
+	"json": "{\"id\":\"rWMdMSjnJPHlOw7\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2017/pamela-helming/summer-2017-rural-futures\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2017/pamela-helming/summer-2017-rural-futures\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695506,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2017/pamela-helming/summer-2017-rural-futures",
+	"url": "https://www.nysenate.gov/newsroom/articles/2017/pamela-helming/summer-2017-rural-futures"
+}

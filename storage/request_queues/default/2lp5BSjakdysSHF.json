@@ -1,0 +1,9 @@
+{
+	"id": "2lp5BSjakdysSHF",
+	"json": "{\"id\":\"2lp5BSjakdysSHF\",\"url\":\"https://www.nysenate.gov/issues/veterans-active-duty\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/veterans-active-duty\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855406,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/veterans-active-duty",
+	"url": "https://www.nysenate.gov/issues/veterans-active-duty"
+}

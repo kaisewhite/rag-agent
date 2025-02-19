@@ -1,0 +1,9 @@
+{
+	"id": "Fi5ord66bDfwCTf",
+	"json": "{\"id\":\"Fi5ord66bDfwCTf\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/state-senate-committees-hold-hearing-long-island-housing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/state-senate-committees-hold-hearing-long-island-housing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740969,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/state-senate-committees-hold-hearing-long-island-housing",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/state-senate-committees-hold-hearing-long-island-housing"
+}

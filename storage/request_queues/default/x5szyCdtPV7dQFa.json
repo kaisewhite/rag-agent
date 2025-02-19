@@ -1,0 +1,9 @@
+{
+	"id": "x5szyCdtPV7dQFa",
+	"json": "{\"id\":\"x5szyCdtPV7dQFa\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2019/james-skoufis/senate-investigations-and-government-operations-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2019/james-skoufis/senate-investigations-and-government-operations-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808645,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2019/james-skoufis/senate-investigations-and-government-operations-committee",
+	"url": "https://www.nysenate.gov/newsroom/articles/2019/james-skoufis/senate-investigations-and-government-operations-committee"
+}

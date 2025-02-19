@@ -1,0 +1,9 @@
+{
+	"id": "IVVKREtaFAPLoEB",
+	"json": "{\"id\":\"IVVKREtaFAPLoEB\",\"url\":\"https://www.nysenate.gov/issues/employment-opportunities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/employment-opportunities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751251,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/employment-opportunities",
+	"url": "https://www.nysenate.gov/issues/employment-opportunities"
+}

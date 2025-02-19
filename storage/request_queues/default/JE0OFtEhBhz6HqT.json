@@ -1,0 +1,9 @@
+{
+	"id": "JE0OFtEhBhz6HqT",
+	"json": "{\"id\":\"JE0OFtEhBhz6HqT\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/brennan-center-testimony-for-feb.-4-2025-joint-budget-hearing-on-local-government-and-general-government.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/brennan-center-testimony-for-feb.-4-2025-joint-budget-hearing-on-local-government-and-general-government.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570514514,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/brennan-center-testimony-for-feb.-4-2025-joint-budget-hearing-on-local-government-and-general-government.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/brennan-center-testimony-for-feb.-4-2025-joint-budget-hearing-on-local-government-and-general-government.pdf"
+}

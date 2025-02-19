@@ -1,0 +1,9 @@
+{
+	"id": "iZN8rwg1U7yOPDd",
+	"json": "{\"id\":\"iZN8rwg1U7yOPDd\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/daniel-l-squadron/state-lawmakers-seek-help-struggling-retail-businesses\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/daniel-l-squadron/state-lawmakers-seek-help-struggling-retail-businesses\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569714898,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/daniel-l-squadron/state-lawmakers-seek-help-struggling-retail-businesses",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/daniel-l-squadron/state-lawmakers-seek-help-struggling-retail-businesses"
+}

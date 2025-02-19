@@ -1,0 +1,9 @@
+{
+	"id": "GPTY21RFf0FJex5",
+	"json": "{\"id\":\"GPTY21RFf0FJex5\",\"url\":\"https://www.nysenate.gov/committees/labor\",\"loadedUrl\":\"https://www.nysenate.gov/committees/labor\",\"uniqueKey\":\"GET():https://www.nysenate.gov/committees/labor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:50:11.637Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/committees/labor",
+	"url": "https://www.nysenate.gov/committees/labor"
+}

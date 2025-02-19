@@ -1,0 +1,9 @@
+{
+	"id": "WfWY7YH7DrE9bNQ",
+	"json": "{\"id\":\"WfWY7YH7DrE9bNQ\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/february-27-2013/examine-best-course-action-ensure-residents-long-island\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/february-27-2013/examine-best-course-action-ensure-residents-long-island\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808618,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/february-27-2013/examine-best-course-action-ensure-residents-long-island",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/february-27-2013/examine-best-course-action-ensure-residents-long-island"
+}

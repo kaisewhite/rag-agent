@@ -1,0 +1,9 @@
+{
+	"id": "NrWHSu7pyLh9xFY",
+	"json": "{\"id\":\"NrWHSu7pyLh9xFY\",\"url\":\"https://www.nysenate.gov/sites/default/files/tasleemah_tolu_lawal_.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/tasleemah_tolu_lawal_.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716550,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/tasleemah_tolu_lawal_.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/tasleemah_tolu_lawal_.pdf"
+}

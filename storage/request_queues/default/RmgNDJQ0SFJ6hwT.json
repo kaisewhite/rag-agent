@@ -1,0 +1,9 @@
+{
+	"id": "RmgNDJQ0SFJ6hwT",
+	"json": "{\"id\":\"RmgNDJQ0SFJ6hwT\",\"url\":\"https://www.nysenate.gov/profiles/2024/alexis-weik/steven-john-antonacci\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/alexis-weik/steven-john-antonacci\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/alexis-weik/steven-john-antonacci\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:59:44.186Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/alexis-weik/steven-john-antonacci",
+	"url": "https://www.nysenate.gov/profiles/2024/alexis-weik/steven-john-antonacci"
+}

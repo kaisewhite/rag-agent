@@ -1,0 +1,9 @@
+{
+	"id": "l7OXp3So43E2wdm",
+	"json": "{\"id\":\"l7OXp3So43E2wdm\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=millennials\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=millennials\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571130856,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=millennials",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=millennials"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "1AXCZR2rFnH9cXm",
+	"json": "{\"id\":\"1AXCZR2rFnH9cXm\",\"url\":\"https://www.nysenate.gov/sites/default/files/alliance_for_clean_energy_n.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/alliance_for_clean_energy_n.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571268933,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/alliance_for_clean_energy_n.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/alliance_for_clean_energy_n.pdf"
+}

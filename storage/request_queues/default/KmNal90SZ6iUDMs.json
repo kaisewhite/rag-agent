@@ -1,0 +1,9 @@
+{
+	"id": "KmNal90SZ6iUDMs",
+	"json": "{\"id\":\"KmNal90SZ6iUDMs\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Puerto%20Rico\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Puerto+Rico\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571138299,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Puerto+Rico",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Puerto%20Rico"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "TR14VDRFjzqh0JL",
+	"json": "{\"id\":\"TR14VDRFjzqh0JL\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-12-2019/bergen-beach-civic-association-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-12-2019/bergen-beach-civic-association-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246800,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-12-2019/bergen-beach-civic-association-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-12-2019/bergen-beach-civic-association-monthly-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "tO694HGDiO5Xyrv",
+	"json": "{\"id\":\"tO694HGDiO5Xyrv\",\"url\":\"https://www.nysenate.gov/newsroom/video/toby-ann-stavisky/senator-stavisky-speaks-senate-bill-s9721a\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/toby-ann-stavisky/senator-stavisky-speaks-senate-bill-s9721a\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569675498,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/toby-ann-stavisky/senator-stavisky-speaks-senate-bill-s9721a",
+	"url": "https://www.nysenate.gov/newsroom/video/toby-ann-stavisky/senator-stavisky-speaks-senate-bill-s9721a"
+}

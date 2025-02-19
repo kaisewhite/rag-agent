@@ -1,0 +1,9 @@
+{
+	"id": "F7b9gs30kxSD1JY",
+	"json": "{\"id\":\"F7b9gs30kxSD1JY\",\"url\":\"https://www.nysenate.gov/issues/women\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/women\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717610,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/women",
+	"url": "https://www.nysenate.gov/issues/women"
+}

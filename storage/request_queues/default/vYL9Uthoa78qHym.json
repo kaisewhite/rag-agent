@@ -1,0 +1,9 @@
+{
+	"id": "vYL9Uthoa78qHym",
+	"json": "{\"id\":\"vYL9Uthoa78qHym\",\"url\":\"https://www.nysenate.gov/calendar/meetings/agriculture/april-23-2013/agriculture-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/agriculture/april-23-2013/agriculture-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707131,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/agriculture/april-23-2013/agriculture-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/agriculture/april-23-2013/agriculture-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "2Ft80Y1vh4P0ftp",
+	"json": "{\"id\":\"2Ft80Y1vh4P0ftp\",\"url\":\"https://www.nysenate.gov/issues/mercury\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/mercury\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770699,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/mercury",
+	"url": "https://www.nysenate.gov/issues/mercury"
+}

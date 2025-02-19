@@ -1,0 +1,9 @@
+{
+	"id": "xrnroFJuEejScWe",
+	"json": "{\"id\":\"xrnroFJuEejScWe\",\"url\":\"https://www.nysenate.gov/issues/roe-v-wade\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/roe-v-wade\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570724396,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/roe-v-wade",
+	"url": "https://www.nysenate.gov/issues/roe-v-wade"
+}

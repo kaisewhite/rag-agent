@@ -1,0 +1,9 @@
+{
+	"id": "l9aL2sMVAQhQ2WW",
+	"json": "{\"id\":\"l9aL2sMVAQhQ2WW\",\"url\":\"https://www.nysenate.gov/issues/tax-relief\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/tax-relief\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698368,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/tax-relief",
+	"url": "https://www.nysenate.gov/issues/tax-relief"
+}

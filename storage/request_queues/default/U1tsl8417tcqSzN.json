@@ -1,0 +1,9 @@
+{
+	"id": "U1tsl8417tcqSzN",
+	"json": "{\"id\":\"U1tsl8417tcqSzN\",\"url\":\"https://www.nysenate.gov/legislation/laws/EDP\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/EDP\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EDP\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:44.475Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EDP",
+	"url": "https://www.nysenate.gov/legislation/laws/EDP"
+}

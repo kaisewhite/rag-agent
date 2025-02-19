@@ -1,0 +1,9 @@
+{
+	"id": "KF5ADOyrWDfYXgR",
+	"json": "{\"id\":\"KF5ADOyrWDfYXgR\",\"url\":\"https://www.nysenate.gov/calendar/events/monica-r-martinez/august-02-2023/senator-monica-r-martinez-free-car-seat-inspection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/monica-r-martinez/august-02-2023/senator-monica-r-martinez-free-car-seat-inspection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570291876,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/monica-r-martinez/august-02-2023/senator-monica-r-martinez-free-car-seat-inspection",
+	"url": "https://www.nysenate.gov/calendar/events/monica-r-martinez/august-02-2023/senator-monica-r-martinez-free-car-seat-inspection"
+}

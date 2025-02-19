@@ -1,0 +1,9 @@
+{
+	"id": "GCIqjoaL2Y0Q02I",
+	"json": "{\"id\":\"GCIqjoaL2Y0Q02I\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/senate-acts-lower-utility-costs-protect-ratepayers-across-new-york\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2025/senate-acts-lower-utility-costs-protect-ratepayers-across-new-york\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/senate-acts-lower-utility-costs-protect-ratepayers-across-new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:46:08.683Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/senate-acts-lower-utility-costs-protect-ratepayers-across-new-york",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/senate-acts-lower-utility-costs-protect-ratepayers-across-new-york"
+}

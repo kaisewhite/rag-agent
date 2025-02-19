@@ -1,0 +1,9 @@
+{
+	"id": "GUlkAcYscJLVnw8",
+	"json": "{\"id\":\"GUlkAcYscJLVnw8\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/january-13-2014/new-york-state-health-discussion-implementation-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/january-13-2014/new-york-state-health-discussion-implementation-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569793093,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/january-13-2014/new-york-state-health-discussion-implementation-0",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/january-13-2014/new-york-state-health-discussion-implementation-0"
+}

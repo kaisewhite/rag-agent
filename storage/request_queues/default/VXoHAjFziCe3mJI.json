@@ -1,0 +1,9 @@
+{
+	"id": "VXoHAjFziCe3mJI",
+	"json": "{\"id\":\"VXoHAjFziCe3mJI\",\"url\":\"https://www.nysenate.gov/issues/eop\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/eop\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571054393,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/eop",
+	"url": "https://www.nysenate.gov/issues/eop"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "fVC7qq2g53A1svU",
+	"json": "{\"id\":\"fVC7qq2g53A1svU\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/joseph-addabbo/addabbo-delivers-valentines-day-cards-local-students\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/joseph-addabbo/addabbo-delivers-valentines-day-cards-local-students\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570294701,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/joseph-addabbo/addabbo-delivers-valentines-day-cards-local-students",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/joseph-addabbo/addabbo-delivers-valentines-day-cards-local-students"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "wJsDToGGqSaVxMn",
+	"json": "{\"id\":\"wJsDToGGqSaVxMn\",\"url\":\"https://www.nysenate.gov/calendar/events/finance/andrea-stewart-cousins/march-18-2024/senate-and-assembly-announce-general\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/finance/andrea-stewart-cousins/march-18-2024/senate-and-assembly-announce-general\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780817,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/finance/andrea-stewart-cousins/march-18-2024/senate-and-assembly-announce-general",
+	"url": "https://www.nysenate.gov/calendar/events/finance/andrea-stewart-cousins/march-18-2024/senate-and-assembly-announce-general"
+}

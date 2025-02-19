@@ -1,0 +1,9 @@
+{
+	"id": "VyS7V5bD83xhLQc",
+	"json": "{\"id\":\"VyS7V5bD83xhLQc\",\"url\":\"https://www.nysenate.gov/issues/hospital\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/hospital\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569591594,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/hospital",
+	"url": "https://www.nysenate.gov/issues/hospital"
+}

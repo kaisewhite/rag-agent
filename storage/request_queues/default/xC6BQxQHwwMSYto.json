@@ -1,0 +1,9 @@
+{
+	"id": "xC6BQxQHwwMSYto",
+	"json": "{\"id\":\"xC6BQxQHwwMSYto\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/eric-adams/nys-senator-adams-hosts-homeland-security-business-round-table\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/eric-adams/nys-senator-adams-hosts-homeland-security-business-round-table\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855435,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/eric-adams/nys-senator-adams-hosts-homeland-security-business-round-table",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/eric-adams/nys-senator-adams-hosts-homeland-security-business-round-table"
+}

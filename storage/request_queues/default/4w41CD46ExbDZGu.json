@@ -1,0 +1,9 @@
+{
+	"id": "4w41CD46ExbDZGu",
+	"json": "{\"id\":\"4w41CD46ExbDZGu\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/lawmakers-want-those-behind-paid-political-ads-be-more\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/lawmakers-want-those-behind-paid-political-ads-be-more\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571573125,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/lawmakers-want-those-behind-paid-political-ads-be-more",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/lawmakers-want-those-behind-paid-political-ads-be-more"
+}

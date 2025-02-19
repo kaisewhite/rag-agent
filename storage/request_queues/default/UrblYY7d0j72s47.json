@@ -1,0 +1,9 @@
+{
+	"id": "UrblYY7d0j72s47",
+	"json": "{\"id\":\"UrblYY7d0j72s47\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/eric-adams/senator-adams-leads-homeland-security-roundtable-january-25-1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/eric-adams/senator-adams-leads-homeland-security-roundtable-january-25-1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855432,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/eric-adams/senator-adams-leads-homeland-security-roundtable-january-25-1",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/eric-adams/senator-adams-leads-homeland-security-roundtable-january-25-1"
+}

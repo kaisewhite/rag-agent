@@ -1,0 +1,9 @@
+{
+	"id": "5hs2xAJ5kg7OGPW",
+	"json": "{\"id\":\"5hs2xAJ5kg7OGPW\",\"url\":\"https://www.nysenate.gov/sites/default/files/alan_cohen_jasa.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/alan_cohen_jasa.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716504,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/alan_cohen_jasa.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/alan_cohen_jasa.pdf"
+}

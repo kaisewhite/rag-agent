@@ -1,0 +1,9 @@
+{
+	"id": "8vl6Zu0BlDd8mEb",
+	"json": "{\"id\":\"8vl6Zu0BlDd8mEb\",\"url\":\"https://www.nysenate.gov/issues/long-island\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/long-island\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569652533,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/long-island",
+	"url": "https://www.nysenate.gov/issues/long-island"
+}

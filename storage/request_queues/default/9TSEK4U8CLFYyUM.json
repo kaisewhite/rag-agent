@@ -1,0 +1,9 @@
+{
+	"id": "9TSEK4U8CLFYyUM",
+	"json": "{\"id\":\"9TSEK4U8CLFYyUM\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-22-2020/conversation-nyc-department-education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-22-2020/conversation-nyc-department-education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247104,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-22-2020/conversation-nyc-department-education",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-22-2020/conversation-nyc-department-education"
+}

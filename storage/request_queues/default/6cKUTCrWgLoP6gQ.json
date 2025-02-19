@@ -1,0 +1,9 @@
+{
+	"id": "6cKUTCrWgLoP6gQ",
+	"json": "{\"id\":\"6cKUTCrWgLoP6gQ\",\"url\":\"https://www.nysenate.gov/petitions/simcha-felder/demanding-equity-nycs-special-needs-children\",\"uniqueKey\":\"GET():https://www.nysenate.gov/petitions/simcha-felder/demanding-equity-nycs-special-needs-children\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570194129,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/petitions/simcha-felder/demanding-equity-nycs-special-needs-children",
+	"url": "https://www.nysenate.gov/petitions/simcha-felder/demanding-equity-nycs-special-needs-children"
+}

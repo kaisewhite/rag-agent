@@ -1,0 +1,9 @@
+{
+	"id": "Ou4KcmvqK5GSXR1",
+	"json": "{\"id\":\"Ou4KcmvqK5GSXR1\",\"url\":\"https://www.nysenate.gov/issues/new-york-states-response-federal-government-shutdowns\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-york-states-response-federal-government-shutdowns\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808599,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-york-states-response-federal-government-shutdowns",
+	"url": "https://www.nysenate.gov/issues/new-york-states-response-federal-government-shutdowns"
+}

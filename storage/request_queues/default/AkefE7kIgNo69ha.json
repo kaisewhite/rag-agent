@@ -1,0 +1,9 @@
+{
+	"id": "AkefE7kIgNo69ha",
+	"json": "{\"id\":\"AkefE7kIgNo69ha\",\"url\":\"https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-28-2014/corporations-authorities-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-28-2014/corporations-authorities-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741819,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-28-2014/corporations-authorities-and",
+	"url": "https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-28-2014/corporations-authorities-and"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "GBDZ2WY82Atqimy",
+	"json": "{\"id\":\"GBDZ2WY82Atqimy\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/brian-foley/new-foreclosure-law-save-homes-and-preserve-neighborhoods\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/brian-foley/new-foreclosure-law-save-homes-and-preserve-neighborhoods\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707002,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/brian-foley/new-foreclosure-law-save-homes-and-preserve-neighborhoods",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/brian-foley/new-foreclosure-law-save-homes-and-preserve-neighborhoods"
+}

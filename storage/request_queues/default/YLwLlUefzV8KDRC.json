@@ -1,0 +1,9 @@
+{
+	"id": "YLwLlUefzV8KDRC",
+	"json": "{\"id\":\"YLwLlUefzV8KDRC\",\"url\":\"https://www.nysenate.gov/issues/crime\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/crime\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569549333,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/crime",
+	"url": "https://www.nysenate.gov/issues/crime"
+}

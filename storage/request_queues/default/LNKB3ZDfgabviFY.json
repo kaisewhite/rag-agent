@@ -1,0 +1,9 @@
+{
+	"id": "LNKB3ZDfgabviFY",
+	"json": "{\"id\":\"LNKB3ZDfgabviFY\",\"url\":\"https://www.nysenate.gov/senators/gustavo-rivera/contact\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/gustavo-rivera/contact\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569666562,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/gustavo-rivera/contact",
+	"url": "https://www.nysenate.gov/senators/gustavo-rivera/contact"
+}

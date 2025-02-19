@@ -1,0 +1,9 @@
+{
+	"id": "pgnBIuqSnH9ce14",
+	"json": "{\"id\":\"pgnBIuqSnH9ce14\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/kings-county-politics-reports-governor-signing-kavanagh\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/kings-county-politics-reports-governor-signing-kavanagh\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798924,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/kings-county-politics-reports-governor-signing-kavanagh",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/kings-county-politics-reports-governor-signing-kavanagh"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "LQAzdq3Nzw9etSL",
+	"json": "{\"id\":\"LQAzdq3Nzw9etSL\",\"url\":\"https://www.nysenate.gov/issues/covid-19-eviction-and-foreclosure-prevention-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/covid-19-eviction-and-foreclosure-prevention-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798881,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/covid-19-eviction-and-foreclosure-prevention-act",
+	"url": "https://www.nysenate.gov/issues/covid-19-eviction-and-foreclosure-prevention-act"
+}

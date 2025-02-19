@@ -1,0 +1,9 @@
+{
+	"id": "vVx2kSdnQdJFHFy",
+	"json": "{\"id\":\"vVx2kSdnQdJFHFy\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-files-comments-decs-environmental\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-files-comments-decs-environmental\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770760,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-files-comments-decs-environmental",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-files-comments-decs-environmental"
+}

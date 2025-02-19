@@ -1,0 +1,9 @@
+{
+	"id": "6gv1IqKPKjtgIuX",
+	"json": "{\"id\":\"6gv1IqKPKjtgIuX\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S1457/amendment/A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S1457/amendment/A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569576453,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S1457/amendment/A",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S1457/amendment/A"
+}

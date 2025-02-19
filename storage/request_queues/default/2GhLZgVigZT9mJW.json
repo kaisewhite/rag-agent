@@ -1,0 +1,9 @@
+{
+	"id": "2GhLZgVigZT9mJW",
+	"json": "{\"id\":\"2GhLZgVigZT9mJW\",\"url\":\"https://www.nysenate.gov/issues/earned-income-tax-credit\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/earned-income-tax-credit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569574139,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/earned-income-tax-credit",
+	"url": "https://www.nysenate.gov/issues/earned-income-tax-credit"
+}

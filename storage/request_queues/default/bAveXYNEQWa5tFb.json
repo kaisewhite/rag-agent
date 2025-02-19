@@ -1,0 +1,9 @@
+{
+	"id": "bAveXYNEQWa5tFb",
+	"json": "{\"id\":\"bAveXYNEQWa5tFb\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/chips-run-2013-14-executive-budget\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/chips-run-2013-14-executive-budget\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781266,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/chips-run-2013-14-executive-budget",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/chips-run-2013-14-executive-budget"
+}

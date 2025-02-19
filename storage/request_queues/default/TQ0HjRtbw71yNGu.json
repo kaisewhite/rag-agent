@@ -1,0 +1,9 @@
+{
+	"id": "TQ0HjRtbw71yNGu",
+	"json": "{\"id\":\"TQ0HjRtbw71yNGu\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/roxanne-j-persaud/senator-roxanne-j-persaud-assemblymember-jaime\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2024/roxanne-j-persaud/senator-roxanne-j-persaud-assemblymember-jaime\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/roxanne-j-persaud/senator-roxanne-j-persaud-assemblymember-jaime\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:57:40.960Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/roxanne-j-persaud/senator-roxanne-j-persaud-assemblymember-jaime",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/roxanne-j-persaud/senator-roxanne-j-persaud-assemblymember-jaime"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0QJ3bMj0J1b3G1x",
+	"json": "{\"id\":\"0QJ3bMj0J1b3G1x\",\"url\":\"https://www.nysenate.gov/sites/default/files/article/attachment/final_investigative_report_code_enforcement_senator_skoufis_igo_committee.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/article/attachment/final_investigative_report_code_enforcement_senator_skoufis_igo_committee.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571368057,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/article/attachment/final_investigative_report_code_enforcement_senator_skoufis_igo_committee.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/article/attachment/final_investigative_report_code_enforcement_senator_skoufis_igo_committee.pdf"
+}

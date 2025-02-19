@@ -1,0 +1,9 @@
+{
+	"id": "0KDvV6Ms4dpTIbH",
+	"json": "{\"id\":\"0KDvV6Ms4dpTIbH\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/senator-julia-salazar-commences-first-womens-issues-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/senator-julia-salazar-commences-first-womens-issues-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569858766,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/senator-julia-salazar-commences-first-womens-issues-committee",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/senator-julia-salazar-commences-first-womens-issues-committee"
+}

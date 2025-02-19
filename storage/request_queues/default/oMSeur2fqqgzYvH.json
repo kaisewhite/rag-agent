@@ -1,0 +1,9 @@
+{
+	"id": "oMSeur2fqqgzYvH",
+	"json": "{\"id\":\"oMSeur2fqqgzYvH\",\"url\":\"https://www.nysenate.gov/committees/consumer-protection\",\"loadedUrl\":\"https://www.nysenate.gov/committees/consumer-protection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/committees/consumer-protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:49:00.993Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/committees/consumer-protection",
+	"url": "https://www.nysenate.gov/committees/consumer-protection"
+}

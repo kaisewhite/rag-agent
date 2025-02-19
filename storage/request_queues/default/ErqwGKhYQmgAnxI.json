@@ -1,0 +1,9 @@
+{
+	"id": "ErqwGKhYQmgAnxI",
+	"json": "{\"id\":\"ErqwGKhYQmgAnxI\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/brian-foley/senator-foley-increases-penalty-atm-theft\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/brian-foley/senator-foley-increases-penalty-atm-theft\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707001,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/brian-foley/senator-foley-increases-penalty-atm-theft",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/brian-foley/senator-foley-increases-penalty-atm-theft"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "E3MyCfwsIQO9H22",
+	"json": "{\"id\":\"E3MyCfwsIQO9H22\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S7758\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S7758\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571540407,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S7758",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S7758"
+}

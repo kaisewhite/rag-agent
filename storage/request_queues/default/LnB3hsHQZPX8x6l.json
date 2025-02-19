@@ -1,0 +1,9 @@
+{
+	"id": "LnB3hsHQZPX8x6l",
+	"json": "{\"id\":\"LnB3hsHQZPX8x6l\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/june-24-2020/future-public-education-southeast-queens-after\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/june-24-2020/future-public-education-southeast-queens-after\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019458,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/june-24-2020/future-public-education-southeast-queens-after",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/june-24-2020/future-public-education-southeast-queens-after"
+}

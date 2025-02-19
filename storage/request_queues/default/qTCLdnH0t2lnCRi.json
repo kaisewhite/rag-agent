@@ -1,0 +1,9 @@
+{
+	"id": "qTCLdnH0t2lnCRi",
+	"json": "{\"id\":\"qTCLdnH0t2lnCRi\",\"url\":\"https://www.nysenate.gov/calendar/meetings/finance/april-19-2024/finance-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/finance/april-19-2024/finance-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780806,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/finance/april-19-2024/finance-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/finance/april-19-2024/finance-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "WHgeJy3nUfmz6hI",
+	"json": "{\"id\":\"WHgeJy3nUfmz6hI\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/rachel-may/senator-may-announces-three-long-term-care-bills-signed-law\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/rachel-may/senator-may-announces-three-long-term-care-bills-signed-law\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698346,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/rachel-may/senator-may-announces-three-long-term-care-bills-signed-law",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/rachel-may/senator-may-announces-three-long-term-care-bills-signed-law"
+}

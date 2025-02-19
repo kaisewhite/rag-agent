@@ -1,0 +1,9 @@
+{
+	"id": "moh7rGv4aaxS68A",
+	"json": "{\"id\":\"moh7rGv4aaxS68A\",\"url\":\"https://www.nysenate.gov/sites/default/files/rules_and_regulations_relating_to_public_inspection_and_copying_of_legislative_records_-_january-2019_blue.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/rules_and_regulations_relating_to_public_inspection_and_copying_of_legislative_records_-_january-2019_blue.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569874659,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/rules_and_regulations_relating_to_public_inspection_and_copying_of_legislative_records_-_january-2019_blue.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/rules_and_regulations_relating_to_public_inspection_and_copying_of_legislative_records_-_january-2019_blue.pdf"
+}

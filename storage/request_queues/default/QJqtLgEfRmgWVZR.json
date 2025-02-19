@@ -1,0 +1,9 @@
+{
+	"id": "QJqtLgEfRmgWVZR",
+	"json": "{\"id\":\"QJqtLgEfRmgWVZR\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/february-07-2020/forum-scams\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/february-07-2020/forum-scams\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752683,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/february-07-2020/forum-scams",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/february-07-2020/forum-scams"
+}

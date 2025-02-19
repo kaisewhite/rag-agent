@@ -1,0 +1,9 @@
+{
+	"id": "tpFN8bl9XSVjcIB",
+	"json": "{\"id\":\"tpFN8bl9XSVjcIB\",\"url\":\"https://www.nysenate.gov/questionnaires/pete-harckham/encuesta-del-senador-harckham-sobre-la-tormenta-tropical-isaias\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/pete-harckham/encuesta-del-senador-harckham-sobre-la-tormenta-tropical-isaias\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569642376,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/pete-harckham/encuesta-del-senador-harckham-sobre-la-tormenta-tropical-isaias",
+	"url": "https://www.nysenate.gov/questionnaires/pete-harckham/encuesta-del-senador-harckham-sobre-la-tormenta-tropical-isaias"
+}

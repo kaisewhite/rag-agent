@@ -1,0 +1,9 @@
+{
+	"id": "EcZ79N1ouGhTVgs",
+	"json": "{\"id\":\"EcZ79N1ouGhTVgs\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/there-still-time-register-senate-reading-program\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/there-still-time-register-senate-reading-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848849,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/there-still-time-register-senate-reading-program",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/there-still-time-register-senate-reading-program"
+}

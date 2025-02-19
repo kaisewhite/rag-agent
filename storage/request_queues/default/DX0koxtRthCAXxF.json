@@ -1,0 +1,9 @@
+{
+	"id": "DX0koxtRthCAXxF",
+	"json": "{\"id\":\"DX0koxtRthCAXxF\",\"url\":\"https://www.nysenate.gov/freedom-information-request-form\",\"loadedUrl\":\"https://www.nysenate.gov/freedom-information-request-form\",\"uniqueKey\":\"GET():https://www.nysenate.gov/freedom-information-request-form\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:14.660Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/freedom-information-request-form",
+	"url": "https://www.nysenate.gov/freedom-information-request-form"
+}

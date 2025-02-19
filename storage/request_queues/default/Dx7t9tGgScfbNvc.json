@@ -1,0 +1,9 @@
+{
+	"id": "Dx7t9tGgScfbNvc",
+	"json": "{\"id\":\"Dx7t9tGgScfbNvc\",\"url\":\"https://www.nysenate.gov/issues/finger-lakes-protection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/finger-lakes-protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569555034,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/finger-lakes-protection",
+	"url": "https://www.nysenate.gov/issues/finger-lakes-protection"
+}

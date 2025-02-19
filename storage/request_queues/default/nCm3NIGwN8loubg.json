@@ -1,0 +1,9 @@
+{
+	"id": "nCm3NIGwN8loubg",
+	"json": "{\"id\":\"nCm3NIGwN8loubg\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/state-senate-moves-make-higher-education-more-affordable-expand\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2025/state-senate-moves-make-higher-education-more-affordable-expand\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/state-senate-moves-make-higher-education-more-affordable-expand\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:45:07.635Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/state-senate-moves-make-higher-education-more-affordable-expand",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/state-senate-moves-make-higher-education-more-affordable-expand"
+}

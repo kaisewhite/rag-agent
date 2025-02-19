@@ -1,0 +1,9 @@
+{
+	"id": "StnfxaMw5Ov85Xm",
+	"json": "{\"id\":\"StnfxaMw5Ov85Xm\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/pre-adoption-birth-certificate-faq-sheet\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/pre-adoption-birth-certificate-faq-sheet\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717626,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/pre-adoption-birth-certificate-faq-sheet",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/velmanette-montgomery/pre-adoption-birth-certificate-faq-sheet"
+}

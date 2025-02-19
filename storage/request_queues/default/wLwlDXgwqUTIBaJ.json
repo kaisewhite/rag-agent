@@ -1,0 +1,9 @@
+{
+	"id": "wLwlDXgwqUTIBaJ",
+	"json": "{\"id\":\"wLwlDXgwqUTIBaJ\",\"url\":\"https://www.nysenate.gov/issues/utility-bills\",\"loadedUrl\":\"https://www.nysenate.gov/issues/utility-bills\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/utility-bills\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:08:10.990Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/utility-bills",
+	"url": "https://www.nysenate.gov/issues/utility-bills"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "8fOlmF1lwSkH73Y",
+	"json": "{\"id\":\"8fOlmF1lwSkH73Y\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/ny-state-senate-higher-education-chair-ken-lavalle\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/ny-state-senate-higher-education-chair-ken-lavalle\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788187,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/ny-state-senate-higher-education-chair-ken-lavalle",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/ny-state-senate-higher-education-chair-ken-lavalle"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "X8rXToX4kAczfnj",
+	"json": "{\"id\":\"X8rXToX4kAczfnj\",\"url\":\"https://www.nysenate.gov/issues/bay-park-conveyance-project\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/bay-park-conveyance-project\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770682,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/bay-park-conveyance-project",
+	"url": "https://www.nysenate.gov/issues/bay-park-conveyance-project"
+}

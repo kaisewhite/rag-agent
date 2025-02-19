@@ -1,0 +1,9 @@
+{
+	"id": "pv8mhMBtRcFZxYS",
+	"json": "{\"id\":\"pv8mhMBtRcFZxYS\",\"url\":\"https://www.nysenate.gov/calendar/events/consumer-protection/kevin-thomas/november-19-2019/know-your-rights-student-loans\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/consumer-protection/kevin-thomas/november-19-2019/know-your-rights-student-loans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740913,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/consumer-protection/kevin-thomas/november-19-2019/know-your-rights-student-loans",
+	"url": "https://www.nysenate.gov/calendar/events/consumer-protection/kevin-thomas/november-19-2019/know-your-rights-student-loans"
+}

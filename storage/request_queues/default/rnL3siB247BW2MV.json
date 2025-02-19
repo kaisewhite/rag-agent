@@ -1,0 +1,9 @@
+{
+	"id": "rnL3siB247BW2MV",
+	"json": "{\"id\":\"rnL3siB247BW2MV\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/montgomery-myrie-walker-call-more-affordable-home\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/montgomery-myrie-walker-call-more-affordable-home\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571111778,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/montgomery-myrie-walker-call-more-affordable-home",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/montgomery-myrie-walker-call-more-affordable-home"
+}

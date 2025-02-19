@@ -1,0 +1,9 @@
+{
+	"id": "FkbHT9cVwr4bGNF",
+	"json": "{\"id\":\"FkbHT9cVwr4bGNF\",\"url\":\"https://www.nysenate.gov/student-programs/news-student-programs-announces-2016-margaret-j-hughes-scholarship-award-winner\",\"uniqueKey\":\"GET():https://www.nysenate.gov/student-programs/news-student-programs-announces-2016-margaret-j-hughes-scholarship-award-winner\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569869717,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/student-programs/news-student-programs-announces-2016-margaret-j-hughes-scholarship-award-winner",
+	"url": "https://www.nysenate.gov/student-programs/news-student-programs-announces-2016-margaret-j-hughes-scholarship-award-winner"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "zD51tJxutrmwXiH",
+	"json": "{\"id\":\"zD51tJxutrmwXiH\",\"url\":\"https://www.nysenate.gov/newsroom/video/roxanne-j-persaud/senator-roxanne-j-persaud-sounds-alarm-home-fires-american-red\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/video/roxanne-j-persaud/senator-roxanne-j-persaud-sounds-alarm-home-fires-american-red\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/roxanne-j-persaud/senator-roxanne-j-persaud-sounds-alarm-home-fires-american-red\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:57:44.639Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/roxanne-j-persaud/senator-roxanne-j-persaud-sounds-alarm-home-fires-american-red",
+	"url": "https://www.nysenate.gov/newsroom/video/roxanne-j-persaud/senator-roxanne-j-persaud-sounds-alarm-home-fires-american-red"
+}

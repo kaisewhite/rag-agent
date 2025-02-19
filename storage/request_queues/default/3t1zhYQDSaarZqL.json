@@ -1,0 +1,9 @@
+{
+	"id": "3t1zhYQDSaarZqL",
+	"json": "{\"id\":\"3t1zhYQDSaarZqL\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-09-2019/home-owners-association-presents-east-new-york\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-09-2019/home-owners-association-presents-east-new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246784,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-09-2019/home-owners-association-presents-east-new-york",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-09-2019/home-owners-association-presents-east-new-york"
+}

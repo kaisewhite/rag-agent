@@ -1,0 +1,9 @@
+{
+	"id": "aCQQ7Ore9ePZUU1",
+	"json": "{\"id\":\"aCQQ7Ore9ePZUU1\",\"url\":\"https://www.nysenate.gov/calendar/events/consumer-protection/kevin-thomas/april-07-2022/smart-seniors-presentation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/consumer-protection/kevin-thomas/april-07-2022/smart-seniors-presentation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740898,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/consumer-protection/kevin-thomas/april-07-2022/smart-seniors-presentation",
+	"url": "https://www.nysenate.gov/calendar/events/consumer-protection/kevin-thomas/april-07-2022/smart-seniors-presentation"
+}

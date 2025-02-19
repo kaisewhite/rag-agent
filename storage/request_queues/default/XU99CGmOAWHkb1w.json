@@ -1,0 +1,9 @@
+{
+	"id": "XU99CGmOAWHkb1w",
+	"json": "{\"id\":\"XU99CGmOAWHkb1w\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/patty-ritchie/state-ag-ritchie-releases-annual-agriculture-report\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/patty-ritchie/state-ag-ritchie-releases-annual-agriculture-report\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707178,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/patty-ritchie/state-ag-ritchie-releases-annual-agriculture-report",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/patty-ritchie/state-ag-ritchie-releases-annual-agriculture-report"
+}

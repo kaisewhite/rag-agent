@@ -1,0 +1,9 @@
+{
+	"id": "QuVS0R2maS6zM1W",
+	"json": "{\"id\":\"QuVS0R2maS6zM1W\",\"url\":\"https://www.nysenate.gov/issues/good-cause\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/good-cause\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571305831,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/good-cause",
+	"url": "https://www.nysenate.gov/issues/good-cause"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Yym54eKWDpYHynw",
+	"json": "{\"id\":\"Yym54eKWDpYHynw\",\"url\":\"https://www.nysenate.gov/dashboard/senators/patricia-canzoneri-fitzpatrick\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/patricia-canzoneri-fitzpatrick\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569582573,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/patricia-canzoneri-fitzpatrick",
+	"url": "https://www.nysenate.gov/dashboard/senators/patricia-canzoneri-fitzpatrick"
+}

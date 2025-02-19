@@ -1,0 +1,9 @@
+{
+	"id": "EB7XkY41YTJKza3",
+	"json": "{\"id\":\"EB7XkY41YTJKza3\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/majority-mandates-life-without-parole-child\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/majority-mandates-life-without-parole-child\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569748006,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/majority-mandates-life-without-parole-child",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/majority-mandates-life-without-parole-child"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "9VpxOZrVPfU7MvE",
+	"json": "{\"id\":\"9VpxOZrVPfU7MvE\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/monica-r-martinez/american-red-cross-new-york-state-recognizes\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2025/monica-r-martinez/american-red-cross-new-york-state-recognizes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/monica-r-martinez/american-red-cross-new-york-state-recognizes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:58:19.005Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/monica-r-martinez/american-red-cross-new-york-state-recognizes",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/monica-r-martinez/american-red-cross-new-york-state-recognizes"
+}

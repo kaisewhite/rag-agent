@@ -1,0 +1,9 @@
+{
+	"id": "KgeiwB2EteCmB8g",
+	"json": "{\"id\":\"KgeiwB2EteCmB8g\",\"url\":\"https://www.nysenate.gov/senators/stephen-t-chan/contact\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/stephen-t-chan/contact\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569622761,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/stephen-t-chan/contact",
+	"url": "https://www.nysenate.gov/senators/stephen-t-chan/contact"
+}

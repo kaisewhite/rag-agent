@@ -1,0 +1,9 @@
+{
+	"id": "iJG2lWMh77PnCN0",
+	"json": "{\"id\":\"iJG2lWMh77PnCN0\",\"url\":\"https://www.nysenate.gov/issues/co-ops\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/co-ops\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798872,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/co-ops",
+	"url": "https://www.nysenate.gov/issues/co-ops"
+}

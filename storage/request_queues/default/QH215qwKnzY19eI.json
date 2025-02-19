@@ -1,0 +1,9 @@
+{
+	"id": "QH215qwKnzY19eI",
+	"json": "{\"id\":\"QH215qwKnzY19eI\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/brian-foley/senate-majority-leader-malcolm-smith-and-senator-brian-x\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/brian-foley/senate-majority-leader-malcolm-smith-and-senator-brian-x\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707005,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/brian-foley/senate-majority-leader-malcolm-smith-and-senator-brian-x",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/brian-foley/senate-majority-leader-malcolm-smith-and-senator-brian-x"
+}

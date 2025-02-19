@@ -1,0 +1,9 @@
+{
+	"id": "BWef8W6LPmHjc1X",
+	"json": "{\"id\":\"BWef8W6LPmHjc1X\",\"url\":\"https://www.nysenate.gov/issues/police-police-safety-community-engagement-civic-engagement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/police-police-safety-community-engagement-civic-engagement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855406,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/police-police-safety-community-engagement-civic-engagement",
+	"url": "https://www.nysenate.gov/issues/police-police-safety-community-engagement-civic-engagement"
+}

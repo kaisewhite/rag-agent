@@ -1,0 +1,9 @@
+{
+	"id": "LSdpsYoc3nODm0L",
+	"json": "{\"id\":\"LSdpsYoc3nODm0L\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBB/A4-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBB/A4-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569950167,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBB/A4-A",
+	"url": "https://www.nysenate.gov/legislation/laws/PBB/A4-A"
+}

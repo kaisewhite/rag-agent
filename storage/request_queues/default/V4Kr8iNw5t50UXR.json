@@ -1,0 +1,9 @@
+{
+	"id": "V4Kr8iNw5t50UXR",
+	"json": "{\"id\":\"V4Kr8iNw5t50UXR\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/october-11-2018/college-affordability-forum\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/october-11-2018/college-affordability-forum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752664,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/october-11-2018/college-affordability-forum",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/october-11-2018/college-affordability-forum"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "sZkdYzFVu7zeEUD",
+	"json": "{\"id\":\"sZkdYzFVu7zeEUD\",\"url\":\"https://www.nysenate.gov/issues/new-health-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-health-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780977,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-health-act",
+	"url": "https://www.nysenate.gov/issues/new-health-act"
+}

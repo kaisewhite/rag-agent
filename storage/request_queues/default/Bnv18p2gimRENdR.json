@@ -1,0 +1,9 @@
+{
+	"id": "Bnv18p2gimRENdR",
+	"json": "{\"id\":\"Bnv18p2gimRENdR\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/state-sheds-57-anti-business-fees-heeding-murphys\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/state-sheds-57-anti-business-fees-heeding-murphys\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686726,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/state-sheds-57-anti-business-fees-heeding-murphys",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/state-sheds-57-anti-business-fees-heeding-murphys"
+}

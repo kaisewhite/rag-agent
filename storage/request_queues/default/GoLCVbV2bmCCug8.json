@@ -1,0 +1,9 @@
+{
+	"id": "GoLCVbV2bmCCug8",
+	"json": "{\"id\":\"GoLCVbV2bmCCug8\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/lavalle-named-chair-senate-higher-education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/lavalle-named-chair-senate-higher-education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788188,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/lavalle-named-chair-senate-higher-education",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/lavalle-named-chair-senate-higher-education"
+}

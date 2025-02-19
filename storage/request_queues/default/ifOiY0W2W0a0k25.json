@@ -1,0 +1,9 @@
+{
+	"id": "ifOiY0W2W0a0k25",
+	"json": "{\"id\":\"ifOiY0W2W0a0k25\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-23-2018/community-board-16-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-23-2018/community-board-16-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246596,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-23-2018/community-board-16-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-23-2018/community-board-16-monthly-meeting"
+}

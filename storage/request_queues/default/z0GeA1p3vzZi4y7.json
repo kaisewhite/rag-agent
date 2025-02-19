@@ -1,0 +1,9 @@
+{
+	"id": "z0GeA1p3vzZi4y7",
+	"json": "{\"id\":\"z0GeA1p3vzZi4y7\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-22-2020/cardiovascular-testing-covid-19-antibody-testing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-22-2020/cardiovascular-testing-covid-19-antibody-testing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247111,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-22-2020/cardiovascular-testing-covid-19-antibody-testing",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-22-2020/cardiovascular-testing-covid-19-antibody-testing"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "DctVOUkv8cXTQ3E",
+	"json": "{\"id\":\"DctVOUkv8cXTQ3E\",\"url\":\"https://www.nysenate.gov/senators/pamela-helming/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/pamela-helming/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569643815,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/pamela-helming/district",
+	"url": "https://www.nysenate.gov/senators/pamela-helming/district"
+}

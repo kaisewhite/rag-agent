@@ -1,0 +1,9 @@
+{
+	"id": "KmJ1QRXoRsC1MVu",
+	"json": "{\"id\":\"KmJ1QRXoRsC1MVu\",\"url\":\"https://www.nysenate.gov/calendar/events/codes/jamaal-bailey/november-13-2019/joint-public-meeting-examine-prevalence-youth\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/codes/jamaal-bailey/november-13-2019/joint-public-meeting-examine-prevalence-youth\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725857,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/codes/jamaal-bailey/november-13-2019/joint-public-meeting-examine-prevalence-youth",
+	"url": "https://www.nysenate.gov/calendar/events/codes/jamaal-bailey/november-13-2019/joint-public-meeting-examine-prevalence-youth"
+}

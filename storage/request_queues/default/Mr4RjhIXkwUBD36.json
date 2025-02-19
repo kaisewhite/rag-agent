@@ -1,0 +1,9 @@
+{
+	"id": "Mr4RjhIXkwUBD36",
+	"json": "{\"id\":\"Mr4RjhIXkwUBD36\",\"url\":\"https://www.nysenate.gov/legislation/laws/VAT/T1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/VAT/T1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569992633,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/VAT/T1",
+	"url": "https://www.nysenate.gov/legislation/laws/VAT/T1"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "gZ8LiFMKmGek555",
+	"json": "{\"id\":\"gZ8LiFMKmGek555\",\"url\":\"https://www.nysenate.gov/issues/oceans\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/oceans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770715,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/oceans",
+	"url": "https://www.nysenate.gov/issues/oceans"
+}

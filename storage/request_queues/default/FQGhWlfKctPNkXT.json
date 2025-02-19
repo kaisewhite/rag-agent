@@ -1,0 +1,9 @@
+{
+	"id": "FQGhWlfKctPNkXT",
+	"json": "{\"id\":\"FQGhWlfKctPNkXT\",\"url\":\"https://www.nysenate.gov/sites/default/files/rochester-monroe_anti-poverty_initiative_rmapi.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/rochester-monroe_anti-poverty_initiative_rmapi.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571237412,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/rochester-monroe_anti-poverty_initiative_rmapi.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/rochester-monroe_anti-poverty_initiative_rmapi.pdf"
+}

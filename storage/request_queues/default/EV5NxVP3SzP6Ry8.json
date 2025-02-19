@@ -1,0 +1,9 @@
+{
+	"id": "EV5NxVP3SzP6Ry8",
+	"json": "{\"id\":\"EV5NxVP3SzP6Ry8\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/community-board-passes-reso-backing-kavanaghs-commercial\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/community-board-passes-reso-backing-kavanaghs-commercial\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798910,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/community-board-passes-reso-backing-kavanaghs-commercial",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/community-board-passes-reso-backing-kavanaghs-commercial"
+}

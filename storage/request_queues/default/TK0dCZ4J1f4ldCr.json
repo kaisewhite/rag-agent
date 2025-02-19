@@ -1,0 +1,9 @@
+{
+	"id": "TK0dCZ4J1f4ldCr",
+	"json": "{\"id\":\"TK0dCZ4J1f4ldCr\",\"url\":\"https://www.nysenate.gov/sites/default/files/articles/attachments/3949_persaud_610_2015_teen_bully_suicide.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/articles/attachments/3949_persaud_610_2015_teen_bully_suicide.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570279045,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/articles/attachments/3949_persaud_610_2015_teen_bully_suicide.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/articles/attachments/3949_persaud_610_2015_teen_bully_suicide.pdf"
+}

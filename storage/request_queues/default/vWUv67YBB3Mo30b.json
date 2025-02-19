@@ -1,0 +1,9 @@
+{
+	"id": "vWUv67YBB3Mo30b",
+	"json": "{\"id\":\"vWUv67YBB3Mo30b\",\"url\":\"https://www.nysenate.gov/legislation/laws/EPT\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/EPT\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EPT\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:55.185Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EPT",
+	"url": "https://www.nysenate.gov/legislation/laws/EPT"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4Zmv0eeZiz8GQrm",
+	"json": "{\"id\":\"4Zmv0eeZiz8GQrm\",\"url\":\"https://www.nysenate.gov/issues/financial-aid\",\"loadedUrl\":\"https://www.nysenate.gov/issues/financial-aid\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/financial-aid\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:10:54.406Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/financial-aid",
+	"url": "https://www.nysenate.gov/issues/financial-aid"
+}

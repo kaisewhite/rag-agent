@@ -1,0 +1,9 @@
+{
+	"id": "a39E2X90e9J0vDb",
+	"json": "{\"id\":\"a39E2X90e9J0vDb\",\"url\":\"https://www.nysenate.gov/newsroom/video/alexis-weik/keep-education-priority-all-new-yorkers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/alexis-weik/keep-education-priority-all-new-yorkers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569682555,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/alexis-weik/keep-education-priority-all-new-yorkers",
+	"url": "https://www.nysenate.gov/newsroom/video/alexis-weik/keep-education-priority-all-new-yorkers"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "nSHnujbTXCmixYy",
+	"json": "{\"id\":\"nSHnujbTXCmixYy\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/january-21-2025/rules-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/january-21-2025/rules-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839826,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/january-21-2025/rules-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/january-21-2025/rules-meeting"
+}

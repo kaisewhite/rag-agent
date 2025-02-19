@@ -1,0 +1,9 @@
+{
+	"id": "3AKjHxGWs3US5Bf",
+	"json": "{\"id\":\"3AKjHxGWs3US5Bf\",\"url\":\"https://www.nysenate.gov/legislation/laws/ABP/A5-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ABP/A5-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569878566,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ABP/A5-A",
+	"url": "https://www.nysenate.gov/legislation/laws/ABP/A5-A"
+}

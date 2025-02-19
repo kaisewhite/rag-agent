@@ -1,0 +1,9 @@
+{
+	"id": "oCcimKQs6qQZkZD",
+	"json": "{\"id\":\"oCcimKQs6qQZkZD\",\"url\":\"https://www.nysenate.gov/issues/frontier\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/frontier\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695497,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/frontier",
+	"url": "https://www.nysenate.gov/issues/frontier"
+}

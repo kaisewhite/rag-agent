@@ -1,0 +1,9 @@
+{
+	"id": "AJt5wAGCUrcFBc7",
+	"json": "{\"id\":\"AJt5wAGCUrcFBc7\",\"url\":\"https://www.nysenate.gov/issues/mass-transit\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/mass-transit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571644991,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/mass-transit",
+	"url": "https://www.nysenate.gov/issues/mass-transit"
+}

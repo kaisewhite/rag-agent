@@ -1,0 +1,9 @@
+{
+	"id": "vp8XDDwbEnF6Zkb",
+	"json": "{\"id\":\"vp8XDDwbEnF6Zkb\",\"url\":\"https://www.nysenate.gov/issues/revenue\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/revenue\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781084,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/revenue",
+	"url": "https://www.nysenate.gov/issues/revenue"
+}

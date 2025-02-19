@@ -1,0 +1,9 @@
+{
+	"id": "lDtuDKNC2OrNBPu",
+	"json": "{\"id\":\"lDtuDKNC2OrNBPu\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/legislation-sponsored-senator-dilan-prohibits\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/legislation-sponsored-senator-dilan-prohibits\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855301,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/legislation-sponsored-senator-dilan-prohibits",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/legislation-sponsored-senator-dilan-prohibits"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "gBxz2hC3MnOI8AM",
+	"json": "{\"id\":\"gBxz2hC3MnOI8AM\",\"url\":\"https://www.nysenate.gov/issues/renters\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/renters\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570902497,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/renters",
+	"url": "https://www.nysenate.gov/issues/renters"
+}

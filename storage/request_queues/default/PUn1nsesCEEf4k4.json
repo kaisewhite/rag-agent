@@ -1,0 +1,9 @@
+{
+	"id": "PUn1nsesCEEf4k4",
+	"json": "{\"id\":\"PUn1nsesCEEf4k4\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/george-maziarz/senator-george-maziarz-met-nathalie-normandeau\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/george-maziarz/senator-george-maziarz-met-nathalie-normandeau\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765732,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/george-maziarz/senator-george-maziarz-met-nathalie-normandeau",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/george-maziarz/senator-george-maziarz-met-nathalie-normandeau"
+}

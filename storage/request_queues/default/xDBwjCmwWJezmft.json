@@ -1,0 +1,9 @@
+{
+	"id": "xDBwjCmwWJezmft",
+	"json": "{\"id\":\"xDBwjCmwWJezmft\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-13-2017/come-join-senator-roxanne-j-persaud-discussion\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-13-2017/come-join-senator-roxanne-j-persaud-discussion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246346,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-13-2017/come-join-senator-roxanne-j-persaud-discussion",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-13-2017/come-join-senator-roxanne-j-persaud-discussion"
+}

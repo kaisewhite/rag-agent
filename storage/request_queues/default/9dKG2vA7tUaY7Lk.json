@@ -1,0 +1,9 @@
+{
+	"id": "9dKG2vA7tUaY7Lk",
+	"json": "{\"id\":\"9dKG2vA7tUaY7Lk\",\"url\":\"https://www.nysenate.gov/issues/child-sexual-abuse\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/child-sexual-abuse\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571686309,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/child-sexual-abuse",
+	"url": "https://www.nysenate.gov/issues/child-sexual-abuse"
+}

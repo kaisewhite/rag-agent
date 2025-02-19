@@ -1,0 +1,9 @@
+{
+	"id": "Bz0VLZp6tlY1QkS",
+	"json": "{\"id\":\"Bz0VLZp6tlY1QkS\",\"url\":\"https://www.nysenate.gov/issues/gaza\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/gaza\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570906083,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/gaza",
+	"url": "https://www.nysenate.gov/issues/gaza"
+}

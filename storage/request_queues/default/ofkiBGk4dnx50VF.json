@@ -1,0 +1,9 @@
+{
+	"id": "ofkiBGk4dnx50VF",
+	"json": "{\"id\":\"ofkiBGk4dnx50VF\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2017/thomas-f-omara/water-quality-report\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2017/thomas-f-omara/water-quality-report\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770730,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2017/thomas-f-omara/water-quality-report",
+	"url": "https://www.nysenate.gov/newsroom/articles/2017/thomas-f-omara/water-quality-report"
+}

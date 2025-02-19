@@ -1,0 +1,9 @@
+{
+	"id": "oE53dMGFYNVEKKt",
+	"json": "{\"id\":\"oE53dMGFYNVEKKt\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/october-23-2012/determine-and-analyze-champlain-hudson-power-express-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/october-23-2012/determine-and-analyze-champlain-hudson-power-express-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765700,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/october-23-2012/determine-and-analyze-champlain-hudson-power-express-and",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/october-23-2012/determine-and-analyze-champlain-hudson-power-express-and"
+}

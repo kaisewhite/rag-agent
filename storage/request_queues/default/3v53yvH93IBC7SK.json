@@ -1,0 +1,9 @@
+{
+	"id": "3v53yvH93IBC7SK",
+	"json": "{\"id\":\"3v53yvH93IBC7SK\",\"url\":\"https://www.nysenate.gov/legislation/laws/SWC/A2\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/SWC/A2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569983412,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/SWC/A2",
+	"url": "https://www.nysenate.gov/legislation/laws/SWC/A2"
+}

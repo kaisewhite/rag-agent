@@ -1,0 +1,9 @@
+{
+	"id": "q9O0cGy8DskoLJE",
+	"json": "{\"id\":\"q9O0cGy8DskoLJE\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2014/patrick-m-gallivan/bill-allows-jails-host-out-state-inmates\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2014/patrick-m-gallivan/bill-allows-jails-host-out-state-inmates\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569748004,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2014/patrick-m-gallivan/bill-allows-jails-host-out-state-inmates",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2014/patrick-m-gallivan/bill-allows-jails-host-out-state-inmates"
+}

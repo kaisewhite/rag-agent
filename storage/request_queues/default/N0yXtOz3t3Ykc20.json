@@ -1,0 +1,9 @@
+{
+	"id": "N0yXtOz3t3Ykc20",
+	"json": "{\"id\":\"N0yXtOz3t3Ykc20\",\"url\":\"https://www.nysenate.gov/issues/nys-ombudsman\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nys-ombudsman\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698346,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nys-ombudsman",
+	"url": "https://www.nysenate.gov/issues/nys-ombudsman"
+}

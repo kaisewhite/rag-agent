@@ -1,0 +1,9 @@
+{
+	"id": "tO4qGcW1BfJBAZ7",
+	"json": "{\"id\":\"tO4qGcW1BfJBAZ7\",\"url\":\"https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-23-2024/energy-and-telecommunications\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-23-2024/energy-and-telecommunications\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765681,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-23-2024/energy-and-telecommunications",
+	"url": "https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-23-2024/energy-and-telecommunications"
+}

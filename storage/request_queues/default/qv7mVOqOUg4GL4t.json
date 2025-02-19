@@ -1,0 +1,9 @@
+{
+	"id": "qv7mVOqOUg4GL4t",
+	"json": "{\"id\":\"qv7mVOqOUg4GL4t\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/senator-mannion-honors-blind-karate-competitor-epilepsy-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/senator-mannion-honors-blind-karate-competitor-epilepsy-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751254,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/senator-mannion-honors-blind-karate-competitor-epilepsy-and",
+	"url": "https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/senator-mannion-honors-blind-karate-competitor-epilepsy-and"
+}

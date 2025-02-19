@@ -1,0 +1,9 @@
+{
+	"id": "cDXMq7DeYADZxeD",
+	"json": "{\"id\":\"cDXMq7DeYADZxeD\",\"url\":\"https://www.nysenate.gov/issues/taxes\",\"loadedUrl\":\"https://www.nysenate.gov/issues/taxes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/taxes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:45:21.520Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/taxes",
+	"url": "https://www.nysenate.gov/issues/taxes"
+}

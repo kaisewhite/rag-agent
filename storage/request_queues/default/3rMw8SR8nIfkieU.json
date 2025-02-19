@@ -1,0 +1,9 @@
+{
+	"id": "3rMw8SR8nIfkieU",
+	"json": "{\"id\":\"3rMw8SR8nIfkieU\",\"url\":\"https://www.nysenate.gov/issues/workforce-and-development\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/workforce-and-development\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570987158,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/workforce-and-development",
+	"url": "https://www.nysenate.gov/issues/workforce-and-development"
+}

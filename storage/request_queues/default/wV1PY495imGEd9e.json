@@ -1,0 +1,9 @@
+{
+	"id": "wV1PY495imGEd9e",
+	"json": "{\"id\":\"wV1PY495imGEd9e\",\"url\":\"https://www.nysenate.gov/issues/and-homecare\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/and-homecare\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698319,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/and-homecare",
+	"url": "https://www.nysenate.gov/issues/and-homecare"
+}

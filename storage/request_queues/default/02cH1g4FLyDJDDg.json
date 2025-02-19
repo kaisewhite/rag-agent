@@ -1,0 +1,9 @@
+{
+	"id": "02cH1g4FLyDJDDg",
+	"json": "{\"id\":\"02cH1g4FLyDJDDg\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/chief-judge-lippman-testifies-joint-public\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/chief-judge-lippman-testifies-joint-public\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569748011,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/chief-judge-lippman-testifies-joint-public",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/chief-judge-lippman-testifies-joint-public"
+}

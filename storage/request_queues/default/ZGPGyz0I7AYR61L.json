@@ -1,0 +1,9 @@
+{
+	"id": "ZGPGyz0I7AYR61L",
+	"json": "{\"id\":\"ZGPGyz0I7AYR61L\",\"url\":\"https://www.nysenate.gov/issues/farm-safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/farm-safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569551661,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/farm-safety",
+	"url": "https://www.nysenate.gov/issues/farm-safety"
+}

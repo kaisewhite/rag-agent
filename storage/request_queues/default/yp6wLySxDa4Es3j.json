@@ -1,0 +1,9 @@
+{
+	"id": "yp6wLySxDa4Es3j",
+	"json": "{\"id\":\"yp6wLySxDa4Es3j\",\"url\":\"https://www.nysenate.gov/legislation/laws/STT\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/STT\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/STT\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:53:01.592Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/STT",
+	"url": "https://www.nysenate.gov/legislation/laws/STT"
+}

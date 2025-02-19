@@ -1,0 +1,9 @@
+{
+	"id": "hmre0gvybgWY6WL",
+	"json": "{\"id\":\"hmre0gvybgWY6WL\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/peter-oberacker/senator-peter-oberacker-assemblyman-joe-angelino\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/peter-oberacker/senator-peter-oberacker-assemblyman-joe-angelino\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569660069,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/peter-oberacker/senator-peter-oberacker-assemblyman-joe-angelino",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/peter-oberacker/senator-peter-oberacker-assemblyman-joe-angelino"
+}

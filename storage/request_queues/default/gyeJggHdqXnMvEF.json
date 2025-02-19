@@ -1,0 +1,9 @@
+{
+	"id": "gyeJggHdqXnMvEF",
+	"json": "{\"id\":\"gyeJggHdqXnMvEF\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/robert-g-ortt/new-hope-empire-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/robert-g-ortt/new-hope-empire-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569662174,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/robert-g-ortt/new-hope-empire-state",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/robert-g-ortt/new-hope-empire-state"
+}

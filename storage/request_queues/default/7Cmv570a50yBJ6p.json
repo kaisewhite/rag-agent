@@ -1,0 +1,9 @@
+{
+	"id": "7Cmv570a50yBJ6p",
+	"json": "{\"id\":\"7Cmv570a50yBJ6p\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/montgomery-brings-future-farmers-america-red-hook\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/montgomery-brings-future-farmers-america-red-hook\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717622,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/montgomery-brings-future-farmers-america-red-hook",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/montgomery-brings-future-farmers-america-red-hook"
+}

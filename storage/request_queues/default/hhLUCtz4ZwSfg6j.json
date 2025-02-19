@@ -1,0 +1,9 @@
+{
+	"id": "hhLUCtz4ZwSfg6j",
+	"json": "{\"id\":\"hhLUCtz4ZwSfg6j\",\"url\":\"https://www.nysenate.gov/issues/bottle-bill\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/bottle-bill\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569555033,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/bottle-bill",
+	"url": "https://www.nysenate.gov/issues/bottle-bill"
+}

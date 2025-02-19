@@ -1,0 +1,9 @@
+{
+	"id": "zu42dVb8diRuQ5V",
+	"json": "{\"id\":\"zu42dVb8diRuQ5V\",\"url\":\"https://www.nysenate.gov/issues/machete\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/machete\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569597421,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/machete",
+	"url": "https://www.nysenate.gov/issues/machete"
+}

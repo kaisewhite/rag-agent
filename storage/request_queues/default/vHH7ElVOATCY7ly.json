@@ -1,0 +1,9 @@
+{
+	"id": "vHH7ElVOATCY7ly",
+	"json": "{\"id\":\"vHH7ElVOATCY7ly\",\"url\":\"https://www.nysenate.gov/issues/water\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/water\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808630,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/water",
+	"url": "https://www.nysenate.gov/issues/water"
+}

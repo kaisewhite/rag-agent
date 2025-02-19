@@ -1,0 +1,9 @@
+{
+	"id": "J2OaYa3GmPM1HeL",
+	"json": "{\"id\":\"J2OaYa3GmPM1HeL\",\"url\":\"https://www.nysenate.gov/issues/firearms\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/firearms\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571666410,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/firearms",
+	"url": "https://www.nysenate.gov/issues/firearms"
+}

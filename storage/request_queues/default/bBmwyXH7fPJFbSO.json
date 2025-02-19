@@ -1,0 +1,9 @@
+{
+	"id": "bBmwyXH7fPJFbSO",
+	"json": "{\"id\":\"bBmwyXH7fPJFbSO\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S8300/amendment/B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S8300/amendment/B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247468,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S8300/amendment/B",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S8300/amendment/B"
+}

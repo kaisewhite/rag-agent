@@ -1,0 +1,9 @@
+{
+	"id": "TICue22zXQUHSqX",
+	"json": "{\"id\":\"TICue22zXQUHSqX\",\"url\":\"https://www.nysenate.gov/issues/election-interference\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/election-interference\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570939512,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/election-interference",
+	"url": "https://www.nysenate.gov/issues/election-interference"
+}

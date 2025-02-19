@@ -1,0 +1,9 @@
+{
+	"id": "yOMzn23pMn9dNfO",
+	"json": "{\"id\":\"yOMzn23pMn9dNfO\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2017/betty-little/standing-committee-housing-construction-and-community\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2017/betty-little/standing-committee-housing-construction-and-community\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798927,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2017/betty-little/standing-committee-housing-construction-and-community",
+	"url": "https://www.nysenate.gov/newsroom/articles/2017/betty-little/standing-committee-housing-construction-and-community"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "adzR5R7QIkQ61SZ",
+	"json": "{\"id\":\"adzR5R7QIkQ61SZ\",\"url\":\"https://www.nysenate.gov/legislation/laws/EML/A2\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EML/A2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569907469,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EML/A2",
+	"url": "https://www.nysenate.gov/legislation/laws/EML/A2"
+}

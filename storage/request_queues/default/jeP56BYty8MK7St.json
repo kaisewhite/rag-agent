@@ -1,0 +1,9 @@
+{
+	"id": "jeP56BYty8MK7St",
+	"json": "{\"id\":\"jeP56BYty8MK7St\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2014/patrick-m-gallivan/senator-gallivan-honor-ny-correctional-officers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2014/patrick-m-gallivan/senator-gallivan-honor-ny-correctional-officers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569748004,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2014/patrick-m-gallivan/senator-gallivan-honor-ny-correctional-officers",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2014/patrick-m-gallivan/senator-gallivan-honor-ny-correctional-officers"
+}

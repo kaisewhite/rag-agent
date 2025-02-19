@@ -1,0 +1,9 @@
+{
+	"id": "MnLup1xwR1WmqvP",
+	"json": "{\"id\":\"MnLup1xwR1WmqvP\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/lawmakers-call-reform-new-york-real-estate-industry\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/lawmakers-call-reform-new-york-real-estate-industry\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740959,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/lawmakers-call-reform-new-york-real-estate-industry",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/lawmakers-call-reform-new-york-real-estate-industry"
+}

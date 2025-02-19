@@ -1,0 +1,9 @@
+{
+	"id": "UQCGG2BXW5v6h5I",
+	"json": "{\"id\":\"UQCGG2BXW5v6h5I\",\"url\":\"https://www.nysenate.gov/committees/crime-victims-crime-and-correction\",\"loadedUrl\":\"https://www.nysenate.gov/committees/crime-victims-crime-and-correction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/committees/crime-victims-crime-and-correction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:49:08.013Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/committees/crime-victims-crime-and-correction",
+	"url": "https://www.nysenate.gov/committees/crime-victims-crime-and-correction"
+}

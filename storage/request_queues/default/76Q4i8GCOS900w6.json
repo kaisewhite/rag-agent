@@ -1,0 +1,9 @@
+{
+	"id": "76Q4i8GCOS900w6",
+	"json": "{\"id\":\"76Q4i8GCOS900w6\",\"url\":\"https://www.nysenate.gov/legislation/laws/BNK/A12-E\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/BNK/A12-E\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569886240,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/BNK/A12-E",
+	"url": "https://www.nysenate.gov/legislation/laws/BNK/A12-E"
+}

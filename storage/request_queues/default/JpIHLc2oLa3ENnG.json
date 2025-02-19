@@ -1,0 +1,9 @@
+{
+	"id": "JpIHLc2oLa3ENnG",
+	"json": "{\"id\":\"JpIHLc2oLa3ENnG\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/august-29-2017/senior-citizens-job-resource-fair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/august-29-2017/senior-citizens-job-resource-fair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019347,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/august-29-2017/senior-citizens-job-resource-fair",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/august-29-2017/senior-citizens-job-resource-fair"
+}

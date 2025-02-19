@@ -1,0 +1,9 @@
+{
+	"id": "XSTgUh3tf0rDYVU",
+	"json": "{\"id\":\"XSTgUh3tf0rDYVU\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/governor-hochul-signs-consumer-credit-fairness-act-law\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/governor-hochul-signs-consumer-credit-fairness-act-law\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740947,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/governor-hochul-signs-consumer-credit-fairness-act-law",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/governor-hochul-signs-consumer-credit-fairness-act-law"
+}

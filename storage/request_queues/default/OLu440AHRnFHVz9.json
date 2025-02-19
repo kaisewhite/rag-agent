@@ -1,0 +1,9 @@
+{
+	"id": "OLu440AHRnFHVz9",
+	"json": "{\"id\":\"OLu440AHRnFHVz9\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/luis-r-sepulveda/senator-sepulveda-stands-puerto-rico\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/luis-r-sepulveda/senator-sepulveda-stands-puerto-rico\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571134573,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/luis-r-sepulveda/senator-sepulveda-stands-puerto-rico",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/luis-r-sepulveda/senator-sepulveda-stands-puerto-rico"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ASB1aoAvWbCcSCS",
+	"json": "{\"id\":\"ASB1aoAvWbCcSCS\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S8596/amendment/A#:~:text=2023%2DS8596A%20(ACTIVE)%20%2D%20Summary,veterans%2C%20regardless%20of%20combat%20service.\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S8596/amendment/A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570939505,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S8596/amendment/A",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S8596/amendment/A#:~:text=2023%2DS8596A%20(ACTIVE)%20%2D%20Summary,veterans%2C%20regardless%20of%20combat%20service."
+}

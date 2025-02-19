@@ -1,0 +1,9 @@
+{
+	"id": "n7BIKwa4VQWHNWq",
+	"json": "{\"id\":\"n7BIKwa4VQWHNWq\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Ethics\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Ethics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571040487,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Ethics",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Ethics"
+}

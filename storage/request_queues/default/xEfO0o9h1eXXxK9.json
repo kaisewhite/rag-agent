@@ -1,0 +1,9 @@
+{
+	"id": "xEfO0o9h1eXXxK9",
+	"json": "{\"id\":\"xEfO0o9h1eXXxK9\",\"url\":\"https://www.nysenate.gov/sites/default/files/jennifer_harrison.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/jennifer_harrison.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716525,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/jennifer_harrison.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/jennifer_harrison.pdf"
+}

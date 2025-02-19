@@ -1,0 +1,9 @@
+{
+	"id": "RCXZA118wmH2WZD",
+	"json": "{\"id\":\"RCXZA118wmH2WZD\",\"url\":\"https://www.nysenate.gov/dashboard/senators/james-skoufis\",\"loadedUrl\":\"https://www.nysenate.gov/\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/james-skoufis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:16:09.125Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/james-skoufis",
+	"url": "https://www.nysenate.gov/dashboard/senators/james-skoufis"
+}

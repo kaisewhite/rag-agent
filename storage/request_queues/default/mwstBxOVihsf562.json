@@ -1,0 +1,9 @@
+{
+	"id": "mwstBxOVihsf562",
+	"json": "{\"id\":\"mwstBxOVihsf562\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVP/A6\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVP/A6\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569898459,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVP/A6",
+	"url": "https://www.nysenate.gov/legislation/laws/CVP/A6"
+}

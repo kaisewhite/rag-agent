@@ -1,0 +1,9 @@
+{
+	"id": "HBq6vp4atRG4pJg",
+	"json": "{\"id\":\"HBq6vp4atRG4pJg\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/A10090\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/A10090\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571580647,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/A10090",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/A10090"
+}

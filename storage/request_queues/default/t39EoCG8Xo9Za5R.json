@@ -1,0 +1,9 @@
+{
+	"id": "t39EoCG8Xo9Za5R",
+	"json": "{\"id\":\"t39EoCG8Xo9Za5R\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-rockefeller-drug-law-reform-bill-signing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-rockefeller-drug-law-reform-bill-signing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725905,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-rockefeller-drug-law-reform-bill-signing",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-rockefeller-drug-law-reform-bill-signing"
+}

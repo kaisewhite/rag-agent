@@ -1,0 +1,9 @@
+{
+	"id": "FkIDgmzaD4wyZBm",
+	"json": "{\"id\":\"FkIDgmzaD4wyZBm\",\"url\":\"https://www.nysenate.gov/issues/equitable-school-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/equitable-school-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569823663,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/equitable-school-funding",
+	"url": "https://www.nysenate.gov/issues/equitable-school-funding"
+}

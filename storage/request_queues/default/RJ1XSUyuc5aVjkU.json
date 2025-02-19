@@ -1,0 +1,9 @@
+{
+	"id": "RJ1XSUyuc5aVjkU",
+	"json": "{\"id\":\"RJ1XSUyuc5aVjkU\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/senator-brooks-and-long-island-senate-majority-members\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/senator-brooks-and-long-island-senate-majority-members\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855408,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/senator-brooks-and-long-island-senate-majority-members",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/senator-brooks-and-long-island-senate-majority-members"
+}

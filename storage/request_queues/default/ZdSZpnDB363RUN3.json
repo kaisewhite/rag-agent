@@ -1,0 +1,9 @@
+{
+	"id": "ZdSZpnDB363RUN3",
+	"json": "{\"id\":\"ZdSZpnDB363RUN3\",\"url\":\"https://www.nysenate.gov/issues/family-reunification\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/family-reunification\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717580,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/family-reunification",
+	"url": "https://www.nysenate.gov/issues/family-reunification"
+}

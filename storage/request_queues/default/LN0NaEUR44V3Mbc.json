@@ -1,0 +1,9 @@
+{
+	"id": "LN0NaEUR44V3Mbc",
+	"json": "{\"id\":\"LN0NaEUR44V3Mbc\",\"url\":\"https://www.nysenate.gov/legislation/laws/ENV/A21\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ENV/A21\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569912866,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ENV/A21",
+	"url": "https://www.nysenate.gov/legislation/laws/ENV/A21"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "cFvCnUtfqm0mgGP",
+	"json": "{\"id\":\"cFvCnUtfqm0mgGP\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2025/liz-krueger/senator-kruegers-january-2025-update?page=8\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2025/liz-krueger/senator-kruegers-january-2025-update?page=8\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570888492,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2025/liz-krueger/senator-kruegers-january-2025-update?page=8",
+	"url": "https://www.nysenate.gov/newsroom/articles/2025/liz-krueger/senator-kruegers-january-2025-update?page=8"
+}

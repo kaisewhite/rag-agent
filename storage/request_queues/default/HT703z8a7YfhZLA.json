@@ -1,0 +1,9 @@
+{
+	"id": "HT703z8a7YfhZLA",
+	"json": "{\"id\":\"HT703z8a7YfhZLA\",\"url\":\"https://www.nysenate.gov/profiles/2024/pete-harckham/barbara-wilkens\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/pete-harckham/barbara-wilkens\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/pete-harckham/barbara-wilkens\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:58:28.513Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/pete-harckham/barbara-wilkens",
+	"url": "https://www.nysenate.gov/profiles/2024/pete-harckham/barbara-wilkens"
+}

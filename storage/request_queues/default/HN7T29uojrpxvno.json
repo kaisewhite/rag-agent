@@ -1,0 +1,9 @@
+{
+	"id": "HN7T29uojrpxvno",
+	"json": "{\"id\":\"HN7T29uojrpxvno\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/december-12-2017/elicit-comments-what-measures-state-can-implement-will\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/december-12-2017/elicit-comments-what-measures-state-can-implement-will\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707126,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/december-12-2017/elicit-comments-what-measures-state-can-implement-will",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/december-12-2017/elicit-comments-what-measures-state-can-implement-will"
+}

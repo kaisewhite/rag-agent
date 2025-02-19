@@ -1,0 +1,9 @@
+{
+	"id": "7gGpP1LSi0POvN4",
+	"json": "{\"id\":\"7gGpP1LSi0POvN4\",\"url\":\"https://www.nysenate.gov/issues/tax-free-debt-forgiveness-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/tax-free-debt-forgiveness-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570953419,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/tax-free-debt-forgiveness-act",
+	"url": "https://www.nysenate.gov/issues/tax-free-debt-forgiveness-act"
+}

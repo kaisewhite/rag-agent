@@ -1,0 +1,9 @@
+{
+	"id": "lMxpng9SF3YB58e",
+	"json": "{\"id\":\"lMxpng9SF3YB58e\",\"url\":\"https://www.nysenate.gov/issues/land-conservation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/land-conservation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695487,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/land-conservation",
+	"url": "https://www.nysenate.gov/issues/land-conservation"
+}

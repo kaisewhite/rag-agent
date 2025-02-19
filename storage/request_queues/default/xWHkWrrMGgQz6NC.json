@@ -1,0 +1,9 @@
+{
+	"id": "xWHkWrrMGgQz6NC",
+	"json": "{\"id\":\"xWHkWrrMGgQz6NC\",\"url\":\"https://www.nysenate.gov/issues/clawback\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/clawback\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570301786,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/clawback",
+	"url": "https://www.nysenate.gov/issues/clawback"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "x6kkUdfvUtGZjk6",
+	"json": "{\"id\":\"x6kkUdfvUtGZjk6\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/darrel-aubertine/senate-aubertine-approve-legislation-cut-cobra-costs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/darrel-aubertine/senate-aubertine-approve-legislation-cut-cobra-costs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781076,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/darrel-aubertine/senate-aubertine-approve-legislation-cut-cobra-costs",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/darrel-aubertine/senate-aubertine-approve-legislation-cut-cobra-costs"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "GG09x2xmsYVcyQE",
+	"json": "{\"id\":\"GG09x2xmsYVcyQE\",\"url\":\"https://www.nysenate.gov/issues/community-banking\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/community-banking\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570301779,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/community-banking",
+	"url": "https://www.nysenate.gov/issues/community-banking"
+}

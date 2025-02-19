@@ -1,0 +1,9 @@
+{
+	"id": "bvPXGb7fibt0Jem",
+	"json": "{\"id\":\"bvPXGb7fibt0Jem\",\"url\":\"https://www.nysenate.gov/legislation/laws/GBS/A35-D\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GBS/A35-D\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569921823,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GBS/A35-D",
+	"url": "https://www.nysenate.gov/legislation/laws/GBS/A35-D"
+}

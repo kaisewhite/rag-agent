@@ -1,0 +1,9 @@
+{
+	"id": "XN1KE1DjgmkJ6R8",
+	"json": "{\"id\":\"XN1KE1DjgmkJ6R8\",\"url\":\"https://www.nysenate.gov/legislation/laws/COM/A9-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/COM/A9-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569892802,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/COM/A9-A",
+	"url": "https://www.nysenate.gov/legislation/laws/COM/A9-A"
+}

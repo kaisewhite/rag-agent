@@ -1,0 +1,9 @@
+{
+	"id": "BQUqpz7RjN8ANsy",
+	"json": "{\"id\":\"BQUqpz7RjN8ANsy\",\"url\":\"https://www.nysenate.gov/issues/doula-care\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/doula-care\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571682779,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/doula-care",
+	"url": "https://www.nysenate.gov/issues/doula-care"
+}

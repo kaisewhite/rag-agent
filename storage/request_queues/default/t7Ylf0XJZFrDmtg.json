@@ -1,0 +1,9 @@
+{
+	"id": "t7Ylf0XJZFrDmtg",
+	"json": "{\"id\":\"t7Ylf0XJZFrDmtg\",\"url\":\"https://www.nysenate.gov/issues/rent-rights\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/rent-rights\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798926,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/rent-rights",
+	"url": "https://www.nysenate.gov/issues/rent-rights"
+}

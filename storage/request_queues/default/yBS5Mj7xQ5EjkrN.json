@@ -1,0 +1,9 @@
+{
+	"id": "yBS5Mj7xQ5EjkrN",
+	"json": "{\"id\":\"yBS5Mj7xQ5EjkrN\",\"url\":\"https://www.nysenate.gov/issues/government-operations\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/government-operations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686721,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/government-operations",
+	"url": "https://www.nysenate.gov/issues/government-operations"
+}

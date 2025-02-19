@@ -1,0 +1,9 @@
+{
+	"id": "Be4cxExz60SiqMi",
+	"json": "{\"id\":\"Be4cxExz60SiqMi\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2011/john-j-flanagan/new-york-post-senate-bill-fire-power-vs-teachers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2011/john-j-flanagan/new-york-post-senate-bill-fire-power-vs-teachers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755187,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2011/john-j-flanagan/new-york-post-senate-bill-fire-power-vs-teachers",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2011/john-j-flanagan/new-york-post-senate-bill-fire-power-vs-teachers"
+}

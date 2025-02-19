@@ -1,0 +1,9 @@
+{
+	"id": "SFjnWgU5dCMsbAw",
+	"json": "{\"id\":\"SFjnWgU5dCMsbAw\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Conflict%20of%20Interest\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Conflict+of+Interest\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571044181,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Conflict+of+Interest",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Conflict%20of%20Interest"
+}

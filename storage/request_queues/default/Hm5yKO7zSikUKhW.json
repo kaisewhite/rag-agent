@@ -1,0 +1,9 @@
+{
+	"id": "Hm5yKO7zSikUKhW",
+	"json": "{\"id\":\"Hm5yKO7zSikUKhW\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/lea-webb/winter-weather-approaches-senator-webb-highlights-historic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/lea-webb/winter-weather-approaches-senator-webb-highlights-historic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571574486,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/lea-webb/winter-weather-approaches-senator-webb-highlights-historic",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/lea-webb/winter-weather-approaches-senator-webb-highlights-historic"
+}

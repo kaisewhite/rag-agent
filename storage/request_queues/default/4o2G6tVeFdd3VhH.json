@@ -1,0 +1,9 @@
+{
+	"id": "4o2G6tVeFdd3VhH",
+	"json": "{\"id\":\"4o2G6tVeFdd3VhH\",\"url\":\"https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-vaccine-distribution\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-vaccine-distribution\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698349,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-vaccine-distribution",
+	"url": "https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-vaccine-distribution"
+}

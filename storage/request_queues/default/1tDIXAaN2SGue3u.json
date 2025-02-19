@@ -1,0 +1,9 @@
+{
+	"id": "1tDIXAaN2SGue3u",
+	"json": "{\"id\":\"1tDIXAaN2SGue3u\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-announcing-gun-license-renewal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-announcing-gun-license-renewal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725908,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-announcing-gun-license-renewal",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/eric-schneiderman/sen-schneiderman-announcing-gun-license-renewal"
+}

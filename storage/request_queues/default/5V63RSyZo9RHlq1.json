@@ -1,0 +1,9 @@
+{
+	"id": "5V63RSyZo9RHlq1",
+	"json": "{\"id\":\"5V63RSyZo9RHlq1\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBH/A21\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBH/A21\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569955985,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBH/A21",
+	"url": "https://www.nysenate.gov/legislation/laws/PBH/A21"
+}

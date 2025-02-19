@@ -1,0 +1,9 @@
+{
+	"id": "rRCuxcwj3ofSCTD",
+	"json": "{\"id\":\"rRCuxcwj3ofSCTD\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/april-23-2015/examination-predatory-lending-practices-within-sub-prime\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/april-23-2015/examination-predatory-lending-practices-within-sub-prime\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706974,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/april-23-2015/examination-predatory-lending-practices-within-sub-prime",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/april-23-2015/examination-predatory-lending-practices-within-sub-prime"
+}

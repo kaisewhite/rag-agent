@@ -1,0 +1,9 @@
+{
+	"id": "0gdZjLExnYwHt5T",
+	"json": "{\"id\":\"0gdZjLExnYwHt5T\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-bill-increase-drug-price-transparency\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-bill-increase-drug-price-transparency\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571179375,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-bill-increase-drug-price-transparency",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-bill-increase-drug-price-transparency"
+}

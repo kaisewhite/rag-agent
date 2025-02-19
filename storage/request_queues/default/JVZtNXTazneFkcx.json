@@ -1,0 +1,9 @@
+{
+	"id": "JVZtNXTazneFkcx",
+	"json": "{\"id\":\"JVZtNXTazneFkcx\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-18-2025/tackling-taxes-webinar-2024-tax-season-tuesday\",\"loadedUrl\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-18-2025/tackling-taxes-webinar-2024-tax-season-tuesday\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-18-2025/tackling-taxes-webinar-2024-tax-season-tuesday\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:57:49.588Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-18-2025/tackling-taxes-webinar-2024-tax-season-tuesday",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-18-2025/tackling-taxes-webinar-2024-tax-season-tuesday"
+}

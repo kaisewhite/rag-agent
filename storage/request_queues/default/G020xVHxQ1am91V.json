@@ -1,0 +1,9 @@
+{
+	"id": "G020xVHxQ1am91V",
+	"json": "{\"id\":\"G020xVHxQ1am91V\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-04-2019/brookdale-hospital-civic-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-04-2019/brookdale-hospital-civic-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246872,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-04-2019/brookdale-hospital-civic-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-04-2019/brookdale-hospital-civic-monthly-meeting"
+}

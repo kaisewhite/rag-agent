@@ -1,0 +1,9 @@
+{
+	"id": "4Wrbcbs54sUyfDS",
+	"json": "{\"id\":\"4Wrbcbs54sUyfDS\",\"url\":\"https://www.nysenate.gov/senators/jack-m-martins/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/jack-m-martins/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569651951,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/jack-m-martins/district",
+	"url": "https://www.nysenate.gov/senators/jack-m-martins/district"
+}

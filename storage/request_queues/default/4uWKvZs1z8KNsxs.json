@@ -1,0 +1,9 @@
+{
+	"id": "4uWKvZs1z8KNsxs",
+	"json": "{\"id\":\"4uWKvZs1z8KNsxs\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-24-2024/nylag-free-civil-legal-services-tuesday-sept\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-24-2024/nylag-free-civil-legal-services-tuesday-sept\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247538,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-24-2024/nylag-free-civil-legal-services-tuesday-sept",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-24-2024/nylag-free-civil-legal-services-tuesday-sept"
+}

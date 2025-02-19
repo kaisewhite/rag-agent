@@ -1,0 +1,9 @@
+{
+	"id": "JPrErVA3dgKNFEY",
+	"json": "{\"id\":\"JPrErVA3dgKNFEY\",\"url\":\"https://www.nysenate.gov/senators/patricia-fahy/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/patricia-fahy/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569633460,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/patricia-fahy/district",
+	"url": "https://www.nysenate.gov/senators/patricia-fahy/district"
+}

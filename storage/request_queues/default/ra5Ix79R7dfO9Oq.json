@@ -1,0 +1,9 @@
+{
+	"id": "ra5Ix79R7dfO9Oq",
+	"json": "{\"id\":\"ra5Ix79R7dfO9Oq\",\"url\":\"https://www.nysenate.gov/calendar/meetings/finance/july-23-2020/finance-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/finance/july-23-2020/finance-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780954,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/finance/july-23-2020/finance-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/finance/july-23-2020/finance-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CayJbvnG9omXCOp",
+	"json": "{\"id\":\"CayJbvnG9omXCOp\",\"url\":\"https://www.nysenate.gov/issues/ice\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/ice\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570127849,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/ice",
+	"url": "https://www.nysenate.gov/issues/ice"
+}

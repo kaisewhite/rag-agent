@@ -1,0 +1,9 @@
+{
+	"id": "qal4SC6sz5gOgqX",
+	"json": "{\"id\":\"qal4SC6sz5gOgqX\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/samra-g-brouk/brouk-awards-local-fire-and-ems-departments-over-15\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2024/samra-g-brouk/brouk-awards-local-fire-and-ems-departments-over-15\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/samra-g-brouk/brouk-awards-local-fire-and-ems-departments-over-15\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:20:57.038Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/samra-g-brouk/brouk-awards-local-fire-and-ems-departments-over-15",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/samra-g-brouk/brouk-awards-local-fire-and-ems-departments-over-15"
+}

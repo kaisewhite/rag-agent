@@ -1,0 +1,9 @@
+{
+	"id": "CHEy5ZCV0d2UMmS",
+	"json": "{\"id\":\"CHEy5ZCV0d2UMmS\",\"url\":\"https://www.nysenate.gov/legislation/laws/FIS\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/FIS\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/FIS\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:57.080Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/FIS",
+	"url": "https://www.nysenate.gov/legislation/laws/FIS"
+}

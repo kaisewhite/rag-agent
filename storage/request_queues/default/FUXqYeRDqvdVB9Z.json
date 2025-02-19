@@ -1,0 +1,9 @@
+{
+	"id": "FUXqYeRDqvdVB9Z",
+	"json": "{\"id\":\"FUXqYeRDqvdVB9Z\",\"url\":\"https://www.nysenate.gov/calendar/meetings/local-government/january-19-2011/local-government-meeting-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/local-government/january-19-2011/local-government-meeting-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847574,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/local-government/january-19-2011/local-government-meeting-0",
+	"url": "https://www.nysenate.gov/calendar/meetings/local-government/january-19-2011/local-government-meeting-0"
+}

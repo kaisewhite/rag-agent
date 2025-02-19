@@ -1,0 +1,9 @@
+{
+	"id": "4o02dF6Pq2KPfJe",
+	"json": "{\"id\":\"4o02dF6Pq2KPfJe\",\"url\":\"https://www.nysenate.gov/sites/default/files/jose_ramos_testimony_final.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/jose_ramos_testimony_final.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716564,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/jose_ramos_testimony_final.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/jose_ramos_testimony_final.pdf"
+}

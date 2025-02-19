@@ -1,0 +1,9 @@
+{
+	"id": "2KEwhZX4lDGcV3P",
+	"json": "{\"id\":\"2KEwhZX4lDGcV3P\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/heap-applications-accepted-beginning-november-16\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/heap-applications-accepted-beginning-november-16\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765723,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/heap-applications-accepted-beginning-november-16",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/heap-applications-accepted-beginning-november-16"
+}

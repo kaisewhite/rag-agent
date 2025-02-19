@@ -1,0 +1,9 @@
+{
+	"id": "i3AIqzf7j2MVSI1",
+	"json": "{\"id\":\"i3AIqzf7j2MVSI1\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/patrick-m-gallivan/senator-gallivan-issues-statement-lockdown-collins\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/patrick-m-gallivan/senator-gallivan-issues-statement-lockdown-collins\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569637328,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/patrick-m-gallivan/senator-gallivan-issues-statement-lockdown-collins",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/patrick-m-gallivan/senator-gallivan-issues-statement-lockdown-collins"
+}

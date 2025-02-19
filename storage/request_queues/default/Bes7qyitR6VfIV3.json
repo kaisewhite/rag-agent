@@ -1,0 +1,9 @@
+{
+	"id": "Bes7qyitR6VfIV3",
+	"json": "{\"id\":\"Bes7qyitR6VfIV3\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/michelle-hinchey/senator-hinchey-and-assemblymember-lupardo-sponsor\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/michelle-hinchey/senator-hinchey-and-assemblymember-lupardo-sponsor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707150,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/michelle-hinchey/senator-hinchey-and-assemblymember-lupardo-sponsor",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/michelle-hinchey/senator-hinchey-and-assemblymember-lupardo-sponsor"
+}

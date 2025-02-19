@@ -1,0 +1,9 @@
+{
+	"id": "p3Er9kyEg8Susl5",
+	"json": "{\"id\":\"p3Er9kyEg8Susl5\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2019/john-e-brooks/pols-state-money-veterans-support-program-restored\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2019/john-e-brooks/pols-state-money-veterans-support-program-restored\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855407,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2019/john-e-brooks/pols-state-money-veterans-support-program-restored",
+	"url": "https://www.nysenate.gov/newsroom/articles/2019/john-e-brooks/pols-state-money-veterans-support-program-restored"
+}

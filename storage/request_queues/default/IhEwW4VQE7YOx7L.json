@@ -1,0 +1,9 @@
+{
+	"id": "IhEwW4VQE7YOx7L",
+	"json": "{\"id\":\"IhEwW4VQE7YOx7L\",\"url\":\"https://www.nysenate.gov/legislation/laws/EXC/A12\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EXC/A12\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569917150,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EXC/A12",
+	"url": "https://www.nysenate.gov/legislation/laws/EXC/A12"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "eTPlT7kTuTaJnwi",
+	"json": "{\"id\":\"eTPlT7kTuTaJnwi\",\"url\":\"https://www.nysenate.gov/legislation/laws/RAT/A2\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RAT/A2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569964728,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RAT/A2",
+	"url": "https://www.nysenate.gov/legislation/laws/RAT/A2"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "mfWyRMptjVs2aI8",
+	"json": "{\"id\":\"mfWyRMptjVs2aI8\",\"url\":\"https://www.nysenate.gov/senators/thomas-f-o&amp;#039;mara\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/thomas-f-o&amp;\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725909,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/thomas-f-o&amp;",
+	"url": "https://www.nysenate.gov/senators/thomas-f-o&amp;#039;mara"
+}

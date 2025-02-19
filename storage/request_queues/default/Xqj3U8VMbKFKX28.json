@@ -1,0 +1,9 @@
+{
+	"id": "Xqj3U8VMbKFKX28",
+	"json": "{\"id\":\"Xqj3U8VMbKFKX28\",\"url\":\"https://www.nysenate.gov/issues/clean-slate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/clean-slate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571287913,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/clean-slate",
+	"url": "https://www.nysenate.gov/issues/clean-slate"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "dOrEBvUXjttosFJ",
+	"json": "{\"id\":\"dOrEBvUXjttosFJ\",\"url\":\"https://www.nysenate.gov/issues/star-rebate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/star-rebate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808657,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/star-rebate",
+	"url": "https://www.nysenate.gov/issues/star-rebate"
+}

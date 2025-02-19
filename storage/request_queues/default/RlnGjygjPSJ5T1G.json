@@ -1,0 +1,9 @@
+{
+	"id": "RlnGjygjPSJ5T1G",
+	"json": "{\"id\":\"RlnGjygjPSJ5T1G\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/ny-lawmaker-introduces-bill-banning-live-ammo-movie-sets\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/ny-lawmaker-introduces-bill-banning-live-ammo-movie-sets\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740949,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/ny-lawmaker-introduces-bill-banning-live-ammo-movie-sets",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/ny-lawmaker-introduces-bill-banning-live-ammo-movie-sets"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Oa2S40ENT24EVIm",
+	"json": "{\"id\":\"Oa2S40ENT24EVIm\",\"url\":\"https://www.nysenate.gov/issues/nycha-utility-accountability-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nycha-utility-accountability-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569571291,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nycha-utility-accountability-act",
+	"url": "https://www.nysenate.gov/issues/nycha-utility-accountability-act"
+}

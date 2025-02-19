@@ -1,0 +1,9 @@
+{
+	"id": "MaDqOcfq6Q0ui7N",
+	"json": "{\"id\":\"MaDqOcfq6Q0ui7N\",\"url\":\"https://www.nysenate.gov/issues/red-cross\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/red-cross\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571347463,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/red-cross",
+	"url": "https://www.nysenate.gov/issues/red-cross"
+}

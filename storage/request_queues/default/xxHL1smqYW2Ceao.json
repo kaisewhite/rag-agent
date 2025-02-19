@@ -1,0 +1,9 @@
+{
+	"id": "xxHL1smqYW2Ceao",
+	"json": "{\"id\":\"xxHL1smqYW2Ceao\",\"url\":\"https://www.nysenate.gov/senators/pete-harckham/about\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/pete-harckham/about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569642370,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/pete-harckham/about",
+	"url": "https://www.nysenate.gov/senators/pete-harckham/about"
+}

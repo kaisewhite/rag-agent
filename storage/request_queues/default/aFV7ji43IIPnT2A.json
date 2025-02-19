@@ -1,0 +1,9 @@
+{
+	"id": "aFV7ji43IIPnT2A",
+	"json": "{\"id\":\"aFV7ji43IIPnT2A\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/jose-m-serrano/senator-serrano-marches-nyc-labor-day-parade\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/jose-m-serrano/senator-serrano-marches-nyc-labor-day-parade\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569673976,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/jose-m-serrano/senator-serrano-marches-nyc-labor-day-parade",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/jose-m-serrano/senator-serrano-marches-nyc-labor-day-parade"
+}

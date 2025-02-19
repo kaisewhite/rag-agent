@@ -1,0 +1,9 @@
+{
+	"id": "wd0Ipjnvwjk3ILh",
+	"json": "{\"id\":\"wd0Ipjnvwjk3ILh\",\"url\":\"https://www.nysenate.gov/calendar/meetings/banks/march-28-2012/banks-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/banks/march-28-2012/banks-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706994,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/banks/march-28-2012/banks-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/banks/march-28-2012/banks-meeting"
+}

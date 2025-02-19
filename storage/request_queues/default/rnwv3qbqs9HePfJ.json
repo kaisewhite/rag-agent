@@ -1,0 +1,9 @@
+{
+	"id": "rnwv3qbqs9HePfJ",
+	"json": "{\"id\":\"rnwv3qbqs9HePfJ\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-17-2021/new-york-state-legislative-task-force-demographic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-17-2021/new-york-state-legislative-task-force-demographic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839863,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-17-2021/new-york-state-legislative-task-force-demographic",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-17-2021/new-york-state-legislative-task-force-demographic"
+}

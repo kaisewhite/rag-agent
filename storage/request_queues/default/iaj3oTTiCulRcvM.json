@@ -1,0 +1,9 @@
+{
+	"id": "iaj3oTTiCulRcvM",
+	"json": "{\"id\":\"iaj3oTTiCulRcvM\",\"url\":\"https://www.nysenate.gov/legislation/laws/HAY/A7\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/HAY/A7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569927365,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/HAY/A7",
+	"url": "https://www.nysenate.gov/legislation/laws/HAY/A7"
+}

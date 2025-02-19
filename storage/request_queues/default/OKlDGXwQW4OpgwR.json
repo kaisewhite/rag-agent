@@ -1,0 +1,9 @@
+{
+	"id": "OKlDGXwQW4OpgwR",
+	"json": "{\"id\":\"OKlDGXwQW4OpgwR\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-09-2019/public-hearing-rent-regulation-and-tenant-protection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-09-2019/public-hearing-rent-regulation-and-tenant-protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798841,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-09-2019/public-hearing-rent-regulation-and-tenant-protection",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-09-2019/public-hearing-rent-regulation-and-tenant-protection"
+}

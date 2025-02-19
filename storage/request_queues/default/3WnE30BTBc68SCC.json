@@ -1,0 +1,9 @@
+{
+	"id": "3WnE30BTBc68SCC",
+	"json": "{\"id\":\"3WnE30BTBc68SCC\",\"url\":\"https://www.nysenate.gov/senators/peter-oberacker/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/peter-oberacker/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569660065,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/peter-oberacker/district",
+	"url": "https://www.nysenate.gov/senators/peter-oberacker/district"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "l1dEE8Y2glTMD6H",
+	"json": "{\"id\":\"l1dEE8Y2glTMD6H\",\"url\":\"https://www.nysenate.gov/newsroom/video/daphne-jordan/national-library-week\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/daphne-jordan/national-library-week\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570987148,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/daphne-jordan/national-library-week",
+	"url": "https://www.nysenate.gov/newsroom/video/daphne-jordan/national-library-week"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lLmBbrt0WKAst3J",
+	"json": "{\"id\":\"lLmBbrt0WKAst3J\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2011/jack-m-martins/senator-martins-speaks-association-fire-districts-state-new\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2011/jack-m-martins/senator-martins-speaks-association-fire-districts-state-new\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848863,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2011/jack-m-martins/senator-martins-speaks-association-fire-districts-state-new",
+	"url": "https://www.nysenate.gov/newsroom/articles/2011/jack-m-martins/senator-martins-speaks-association-fire-districts-state-new"
+}

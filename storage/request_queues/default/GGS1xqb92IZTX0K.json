@@ -1,0 +1,9 @@
+{
+	"id": "GGS1xqb92IZTX0K",
+	"json": "{\"id\":\"GGS1xqb92IZTX0K\",\"url\":\"https://www.nysenate.gov/calendar/meetings/crime-victims-crime-and-correction/april-25-2018/crime-victims-crime-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/crime-victims-crime-and-correction/april-25-2018/crime-victims-crime-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569747982,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/crime-victims-crime-and-correction/april-25-2018/crime-victims-crime-and",
+	"url": "https://www.nysenate.gov/calendar/meetings/crime-victims-crime-and-correction/april-25-2018/crime-victims-crime-and"
+}

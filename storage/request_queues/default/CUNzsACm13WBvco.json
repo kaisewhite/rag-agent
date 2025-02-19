@@ -1,0 +1,9 @@
+{
+	"id": "CUNzsACm13WBvco",
+	"json": "{\"id\":\"CUNzsACm13WBvco\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-25-2018/new-york-state-legal-assistance-group-nylag\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-25-2018/new-york-state-legal-assistance-group-nylag\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246576,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-25-2018/new-york-state-legal-assistance-group-nylag",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-25-2018/new-york-state-legal-assistance-group-nylag"
+}

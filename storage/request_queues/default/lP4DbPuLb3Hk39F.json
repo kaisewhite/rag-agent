@@ -1,0 +1,9 @@
+{
+	"id": "lP4DbPuLb3Hk39F",
+	"json": "{\"id\":\"lP4DbPuLb3Hk39F\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/statement-senate-majority-leader-malcolm-smith-6\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/statement-senate-majority-leader-malcolm-smith-6\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770313,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/statement-senate-majority-leader-malcolm-smith-6",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/statement-senate-majority-leader-malcolm-smith-6"
+}

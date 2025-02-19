@@ -1,0 +1,9 @@
+{
+	"id": "QTCFO1TAcfmfA9A",
+	"json": "{\"id\":\"QTCFO1TAcfmfA9A\",\"url\":\"https://www.nysenate.gov/issues/sewer-and-water\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/sewer-and-water\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284281,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/sewer-and-water",
+	"url": "https://www.nysenate.gov/issues/sewer-and-water"
+}

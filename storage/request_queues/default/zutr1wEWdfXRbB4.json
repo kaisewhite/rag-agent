@@ -1,0 +1,9 @@
+{
+	"id": "zutr1wEWdfXRbB4",
+	"json": "{\"id\":\"zutr1wEWdfXRbB4\",\"url\":\"https://www.nysenate.gov/issues/farm-market\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/farm-market\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707153,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/farm-market",
+	"url": "https://www.nysenate.gov/issues/farm-market"
+}

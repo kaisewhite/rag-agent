@@ -1,0 +1,9 @@
+{
+	"id": "UgQcWWDNqaQR5cs",
+	"json": "{\"id\":\"UgQcWWDNqaQR5cs\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/george-onorato/workers-compensation-board-may-not-electronically\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/george-onorato/workers-compensation-board-may-not-electronically\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811635,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/george-onorato/workers-compensation-board-may-not-electronically",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/george-onorato/workers-compensation-board-may-not-electronically"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0c0Obx3ejNEqztz",
+	"json": "{\"id\":\"0c0Obx3ejNEqztz\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/1-26-10-environmental-conservation-testimony-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/1-26-10-environmental-conservation-testimony-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781276,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/1-26-10-environmental-conservation-testimony-0",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/1-26-10-environmental-conservation-testimony-0"
+}

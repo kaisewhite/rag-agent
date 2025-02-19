@@ -1,0 +1,9 @@
+{
+	"id": "qoxXKUqDiBL5mZR",
+	"json": "{\"id\":\"qoxXKUqDiBL5mZR\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-honors-winners-2012-thanksgiving-essay\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-honors-winners-2012-thanksgiving-essay\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847662,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-honors-winners-2012-thanksgiving-essay",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-honors-winners-2012-thanksgiving-essay"
+}

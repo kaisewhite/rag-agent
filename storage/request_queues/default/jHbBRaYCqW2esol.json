@@ -1,0 +1,9 @@
+{
+	"id": "jHbBRaYCqW2esol",
+	"json": "{\"id\":\"jHbBRaYCqW2esol\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/protecting-foundation-new-yorks-number-one-industry\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/protecting-foundation-new-yorks-number-one-industry\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707200,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/protecting-foundation-new-yorks-number-one-industry",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/protecting-foundation-new-yorks-number-one-industry"
+}

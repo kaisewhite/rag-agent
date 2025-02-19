@@ -1,0 +1,9 @@
+{
+	"id": "clnpsxDSS7i6fV9",
+	"json": "{\"id\":\"clnpsxDSS7i6fV9\",\"url\":\"https://www.nysenate.gov/issues/veteran-resources\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/veteran-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570984987,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/veteran-resources",
+	"url": "https://www.nysenate.gov/issues/veteran-resources"
+}

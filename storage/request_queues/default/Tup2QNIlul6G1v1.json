@@ -1,0 +1,9 @@
+{
+	"id": "Tup2QNIlul6G1v1",
+	"json": "{\"id\":\"Tup2QNIlul6G1v1\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2017/kemp-hannon/2015-2016-report-new-york-state-senate-standing-committee-health\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2017/kemp-hannon/2015-2016-report-new-york-state-senate-standing-committee-health\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781060,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2017/kemp-hannon/2015-2016-report-new-york-state-senate-standing-committee-health",
+	"url": "https://www.nysenate.gov/newsroom/articles/2017/kemp-hannon/2015-2016-report-new-york-state-senate-standing-committee-health"
+}

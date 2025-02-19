@@ -1,0 +1,9 @@
+{
+	"id": "4ojWuRBnsfvOOGF",
+	"json": "{\"id\":\"4ojWuRBnsfvOOGF\",\"url\":\"https://www.nysenate.gov/questionnaires/lea-webb/senate-district-52-utility-survey\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/lea-webb/senate-district-52-utility-survey\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569680165,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/lea-webb/senate-district-52-utility-survey",
+	"url": "https://www.nysenate.gov/questionnaires/lea-webb/senate-district-52-utility-survey"
+}

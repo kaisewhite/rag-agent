@@ -1,0 +1,9 @@
+{
+	"id": "m8mXrpZGmwouapJ",
+	"json": "{\"id\":\"m8mXrpZGmwouapJ\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-06-2023/mothers-day-clothing-giveaway-event\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-06-2023/mothers-day-clothing-giveaway-event\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247441,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-06-2023/mothers-day-clothing-giveaway-event",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-06-2023/mothers-day-clothing-giveaway-event"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "RVRqh0SuJBxMLCX",
+	"json": "{\"id\":\"RVRqh0SuJBxMLCX\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=School%20Bus%20Safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=School+Bus+Safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571678789,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=School+Bus+Safety",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=School%20Bus%20Safety"
+}

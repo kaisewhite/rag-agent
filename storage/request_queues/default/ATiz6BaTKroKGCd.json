@@ -1,0 +1,9 @@
+{
+	"id": "ATiz6BaTKroKGCd",
+	"json": "{\"id\":\"ATiz6BaTKroKGCd\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Limousine%20Safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Limousine+Safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571583898,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Limousine+Safety",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Limousine%20Safety"
+}

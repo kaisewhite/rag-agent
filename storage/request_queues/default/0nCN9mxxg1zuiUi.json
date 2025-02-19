@@ -1,0 +1,9 @@
+{
+	"id": "0nCN9mxxg1zuiUi",
+	"json": "{\"id\":\"0nCN9mxxg1zuiUi\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/pete-harckham/harckham-honors-alex-mandara-nys-veterans-hall-fame\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/pete-harckham/harckham-honors-alex-mandara-nys-veterans-hall-fame\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570938585,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/pete-harckham/harckham-honors-alex-mandara-nys-veterans-hall-fame",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/pete-harckham/harckham-honors-alex-mandara-nys-veterans-hall-fame"
+}

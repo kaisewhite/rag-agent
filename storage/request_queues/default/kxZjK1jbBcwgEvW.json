@@ -1,0 +1,9 @@
+{
+	"id": "kxZjK1jbBcwgEvW",
+	"json": "{\"id\":\"kxZjK1jbBcwgEvW\",\"url\":\"https://www.nysenate.gov/issues/vfw\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/vfw\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570938584,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/vfw",
+	"url": "https://www.nysenate.gov/issues/vfw"
+}

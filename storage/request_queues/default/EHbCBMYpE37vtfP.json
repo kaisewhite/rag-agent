@@ -1,0 +1,9 @@
+{
+	"id": "EHbCBMYpE37vtfP",
+	"json": "{\"id\":\"EHbCBMYpE37vtfP\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/nys-senator-announces-housing-code-enforcement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/nys-senator-announces-housing-code-enforcement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808649,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/nys-senator-announces-housing-code-enforcement",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/nys-senator-announces-housing-code-enforcement"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "rGTLJHD1zbZbspt",
+	"json": "{\"id\":\"rGTLJHD1zbZbspt\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-23-2011/due-process-teacher-discipline-without-delay-reforming-section\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-23-2011/due-process-teacher-discipline-without-delay-reforming-section\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755178,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-23-2011/due-process-teacher-discipline-without-delay-reforming-section",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-23-2011/due-process-teacher-discipline-without-delay-reforming-section"
+}

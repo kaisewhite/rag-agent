@@ -1,0 +1,9 @@
+{
+	"id": "4jY7sKm4A7vBb4S",
+	"json": "{\"id\":\"4jY7sKm4A7vBb4S\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-09-2020/food-mask-and-sanitizer-distribution-and-free\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-09-2020/food-mask-and-sanitizer-distribution-and-free\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247151,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-09-2020/food-mask-and-sanitizer-distribution-and-free",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-09-2020/food-mask-and-sanitizer-distribution-and-free"
+}

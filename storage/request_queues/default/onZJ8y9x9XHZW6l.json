@@ -1,0 +1,9 @@
+{
+	"id": "onZJ8y9x9XHZW6l",
+	"json": "{\"id\":\"onZJ8y9x9XHZW6l\",\"url\":\"https://www.nysenate.gov/issues/electric-vehicles\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/electric-vehicles\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770672,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/electric-vehicles",
+	"url": "https://www.nysenate.gov/issues/electric-vehicles"
+}

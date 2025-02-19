@@ -1,0 +1,9 @@
+{
+	"id": "q7TmiRAxs1IS7FC",
+	"json": "{\"id\":\"q7TmiRAxs1IS7FC\",\"url\":\"https://www.nysenate.gov/calendar/meetings/social-services/may-14-2024/social-services-meeting-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/social-services/may-14-2024/social-services-meeting-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569576461,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/social-services/may-14-2024/social-services-meeting-0",
+	"url": "https://www.nysenate.gov/calendar/meetings/social-services/may-14-2024/social-services-meeting-0"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "odjO6wk2vw6mnSZ",
+	"json": "{\"id\":\"odjO6wk2vw6mnSZ\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/senator-kruegers-august-2024-update\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/senator-kruegers-august-2024-update\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570906369,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/senator-kruegers-august-2024-update",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/senator-kruegers-august-2024-update"
+}

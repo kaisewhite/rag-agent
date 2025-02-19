@@ -1,0 +1,9 @@
+{
+	"id": "9MjH5XrEJWmMhnZ",
+	"json": "{\"id\":\"9MjH5XrEJWmMhnZ\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2022/andrew-j-lanza/senator-lanza-joins-nycedc-announce-offshore-wind-facility\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2022/andrew-j-lanza/senator-lanza-joins-nycedc-announce-offshore-wind-facility\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571049864,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2022/andrew-j-lanza/senator-lanza-joins-nycedc-announce-offshore-wind-facility",
+	"url": "https://www.nysenate.gov/newsroom/articles/2022/andrew-j-lanza/senator-lanza-joins-nycedc-announce-offshore-wind-facility"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "00R7md8BbHNaxAX",
+	"json": "{\"id\":\"00R7md8BbHNaxAX\",\"url\":\"https://www.nysenate.gov/legislation/laws/GBS/A7-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GBS/A7-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569921777,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GBS/A7-A",
+	"url": "https://www.nysenate.gov/legislation/laws/GBS/A7-A"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "LU3YXckBfZ4x78y",
+	"json": "{\"id\":\"LU3YXckBfZ4x78y\",\"url\":\"https://www.nysenate.gov/calendar/meetings/banks/february-12-2013/banks-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/banks/february-12-2013/banks-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706991,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/banks/february-12-2013/banks-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/banks/february-12-2013/banks-meeting"
+}

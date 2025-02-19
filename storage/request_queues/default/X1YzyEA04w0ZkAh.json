@@ -1,0 +1,9 @@
+{
+	"id": "X1YzyEA04w0ZkAh",
+	"json": "{\"id\":\"X1YzyEA04w0ZkAh\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-20-2019/69th-precinct-build-block-meeting-sector\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-20-2019/69th-precinct-build-block-meeting-sector\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246846,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-20-2019/69th-precinct-build-block-meeting-sector",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-20-2019/69th-precinct-build-block-meeting-sector"
+}

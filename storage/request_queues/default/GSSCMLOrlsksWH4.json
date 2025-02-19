@@ -1,0 +1,9 @@
+{
+	"id": "GSSCMLOrlsksWH4",
+	"json": "{\"id\":\"GSSCMLOrlsksWH4\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/phase-2-tech-and-manufacturing-park-approved\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/phase-2-tech-and-manufacturing-park-approved\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734388,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/phase-2-tech-and-manufacturing-park-approved",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/phase-2-tech-and-manufacturing-park-approved"
+}

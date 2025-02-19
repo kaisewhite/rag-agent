@@ -1,0 +1,9 @@
+{
+	"id": "eOTZCjRBJcRDkqY",
+	"json": "{\"id\":\"eOTZCjRBJcRDkqY\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/patrick-m-gallivan/major-medicaid-reform-legislation-approved-social\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/patrick-m-gallivan/major-medicaid-reform-legislation-approved-social\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569576481,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/patrick-m-gallivan/major-medicaid-reform-legislation-approved-social",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/patrick-m-gallivan/major-medicaid-reform-legislation-approved-social"
+}

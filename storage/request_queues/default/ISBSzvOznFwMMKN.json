@@ -1,0 +1,9 @@
+{
+	"id": "ISBSzvOznFwMMKN",
+	"json": "{\"id\":\"ISBSzvOznFwMMKN\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/liz-krueger/legislature-holds-hearing-fossil-fuel-divestment\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/liz-krueger/legislature-holds-hearing-fossil-fuel-divestment\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781082,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/liz-krueger/legislature-holds-hearing-fossil-fuel-divestment",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/liz-krueger/legislature-holds-hearing-fossil-fuel-divestment"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "YwdcqUzP93r2QBO",
+	"json": "{\"id\":\"YwdcqUzP93r2QBO\",\"url\":\"https://www.nysenate.gov/issues/state-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/state-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707152,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/state-funding",
+	"url": "https://www.nysenate.gov/issues/state-funding"
+}

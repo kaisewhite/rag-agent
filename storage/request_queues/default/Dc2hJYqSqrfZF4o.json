@@ -1,0 +1,9 @@
+{
+	"id": "Dc2hJYqSqrfZF4o",
+	"json": "{\"id\":\"Dc2hJYqSqrfZF4o\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-26-2018/mill-basin-civic-association-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-26-2018/mill-basin-civic-association-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246497,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-26-2018/mill-basin-civic-association-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-26-2018/mill-basin-civic-association-monthly-meeting"
+}

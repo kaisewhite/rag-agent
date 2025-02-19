@@ -1,0 +1,9 @@
+{
+	"id": "XKrvgbKVsYElP6m",
+	"json": "{\"id\":\"XKrvgbKVsYElP6m\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/julia-salazar/senator-salazar-pledges-35-million-womens-pavilion\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/julia-salazar/senator-salazar-pledges-35-million-womens-pavilion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569671163,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/julia-salazar/senator-salazar-pledges-35-million-womens-pavilion",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/julia-salazar/senator-salazar-pledges-35-million-womens-pavilion"
+}

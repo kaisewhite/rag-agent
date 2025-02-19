@@ -1,0 +1,9 @@
+{
+	"id": "XCGkCyLzPcxiAcV",
+	"json": "{\"id\":\"XCGkCyLzPcxiAcV\",\"url\":\"https://www.nysenate.gov/issues/public-safety?page=1\",\"loadedUrl\":\"https://www.nysenate.gov/issues/public-safety?page=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/public-safety?page=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:21:02.845Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/public-safety?page=1",
+	"url": "https://www.nysenate.gov/issues/public-safety?page=1"
+}

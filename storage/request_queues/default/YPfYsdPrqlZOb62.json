@@ -1,0 +1,9 @@
+{
+	"id": "YPfYsdPrqlZOb62",
+	"json": "{\"id\":\"YPfYsdPrqlZOb62\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/john-mannion-honors-impaired-karate-competitor-fayetteville\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/john-mannion-honors-impaired-karate-competitor-fayetteville\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751254,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/john-mannion-honors-impaired-karate-competitor-fayetteville",
+	"url": "https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/john-mannion-honors-impaired-karate-competitor-fayetteville"
+}

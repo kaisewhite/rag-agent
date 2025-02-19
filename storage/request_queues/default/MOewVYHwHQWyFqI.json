@@ -1,0 +1,9 @@
+{
+	"id": "MOewVYHwHQWyFqI",
+	"json": "{\"id\":\"MOewVYHwHQWyFqI\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2023/luis-r-sepulveda/state-senator-reveals-plan-implement-child-resistant\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2023/luis-r-sepulveda/state-senator-reveals-plan-implement-child-resistant\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571313753,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2023/luis-r-sepulveda/state-senator-reveals-plan-implement-child-resistant",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2023/luis-r-sepulveda/state-senator-reveals-plan-implement-child-resistant"
+}

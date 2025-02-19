@@ -1,0 +1,9 @@
+{
+	"id": "GzTMBYcdNnv5KRL",
+	"json": "{\"id\":\"GzTMBYcdNnv5KRL\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/andrew-j-lanza/senator-lanza-announces-scholarship-opportunity\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-j-lanza/senator-lanza-announces-scholarship-opportunity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569650083,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-j-lanza/senator-lanza-announces-scholarship-opportunity",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/andrew-j-lanza/senator-lanza-announces-scholarship-opportunity"
+}

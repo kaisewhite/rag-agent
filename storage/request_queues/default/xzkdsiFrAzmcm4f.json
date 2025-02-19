@@ -1,0 +1,9 @@
+{
+	"id": "xzkdsiFrAzmcm4f",
+	"json": "{\"id\":\"xzkdsiFrAzmcm4f\",\"url\":\"https://www.nysenate.gov/legislation/bills/2017/A4456\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2017/A4456\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571689640,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2017/A4456",
+	"url": "https://www.nysenate.gov/legislation/bills/2017/A4456"
+}

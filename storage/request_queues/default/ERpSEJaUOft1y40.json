@@ -1,0 +1,9 @@
+{
+	"id": "ERpSEJaUOft1y40",
+	"json": "{\"id\":\"ERpSEJaUOft1y40\",\"url\":\"https://www.nysenate.gov/student-programs/where-are-they-now-amanda-goldfine-2018-19-senate-fellow\",\"uniqueKey\":\"GET():https://www.nysenate.gov/student-programs/where-are-they-now-amanda-goldfine-2018-19-senate-fellow\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569869709,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/student-programs/where-are-they-now-amanda-goldfine-2018-19-senate-fellow",
+	"url": "https://www.nysenate.gov/student-programs/where-are-they-now-amanda-goldfine-2018-19-senate-fellow"
+}

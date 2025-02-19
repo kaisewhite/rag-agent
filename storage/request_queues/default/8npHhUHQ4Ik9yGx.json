@@ -1,0 +1,9 @@
+{
+	"id": "8npHhUHQ4Ik9yGx",
+	"json": "{\"id\":\"8npHhUHQ4Ik9yGx\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/dow-chemical-backs-effort-use-new-york-citys-drinking-water\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/dow-chemical-backs-effort-use-new-york-citys-drinking-water\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770687,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/dow-chemical-backs-effort-use-new-york-citys-drinking-water",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/dow-chemical-backs-effort-use-new-york-citys-drinking-water"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "i2ffyzIkAwvrrxP",
+	"json": "{\"id\":\"i2ffyzIkAwvrrxP\",\"url\":\"https://www.nysenate.gov/issues/child-care-crisis\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/child-care-crisis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571682774,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/child-care-crisis",
+	"url": "https://www.nysenate.gov/issues/child-care-crisis"
+}

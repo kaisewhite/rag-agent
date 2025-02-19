@@ -1,0 +1,9 @@
+{
+	"id": "YUtzR5DQEs2dVeV",
+	"json": "{\"id\":\"YUtzR5DQEs2dVeV\",\"url\":\"https://www.nysenate.gov/sites/default/files/empire_center_for_public_policy.21.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/empire_center_for_public_policy.21.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571268921,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/empire_center_for_public_policy.21.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/empire_center_for_public_policy.21.pdf"
+}

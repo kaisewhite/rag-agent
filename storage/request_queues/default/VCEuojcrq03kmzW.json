@@ -1,0 +1,9 @@
+{
+	"id": "VCEuojcrq03kmzW",
+	"json": "{\"id\":\"VCEuojcrq03kmzW\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Domestic%20Animal%20Welfare\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Domestic+Animal+Welfare\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569544416,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Domestic+Animal+Welfare",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Domestic%20Animal%20Welfare"
+}

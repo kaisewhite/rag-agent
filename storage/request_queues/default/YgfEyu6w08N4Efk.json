@@ -1,0 +1,9 @@
+{
+	"id": "YgfEyu6w08N4Efk",
+	"json": "{\"id\":\"YgfEyu6w08N4Efk\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-14-2021/senate-district-19-senior-resource-day-2021\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-14-2021/senate-district-19-senior-resource-day-2021\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247324,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-14-2021/senate-district-19-senior-resource-day-2021",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-14-2021/senate-district-19-senior-resource-day-2021"
+}

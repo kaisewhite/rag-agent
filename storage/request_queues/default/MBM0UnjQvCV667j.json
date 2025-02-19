@@ -1,0 +1,9 @@
+{
+	"id": "MBM0UnjQvCV667j",
+	"json": "{\"id\":\"MBM0UnjQvCV667j\",\"url\":\"https://www.nysenate.gov/issues/nys-transit-networks\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nys-transit-networks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741809,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nys-transit-networks",
+	"url": "https://www.nysenate.gov/issues/nys-transit-networks"
+}

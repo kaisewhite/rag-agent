@@ -1,0 +1,9 @@
+{
+	"id": "2aURuerIP7hUuF1",
+	"json": "{\"id\":\"2aURuerIP7hUuF1\",\"url\":\"https://www.nysenate.gov/sites/default/files/susan_bryant_nysda.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/susan_bryant_nysda.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716548,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/susan_bryant_nysda.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/susan_bryant_nysda.pdf"
+}

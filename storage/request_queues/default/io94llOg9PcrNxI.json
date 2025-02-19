@@ -1,0 +1,9 @@
+{
+	"id": "io94llOg9PcrNxI",
+	"json": "{\"id\":\"io94llOg9PcrNxI\",\"url\":\"https://www.nysenate.gov/issues/budget-proposal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/budget-proposal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770671,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/budget-proposal",
+	"url": "https://www.nysenate.gov/issues/budget-proposal"
+}

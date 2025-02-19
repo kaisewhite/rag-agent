@@ -1,0 +1,9 @@
+{
+	"id": "xRdMrsTaCtLqH7x",
+	"json": "{\"id\":\"xRdMrsTaCtLqH7x\",\"url\":\"https://www.nysenate.gov/senators/george-m-borrello/about\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/george-m-borrello/about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569616704,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/george-m-borrello/about",
+	"url": "https://www.nysenate.gov/senators/george-m-borrello/about"
+}

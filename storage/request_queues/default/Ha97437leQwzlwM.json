@@ -1,0 +1,9 @@
+{
+	"id": "Ha97437leQwzlwM",
+	"json": "{\"id\":\"Ha97437leQwzlwM\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-08-2024/sd-19-mobile-office-1110-granville-payne-ave\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-08-2024/sd-19-mobile-office-1110-granville-payne-ave\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247517,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-08-2024/sd-19-mobile-office-1110-granville-payne-ave",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-08-2024/sd-19-mobile-office-1110-granville-payne-ave"
+}

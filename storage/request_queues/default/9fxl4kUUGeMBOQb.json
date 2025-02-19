@@ -1,0 +1,9 @@
+{
+	"id": "9fxl4kUUGeMBOQb",
+	"json": "{\"id\":\"9fxl4kUUGeMBOQb\",\"url\":\"https://www.nysenate.gov/sites/default/files/pcny_-_richard_wells_albany_testimony.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/pcny_-_richard_wells_albany_testimony.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571727294,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/pcny_-_richard_wells_albany_testimony.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/pcny_-_richard_wells_albany_testimony.pdf"
+}

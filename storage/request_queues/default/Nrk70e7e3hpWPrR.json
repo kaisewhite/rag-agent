@@ -1,0 +1,9 @@
+{
+	"id": "Nrk70e7e3hpWPrR",
+	"json": "{\"id\":\"Nrk70e7e3hpWPrR\",\"url\":\"https://www.nysenate.gov/legislation/laws/LIE/A3\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/LIE/A3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569937950,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/LIE/A3",
+	"url": "https://www.nysenate.gov/legislation/laws/LIE/A3"
+}

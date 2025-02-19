@@ -1,0 +1,9 @@
+{
+	"id": "k6vvgWP2m5Bcvpa",
+	"json": "{\"id\":\"k6vvgWP2m5Bcvpa\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/martin-malave-dilan/dilan-chair-senate-transportation-committee-presides\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/martin-malave-dilan/dilan-chair-senate-transportation-committee-presides\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855304,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/martin-malave-dilan/dilan-chair-senate-transportation-committee-presides",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/martin-malave-dilan/dilan-chair-senate-transportation-committee-presides"
+}

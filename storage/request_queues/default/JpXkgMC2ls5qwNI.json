@@ -1,0 +1,9 @@
+{
+	"id": "JpXkgMC2ls5qwNI",
+	"json": "{\"id\":\"JpXkgMC2ls5qwNI\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/eric-schneiderman/state-senate-should-support-firearms-microstamping\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/eric-schneiderman/state-senate-should-support-firearms-microstamping\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725904,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/eric-schneiderman/state-senate-should-support-firearms-microstamping",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/eric-schneiderman/state-senate-should-support-firearms-microstamping"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "qjrItdle2D3Ibj7",
+	"json": "{\"id\":\"qjrItdle2D3Ibj7\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2022/luis-r-sepulveda/lawmakers-ask-state-police-review-bulk-gun-and-ammo\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2022/luis-r-sepulveda/lawmakers-ask-state-police-review-bulk-gun-and-ammo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571672326,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2022/luis-r-sepulveda/lawmakers-ask-state-police-review-bulk-gun-and-ammo",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2022/luis-r-sepulveda/lawmakers-ask-state-police-review-bulk-gun-and-ammo"
+}

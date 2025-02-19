@@ -1,0 +1,9 @@
+{
+	"id": "c8I8CfsgcYmtgpT",
+	"json": "{\"id\":\"c8I8CfsgcYmtgpT\",\"url\":\"https://www.nysenate.gov/calendar/meetings/banks/may-11-2016/banks-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/banks/may-11-2016/banks-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706972,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/banks/may-11-2016/banks-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/banks/may-11-2016/banks-meeting"
+}

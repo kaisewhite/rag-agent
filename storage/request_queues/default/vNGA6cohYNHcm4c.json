@@ -1,0 +1,9 @@
+{
+	"id": "vNGA6cohYNHcm4c",
+	"json": "{\"id\":\"vNGA6cohYNHcm4c\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/november-29-2011/roundtable-discussion-current-and-future-issues-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/november-29-2011/roundtable-discussion-current-and-future-issues-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717601,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/november-29-2011/roundtable-discussion-current-and-future-issues-and",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/november-29-2011/roundtable-discussion-current-and-future-issues-and"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "BA7INqEmBdkQ2Sw",
+	"json": "{\"id\":\"BA7INqEmBdkQ2Sw\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/daily-news-ny-lawmakers-want-next-federal-coronavirus\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/daily-news-ny-lawmakers-want-next-federal-coronavirus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798918,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/daily-news-ny-lawmakers-want-next-federal-coronavirus",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/daily-news-ny-lawmakers-want-next-federal-coronavirus"
+}

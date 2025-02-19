@@ -1,0 +1,9 @@
+{
+	"id": "Rn7VYFv4k6Z0Dsa",
+	"json": "{\"id\":\"Rn7VYFv4k6Z0Dsa\",\"url\":\"https://www.nysenate.gov/calendar/meetings/internet-and-technology/may-06-2019/internet-and-technology-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/internet-and-technology/may-06-2019/internet-and-technology-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569796255,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/internet-and-technology/may-06-2019/internet-and-technology-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/internet-and-technology/may-06-2019/internet-and-technology-meeting"
+}

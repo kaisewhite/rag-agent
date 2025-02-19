@@ -1,0 +1,9 @@
+{
+	"id": "28A0nDUxs8SvEG8",
+	"json": "{\"id\":\"28A0nDUxs8SvEG8\",\"url\":\"https://www.nysenate.gov/issues/investment-tax-credit\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/investment-tax-credit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569551654,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/investment-tax-credit",
+	"url": "https://www.nysenate.gov/issues/investment-tax-credit"
+}

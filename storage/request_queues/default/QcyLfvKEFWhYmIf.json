@@ -1,0 +1,9 @@
+{
+	"id": "QcyLfvKEFWhYmIf",
+	"json": "{\"id\":\"QcyLfvKEFWhYmIf\",\"url\":\"https://www.nysenate.gov/issues/long-island-divided\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/long-island-divided\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740944,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/long-island-divided",
+	"url": "https://www.nysenate.gov/issues/long-island-divided"
+}

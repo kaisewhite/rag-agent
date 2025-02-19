@@ -1,0 +1,9 @@
+{
+	"id": "IpFdKuvum3hQIn8",
+	"json": "{\"id\":\"IpFdKuvum3hQIn8\",\"url\":\"https://www.nysenate.gov/issues/indoor-dining\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/indoor-dining\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571311375,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/indoor-dining",
+	"url": "https://www.nysenate.gov/issues/indoor-dining"
+}

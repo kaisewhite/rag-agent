@@ -1,0 +1,9 @@
+{
+	"id": "dkngNtc7Yu9dRpy",
+	"json": "{\"id\":\"dkngNtc7Yu9dRpy\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2019/psa1-community-council-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2019/psa1-community-council-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247019,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2019/psa1-community-council-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2019/psa1-community-council-monthly-meeting"
+}

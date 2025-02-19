@@ -1,0 +1,9 @@
+{
+	"id": "70F7ElP9c6H7cLZ",
+	"json": "{\"id\":\"70F7ElP9c6H7cLZ\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2021/kevin-thomas/free-smoke-alarms-available-constituents-through-red-cross\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/articles/2021/kevin-thomas/free-smoke-alarms-available-constituents-through-red-cross\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2021/kevin-thomas/free-smoke-alarms-available-constituents-through-red-cross\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:16:04.860Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2021/kevin-thomas/free-smoke-alarms-available-constituents-through-red-cross",
+	"url": "https://www.nysenate.gov/newsroom/articles/2021/kevin-thomas/free-smoke-alarms-available-constituents-through-red-cross"
+}

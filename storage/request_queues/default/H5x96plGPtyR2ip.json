@@ -1,0 +1,9 @@
+{
+	"id": "H5x96plGPtyR2ip",
+	"json": "{\"id\":\"H5x96plGPtyR2ip\",\"url\":\"https://www.nysenate.gov/dashboard/senators/kevin-thomas\",\"loadedUrl\":\"https://www.nysenate.gov/\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/kevin-thomas\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:09:21.887Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/kevin-thomas",
+	"url": "https://www.nysenate.gov/dashboard/senators/kevin-thomas"
+}

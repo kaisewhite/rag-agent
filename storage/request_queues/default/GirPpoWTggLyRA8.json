@@ -1,0 +1,9 @@
+{
+	"id": "GirPpoWTggLyRA8",
+	"json": "{\"id\":\"GirPpoWTggLyRA8\",\"url\":\"https://www.nysenate.gov/issues/online-retail-marketplaces\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/online-retail-marketplaces\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740938,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/online-retail-marketplaces",
+	"url": "https://www.nysenate.gov/issues/online-retail-marketplaces"
+}

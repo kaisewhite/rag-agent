@@ -1,0 +1,9 @@
+{
+	"id": "MBam7lw4Yn6rRgg",
+	"json": "{\"id\":\"MBam7lw4Yn6rRgg\",\"url\":\"https://www.nysenate.gov/newsroom/video/michael-gianaris/wabc-tv-your-side-epic-frustration-after-wire-transfer-worth-632000\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/michael-gianaris/wabc-tv-your-side-epic-frustration-after-wire-transfer-worth-632000\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571429410,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/michael-gianaris/wabc-tv-your-side-epic-frustration-after-wire-transfer-worth-632000",
+	"url": "https://www.nysenate.gov/newsroom/video/michael-gianaris/wabc-tv-your-side-epic-frustration-after-wire-transfer-worth-632000"
+}

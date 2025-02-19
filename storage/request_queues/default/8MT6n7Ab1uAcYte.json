@@ -1,0 +1,9 @@
+{
+	"id": "8MT6n7Ab1uAcYte",
+	"json": "{\"id\":\"8MT6n7Ab1uAcYte\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/november-22-2019/public-hearing-protecting-consumer-data-and-privacy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/november-22-2019/public-hearing-protecting-consumer-data-and-privacy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740913,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/november-22-2019/public-hearing-protecting-consumer-data-and-privacy",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/november-22-2019/public-hearing-protecting-consumer-data-and-privacy"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Co2RkBHaA6w2KK8",
+	"json": "{\"id\":\"Co2RkBHaA6w2KK8\",\"url\":\"https://www.nysenate.gov/calendar/meetings/consumer-protection/may-20-2013/consumer-protection-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/consumer-protection/may-20-2013/consumer-protection-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740927,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/consumer-protection/may-20-2013/consumer-protection-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/consumer-protection/may-20-2013/consumer-protection-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "6Ls721xf74TXkS7",
+	"json": "{\"id\":\"6Ls721xf74TXkS7\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/s7919\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/s7919\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570105149,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/s7919",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/s7919"
+}

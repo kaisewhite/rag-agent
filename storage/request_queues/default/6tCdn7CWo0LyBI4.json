@@ -1,0 +1,9 @@
+{
+	"id": "6tCdn7CWo0LyBI4",
+	"json": "{\"id\":\"6tCdn7CWo0LyBI4\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Utilities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Utilities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569571296,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Utilities",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Utilities"
+}

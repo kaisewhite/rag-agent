@@ -1,0 +1,9 @@
+{
+	"id": "MKplwBHA8Mthast",
+	"json": "{\"id\":\"MKplwBHA8Mthast\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/michael-gianaris/senate-deputy-leader-gianaris-assembly-member\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/michael-gianaris/senate-deputy-leader-gianaris-assembly-member\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571556281,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/michael-gianaris/senate-deputy-leader-gianaris-assembly-member",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/michael-gianaris/senate-deputy-leader-gianaris-assembly-member"
+}

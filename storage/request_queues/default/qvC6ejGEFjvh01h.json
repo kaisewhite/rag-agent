@@ -1,0 +1,9 @@
+{
+	"id": "qvC6ejGEFjvh01h",
+	"json": "{\"id\":\"qvC6ejGEFjvh01h\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/pete-harckham/senator-harckham-gains-state-funding-north-salem\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/pete-harckham/senator-harckham-gains-state-funding-north-salem\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571144580,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/pete-harckham/senator-harckham-gains-state-funding-north-salem",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/pete-harckham/senator-harckham-gains-state-funding-north-salem"
+}

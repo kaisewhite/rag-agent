@@ -1,0 +1,9 @@
+{
+	"id": "dnbo35Hdh1GmfK0",
+	"json": "{\"id\":\"dnbo35Hdh1GmfK0\",\"url\":\"https://www.nysenate.gov/issues/utility-workers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/utility-workers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571574490,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/utility-workers",
+	"url": "https://www.nysenate.gov/issues/utility-workers"
+}

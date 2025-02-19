@@ -1,0 +1,9 @@
+{
+	"id": "vhVLU6ljVwA7F9W",
+	"json": "{\"id\":\"vhVLU6ljVwA7F9W\",\"url\":\"https://www.nysenate.gov/legislation\",\"loadedUrl\":\"https://www.nysenate.gov/legislation\",\"uniqueKey\":\"https://www.nysenate.gov/legislation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:44:06.604Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.nysenate.gov/legislation",
+	"url": "https://www.nysenate.gov/legislation"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "tWWG5K12JdoL9Dc",
+	"json": "{\"id\":\"tWWG5K12JdoL9Dc\",\"url\":\"https://www.nysenate.gov/issues/epic-elderly-pharmaceutical-insurance-coverage-program\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/epic-elderly-pharmaceutical-insurance-coverage-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698368,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/epic-elderly-pharmaceutical-insurance-coverage-program",
+	"url": "https://www.nysenate.gov/issues/epic-elderly-pharmaceutical-insurance-coverage-program"
+}

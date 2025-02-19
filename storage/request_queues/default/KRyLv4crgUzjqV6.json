@@ -1,0 +1,9 @@
+{
+	"id": "KRyLv4crgUzjqV6",
+	"json": "{\"id\":\"KRyLv4crgUzjqV6\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/october-20-2010/notice-public-hearing-impact-member-item-reduction-small\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/october-20-2010/notice-public-hearing-impact-member-item-reduction-small\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571040496,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/october-20-2010/notice-public-hearing-impact-member-item-reduction-small",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/october-20-2010/notice-public-hearing-impact-member-item-reduction-small"
+}

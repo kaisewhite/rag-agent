@@ -1,0 +1,9 @@
+{
+	"id": "rImZk9DafJH1dhr",
+	"json": "{\"id\":\"rImZk9DafJH1dhr\",\"url\":\"https://www.nysenate.gov/legislation/laws/ACA/TK\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ACA/TK\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569879762,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ACA/TK",
+	"url": "https://www.nysenate.gov/legislation/laws/ACA/TK"
+}

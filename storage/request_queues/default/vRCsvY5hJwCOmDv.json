@@ -1,0 +1,9 @@
+{
+	"id": "vRCsvY5hJwCOmDv",
+	"json": "{\"id\":\"vRCsvY5hJwCOmDv\",\"url\":\"https://www.nysenate.gov/issues/business\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/business\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571573128,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/business",
+	"url": "https://www.nysenate.gov/issues/business"
+}

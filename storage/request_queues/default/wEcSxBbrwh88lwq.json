@@ -1,0 +1,9 @@
+{
+	"id": "wEcSxBbrwh88lwq",
+	"json": "{\"id\":\"wEcSxBbrwh88lwq\",\"url\":\"https://www.nysenate.gov/search/legislation?type=bill&session_year=2025&sponsor=93722\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/legislation?session_year=2025&sponsor=93722&type=bill\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570178732,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/legislation?session_year=2025&sponsor=93722&type=bill",
+	"url": "https://www.nysenate.gov/search/legislation?type=bill&session_year=2025&sponsor=93722"
+}

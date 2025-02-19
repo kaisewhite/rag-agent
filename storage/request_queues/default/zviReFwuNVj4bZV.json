@@ -1,0 +1,9 @@
+{
+	"id": "zviReFwuNVj4bZV",
+	"json": "{\"id\":\"zviReFwuNVj4bZV\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/luis-r-sepulveda/senate-majority-passes-legislation-honor-animal-advocacy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/luis-r-sepulveda/senate-majority-passes-legislation-honor-animal-advocacy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739572375474,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/luis-r-sepulveda/senate-majority-passes-legislation-honor-animal-advocacy",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/luis-r-sepulveda/senate-majority-passes-legislation-honor-animal-advocacy"
+}

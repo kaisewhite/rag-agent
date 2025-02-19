@@ -1,0 +1,9 @@
+{
+	"id": "GYQnMBwZmox2oiq",
+	"json": "{\"id\":\"GYQnMBwZmox2oiq\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-29-2019/conversations-senator-persaud\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-29-2019/conversations-senator-persaud\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247027,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-29-2019/conversations-senator-persaud",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-29-2019/conversations-senator-persaud"
+}

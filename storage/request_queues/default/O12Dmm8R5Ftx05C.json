@@ -1,0 +1,9 @@
+{
+	"id": "O12Dmm8R5Ftx05C",
+	"json": "{\"id\":\"O12Dmm8R5Ftx05C\",\"url\":\"https://www.nysenate.gov/legislation/laws/ENV\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/ENV\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ENV\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:52.889Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ENV",
+	"url": "https://www.nysenate.gov/legislation/laws/ENV"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "y7L08yl9X8O2OWD",
+	"json": "{\"id\":\"y7L08yl9X8O2OWD\",\"url\":\"https://www.nysenate.gov/open-data?page=2\",\"uniqueKey\":\"GET():https://www.nysenate.gov/open-data?page=2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569875133,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/open-data?page=2",
+	"url": "https://www.nysenate.gov/open-data?page=2"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "WjM8QuW8FjqotJx",
+	"json": "{\"id\":\"WjM8QuW8FjqotJx\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/david-j-valesky/sen-valesky-congratulates-occ-student-matt-honeywell\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/david-j-valesky/sen-valesky-congratulates-occ-student-matt-honeywell\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571049947,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/david-j-valesky/sen-valesky-congratulates-occ-student-matt-honeywell",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/david-j-valesky/sen-valesky-congratulates-occ-student-matt-honeywell"
+}

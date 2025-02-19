@@ -1,0 +1,9 @@
+{
+	"id": "KAEnoXjRlNKJ2aR",
+	"json": "{\"id\":\"KAEnoXjRlNKJ2aR\",\"url\":\"https://www.nysenate.gov/petitions/robert-g-ortt/protect-affordable-housing-new-york\",\"loadedUrl\":\"https://www.nysenate.gov/petitions/robert-g-ortt/protect-affordable-housing-new-york\",\"uniqueKey\":\"GET():https://www.nysenate.gov/petitions/robert-g-ortt/protect-affordable-housing-new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:11:46.673Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/petitions/robert-g-ortt/protect-affordable-housing-new-york",
+	"url": "https://www.nysenate.gov/petitions/robert-g-ortt/protect-affordable-housing-new-york"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "5x0CoOzU93C58yb",
+	"json": "{\"id\":\"5x0CoOzU93C58yb\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Women%20of%20Distinction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Women+of+Distinction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570021504,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Women+of+Distinction",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Women%20of%20Distinction"
+}

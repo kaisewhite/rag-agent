@@ -1,0 +1,9 @@
+{
+	"id": "9l7i02NZ2Nrcz7p",
+	"json": "{\"id\":\"9l7i02NZ2Nrcz7p\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2019/liz-krueger/blue-book-senate-majority-staff-analysis-2019-2020-executive\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2019/liz-krueger/blue-book-senate-majority-staff-analysis-2019-2020-executive\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781085,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2019/liz-krueger/blue-book-senate-majority-staff-analysis-2019-2020-executive",
+	"url": "https://www.nysenate.gov/newsroom/articles/2019/liz-krueger/blue-book-senate-majority-staff-analysis-2019-2020-executive"
+}

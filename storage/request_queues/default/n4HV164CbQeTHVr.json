@@ -1,0 +1,9 @@
+{
+	"id": "n4HV164CbQeTHVr",
+	"json": "{\"id\":\"n4HV164CbQeTHVr\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/state-lawmaker-proposes-increase-nursing-home-allowance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/state-lawmaker-proposes-increase-nursing-home-allowance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571258848,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/state-lawmaker-proposes-increase-nursing-home-allowance",
+	"url": "https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/state-lawmaker-proposes-increase-nursing-home-allowance"
+}

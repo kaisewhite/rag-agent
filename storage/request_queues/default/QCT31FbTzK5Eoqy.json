@@ -1,0 +1,9 @@
+{
+	"id": "QCT31FbTzK5Eoqy",
+	"json": "{\"id\":\"QCT31FbTzK5Eoqy\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/july-28-2020/public-hearing-how-covid-19-has-impacted-higher-education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/july-28-2020/public-hearing-how-covid-19-has-impacted-higher-education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788141,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/july-28-2020/public-hearing-how-covid-19-has-impacted-higher-education",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/july-28-2020/public-hearing-how-covid-19-has-impacted-higher-education"
+}

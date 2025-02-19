@@ -1,0 +1,9 @@
+{
+	"id": "eCp7nyy6JJaYZAw",
+	"json": "{\"id\":\"eCp7nyy6JJaYZAw\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/john-c-liu/senator-john-liu-statement-resignation-nyc-public-schools\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/john-c-liu/senator-john-liu-statement-resignation-nyc-public-schools\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284412,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/john-c-liu/senator-john-liu-statement-resignation-nyc-public-schools",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/john-c-liu/senator-john-liu-statement-resignation-nyc-public-schools"
+}

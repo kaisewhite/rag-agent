@@ -1,0 +1,9 @@
+{
+	"id": "fFBghF4ThxXz71R",
+	"json": "{\"id\":\"fFBghF4ThxXz71R\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-speak-clean-diesel-clean-air-new\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-speak-clean-diesel-clean-air-new\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770759,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-speak-clean-diesel-clean-air-new",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-speak-clean-diesel-clean-air-new"
+}

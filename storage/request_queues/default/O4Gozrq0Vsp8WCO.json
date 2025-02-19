@@ -1,0 +1,9 @@
+{
+	"id": "O4Gozrq0Vsp8WCO",
+	"json": "{\"id\":\"O4Gozrq0Vsp8WCO\",\"url\":\"https://www.nysenate.gov/issues/homeowners\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/homeowners\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798834,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/homeowners",
+	"url": "https://www.nysenate.gov/issues/homeowners"
+}

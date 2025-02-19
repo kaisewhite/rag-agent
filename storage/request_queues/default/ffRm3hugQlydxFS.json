@@ -1,0 +1,9 @@
+{
+	"id": "ffRm3hugQlydxFS",
+	"json": "{\"id\":\"ffRm3hugQlydxFS\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/senator-julia-salazar-honors-four-women-during-national-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/senator-julia-salazar-honors-four-women-during-national-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569858764,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/senator-julia-salazar-honors-four-women-during-national-0",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/julia-salazar/senator-julia-salazar-honors-four-women-during-national-0"
+}

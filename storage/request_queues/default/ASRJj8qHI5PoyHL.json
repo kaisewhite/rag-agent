@@ -1,0 +1,9 @@
+{
+	"id": "ASRJj8qHI5PoyHL",
+	"json": "{\"id\":\"ASRJj8qHI5PoyHL\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S5841\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S5841\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571654481,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S5841",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S5841"
+}

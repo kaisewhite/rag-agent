@@ -1,0 +1,9 @@
+{
+	"id": "Q2tPZ3OoboegcsE",
+	"json": "{\"id\":\"Q2tPZ3OoboegcsE\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-we-need-tax-relief-now\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-we-need-tax-relief-now\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848861,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-we-need-tax-relief-now",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-we-need-tax-relief-now"
+}

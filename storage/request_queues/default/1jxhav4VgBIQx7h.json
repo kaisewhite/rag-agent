@@ -1,0 +1,9 @@
+{
+	"id": "1jxhav4VgBIQx7h",
+	"json": "{\"id\":\"1jxhav4VgBIQx7h\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/editorial-senate-taking-aim-high-drug-prices\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/editorial-senate-taking-aim-high-drug-prices\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808645,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/editorial-senate-taking-aim-high-drug-prices",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/editorial-senate-taking-aim-high-drug-prices"
+}

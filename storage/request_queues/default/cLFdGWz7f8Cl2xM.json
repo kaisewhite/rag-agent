@@ -1,0 +1,9 @@
+{
+	"id": "cLFdGWz7f8Cl2xM",
+	"json": "{\"id\":\"cLFdGWz7f8Cl2xM\",\"url\":\"https://www.nysenate.gov/legislation/laws/VIL/A12\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/VIL/A12\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569997612,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/VIL/A12",
+	"url": "https://www.nysenate.gov/legislation/laws/VIL/A12"
+}

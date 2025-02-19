@@ -1,0 +1,9 @@
+{
+	"id": "HNATLHt6q6oTdRD",
+	"json": "{\"id\":\"HNATLHt6q6oTdRD\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S8301/amendment/original\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S8301/amendment/original\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571789355,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S8301/amendment/original",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S8301/amendment/original"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0ZGkXoCswtRJsl7",
+	"json": "{\"id\":\"0ZGkXoCswtRJsl7\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/brian-kavanagh/attorney-general-james-cracks-down-tenant-blacklisting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/brian-kavanagh/attorney-general-james-cracks-down-tenant-blacklisting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798867,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/brian-kavanagh/attorney-general-james-cracks-down-tenant-blacklisting",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/brian-kavanagh/attorney-general-james-cracks-down-tenant-blacklisting"
+}

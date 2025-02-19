@@ -1,0 +1,9 @@
+{
+	"id": "5xfNVBNcIukbKpc",
+	"json": "{\"id\":\"5xfNVBNcIukbKpc\",\"url\":\"https://www.nysenate.gov/issues/fordham-university\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/fordham-university\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571537724,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/fordham-university",
+	"url": "https://www.nysenate.gov/issues/fordham-university"
+}

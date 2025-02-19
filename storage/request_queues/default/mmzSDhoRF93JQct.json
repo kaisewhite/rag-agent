@@ -1,0 +1,9 @@
+{
+	"id": "mmzSDhoRF93JQct",
+	"json": "{\"id\":\"mmzSDhoRF93JQct\",\"url\":\"https://www.nysenate.gov/issues/enhanced-star\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/enhanced-star\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698367,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/enhanced-star",
+	"url": "https://www.nysenate.gov/issues/enhanced-star"
+}

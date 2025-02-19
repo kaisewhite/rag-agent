@@ -1,0 +1,9 @@
+{
+	"id": "EXC556qj8IQts0U",
+	"json": "{\"id\":\"EXC556qj8IQts0U\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/february-29-2016/fossil-fuel-divestment-forum\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/february-29-2016/fossil-fuel-divestment-forum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752637,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/february-29-2016/fossil-fuel-divestment-forum",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/february-29-2016/fossil-fuel-divestment-forum"
+}

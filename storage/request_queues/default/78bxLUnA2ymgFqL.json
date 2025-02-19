@@ -1,0 +1,9 @@
+{
+	"id": "78bxLUnA2ymgFqL",
+	"json": "{\"id\":\"78bxLUnA2ymgFqL\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/january-26-2010/new-york-states-noon-collection-taxes-cigarettes-sold-non\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/january-26-2010/new-york-states-noon-collection-taxes-cigarettes-sold-non\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808632,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/january-26-2010/new-york-states-noon-collection-taxes-cigarettes-sold-non",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/january-26-2010/new-york-states-noon-collection-taxes-cigarettes-sold-non"
+}

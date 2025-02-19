@@ -1,0 +1,9 @@
+{
+	"id": "Fje9I8rftOVl4Ro",
+	"json": "{\"id\":\"Fje9I8rftOVl4Ro\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2023/iwen-chu/indian-lake-librarian-one-states-top-10\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2023/iwen-chu/indian-lake-librarian-one-states-top-10\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569812932,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2023/iwen-chu/indian-lake-librarian-one-states-top-10",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2023/iwen-chu/indian-lake-librarian-one-states-top-10"
+}

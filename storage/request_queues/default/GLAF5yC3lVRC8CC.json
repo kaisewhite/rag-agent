@@ -1,0 +1,9 @@
+{
+	"id": "GLAF5yC3lVRC8CC",
+	"json": "{\"id\":\"GLAF5yC3lVRC8CC\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/happy-holidays-senator-jack-m-martins\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/happy-holidays-senator-jack-m-martins\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847662,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/happy-holidays-senator-jack-m-martins",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/happy-holidays-senator-jack-m-martins"
+}

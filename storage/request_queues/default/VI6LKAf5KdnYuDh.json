@@ -1,0 +1,9 @@
+{
+	"id": "VI6LKAf5KdnYuDh",
+	"json": "{\"id\":\"VI6LKAf5KdnYuDh\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S4036\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S4036\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571522639,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S4036",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S4036"
+}

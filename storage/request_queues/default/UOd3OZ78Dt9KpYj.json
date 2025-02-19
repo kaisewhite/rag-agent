@@ -1,0 +1,9 @@
+{
+	"id": "UOd3OZ78Dt9KpYj",
+	"json": "{\"id\":\"UOd3OZ78Dt9KpYj\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/february-06-2012/examine-executive-compensation-not-profit-organizations\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/february-06-2012/examine-executive-compensation-not-profit-organizations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808624,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/february-06-2012/examine-executive-compensation-not-profit-organizations",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/february-06-2012/examine-executive-compensation-not-profit-organizations"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "xdwN69Yl4g3GmUc",
+	"json": "{\"id\":\"xdwN69Yl4g3GmUc\",\"url\":\"https://www.nysenate.gov/calendar/public-hearings/october-23-2023/joint-public-hearing-examine-legislative-solutions\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public-hearings/october-23-2023/joint-public-hearing-examine-legislative-solutions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770637,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public-hearings/october-23-2023/joint-public-hearing-examine-legislative-solutions",
+	"url": "https://www.nysenate.gov/calendar/public-hearings/october-23-2023/joint-public-hearing-examine-legislative-solutions"
+}

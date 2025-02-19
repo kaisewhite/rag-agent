@@ -1,0 +1,9 @@
+{
+	"id": "5SStlkRK86nYt1m",
+	"json": "{\"id\":\"5SStlkRK86nYt1m\",\"url\":\"https://www.nysenate.gov/issues/school-children\",\"loadedUrl\":\"https://www.nysenate.gov/issues/school-children\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/school-children\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:21:17.613Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/school-children",
+	"url": "https://www.nysenate.gov/issues/school-children"
+}

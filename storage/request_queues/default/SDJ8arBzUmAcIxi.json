@@ -1,0 +1,9 @@
+{
+	"id": "SDJ8arBzUmAcIxi",
+	"json": "{\"id\":\"SDJ8arBzUmAcIxi\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2017/john-j-bonacic/2016-annual-report-senate-committee-racing-gaming-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2017/john-j-bonacic/2016-annual-report-senate-committee-racing-gaming-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833562,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2017/john-j-bonacic/2016-annual-report-senate-committee-racing-gaming-and",
+	"url": "https://www.nysenate.gov/newsroom/articles/2017/john-j-bonacic/2016-annual-report-senate-committee-racing-gaming-and"
+}

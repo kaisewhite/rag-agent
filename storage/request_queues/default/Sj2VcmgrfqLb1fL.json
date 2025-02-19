@@ -1,0 +1,9 @@
+{
+	"id": "Sj2VcmgrfqLb1fL",
+	"json": "{\"id\":\"Sj2VcmgrfqLb1fL\",\"url\":\"https://www.nysenate.gov/issues/street-safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/street-safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570200218,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/street-safety",
+	"url": "https://www.nysenate.gov/issues/street-safety"
+}

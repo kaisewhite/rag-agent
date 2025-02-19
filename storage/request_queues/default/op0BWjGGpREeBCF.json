@@ -1,0 +1,9 @@
+{
+	"id": "op0BWjGGpREeBCF",
+	"json": "{\"id\":\"op0BWjGGpREeBCF\",\"url\":\"https://www.nysenate.gov/issues/anti-semitism\",\"loadedUrl\":\"https://www.nysenate.gov/issues/anti-semitism\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/anti-semitism\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:14:53.561Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/anti-semitism",
+	"url": "https://www.nysenate.gov/issues/anti-semitism"
+}

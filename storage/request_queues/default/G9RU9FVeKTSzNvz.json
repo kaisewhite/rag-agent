@@ -1,0 +1,9 @@
+{
+	"id": "G9RU9FVeKTSzNvz",
+	"json": "{\"id\":\"G9RU9FVeKTSzNvz\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/senate-democratic-majority-secures-historic-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/senate-democratic-majority-secures-historic-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571063981,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/senate-democratic-majority-secures-historic-funding",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/senate-democratic-majority-secures-historic-funding"
+}

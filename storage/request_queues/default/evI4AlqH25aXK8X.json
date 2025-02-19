@@ -1,0 +1,9 @@
+{
+	"id": "evI4AlqH25aXK8X",
+	"json": "{\"id\":\"evI4AlqH25aXK8X\",\"url\":\"https://www.nysenate.gov/senators/nathalia-fernandez/calendar\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/nathalia-fernandez/calendar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569636117,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/nathalia-fernandez/calendar",
+	"url": "https://www.nysenate.gov/senators/nathalia-fernandez/calendar"
+}

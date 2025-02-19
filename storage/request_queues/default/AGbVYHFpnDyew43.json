@@ -1,0 +1,9 @@
+{
+	"id": "AGbVYHFpnDyew43",
+	"json": "{\"id\":\"AGbVYHFpnDyew43\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/darrel-aubertine/sen-aubertine-poses-picture-his-office-cancer-prevention\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/darrel-aubertine/sen-aubertine-poses-picture-his-office-cancer-prevention\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781078,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/darrel-aubertine/sen-aubertine-poses-picture-his-office-cancer-prevention",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/darrel-aubertine/sen-aubertine-poses-picture-his-office-cancer-prevention"
+}

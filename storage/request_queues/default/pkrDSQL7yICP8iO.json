@@ -1,0 +1,9 @@
+{
+	"id": "pkrDSQL7yICP8iO",
+	"json": "{\"id\":\"pkrDSQL7yICP8iO\",\"url\":\"https://www.nysenate.gov/issues/erie-canal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/erie-canal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695488,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/erie-canal",
+	"url": "https://www.nysenate.gov/issues/erie-canal"
+}

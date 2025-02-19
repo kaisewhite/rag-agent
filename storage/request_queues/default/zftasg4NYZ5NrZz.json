@@ -1,0 +1,9 @@
+{
+	"id": "zftasg4NYZ5NrZz",
+	"json": "{\"id\":\"zftasg4NYZ5NrZz\",\"url\":\"https://www.nysenate.gov/senators/samra-g-brouk/calendar\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/samra-g-brouk/calendar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569619540,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/samra-g-brouk/calendar",
+	"url": "https://www.nysenate.gov/senators/samra-g-brouk/calendar"
+}

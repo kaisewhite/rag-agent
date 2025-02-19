@@ -1,0 +1,9 @@
+{
+	"id": "RwI0rm11kYwBcRH",
+	"json": "{\"id\":\"RwI0rm11kYwBcRH\",\"url\":\"https://www.nysenate.gov/profiles/2024/lea-webb/george-m-harrington\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/lea-webb/george-m-harrington\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/lea-webb/george-m-harrington\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:59:46.177Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/lea-webb/george-m-harrington",
+	"url": "https://www.nysenate.gov/profiles/2024/lea-webb/george-m-harrington"
+}

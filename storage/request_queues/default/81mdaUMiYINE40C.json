@@ -1,0 +1,9 @@
+{
+	"id": "81mdaUMiYINE40C",
+	"json": "{\"id\":\"81mdaUMiYINE40C\",\"url\":\"https://www.nysenate.gov/calendar/meetings/libraries/march-20-2024/libraries-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/libraries/march-20-2024/libraries-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569812927,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/libraries/march-20-2024/libraries-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/libraries/march-20-2024/libraries-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "HOwqJbuPA6aokTI",
+	"json": "{\"id\":\"HOwqJbuPA6aokTI\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/s7301\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/s7301\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571368062,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/s7301",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/s7301"
+}

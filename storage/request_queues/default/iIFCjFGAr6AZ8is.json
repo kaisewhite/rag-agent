@@ -1,0 +1,9 @@
+{
+	"id": "iIFCjFGAr6AZ8is",
+	"json": "{\"id\":\"iIFCjFGAr6AZ8is\",\"url\":\"https://www.nysenate.gov/issues/all-electric-building-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/all-electric-building-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770674,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/all-electric-building-act",
+	"url": "https://www.nysenate.gov/issues/all-electric-building-act"
+}

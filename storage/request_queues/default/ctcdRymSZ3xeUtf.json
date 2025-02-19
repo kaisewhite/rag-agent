@@ -1,0 +1,9 @@
+{
+	"id": "ctcdRymSZ3xeUtf",
+	"json": "{\"id\":\"ctcdRymSZ3xeUtf\",\"url\":\"https://www.nysenate.gov/newsroom/video/michael-gianaris/senator-gianaris-floor-speech-ending-puppy-mill-pipeline\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/michael-gianaris/senator-gianaris-floor-speech-ending-puppy-mill-pipeline\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570739163,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/michael-gianaris/senator-gianaris-floor-speech-ending-puppy-mill-pipeline",
+	"url": "https://www.nysenate.gov/newsroom/video/michael-gianaris/senator-gianaris-floor-speech-ending-puppy-mill-pipeline"
+}

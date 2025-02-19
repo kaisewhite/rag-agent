@@ -1,0 +1,9 @@
+{
+	"id": "osIiCGfaUFgZxPe",
+	"json": "{\"id\":\"osIiCGfaUFgZxPe\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/elevator-constructors-recruiting-apprentices\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/elevator-constructors-recruiting-apprentices\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847644,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/elevator-constructors-recruiting-apprentices",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/elevator-constructors-recruiting-apprentices"
+}

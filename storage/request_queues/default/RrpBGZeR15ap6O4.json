@@ -1,0 +1,9 @@
+{
+	"id": "RrpBGZeR15ap6O4",
+	"json": "{\"id\":\"RrpBGZeR15ap6O4\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-lohud-helping-new-yorkers-finish-college\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-lohud-helping-new-yorkers-finish-college\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-lohud-helping-new-yorkers-finish-college\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:08:55.107Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-lohud-helping-new-yorkers-finish-college",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-lohud-helping-new-yorkers-finish-college"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "cRSMxL6FGGUPffq",
+	"json": "{\"id\":\"cRSMxL6FGGUPffq\",\"url\":\"https://www.nysenate.gov/calendar/events/monica-r-martinez/november-23-2023/senator-monica-r-martinez-free-thanksgiving-day\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/monica-r-martinez/november-23-2023/senator-monica-r-martinez-free-thanksgiving-day\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570291890,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/monica-r-martinez/november-23-2023/senator-monica-r-martinez-free-thanksgiving-day",
+	"url": "https://www.nysenate.gov/calendar/events/monica-r-martinez/november-23-2023/senator-monica-r-martinez-free-thanksgiving-day"
+}

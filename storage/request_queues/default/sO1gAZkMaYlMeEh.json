@@ -1,0 +1,9 @@
+{
+	"id": "sO1gAZkMaYlMeEh",
+	"json": "{\"id\":\"sO1gAZkMaYlMeEh\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/statement-state-senate-housing-investigations-consumer\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/statement-state-senate-housing-investigations-consumer\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798917,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/statement-state-senate-housing-investigations-consumer",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/statement-state-senate-housing-investigations-consumer"
+}

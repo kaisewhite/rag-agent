@@ -1,0 +1,9 @@
+{
+	"id": "J9aN7VI0LQzWvY5",
+	"json": "{\"id\":\"J9aN7VI0LQzWvY5\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-welcomes-secretary-state-portugal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-welcomes-secretary-state-portugal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847655,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-welcomes-secretary-state-portugal",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-welcomes-secretary-state-portugal"
+}

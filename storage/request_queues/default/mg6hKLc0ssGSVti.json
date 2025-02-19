@@ -1,0 +1,9 @@
+{
+	"id": "mg6hKLc0ssGSVti",
+	"json": "{\"id\":\"mg6hKLc0ssGSVti\",\"url\":\"https://www.nysenate.gov/dashboard/senators/rachel-may\",\"loadedUrl\":\"https://www.nysenate.gov/\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/rachel-may\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:10:42.313Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/rachel-may",
+	"url": "https://www.nysenate.gov/dashboard/senators/rachel-may"
+}

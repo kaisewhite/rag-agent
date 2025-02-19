@@ -1,0 +1,9 @@
+{
+	"id": "XDzWrltPNhfgx2B",
+	"json": "{\"id\":\"XDzWrltPNhfgx2B\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-28-2016/senator-persauds-morning-meet-and-greet\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-28-2016/senator-persauds-morning-meet-and-greet\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246331,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-28-2016/senator-persauds-morning-meet-and-greet",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-28-2016/senator-persauds-morning-meet-and-greet"
+}

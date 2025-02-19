@@ -1,0 +1,9 @@
+{
+	"id": "O4dmXIUCtwnqL29",
+	"json": "{\"id\":\"O4dmXIUCtwnqL29\",\"url\":\"https://www.nysenate.gov/legislation/laws/LIE\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/LIE\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/LIE\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:52:17.957Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/LIE",
+	"url": "https://www.nysenate.gov/legislation/laws/LIE"
+}

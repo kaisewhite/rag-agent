@@ -1,0 +1,9 @@
+{
+	"id": "r7kcVkOomIk66ow",
+	"json": "{\"id\":\"r7kcVkOomIk66ow\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-attends-westbury-senior-holiday-party\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-attends-westbury-senior-holiday-party\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847664,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-attends-westbury-senior-holiday-party",
+	"url": "https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-attends-westbury-senior-holiday-party"
+}

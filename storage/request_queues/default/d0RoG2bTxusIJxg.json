@@ -1,0 +1,9 @@
+{
+	"id": "d0RoG2bTxusIJxg",
+	"json": "{\"id\":\"d0RoG2bTxusIJxg\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/senator-jessica-ramos-issues-statement-latest-scotus\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/senator-jessica-ramos-issues-statement-latest-scotus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569665063,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/senator-jessica-ramos-issues-statement-latest-scotus",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/senator-jessica-ramos-issues-statement-latest-scotus"
+}

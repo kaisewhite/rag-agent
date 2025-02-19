@@ -1,0 +1,9 @@
+{
+	"id": "4TCKHHLSDUFxjro",
+	"json": "{\"id\":\"4TCKHHLSDUFxjro\",\"url\":\"https://www.nysenate.gov/issues/building-violations\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/building-violations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571367420,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/building-violations",
+	"url": "https://www.nysenate.gov/issues/building-violations"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CBmSILQmvU9jJc3",
+	"json": "{\"id\":\"CBmSILQmvU9jJc3\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/thomas-d-croci/senator-crocis-statement-governor-cuomo-regarding-nys\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/thomas-d-croci/senator-crocis-statement-governor-cuomo-regarding-nys\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855412,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/thomas-d-croci/senator-crocis-statement-governor-cuomo-regarding-nys",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/thomas-d-croci/senator-crocis-statement-governor-cuomo-regarding-nys"
+}

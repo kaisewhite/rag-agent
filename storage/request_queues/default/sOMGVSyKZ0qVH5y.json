@@ -1,0 +1,9 @@
+{
+	"id": "sOMGVSyKZ0qVH5y",
+	"json": "{\"id\":\"sOMGVSyKZ0qVH5y\",\"url\":\"https://www.nysenate.gov/legislation/laws/AGM/A13-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/AGM/A13-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569883177,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/AGM/A13-A",
+	"url": "https://www.nysenate.gov/legislation/laws/AGM/A13-A"
+}

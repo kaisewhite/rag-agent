@@ -1,0 +1,9 @@
+{
+	"id": "M8riLHMy73OHjOE",
+	"json": "{\"id\":\"M8riLHMy73OHjOE\",\"url\":\"https://www.nysenate.gov/legislation/laws/MDW/A1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/MDW/A1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569940419,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/MDW/A1",
+	"url": "https://www.nysenate.gov/legislation/laws/MDW/A1"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "qoOzdYuW3n1HRIQ",
+	"json": "{\"id\":\"qoOzdYuW3n1HRIQ\",\"url\":\"https://www.nysenate.gov/petitions/dean-murray/tell-albany-no-mta-payroll-tax-increase-years-state-budget\",\"uniqueKey\":\"GET():https://www.nysenate.gov/petitions/dean-murray/tell-albany-no-mta-payroll-tax-increase-years-state-budget\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569657528,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/petitions/dean-murray/tell-albany-no-mta-payroll-tax-increase-years-state-budget",
+	"url": "https://www.nysenate.gov/petitions/dean-murray/tell-albany-no-mta-payroll-tax-increase-years-state-budget"
+}

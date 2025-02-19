@@ -1,0 +1,9 @@
+{
+	"id": "1L4JZh1B5Ihx6rJ",
+	"json": "{\"id\":\"1L4JZh1B5Ihx6rJ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/forwarding-application-emergency-rent-relief-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/forwarding-application-emergency-rent-relief-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798909,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/forwarding-application-emergency-rent-relief-act",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/forwarding-application-emergency-rent-relief-act"
+}

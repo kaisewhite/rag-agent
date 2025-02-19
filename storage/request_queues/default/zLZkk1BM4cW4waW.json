@@ -1,0 +1,9 @@
+{
+	"id": "zLZkk1BM4cW4waW",
+	"json": "{\"id\":\"zLZkk1BM4cW4waW\",\"url\":\"https://www.nysenate.gov/issues/taxpayer-dollars\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/taxpayer-dollars\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571047082,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/taxpayer-dollars",
+	"url": "https://www.nysenate.gov/issues/taxpayer-dollars"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "xCrhtJ9nplcQ30Z",
+	"json": "{\"id\":\"xCrhtJ9nplcQ30Z\",\"url\":\"https://www.nysenate.gov/issues/senator-brad-hoylman\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/senator-brad-hoylman\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570976504,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/senator-brad-hoylman",
+	"url": "https://www.nysenate.gov/issues/senator-brad-hoylman"
+}

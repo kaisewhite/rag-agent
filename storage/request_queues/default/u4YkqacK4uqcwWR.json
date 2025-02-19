@@ -1,0 +1,9 @@
+{
+	"id": "u4YkqacK4uqcwWR",
+	"json": "{\"id\":\"u4YkqacK4uqcwWR\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/martins-named-chair-powerful-committee-local\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/martins-named-chair-powerful-committee-local\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848872,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/martins-named-chair-powerful-committee-local",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/martins-named-chair-powerful-committee-local"
+}

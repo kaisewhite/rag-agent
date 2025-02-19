@@ -1,0 +1,9 @@
+{
+	"id": "f2rfHuysudX771j",
+	"json": "{\"id\":\"f2rfHuysudX771j\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Health%20Care\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Health+Care\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571314765,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Health+Care",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Health%20Care"
+}

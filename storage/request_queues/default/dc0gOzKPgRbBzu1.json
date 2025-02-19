@@ -1,0 +1,9 @@
+{
+	"id": "dc0gOzKPgRbBzu1",
+	"json": "{\"id\":\"dc0gOzKPgRbBzu1\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/april-29-2016/shred-fest\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/april-29-2016/shred-fest\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019281,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/april-29-2016/shred-fest",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/april-29-2016/shred-fest"
+}

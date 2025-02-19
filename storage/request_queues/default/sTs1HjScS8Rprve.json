@@ -1,0 +1,9 @@
+{
+	"id": "sTs1HjScS8Rprve",
+	"json": "{\"id\":\"sTs1HjScS8Rprve\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S1242/amendment/A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S1242/amendment/A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571425807,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S1242/amendment/A",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S1242/amendment/A"
+}

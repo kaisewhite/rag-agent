@@ -1,0 +1,9 @@
+{
+	"id": "17WFGEATPrn935N",
+	"json": "{\"id\":\"17WFGEATPrn935N\",\"url\":\"https://www.nysenate.gov/issues/familial-dna\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/familial-dna\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571467173,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/familial-dna",
+	"url": "https://www.nysenate.gov/issues/familial-dna"
+}

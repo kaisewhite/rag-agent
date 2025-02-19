@@ -1,0 +1,9 @@
+{
+	"id": "YArlVxgJHH0LoaT",
+	"json": "{\"id\":\"YArlVxgJHH0LoaT\",\"url\":\"https://www.nysenate.gov/questionnaires/jessica-ramos/week-seenin13-bi-weekly-newsletter\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/jessica-ramos/week-seenin13-bi-weekly-newsletter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569665067,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/jessica-ramos/week-seenin13-bi-weekly-newsletter",
+	"url": "https://www.nysenate.gov/questionnaires/jessica-ramos/week-seenin13-bi-weekly-newsletter"
+}

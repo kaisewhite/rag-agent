@@ -1,0 +1,9 @@
+{
+	"id": "fFItEQ6OjA3vcNP",
+	"json": "{\"id\":\"fFItEQ6OjA3vcNP\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/martins-schimel-voting-mandate-relief-measure-passes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/martins-schimel-voting-mandate-relief-measure-passes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847703,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/martins-schimel-voting-mandate-relief-measure-passes",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/martins-schimel-voting-mandate-relief-measure-passes"
+}

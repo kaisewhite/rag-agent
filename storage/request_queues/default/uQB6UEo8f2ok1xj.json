@@ -1,0 +1,9 @@
+{
+	"id": "uQB6UEo8f2ok1xj",
+	"json": "{\"id\":\"uQB6UEo8f2ok1xj\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/october-10-2017/hear-stakeholders-implementation-plan-2014-discuss-impacts\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/october-10-2017/hear-stakeholders-implementation-plan-2014-discuss-impacts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770651,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/october-10-2017/hear-stakeholders-implementation-plan-2014-discuss-impacts",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/october-10-2017/hear-stakeholders-implementation-plan-2014-discuss-impacts"
+}

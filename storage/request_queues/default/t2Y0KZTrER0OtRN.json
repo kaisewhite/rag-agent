@@ -1,0 +1,9 @@
+{
+	"id": "t2Y0KZTrER0OtRN",
+	"json": "{\"id\":\"t2Y0KZTrER0OtRN\",\"url\":\"https://www.nysenate.gov/senators/mario-r-mattera/legislation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/mario-r-mattera/legislation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569652530,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/mario-r-mattera/legislation",
+	"url": "https://www.nysenate.gov/senators/mario-r-mattera/legislation"
+}

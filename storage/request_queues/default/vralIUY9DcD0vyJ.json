@@ -1,0 +1,9 @@
+{
+	"id": "vralIUY9DcD0vyJ",
+	"json": "{\"id\":\"vralIUY9DcD0vyJ\",\"url\":\"https://www.nysenate.gov/issues/mortgage-assistance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/mortgage-assistance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798877,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/mortgage-assistance",
+	"url": "https://www.nysenate.gov/issues/mortgage-assistance"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "2yEvVyeVx58b9d6",
+	"json": "{\"id\":\"2yEvVyeVx58b9d6\",\"url\":\"https://www.nysenate.gov/issues/crypto-scams\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/crypto-scams\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740935,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/crypto-scams",
+	"url": "https://www.nysenate.gov/issues/crypto-scams"
+}

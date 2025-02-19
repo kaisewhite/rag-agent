@@ -1,0 +1,9 @@
+{
+	"id": "wTcO6WnD2MtzFhz",
+	"json": "{\"id\":\"wTcO6WnD2MtzFhz\",\"url\":\"https://www.nysenate.gov/issues/climate-law\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/climate-law\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770676,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/climate-law",
+	"url": "https://www.nysenate.gov/issues/climate-law"
+}

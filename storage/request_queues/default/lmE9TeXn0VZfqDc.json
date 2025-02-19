@@ -1,0 +1,9 @@
+{
+	"id": "lmE9TeXn0VZfqDc",
+	"json": "{\"id\":\"lmE9TeXn0VZfqDc\",\"url\":\"https://www.nysenate.gov/issues/democracy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/democracy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569614961,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/democracy",
+	"url": "https://www.nysenate.gov/issues/democracy"
+}

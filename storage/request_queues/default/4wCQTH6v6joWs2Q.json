@@ -1,0 +1,9 @@
+{
+	"id": "4wCQTH6v6joWs2Q",
+	"json": "{\"id\":\"4wCQTH6v6joWs2Q\",\"url\":\"https://www.nysenate.gov/calendar/meetings/transportation/june-03-2014/transportation-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/transportation/june-03-2014/transportation-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855255,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/transportation/june-03-2014/transportation-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/transportation/june-03-2014/transportation-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "O0ZlSOndkOtpXFy",
+	"json": "{\"id\":\"O0ZlSOndkOtpXFy\",\"url\":\"https://www.nysenate.gov/issues/thanksgiving-day-creative-celebration\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/thanksgiving-day-creative-celebration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571677604,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/thanksgiving-day-creative-celebration",
+	"url": "https://www.nysenate.gov/issues/thanksgiving-day-creative-celebration"
+}

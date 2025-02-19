@@ -1,0 +1,9 @@
+{
+	"id": "Aujyw12Pa5IUPH3",
+	"json": "{\"id\":\"Aujyw12Pa5IUPH3\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/senator-grisanti-statement-regarding-extended-air\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/senator-grisanti-statement-regarding-extended-air\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770747,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/senator-grisanti-statement-regarding-extended-air",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/senator-grisanti-statement-regarding-extended-air"
+}

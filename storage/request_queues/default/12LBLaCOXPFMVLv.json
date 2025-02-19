@@ -1,0 +1,9 @@
+{
+	"id": "12LBLaCOXPFMVLv",
+	"json": "{\"id\":\"12LBLaCOXPFMVLv\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBH/A15\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBH/A15\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569955983,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBH/A15",
+	"url": "https://www.nysenate.gov/legislation/laws/PBH/A15"
+}

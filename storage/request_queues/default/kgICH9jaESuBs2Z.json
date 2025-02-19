@@ -1,0 +1,9 @@
+{
+	"id": "kgICH9jaESuBs2Z",
+	"json": "{\"id\":\"kgICH9jaESuBs2Z\",\"url\":\"https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-12-2015/corporations-authorities-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-12-2015/corporations-authorities-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741817,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-12-2015/corporations-authorities-and",
+	"url": "https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-12-2015/corporations-authorities-and"
+}

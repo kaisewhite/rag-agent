@@ -1,0 +1,9 @@
+{
+	"id": "bJhni6l70GWtiUG",
+	"json": "{\"id\":\"bJhni6l70GWtiUG\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/daniel-l-squadron/senator-squadron-chair-senate-cities-committee-host\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/daniel-l-squadron/senator-squadron-chair-senate-cities-committee-host\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569714898,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/daniel-l-squadron/senator-squadron-chair-senate-cities-committee-host",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/daniel-l-squadron/senator-squadron-chair-senate-cities-committee-host"
+}

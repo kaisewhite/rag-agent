@@ -1,0 +1,9 @@
+{
+	"id": "3HoxeQA06UeRpDv",
+	"json": "{\"id\":\"3HoxeQA06UeRpDv\",\"url\":\"https://www.nysenate.gov/issues/sex-offender-loophole\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/sex-offender-loophole\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571686311,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/sex-offender-loophole",
+	"url": "https://www.nysenate.gov/issues/sex-offender-loophole"
+}

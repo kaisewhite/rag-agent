@@ -1,0 +1,9 @@
+{
+	"id": "vn4JjNNCNVmjVgs",
+	"json": "{\"id\":\"vn4JjNNCNVmjVgs\",\"url\":\"https://www.nysenate.gov/issues/offshore-wind\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/offshore-wind\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770707,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/offshore-wind",
+	"url": "https://www.nysenate.gov/issues/offshore-wind"
+}

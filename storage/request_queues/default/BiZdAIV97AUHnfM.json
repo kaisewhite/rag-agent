@@ -1,0 +1,9 @@
+{
+	"id": "BiZdAIV97AUHnfM",
+	"json": "{\"id\":\"BiZdAIV97AUHnfM\",\"url\":\"https://www.nysenate.gov/issues/home-fires\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/home-fires\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571358201,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/home-fires",
+	"url": "https://www.nysenate.gov/issues/home-fires"
+}

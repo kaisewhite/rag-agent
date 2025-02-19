@@ -1,0 +1,9 @@
+{
+	"id": "d1eoz1fiFkAW6Lc",
+	"json": "{\"id\":\"d1eoz1fiFkAW6Lc\",\"url\":\"https://www.nysenate.gov/legislation/laws/AGM\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/AGM\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/AGM\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:23.191Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/AGM",
+	"url": "https://www.nysenate.gov/legislation/laws/AGM"
+}

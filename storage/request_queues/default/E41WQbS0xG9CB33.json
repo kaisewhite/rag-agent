@@ -1,0 +1,9 @@
+{
+	"id": "E41WQbS0xG9CB33",
+	"json": "{\"id\":\"E41WQbS0xG9CB33\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S4546\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S4546\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570178730,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S4546",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S4546"
+}

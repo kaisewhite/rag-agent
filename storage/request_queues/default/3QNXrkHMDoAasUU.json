@@ -1,0 +1,9 @@
+{
+	"id": "3QNXrkHMDoAasUU",
+	"json": "{\"id\":\"3QNXrkHMDoAasUU\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/christopher-j-ryan/state-senator-chris-ryan-sworn-first-term-announces\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/christopher-j-ryan/state-senator-chris-ryan-sworn-first-term-announces\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569669333,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/christopher-j-ryan/state-senator-chris-ryan-sworn-first-term-announces",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/christopher-j-ryan/state-senator-chris-ryan-sworn-first-term-announces"
+}

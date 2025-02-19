@@ -1,0 +1,9 @@
+{
+	"id": "L3aIA3Ll9QBIqXE",
+	"json": "{\"id\":\"L3aIA3Ll9QBIqXE\",\"url\":\"https://www.nysenate.gov/legislation/laws/EXC/A28\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EXC/A28\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569917168,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EXC/A28",
+	"url": "https://www.nysenate.gov/legislation/laws/EXC/A28"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0gy1KRm1zb6gpJs",
+	"json": "{\"id\":\"0gy1KRm1zb6gpJs\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBA/A8\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBA/A8\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569949872,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBA/A8",
+	"url": "https://www.nysenate.gov/legislation/laws/PBA/A8"
+}

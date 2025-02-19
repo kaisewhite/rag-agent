@@ -1,0 +1,9 @@
+{
+	"id": "LLikaKOxNSXmz4a",
+	"json": "{\"id\":\"LLikaKOxNSXmz4a\",\"url\":\"https://www.nysenate.gov/issues/rent-control\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/rent-control\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571141956,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/rent-control",
+	"url": "https://www.nysenate.gov/issues/rent-control"
+}

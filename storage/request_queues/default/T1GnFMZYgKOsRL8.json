@@ -1,0 +1,9 @@
+{
+	"id": "T1GnFMZYgKOsRL8",
+	"json": "{\"id\":\"T1GnFMZYgKOsRL8\",\"url\":\"https://www.nysenate.gov/legislation/laws/GBS/A28-F\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GBS/A28-F\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569921804,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GBS/A28-F",
+	"url": "https://www.nysenate.gov/legislation/laws/GBS/A28-F"
+}

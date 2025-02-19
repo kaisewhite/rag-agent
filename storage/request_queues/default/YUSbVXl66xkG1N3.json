@@ -1,0 +1,9 @@
+{
+	"id": "YUSbVXl66xkG1N3",
+	"json": "{\"id\":\"YUSbVXl66xkG1N3\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2010/velmanette-montgomery/parents-union-child-care-providers-and-advocates\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2010/velmanette-montgomery/parents-union-child-care-providers-and-advocates\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717651,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2010/velmanette-montgomery/parents-union-child-care-providers-and-advocates",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2010/velmanette-montgomery/parents-union-child-care-providers-and-advocates"
+}

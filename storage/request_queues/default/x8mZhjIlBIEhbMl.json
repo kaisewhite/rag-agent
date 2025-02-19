@@ -1,0 +1,9 @@
+{
+	"id": "x8mZhjIlBIEhbMl",
+	"json": "{\"id\":\"x8mZhjIlBIEhbMl\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/_24-taxes-witness-list-.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/_24-taxes-witness-list-.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571230228,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/_24-taxes-witness-list-.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-02/_24-taxes-witness-list-.pdf"
+}

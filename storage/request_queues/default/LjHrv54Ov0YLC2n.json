@@ -1,0 +1,9 @@
+{
+	"id": "LjHrv54Ov0YLC2n",
+	"json": "{\"id\":\"LjHrv54Ov0YLC2n\",\"url\":\"https://www.nysenate.gov/calendar/meetings/higher-education/may-06-2014/higher-education-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-06-2014/higher-education-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788164,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-06-2014/higher-education-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/higher-education/may-06-2014/higher-education-meeting"
+}

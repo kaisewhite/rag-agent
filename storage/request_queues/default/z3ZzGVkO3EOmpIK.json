@@ -1,0 +1,9 @@
+{
+	"id": "z3ZzGVkO3EOmpIK",
+	"json": "{\"id\":\"z3ZzGVkO3EOmpIK\",\"url\":\"https://www.nysenate.gov/issues/jobs-and-opportunity\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/jobs-and-opportunity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707176,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/jobs-and-opportunity",
+	"url": "https://www.nysenate.gov/issues/jobs-and-opportunity"
+}

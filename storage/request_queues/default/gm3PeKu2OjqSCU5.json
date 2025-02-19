@@ -1,0 +1,9 @@
+{
+	"id": "gm3PeKu2OjqSCU5",
+	"json": "{\"id\":\"gm3PeKu2OjqSCU5\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2016/john-j-bonacic/current-written-testimony-submitted-court-appeals\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2016/john-j-bonacic/current-written-testimony-submitted-court-appeals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804304,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2016/john-j-bonacic/current-written-testimony-submitted-court-appeals",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2016/john-j-bonacic/current-written-testimony-submitted-court-appeals"
+}

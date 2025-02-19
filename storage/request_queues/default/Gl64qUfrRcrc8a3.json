@@ -1,0 +1,9 @@
+{
+	"id": "Gl64qUfrRcrc8a3",
+	"json": "{\"id\":\"Gl64qUfrRcrc8a3\",\"url\":\"https://www.nysenate.gov/legislation/laws/MDW/A7-D\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/MDW/A7-D\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569940432,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/MDW/A7-D",
+	"url": "https://www.nysenate.gov/legislation/laws/MDW/A7-D"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "HIOhLxnoMzunrcu",
+	"json": "{\"id\":\"HIOhLxnoMzunrcu\",\"url\":\"https://www.nysenate.gov/profiles/2023/brad-hoylman-sigal/winifred-armstrong\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2023/brad-hoylman-sigal/winifred-armstrong\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570176341,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2023/brad-hoylman-sigal/winifred-armstrong",
+	"url": "https://www.nysenate.gov/profiles/2023/brad-hoylman-sigal/winifred-armstrong"
+}

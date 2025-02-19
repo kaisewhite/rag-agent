@@ -1,0 +1,9 @@
+{
+	"id": "6GYdXH6bugMaEri",
+	"json": "{\"id\":\"6GYdXH6bugMaEri\",\"url\":\"https://www.nysenate.gov/calendar/events/health/gustavo-rivera/november-14-2019/joint-public-roundtable-meeting-discuss-how\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/health/gustavo-rivera/november-14-2019/joint-public-roundtable-meeting-discuss-how\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780972,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/health/gustavo-rivera/november-14-2019/joint-public-roundtable-meeting-discuss-how",
+	"url": "https://www.nysenate.gov/calendar/events/health/gustavo-rivera/november-14-2019/joint-public-roundtable-meeting-discuss-how"
+}

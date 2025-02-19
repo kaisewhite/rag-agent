@@ -1,0 +1,9 @@
+{
+	"id": "dqfxnRLA1Vuna14",
+	"json": "{\"id\":\"dqfxnRLA1Vuna14\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2011/jack-m-martins/senator-martins-helps-injured-firefighter\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2011/jack-m-martins/senator-martins-helps-injured-firefighter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848860,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2011/jack-m-martins/senator-martins-helps-injured-firefighter",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2011/jack-m-martins/senator-martins-helps-injured-firefighter"
+}

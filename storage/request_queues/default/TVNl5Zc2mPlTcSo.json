@@ -1,0 +1,9 @@
+{
+	"id": "TVNl5Zc2mPlTcSo",
+	"json": "{\"id\":\"TVNl5Zc2mPlTcSo\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/darrel-aubertine/aubertine-suny-canton-launch-north-country-grant-searc\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/darrel-aubertine/aubertine-suny-canton-launch-north-country-grant-searc\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695531,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/darrel-aubertine/aubertine-suny-canton-launch-north-country-grant-searc",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/darrel-aubertine/aubertine-suny-canton-launch-north-country-grant-searc"
+}

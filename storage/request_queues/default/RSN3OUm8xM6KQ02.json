@@ -1,0 +1,9 @@
+{
+	"id": "RSN3OUm8xM6KQ02",
+	"json": "{\"id\":\"RSN3OUm8xM6KQ02\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/michael-gianaris/amid-covid-19-spike-and-citys-switch-remote-learning\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/michael-gianaris/amid-covid-19-spike-and-citys-switch-remote-learning\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570930791,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/michael-gianaris/amid-covid-19-spike-and-citys-switch-remote-learning",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/michael-gianaris/amid-covid-19-spike-and-citys-switch-remote-learning"
+}

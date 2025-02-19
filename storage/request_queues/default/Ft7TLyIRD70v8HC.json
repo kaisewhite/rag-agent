@@ -1,0 +1,9 @@
+{
+	"id": "Ft7TLyIRD70v8HC",
+	"json": "{\"id\":\"Ft7TLyIRD70v8HC\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/feds-turn-away-new-york-looks-regulate-student-loan\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/feds-turn-away-new-york-looks-regulate-student-loan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740976,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/feds-turn-away-new-york-looks-regulate-student-loan",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/feds-turn-away-new-york-looks-regulate-student-loan"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "gflz56llqicMEuE",
+	"json": "{\"id\":\"gflz56llqicMEuE\",\"url\":\"https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-10-2022/new-york-city-education-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-10-2022/new-york-city-education-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569823652,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-10-2022/new-york-city-education-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-10-2022/new-york-city-education-meeting"
+}

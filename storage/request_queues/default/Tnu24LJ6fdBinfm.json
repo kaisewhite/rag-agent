@@ -1,0 +1,9 @@
+{
+	"id": "Tnu24LJ6fdBinfm",
+	"json": "{\"id\":\"Tnu24LJ6fdBinfm\",\"url\":\"https://www.nysenate.gov/issues/survivors-gender-based-and-domestic-violence\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/survivors-gender-based-and-domestic-violence\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569845039,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/survivors-gender-based-and-domestic-violence",
+	"url": "https://www.nysenate.gov/issues/survivors-gender-based-and-domestic-violence"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "9N4AU368DDrRbNM",
+	"json": "{\"id\":\"9N4AU368DDrRbNM\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/senator-martins-congratulates-thanksgiving-essay\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/senator-martins-congratulates-thanksgiving-essay\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847586,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/senator-martins-congratulates-thanksgiving-essay",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2014/jack-m-martins/senator-martins-congratulates-thanksgiving-essay"
+}

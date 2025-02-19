@@ -1,0 +1,9 @@
+{
+	"id": "YfTC3ip1ZET14eL",
+	"json": "{\"id\":\"YfTC3ip1ZET14eL\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/A437\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/A437\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571147596,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/A437",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/A437"
+}

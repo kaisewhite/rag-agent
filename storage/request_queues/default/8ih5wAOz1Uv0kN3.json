@@ -1,0 +1,9 @@
+{
+	"id": "8ih5wAOz1Uv0kN3",
+	"json": "{\"id\":\"8ih5wAOz1Uv0kN3\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/anna-m-kaplan/governor-cuomo-signs-kaplan-bill-promoting-school-bus\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/anna-m-kaplan/governor-cuomo-signs-kaplan-bill-promoting-school-bus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571678782,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/anna-m-kaplan/governor-cuomo-signs-kaplan-bill-promoting-school-bus",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/anna-m-kaplan/governor-cuomo-signs-kaplan-bill-promoting-school-bus"
+}

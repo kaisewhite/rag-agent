@@ -1,0 +1,9 @@
+{
+	"id": "shY6OSQh8LSeLgK",
+	"json": "{\"id\":\"shY6OSQh8LSeLgK\",\"url\":\"https://www.nysenate.gov/issues/vehicle-idling\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/vehicle-idling\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284266,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/vehicle-idling",
+	"url": "https://www.nysenate.gov/issues/vehicle-idling"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ZtiY7jc0pIvhbDe",
+	"json": "{\"id\":\"ZtiY7jc0pIvhbDe\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVP/A23\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVP/A23\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569898479,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVP/A23",
+	"url": "https://www.nysenate.gov/legislation/laws/CVP/A23"
+}

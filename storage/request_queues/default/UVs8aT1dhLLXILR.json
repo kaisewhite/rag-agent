@@ -1,0 +1,9 @@
+{
+	"id": "UVs8aT1dhLLXILR",
+	"json": "{\"id\":\"UVs8aT1dhLLXILR\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/thomas-morahan/statement-regarding-passing-new-york-state-senator\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/thomas-morahan/statement-regarding-passing-new-york-state-senator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569819332,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/thomas-morahan/statement-regarding-passing-new-york-state-senator",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/thomas-morahan/statement-regarding-passing-new-york-state-senator"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "YYd9wr7NiMMvqo0",
+	"json": "{\"id\":\"YYd9wr7NiMMvqo0\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/skoufis-investigate-medline-pilot-application\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/skoufis-investigate-medline-pilot-application\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808643,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/skoufis-investigate-medline-pilot-application",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/skoufis-investigate-medline-pilot-application"
+}

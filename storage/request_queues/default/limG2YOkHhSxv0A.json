@@ -1,0 +1,9 @@
+{
+	"id": "limG2YOkHhSxv0A",
+	"json": "{\"id\":\"limG2YOkHhSxv0A\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/senate-passes-maziarz-net-metering-bill\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/senate-passes-maziarz-net-metering-bill\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765732,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/senate-passes-maziarz-net-metering-bill",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/george-maziarz/senate-passes-maziarz-net-metering-bill"
+}

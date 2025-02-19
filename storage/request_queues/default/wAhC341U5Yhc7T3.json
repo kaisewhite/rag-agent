@@ -1,0 +1,9 @@
+{
+	"id": "wAhC341U5Yhc7T3",
+	"json": "{\"id\":\"wAhC341U5Yhc7T3\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-18-2019/61st-precinct-sector-build-block\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-18-2019/61st-precinct-sector-build-block\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247057,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-18-2019/61st-precinct-sector-build-block",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-18-2019/61st-precinct-sector-build-block"
+}

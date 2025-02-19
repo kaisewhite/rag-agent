@@ -1,0 +1,9 @@
+{
+	"id": "jKNYw42Fm4mekYK",
+	"json": "{\"id\":\"jKNYw42Fm4mekYK\",\"url\":\"https://www.nysenate.gov/issues/tax-forgiveness\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/tax-forgiveness\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570953416,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/tax-forgiveness",
+	"url": "https://www.nysenate.gov/issues/tax-forgiveness"
+}

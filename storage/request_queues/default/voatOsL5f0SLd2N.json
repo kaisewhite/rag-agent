@@ -1,0 +1,9 @@
+{
+	"id": "voatOsL5f0SLd2N",
+	"json": "{\"id\":\"voatOsL5f0SLd2N\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/november-25-2019/joint-public-hearing-new-york-health-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/november-25-2019/joint-public-hearing-new-york-health-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780972,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/november-25-2019/joint-public-hearing-new-york-health-act",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/november-25-2019/joint-public-hearing-new-york-health-act"
+}

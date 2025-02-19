@@ -1,0 +1,9 @@
+{
+	"id": "I0u9X1N7v4g4hXP",
+	"json": "{\"id\":\"I0u9X1N7v4g4hXP\",\"url\":\"https://www.nysenate.gov/home-rule-form\",\"loadedUrl\":\"https://www.nysenate.gov/home-rule-form\",\"uniqueKey\":\"GET():https://www.nysenate.gov/home-rule-form\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:45:00.578Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/home-rule-form",
+	"url": "https://www.nysenate.gov/home-rule-form"
+}

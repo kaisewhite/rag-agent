@@ -1,0 +1,9 @@
+{
+	"id": "iV6fFgR4W0qTxKF",
+	"json": "{\"id\":\"iV6fFgR4W0qTxKF\",\"url\":\"https://www.nysenate.gov/senators/zellnor-myrie\",\"loadedUrl\":\"https://www.nysenate.gov/senators/zellnor-myrie\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/zellnor-myrie\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:47:36.862Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/zellnor-myrie",
+	"url": "https://www.nysenate.gov/senators/zellnor-myrie"
+}

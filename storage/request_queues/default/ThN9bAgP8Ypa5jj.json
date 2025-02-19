@@ -1,0 +1,9 @@
+{
+	"id": "ThN9bAgP8Ypa5jj",
+	"json": "{\"id\":\"ThN9bAgP8Ypa5jj\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVS/A11-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVS/A11-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569900709,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVS/A11-A",
+	"url": "https://www.nysenate.gov/legislation/laws/CVS/A11-A"
+}

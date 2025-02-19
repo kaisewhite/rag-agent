@@ -1,0 +1,9 @@
+{
+	"id": "Om2jXnVuZdMmzJ2",
+	"json": "{\"id\":\"Om2jXnVuZdMmzJ2\",\"url\":\"https://www.nysenate.gov/newsroom/video/kristen-gonzalez/ny-state-senator-kristen-gonzalez-speaks-passing-her-government-use\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/kristen-gonzalez/ny-state-senator-kristen-gonzalez-speaks-passing-her-government-use\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569639732,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/kristen-gonzalez/ny-state-senator-kristen-gonzalez-speaks-passing-her-government-use",
+	"url": "https://www.nysenate.gov/newsroom/video/kristen-gonzalez/ny-state-senator-kristen-gonzalez-speaks-passing-her-government-use"
+}

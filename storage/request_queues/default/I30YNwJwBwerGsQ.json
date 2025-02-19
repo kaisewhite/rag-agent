@@ -1,0 +1,9 @@
+{
+	"id": "I30YNwJwBwerGsQ",
+	"json": "{\"id\":\"I30YNwJwBwerGsQ\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/august-03-2010/rules-meeting-1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/august-03-2010/rules-meeting-1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839973,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/august-03-2010/rules-meeting-1",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/august-03-2010/rules-meeting-1"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "YA5pezNhuc8KFgR",
+	"json": "{\"id\":\"YA5pezNhuc8KFgR\",\"url\":\"https://www.nysenate.gov/legislation/laws/GBS/A12-B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GBS/A12-B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569921786,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GBS/A12-B",
+	"url": "https://www.nysenate.gov/legislation/laws/GBS/A12-B"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "a4GyQRgM248KJWc",
+	"json": "{\"id\":\"a4GyQRgM248KJWc\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S4647\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S4647\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571633644,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S4647",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S4647"
+}

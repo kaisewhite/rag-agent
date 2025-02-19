@@ -1,0 +1,9 @@
+{
+	"id": "4Y7S0NTV62ITrWu",
+	"json": "{\"id\":\"4Y7S0NTV62ITrWu\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S3392\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S3392\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569555032,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S3392",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S3392"
+}

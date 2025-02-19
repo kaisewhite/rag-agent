@@ -1,0 +1,9 @@
+{
+	"id": "AkbFRD3ygs6D193",
+	"json": "{\"id\":\"AkbFRD3ygs6D193\",\"url\":\"https://www.nysenate.gov/issues/food-insecurity\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/food-insecurity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770716,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/food-insecurity",
+	"url": "https://www.nysenate.gov/issues/food-insecurity"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "aIPpgmZ5kCMSojl",
+	"json": "{\"id\":\"aIPpgmZ5kCMSojl\",\"url\":\"https://www.nysenate.gov/issues/2024-2025-budget\",\"loadedUrl\":\"https://www.nysenate.gov/issues/2024-2025-budget\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/2024-2025-budget\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:45:38.928Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/2024-2025-budget",
+	"url": "https://www.nysenate.gov/issues/2024-2025-budget"
+}

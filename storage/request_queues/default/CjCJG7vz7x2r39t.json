@@ -1,0 +1,9 @@
+{
+	"id": "CjCJG7vz7x2r39t",
+	"json": "{\"id\":\"CjCJG7vz7x2r39t\",\"url\":\"https://www.nysenate.gov/legislation/laws/RCO/A24\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RCO/A24\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569967066,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RCO/A24",
+	"url": "https://www.nysenate.gov/legislation/laws/RCO/A24"
+}

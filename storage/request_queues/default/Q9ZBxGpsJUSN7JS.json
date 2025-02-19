@@ -1,0 +1,9 @@
+{
+	"id": "Q9ZBxGpsJUSN7JS",
+	"json": "{\"id\":\"Q9ZBxGpsJUSN7JS\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-abc-news-legacy-admissions-preferences-are\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-abc-news-legacy-admissions-preferences-are\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570945035,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-abc-news-legacy-admissions-preferences-are",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-abc-news-legacy-admissions-preferences-are"
+}

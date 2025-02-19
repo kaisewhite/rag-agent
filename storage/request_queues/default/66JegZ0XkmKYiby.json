@@ -1,0 +1,9 @@
+{
+	"id": "66JegZ0XkmKYiby",
+	"json": "{\"id\":\"66JegZ0XkmKYiby\",\"url\":\"https://www.nysenate.gov/issues/consumer-protections\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/consumer-protections\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569584532,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/consumer-protections",
+	"url": "https://www.nysenate.gov/issues/consumer-protections"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "uiag2LZyBtzSOCc",
+	"json": "{\"id\":\"uiag2LZyBtzSOCc\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2023/john-w-mannion/years-budget-creates-independent-advocacy-assistance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2023/john-w-mannion/years-budget-creates-independent-advocacy-assistance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751254,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2023/john-w-mannion/years-budget-creates-independent-advocacy-assistance",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2023/john-w-mannion/years-budget-creates-independent-advocacy-assistance"
+}

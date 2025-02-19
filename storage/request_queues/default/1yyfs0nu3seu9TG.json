@@ -1,0 +1,9 @@
+{
+	"id": "1yyfs0nu3seu9TG",
+	"json": "{\"id\":\"1yyfs0nu3seu9TG\",\"url\":\"https://www.nysenate.gov/calendar/events/andrew-gounardes/january-30-2024/join-us-panel-discussion-about-protecting-children\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/january-30-2024/join-us-panel-discussion-about-protecting-children\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570125478,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/january-30-2024/join-us-panel-discussion-about-protecting-children",
+	"url": "https://www.nysenate.gov/calendar/events/andrew-gounardes/january-30-2024/join-us-panel-discussion-about-protecting-children"
+}

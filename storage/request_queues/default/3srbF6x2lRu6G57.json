@@ -1,0 +1,9 @@
+{
+	"id": "3srbF6x2lRu6G57",
+	"json": "{\"id\":\"3srbF6x2lRu6G57\",\"url\":\"https://www.nysenate.gov/senators/daniel-g-stec/about\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/daniel-g-stec/about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569676624,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/daniel-g-stec/about",
+	"url": "https://www.nysenate.gov/senators/daniel-g-stec/about"
+}

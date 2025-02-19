@@ -1,0 +1,9 @@
+{
+	"id": "4HMVNMeERRZuCMz",
+	"json": "{\"id\":\"4HMVNMeERRZuCMz\",\"url\":\"https://www.nysenate.gov/issues/and-small-business\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/and-small-business\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571429427,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/and-small-business",
+	"url": "https://www.nysenate.gov/issues/and-small-business"
+}

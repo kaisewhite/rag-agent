@@ -1,0 +1,9 @@
+{
+	"id": "3qNc8agRfOCJs31",
+	"json": "{\"id\":\"3qNc8agRfOCJs31\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/april-06-2017/sen-kruegers-roundtable-boomers-and-seniors\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/april-06-2017/sen-kruegers-roundtable-boomers-and-seniors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752650,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/april-06-2017/sen-kruegers-roundtable-boomers-and-seniors",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/april-06-2017/sen-kruegers-roundtable-boomers-and-seniors"
+}

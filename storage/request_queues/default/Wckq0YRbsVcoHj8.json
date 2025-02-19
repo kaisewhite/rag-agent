@@ -1,0 +1,9 @@
+{
+	"id": "Wckq0YRbsVcoHj8",
+	"json": "{\"id\":\"Wckq0YRbsVcoHj8\",\"url\":\"https://www.nysenate.gov/calendar/meetings/higher-education/may-21-2024/higher-education-meeting\",\"loadedUrl\":\"https://www.nysenate.gov/calendar/meetings/higher-education/may-21-2024/higher-education-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-21-2024/higher-education-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:10:03.247Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-21-2024/higher-education-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/higher-education/may-21-2024/higher-education-meeting"
+}

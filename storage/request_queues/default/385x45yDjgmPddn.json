@@ -1,0 +1,9 @@
+{
+	"id": "385x45yDjgmPddn",
+	"json": "{\"id\":\"385x45yDjgmPddn\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/grisanti-repair-program-pesticide-containers-signed-law\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/grisanti-repair-program-pesticide-containers-signed-law\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770754,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/grisanti-repair-program-pesticide-containers-signed-law",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/grisanti-repair-program-pesticide-containers-signed-law"
+}

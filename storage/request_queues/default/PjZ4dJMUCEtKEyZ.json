@@ -1,0 +1,9 @@
+{
+	"id": "PjZ4dJMUCEtKEyZ",
+	"json": "{\"id\":\"PjZ4dJMUCEtKEyZ\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2019/69th-pct-community-council-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2019/69th-pct-community-council-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246995,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2019/69th-pct-community-council-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2019/69th-pct-community-council-meeting"
+}

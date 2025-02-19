@@ -1,0 +1,9 @@
+{
+	"id": "yQZhInw4zKKeyK5",
+	"json": "{\"id\":\"yQZhInw4zKKeyK5\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Banks\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Banks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571150818,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Banks",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Banks"
+}

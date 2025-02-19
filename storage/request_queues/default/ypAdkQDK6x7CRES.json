@@ -1,0 +1,9 @@
+{
+	"id": "ypAdkQDK6x7CRES",
+	"json": "{\"id\":\"ypAdkQDK6x7CRES\",\"url\":\"https://www.nysenate.gov/issues/gubernatorial-appointments\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/gubernatorial-appointments\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571634068,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/gubernatorial-appointments",
+	"url": "https://www.nysenate.gov/issues/gubernatorial-appointments"
+}

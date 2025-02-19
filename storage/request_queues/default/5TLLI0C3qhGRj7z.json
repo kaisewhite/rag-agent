@@ -1,0 +1,9 @@
+{
+	"id": "5TLLI0C3qhGRj7z",
+	"json": "{\"id\":\"5TLLI0C3qhGRj7z\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2023/sean-m-ryan/many-ways-fund-library-buffalo-investigative-post\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2023/sean-m-ryan/many-ways-fund-library-buffalo-investigative-post\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569812929,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2023/sean-m-ryan/many-ways-fund-library-buffalo-investigative-post",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2023/sean-m-ryan/many-ways-fund-library-buffalo-investigative-post"
+}

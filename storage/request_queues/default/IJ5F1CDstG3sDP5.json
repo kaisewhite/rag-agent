@@ -1,0 +1,9 @@
+{
+	"id": "IJ5F1CDstG3sDP5",
+	"json": "{\"id\":\"IJ5F1CDstG3sDP5\",\"url\":\"https://www.nysenate.gov/issues/state-sen-pete-harckham\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/state-sen-pete-harckham\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569642375,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/state-sen-pete-harckham",
+	"url": "https://www.nysenate.gov/issues/state-sen-pete-harckham"
+}

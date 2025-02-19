@@ -1,0 +1,9 @@
+{
+	"id": "tlh8u2K31gf1cGs",
+	"json": "{\"id\":\"tlh8u2K31gf1cGs\",\"url\":\"https://www.nysenate.gov/issues/creating-jobs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/creating-jobs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571574487,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/creating-jobs",
+	"url": "https://www.nysenate.gov/issues/creating-jobs"
+}

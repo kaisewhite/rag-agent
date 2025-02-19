@@ -1,0 +1,9 @@
+{
+	"id": "L3rc9ROndA3Z7D2",
+	"json": "{\"id\":\"L3rc9ROndA3Z7D2\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-17-2019/cec-18-healthy-homes-healthy-families-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-17-2019/cec-18-healthy-homes-healthy-families-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246925,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-17-2019/cec-18-healthy-homes-healthy-families-0",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/april-17-2019/cec-18-healthy-homes-healthy-families-0"
+}

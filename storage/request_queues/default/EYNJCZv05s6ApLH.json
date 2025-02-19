@@ -1,0 +1,9 @@
+{
+	"id": "EYNJCZv05s6ApLH",
+	"json": "{\"id\":\"EYNJCZv05s6ApLH\",\"url\":\"https://www.nysenate.gov/legislation/laws/ISC/A75\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ISC/A75\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569932504,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ISC/A75",
+	"url": "https://www.nysenate.gov/legislation/laws/ISC/A75"
+}

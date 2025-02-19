@@ -1,0 +1,9 @@
+{
+	"id": "Gg21hQdcm5ql4pm",
+	"json": "{\"id\":\"Gg21hQdcm5ql4pm\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/families-and-friends-of-the-wrongfully-convicted.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/families-and-friends-of-the-wrongfully-convicted.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570544817,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/families-and-friends-of-the-wrongfully-convicted.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/families-and-friends-of-the-wrongfully-convicted.pdf"
+}

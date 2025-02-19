@@ -1,0 +1,9 @@
+{
+	"id": "LOFN2uHbr58XuYj",
+	"json": "{\"id\":\"LOFN2uHbr58XuYj\",\"url\":\"https://www.nysenate.gov/newsroom/video/steven-d-rhoads/senator-rhoads-2023-veteran-hall-fame\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/steven-d-rhoads/senator-rhoads-2023-veteran-hall-fame\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570103146,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/steven-d-rhoads/senator-rhoads-2023-veteran-hall-fame",
+	"url": "https://www.nysenate.gov/newsroom/video/steven-d-rhoads/senator-rhoads-2023-veteran-hall-fame"
+}

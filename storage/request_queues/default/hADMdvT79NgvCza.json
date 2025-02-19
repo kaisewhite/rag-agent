@@ -1,0 +1,9 @@
+{
+	"id": "hADMdvT79NgvCza",
+	"json": "{\"id\":\"hADMdvT79NgvCza\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/january-17-2017/rules-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/january-17-2017/rules-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839904,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/january-17-2017/rules-committee",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/january-17-2017/rules-committee"
+}

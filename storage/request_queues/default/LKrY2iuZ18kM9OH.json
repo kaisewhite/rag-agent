@@ -1,0 +1,9 @@
+{
+	"id": "LKrY2iuZ18kM9OH",
+	"json": "{\"id\":\"LKrY2iuZ18kM9OH\",\"url\":\"https://www.nysenate.gov/student-programs/2019-session-assistants-hartwick-college-featured-local-paper\",\"uniqueKey\":\"GET():https://www.nysenate.gov/student-programs/2019-session-assistants-hartwick-college-featured-local-paper\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569869709,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/student-programs/2019-session-assistants-hartwick-college-featured-local-paper",
+	"url": "https://www.nysenate.gov/student-programs/2019-session-assistants-hartwick-college-featured-local-paper"
+}

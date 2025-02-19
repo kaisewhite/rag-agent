@@ -1,0 +1,9 @@
+{
+	"id": "uOujHRyCvOMForb",
+	"json": "{\"id\":\"uOujHRyCvOMForb\",\"url\":\"https://www.nysenate.gov/issues/new-york-farms\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-york-farms\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707160,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-york-farms",
+	"url": "https://www.nysenate.gov/issues/new-york-farms"
+}

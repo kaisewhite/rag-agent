@@ -1,0 +1,9 @@
+{
+	"id": "o3wuRckuQnr7dI0",
+	"json": "{\"id\":\"o3wuRckuQnr7dI0\",\"url\":\"https://www.nysenate.gov/issues/freeze-fares\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/freeze-fares\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570741535,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/freeze-fares",
+	"url": "https://www.nysenate.gov/issues/freeze-fares"
+}

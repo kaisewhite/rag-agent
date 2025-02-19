@@ -1,0 +1,9 @@
+{
+	"id": "V24cL9CEOorAfsU",
+	"json": "{\"id\":\"V24cL9CEOorAfsU\",\"url\":\"https://www.nysenate.gov/issues/family-service-society\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/family-service-society\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284414,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/family-service-society",
+	"url": "https://www.nysenate.gov/issues/family-service-society"
+}

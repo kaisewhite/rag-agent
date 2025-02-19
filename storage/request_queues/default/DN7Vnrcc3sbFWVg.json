@@ -1,0 +1,9 @@
+{
+	"id": "DN7Vnrcc3sbFWVg",
+	"json": "{\"id\":\"DN7Vnrcc3sbFWVg\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2010/craig-johnson/wnyc-coverage-senator-johnsons-hearing-medicaid-inspector\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2010/craig-johnson/wnyc-coverage-senator-johnsons-hearing-medicaid-inspector\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808662,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2010/craig-johnson/wnyc-coverage-senator-johnsons-hearing-medicaid-inspector",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2010/craig-johnson/wnyc-coverage-senator-johnsons-hearing-medicaid-inspector"
+}

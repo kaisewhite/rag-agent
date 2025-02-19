@@ -1,0 +1,9 @@
+{
+	"id": "mDvhDnhw53I6rBZ",
+	"json": "{\"id\":\"mDvhDnhw53I6rBZ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/jen-metzger/senator-metzger-and-assemblywoman-lupardo-host-discussion\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/jen-metzger/senator-metzger-and-assemblywoman-lupardo-host-discussion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707163,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/jen-metzger/senator-metzger-and-assemblywoman-lupardo-host-discussion",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/jen-metzger/senator-metzger-and-assemblywoman-lupardo-host-discussion"
+}

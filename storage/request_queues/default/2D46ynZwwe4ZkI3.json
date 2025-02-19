@@ -1,0 +1,9 @@
+{
+	"id": "2D46ynZwwe4ZkI3",
+	"json": "{\"id\":\"2D46ynZwwe4ZkI3\",\"url\":\"https://www.nysenate.gov/legislation/laws/GBS/A20-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GBS/A20-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569921791,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GBS/A20-A",
+	"url": "https://www.nysenate.gov/legislation/laws/GBS/A20-A"
+}

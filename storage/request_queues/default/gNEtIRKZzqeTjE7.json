@@ -1,0 +1,9 @@
+{
+	"id": "gNEtIRKZzqeTjE7",
+	"json": "{\"id\":\"gNEtIRKZzqeTjE7\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/businesses-can-apply-recharge-ny-benefits-until-end\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/businesses-can-apply-recharge-ny-benefits-until-end\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765723,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/businesses-can-apply-recharge-ny-benefits-until-end",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/businesses-can-apply-recharge-ny-benefits-until-end"
+}

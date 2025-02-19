@@ -1,0 +1,9 @@
+{
+	"id": "OQsky4g0dBkIDJz",
+	"json": "{\"id\":\"OQsky4g0dBkIDJz\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/may-02-2019/driving-capital-invisible-class-banking-event\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/may-02-2019/driving-capital-invisible-class-banking-event\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019415,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/may-02-2019/driving-capital-invisible-class-banking-event",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/may-02-2019/driving-capital-invisible-class-banking-event"
+}

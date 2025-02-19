@@ -1,0 +1,9 @@
+{
+	"id": "tNnf0CZJYXfNPg7",
+	"json": "{\"id\":\"tNnf0CZJYXfNPg7\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-attends-floral-park-womans-club-115th\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-attends-floral-park-womans-club-115th\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847607,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-attends-floral-park-womans-club-115th",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-attends-floral-park-womans-club-115th"
+}

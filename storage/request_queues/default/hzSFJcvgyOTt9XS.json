@@ -1,0 +1,9 @@
+{
+	"id": "hzSFJcvgyOTt9XS",
+	"json": "{\"id\":\"hzSFJcvgyOTt9XS\",\"url\":\"https://www.nysenate.gov/calendar/events/andrew-gounardes/july-15-2019/community-blood-drive\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/july-15-2019/community-blood-drive\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570125449,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/july-15-2019/community-blood-drive",
+	"url": "https://www.nysenate.gov/calendar/events/andrew-gounardes/july-15-2019/community-blood-drive"
+}

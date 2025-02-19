@@ -1,0 +1,9 @@
+{
+	"id": "z5jzeOdVx4yV6Fn",
+	"json": "{\"id\":\"z5jzeOdVx4yV6Fn\",\"url\":\"https://www.nysenate.gov/newsroom/video/james-skoufis/know-your-public-utilities-rights-virtual-forum\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/james-skoufis/know-your-public-utilities-rights-virtual-forum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571365470,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/james-skoufis/know-your-public-utilities-rights-virtual-forum",
+	"url": "https://www.nysenate.gov/newsroom/video/james-skoufis/know-your-public-utilities-rights-virtual-forum"
+}

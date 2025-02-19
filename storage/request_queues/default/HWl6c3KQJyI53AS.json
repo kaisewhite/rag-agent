@@ -1,0 +1,9 @@
+{
+	"id": "HWl6c3KQJyI53AS",
+	"json": "{\"id\":\"HWl6c3KQJyI53AS\",\"url\":\"https://www.nysenate.gov/senators/kevin-s-parker/contact\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/kevin-s-parker/contact\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569664901,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/kevin-s-parker/contact",
+	"url": "https://www.nysenate.gov/senators/kevin-s-parker/contact"
+}

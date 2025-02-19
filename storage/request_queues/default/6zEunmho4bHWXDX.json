@@ -1,0 +1,9 @@
+{
+	"id": "6zEunmho4bHWXDX",
+	"json": "{\"id\":\"6zEunmho4bHWXDX\",\"url\":\"https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/june-08-2020/commerce-economic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/june-08-2020/commerce-economic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741800,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/june-08-2020/commerce-economic",
+	"url": "https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/june-08-2020/commerce-economic"
+}

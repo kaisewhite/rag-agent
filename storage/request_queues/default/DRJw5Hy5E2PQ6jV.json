@@ -1,0 +1,9 @@
+{
+	"id": "DRJw5Hy5E2PQ6jV",
+	"json": "{\"id\":\"DRJw5Hy5E2PQ6jV\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/february-28-2017/indian-point-nuclear-power-plant-shutdown\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/february-28-2017/indian-point-nuclear-power-plant-shutdown\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765693,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/february-28-2017/indian-point-nuclear-power-plant-shutdown",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/february-28-2017/indian-point-nuclear-power-plant-shutdown"
+}

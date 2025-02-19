@@ -1,0 +1,9 @@
+{
+	"id": "NYCunJbfdIHm7IM",
+	"json": "{\"id\":\"NYCunJbfdIHm7IM\",\"url\":\"https://www.nysenate.gov/senators/joseph-griffo/newsroom\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/joseph-griffo/newsroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569641092,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/joseph-griffo/newsroom",
+	"url": "https://www.nysenate.gov/senators/joseph-griffo/newsroom"
+}

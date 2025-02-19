@@ -1,0 +1,9 @@
+{
+	"id": "lduHHmlNhPuDhao",
+	"json": "{\"id\":\"lduHHmlNhPuDhao\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/kevin-thomas/nys-sen-thomas-introduces-new-legislation-clamp-down-iron\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/kevin-thomas/nys-sen-thomas-introduces-new-legislation-clamp-down-iron\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740940,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/kevin-thomas/nys-sen-thomas-introduces-new-legislation-clamp-down-iron",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/kevin-thomas/nys-sen-thomas-introduces-new-legislation-clamp-down-iron"
+}

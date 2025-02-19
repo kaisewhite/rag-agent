@@ -1,0 +1,9 @@
+{
+	"id": "5zUm9iERTOnuaI2",
+	"json": "{\"id\":\"5zUm9iERTOnuaI2\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/velmanette-montgomery/albanys-new-democratic-legislature-passed-these-5\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/velmanette-montgomery/albanys-new-democratic-legislature-passed-these-5\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717635,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/velmanette-montgomery/albanys-new-democratic-legislature-passed-these-5",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/velmanette-montgomery/albanys-new-democratic-legislature-passed-these-5"
+}

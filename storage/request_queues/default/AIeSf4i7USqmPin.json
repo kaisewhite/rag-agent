@@ -1,0 +1,9 @@
+{
+	"id": "AIeSf4i7USqmPin",
+	"json": "{\"id\":\"AIeSf4i7USqmPin\",\"url\":\"https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-absentee-voting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-absentee-voting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569598416,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-absentee-voting",
+	"url": "https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-absentee-voting"
+}

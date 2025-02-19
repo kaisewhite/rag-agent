@@ -1,0 +1,9 @@
+{
+	"id": "tHaTIcVsNANBiHo",
+	"json": "{\"id\":\"tHaTIcVsNANBiHo\",\"url\":\"https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/march-15-2017/housing-construction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/march-15-2017/housing-construction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798844,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/march-15-2017/housing-construction",
+	"url": "https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/march-15-2017/housing-construction"
+}

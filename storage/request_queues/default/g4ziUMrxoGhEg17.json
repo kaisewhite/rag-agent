@@ -1,0 +1,9 @@
+{
+	"id": "g4ziUMrxoGhEg17",
+	"json": "{\"id\":\"g4ziUMrxoGhEg17\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/A7924\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/A7924\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571084948,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/A7924",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/A7924"
+}

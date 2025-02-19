@@ -1,0 +1,9 @@
+{
+	"id": "AnXDZP5nbl1YjqJ",
+	"json": "{\"id\":\"AnXDZP5nbl1YjqJ\",\"url\":\"https://www.nysenate.gov/issues/marijauna-legalization\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/marijauna-legalization\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717620,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/marijauna-legalization",
+	"url": "https://www.nysenate.gov/issues/marijauna-legalization"
+}

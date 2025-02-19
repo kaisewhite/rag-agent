@@ -1,0 +1,9 @@
+{
+	"id": "TFRFP7fTQSZNC5H",
+	"json": "{\"id\":\"TFRFP7fTQSZNC5H\",\"url\":\"https://www.nysenate.gov/sites/default/files/tax_hearing_submission_021522.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/tax_hearing_submission_021522.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571256315,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/tax_hearing_submission_021522.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/tax_hearing_submission_021522.pdf"
+}

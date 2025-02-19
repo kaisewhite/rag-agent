@@ -1,0 +1,9 @@
+{
+	"id": "9SMg658XQrnOL2j",
+	"json": "{\"id\":\"9SMg658XQrnOL2j\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-20-2023/free-electronics-recycling-collection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-20-2023/free-electronics-recycling-collection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247475,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-20-2023/free-electronics-recycling-collection",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-20-2023/free-electronics-recycling-collection"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "VPxfPuMlWYBfIQ0",
+	"json": "{\"id\":\"VPxfPuMlWYBfIQ0\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/local-officials-call-expedited-negotiations-affordability\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/local-officials-call-expedited-negotiations-affordability\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798917,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/local-officials-call-expedited-negotiations-affordability",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/local-officials-call-expedited-negotiations-affordability"
+}

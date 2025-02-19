@@ -1,0 +1,9 @@
+{
+	"id": "Sb7XoRA4PfN5XSt",
+	"json": "{\"id\":\"Sb7XoRA4PfN5XSt\",\"url\":\"https://www.nysenate.gov/issues/new-deal-cuny\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-deal-cuny\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571049860,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-deal-cuny",
+	"url": "https://www.nysenate.gov/issues/new-deal-cuny"
+}

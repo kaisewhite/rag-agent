@@ -1,0 +1,9 @@
+{
+	"id": "Yx0pObOS6TCiBuw",
+	"json": "{\"id\":\"Yx0pObOS6TCiBuw\",\"url\":\"https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-21-2025/energy-and-telecommunications\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-21-2025/energy-and-telecommunications\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765666,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-21-2025/energy-and-telecommunications",
+	"url": "https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-21-2025/energy-and-telecommunications"
+}

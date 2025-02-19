@@ -1,0 +1,9 @@
+{
+	"id": "9qd8Tmc0fZKXrQH",
+	"json": "{\"id\":\"9qd8Tmc0fZKXrQH\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Investigations%20and%20Government%20Operations%20Committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Investigations+and+Government+Operations+Committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571365478,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Investigations+and+Government+Operations+Committee",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Investigations%20and%20Government%20Operations%20Committee"
+}

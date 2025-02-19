@@ -1,0 +1,9 @@
+{
+	"id": "EjKoAwpZH2hfulU",
+	"json": "{\"id\":\"EjKoAwpZH2hfulU\",\"url\":\"https://www.nysenate.gov/issues/coronavirus\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/coronavirus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698352,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/coronavirus",
+	"url": "https://www.nysenate.gov/issues/coronavirus"
+}

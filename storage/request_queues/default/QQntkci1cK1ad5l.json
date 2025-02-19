@@ -1,0 +1,9 @@
+{
+	"id": "QQntkci1cK1ad5l",
+	"json": "{\"id\":\"QQntkci1cK1ad5l\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/todd-kaminsky/technology-takes-lead\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/todd-kaminsky/technology-takes-lead\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570984970,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/todd-kaminsky/technology-takes-lead",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/todd-kaminsky/technology-takes-lead"
+}

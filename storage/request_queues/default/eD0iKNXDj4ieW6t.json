@@ -1,0 +1,9 @@
+{
+	"id": "eD0iKNXDj4ieW6t",
+	"json": "{\"id\":\"eD0iKNXDj4ieW6t\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/nys-lawmakers-vote-limit-14-dioxane-household-products\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/nys-lawmakers-vote-limit-14-dioxane-household-products\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770713,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/nys-lawmakers-vote-limit-14-dioxane-household-products",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/nys-lawmakers-vote-limit-14-dioxane-household-products"
+}

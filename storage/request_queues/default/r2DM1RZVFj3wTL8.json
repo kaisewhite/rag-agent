@@ -1,0 +1,9 @@
+{
+	"id": "r2DM1RZVFj3wTL8",
+	"json": "{\"id\":\"r2DM1RZVFj3wTL8\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/north-country-power-discount-program-provide-relief\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/north-country-power-discount-program-provide-relief\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707201,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/north-country-power-discount-program-provide-relief",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/north-country-power-discount-program-provide-relief"
+}

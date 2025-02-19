@@ -1,0 +1,9 @@
+{
+	"id": "95VskNz30dNyGUA",
+	"json": "{\"id\":\"95VskNz30dNyGUA\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVS/A13\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVS/A13\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569900711,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVS/A13",
+	"url": "https://www.nysenate.gov/legislation/laws/CVS/A13"
+}

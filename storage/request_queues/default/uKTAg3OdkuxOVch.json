@@ -1,0 +1,9 @@
+{
+	"id": "uKTAg3OdkuxOVch",
+	"json": "{\"id\":\"uKTAg3OdkuxOVch\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/gustavo-rivera/senator-rivera-first-year-anniversary-hurricane-maria\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/gustavo-rivera/senator-rivera-first-year-anniversary-hurricane-maria\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571134570,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/gustavo-rivera/senator-rivera-first-year-anniversary-hurricane-maria",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/gustavo-rivera/senator-rivera-first-year-anniversary-hurricane-maria"
+}

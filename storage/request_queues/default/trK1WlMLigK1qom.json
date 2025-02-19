@@ -1,0 +1,9 @@
+{
+	"id": "trK1WlMLigK1qom",
+	"json": "{\"id\":\"trK1WlMLigK1qom\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-30-2023/public-hearing-why-did-signature-bank-fail-what-can-be-done\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-30-2023/public-hearing-why-did-signature-bank-fail-what-can-be-done\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706960,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-30-2023/public-hearing-why-did-signature-bank-fail-what-can-be-done",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-30-2023/public-hearing-why-did-signature-bank-fail-what-can-be-done"
+}

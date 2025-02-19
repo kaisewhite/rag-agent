@@ -1,0 +1,9 @@
+{
+	"id": "lOiZg10iZauNt5F",
+	"json": "{\"id\":\"lOiZg10iZauNt5F\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/james-skoufis/skoufis-opens-tip-line-senate-investigations-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/james-skoufis/skoufis-opens-tip-line-senate-investigations-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808648,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/james-skoufis/skoufis-opens-tip-line-senate-investigations-committee",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/james-skoufis/skoufis-opens-tip-line-senate-investigations-committee"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "xA1bsM5nuZqIzty",
+	"json": "{\"id\":\"xA1bsM5nuZqIzty\",\"url\":\"https://www.nysenate.gov/calendar/meetings/higher-education/june-06-2017/higher-education-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/higher-education/june-06-2017/higher-education-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788153,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/higher-education/june-06-2017/higher-education-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/higher-education/june-06-2017/higher-education-meeting"
+}

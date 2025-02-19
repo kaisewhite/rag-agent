@@ -1,0 +1,9 @@
+{
+	"id": "nDAFMD13ibDnOLm",
+	"json": "{\"id\":\"nDAFMD13ibDnOLm\",\"url\":\"https://www.nysenate.gov/issues/arts-cultural-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/arts-cultural-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569638735,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/arts-cultural-funding",
+	"url": "https://www.nysenate.gov/issues/arts-cultural-funding"
+}

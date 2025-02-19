@@ -1,0 +1,9 @@
+{
+	"id": "CufLlWp56n0JSge",
+	"json": "{\"id\":\"CufLlWp56n0JSge\",\"url\":\"https://www.nysenate.gov/issues/transparency-and-public-accountability\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/transparency-and-public-accountability\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569571294,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/transparency-and-public-accountability",
+	"url": "https://www.nysenate.gov/issues/transparency-and-public-accountability"
+}

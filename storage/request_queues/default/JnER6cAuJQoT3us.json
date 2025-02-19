@@ -1,0 +1,9 @@
+{
+	"id": "JnER6cAuJQoT3us",
+	"json": "{\"id\":\"JnER6cAuJQoT3us\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S8419\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S8419\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798818,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S8419",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S8419"
+}

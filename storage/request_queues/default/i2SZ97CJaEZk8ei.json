@@ -1,0 +1,9 @@
+{
+	"id": "i2SZ97CJaEZk8ei",
+	"json": "{\"id\":\"i2SZ97CJaEZk8ei\",\"url\":\"https://www.nysenate.gov/dashboard/senators/monica-r-martinez\",\"loadedUrl\":\"https://www.nysenate.gov/\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/monica-r-martinez\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:12:54.809Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/monica-r-martinez",
+	"url": "https://www.nysenate.gov/dashboard/senators/monica-r-martinez"
+}

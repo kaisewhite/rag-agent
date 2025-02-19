@@ -1,0 +1,9 @@
+{
+	"id": "I4aVRgKx2YrPdIO",
+	"json": "{\"id\":\"I4aVRgKx2YrPdIO\",\"url\":\"https://www.nysenate.gov/profiles/2024/kevin-thomas/john-f-boyd-sr\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/kevin-thomas/john-f-boyd-sr\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/kevin-thomas/john-f-boyd-sr\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:59:48.362Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/kevin-thomas/john-f-boyd-sr",
+	"url": "https://www.nysenate.gov/profiles/2024/kevin-thomas/john-f-boyd-sr"
+}

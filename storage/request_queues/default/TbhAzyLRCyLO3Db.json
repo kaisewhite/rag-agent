@@ -1,0 +1,9 @@
+{
+	"id": "TbhAzyLRCyLO3Db",
+	"json": "{\"id\":\"TbhAzyLRCyLO3Db\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/october-30-2019/public-hearing-examination-cost-public-higher-education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/october-30-2019/public-hearing-examination-cost-public-higher-education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788146,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/october-30-2019/public-hearing-examination-cost-public-higher-education",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/october-30-2019/public-hearing-examination-cost-public-higher-education"
+}

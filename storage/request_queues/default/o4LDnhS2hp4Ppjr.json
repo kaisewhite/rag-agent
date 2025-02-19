@@ -1,0 +1,9 @@
+{
+	"id": "o4LDnhS2hp4Ppjr",
+	"json": "{\"id\":\"o4LDnhS2hp4Ppjr\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/jack-m-martins/antisemitism-working-group-2023-2024-report\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/jack-m-martins/antisemitism-working-group-2023-2024-report\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569651956,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/jack-m-martins/antisemitism-working-group-2023-2024-report",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/jack-m-martins/antisemitism-working-group-2023-2024-report"
+}

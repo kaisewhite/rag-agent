@@ -1,0 +1,9 @@
+{
+	"id": "SkjqLKxrRz1qz45",
+	"json": "{\"id\":\"SkjqLKxrRz1qz45\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/new-york-state-senate-finance-committee-2010-mid-year-report-receipts\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/new-york-state-senate-finance-committee-2010-mid-year-report-receipts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781270,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/new-york-state-senate-finance-committee-2010-mid-year-report-receipts",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/new-york-state-senate-finance-committee-2010-mid-year-report-receipts"
+}

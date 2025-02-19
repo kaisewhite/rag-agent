@@ -1,0 +1,9 @@
+{
+	"id": "SnyFH5cXArdW62h",
+	"json": "{\"id\":\"SnyFH5cXArdW62h\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBH/A37-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBH/A37-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569956013,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBH/A37-A",
+	"url": "https://www.nysenate.gov/legislation/laws/PBH/A37-A"
+}

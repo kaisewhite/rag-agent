@@ -1,0 +1,9 @@
+{
+	"id": "gP8mTjx7YCusIJm",
+	"json": "{\"id\":\"gP8mTjx7YCusIJm\",\"url\":\"https://www.nysenate.gov/questionnaires/liz-krueger/2024-joint-legislative-budget-hearing-witness-request\",\"loadedUrl\":\"https://www.nysenate.gov/questionnaires/liz-krueger/2025-joint-legislative-budget-hearing-witness-request\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/liz-krueger/2024-joint-legislative-budget-hearing-witness-request\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:00:44.980Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/liz-krueger/2024-joint-legislative-budget-hearing-witness-request",
+	"url": "https://www.nysenate.gov/questionnaires/liz-krueger/2024-joint-legislative-budget-hearing-witness-request"
+}

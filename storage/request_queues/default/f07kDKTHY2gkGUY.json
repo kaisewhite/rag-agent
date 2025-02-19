@@ -1,0 +1,9 @@
+{
+	"id": "f07kDKTHY2gkGUY",
+	"json": "{\"id\":\"f07kDKTHY2gkGUY\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Beech%20Sugar\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Beech+Sugar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569600585,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Beech+Sugar",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Beech%20Sugar"
+}

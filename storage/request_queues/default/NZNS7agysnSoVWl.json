@@ -1,0 +1,9 @@
+{
+	"id": "NZNS7agysnSoVWl",
+	"json": "{\"id\":\"NZNS7agysnSoVWl\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-04-2019/pop-art-party-nyc-health-hospitals\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-04-2019/pop-art-party-nyc-health-hospitals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246760,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-04-2019/pop-art-party-nyc-health-hospitals",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-04-2019/pop-art-party-nyc-health-hospitals"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "K8gKW6L5zHoBF5U",
+	"json": "{\"id\":\"K8gKW6L5zHoBF5U\",\"url\":\"https://www.nysenate.gov/legislation/laws/EXC/A35\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EXC/A35\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569917168,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EXC/A35",
+	"url": "https://www.nysenate.gov/legislation/laws/EXC/A35"
+}

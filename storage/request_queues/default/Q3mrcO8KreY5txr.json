@@ -1,0 +1,9 @@
+{
+	"id": "Q3mrcO8KreY5txr",
+	"json": "{\"id\":\"Q3mrcO8KreY5txr\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/february-16-2022/joint-legislative-public-hearing-2022-executive-budget-0\",\"loadedUrl\":\"https://www.nysenate.gov/calendar/public_hearings/february-16-2022/joint-legislative-public-hearing-2022-executive-budget-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/february-16-2022/joint-legislative-public-hearing-2022-executive-budget-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:14:16.331Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/february-16-2022/joint-legislative-public-hearing-2022-executive-budget-0",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/february-16-2022/joint-legislative-public-hearing-2022-executive-budget-0"
+}

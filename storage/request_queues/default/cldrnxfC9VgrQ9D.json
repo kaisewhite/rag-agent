@@ -1,0 +1,9 @@
+{
+	"id": "cldrnxfC9VgrQ9D",
+	"json": "{\"id\":\"cldrnxfC9VgrQ9D\",\"url\":\"https://www.nysenate.gov/legislation/laws/ISC/A5\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ISC/A5\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569932479,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ISC/A5",
+	"url": "https://www.nysenate.gov/legislation/laws/ISC/A5"
+}

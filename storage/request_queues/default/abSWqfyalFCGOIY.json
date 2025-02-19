@@ -1,0 +1,9 @@
+{
+	"id": "abSWqfyalFCGOIY",
+	"json": "{\"id\":\"abSWqfyalFCGOIY\",\"url\":\"https://www.nysenate.gov/calendar/meetings/local-government/february-05-2013/local-government-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/local-government/february-05-2013/local-government-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847563,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/local-government/february-05-2013/local-government-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/local-government/february-05-2013/local-government-meeting"
+}

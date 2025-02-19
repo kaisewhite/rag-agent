@@ -1,0 +1,9 @@
+{
+	"id": "mHM63zkLW2m7AZu",
+	"json": "{\"id\":\"mHM63zkLW2m7AZu\",\"url\":\"https://www.nysenate.gov/student-programs/welcome-2017-18-student-fellows\",\"uniqueKey\":\"GET():https://www.nysenate.gov/student-programs/welcome-2017-18-student-fellows\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569869716,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/student-programs/welcome-2017-18-student-fellows",
+	"url": "https://www.nysenate.gov/student-programs/welcome-2017-18-student-fellows"
+}

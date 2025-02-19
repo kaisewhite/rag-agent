@@ -1,0 +1,9 @@
+{
+	"id": "YZHx3OGo5QzK6zu",
+	"json": "{\"id\":\"YZHx3OGo5QzK6zu\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-17-2018/public-hearing-investigate-use-911-line-duty-sick-leave\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-17-2018/public-hearing-investigate-use-911-line-duty-sick-leave\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569724707,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-17-2018/public-hearing-investigate-use-911-line-duty-sick-leave",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-17-2018/public-hearing-investigate-use-911-line-duty-sick-leave"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Y4VvI1R4nCTxCYr",
+	"json": "{\"id\":\"Y4VvI1R4nCTxCYr\",\"url\":\"https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-27-2023/veterans\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-27-2023/veterans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855377,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-27-2023/veterans",
+	"url": "https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-27-2023/veterans"
+}

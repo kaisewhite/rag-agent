@@ -1,0 +1,9 @@
+{
+	"id": "85mq4tjhjvf00O0",
+	"json": "{\"id\":\"85mq4tjhjvf00O0\",\"url\":\"https://www.nysenate.gov/legislation/laws/SOS/A4\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/SOS/A4\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569979710,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/SOS/A4",
+	"url": "https://www.nysenate.gov/legislation/laws/SOS/A4"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "rw2AB8JMx7jjqzR",
+	"json": "{\"id\":\"rw2AB8JMx7jjqzR\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2010/jose-peralta/law-dishes-out-strict-health-rules-food-vendors\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2010/jose-peralta/law-dishes-out-strict-health-rules-food-vendors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740990,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2010/jose-peralta/law-dishes-out-strict-health-rules-food-vendors",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2010/jose-peralta/law-dishes-out-strict-health-rules-food-vendors"
+}

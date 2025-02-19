@@ -1,0 +1,9 @@
+{
+	"id": "ezC6qVbqPh1a6Sa",
+	"json": "{\"id\":\"ezC6qVbqPh1a6Sa\",\"url\":\"https://www.nysenate.gov/issues/chemical\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/chemical\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770703,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/chemical",
+	"url": "https://www.nysenate.gov/issues/chemical"
+}

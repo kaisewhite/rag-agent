@@ -1,0 +1,9 @@
+{
+	"id": "LUDJauGAeWv9Gfp",
+	"json": "{\"id\":\"LUDJauGAeWv9Gfp\",\"url\":\"https://www.nysenate.gov/calendar/public-hearings/february-13-2024/joint-legislative-public-hearing-2024-executive-budget\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public-hearings/february-13-2024/joint-legislative-public-hearing-2024-executive-budget\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569819278,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public-hearings/february-13-2024/joint-legislative-public-hearing-2024-executive-budget",
+	"url": "https://www.nysenate.gov/calendar/public-hearings/february-13-2024/joint-legislative-public-hearing-2024-executive-budget"
+}

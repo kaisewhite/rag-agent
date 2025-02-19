@@ -1,0 +1,9 @@
+{
+	"id": "YWGI9q4PQi94KEa",
+	"json": "{\"id\":\"YWGI9q4PQi94KEa\",\"url\":\"https://www.nysenate.gov/issues/emergency-and-hurricane-preparedness\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/emergency-and-hurricane-preparedness\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740976,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/emergency-and-hurricane-preparedness",
+	"url": "https://www.nysenate.gov/issues/emergency-and-hurricane-preparedness"
+}

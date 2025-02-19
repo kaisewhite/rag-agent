@@ -1,0 +1,9 @@
+{
+	"id": "Ine5Cr61MSGTSZB",
+	"json": "{\"id\":\"Ine5Cr61MSGTSZB\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-02-2018/st-albans-church-community-health-fair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-02-2018/st-albans-church-community-health-fair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246526,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-02-2018/st-albans-church-community-health-fair",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-02-2018/st-albans-church-community-health-fair"
+}

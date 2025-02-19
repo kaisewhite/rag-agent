@@ -1,0 +1,9 @@
+{
+	"id": "0JpST3en4SaQNnG",
+	"json": "{\"id\":\"0JpST3en4SaQNnG\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2011/george-maziarz/niagara-power-project-celebrates-its-50th-anniversary\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2011/george-maziarz/niagara-power-project-celebrates-its-50th-anniversary\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765725,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2011/george-maziarz/niagara-power-project-celebrates-its-50th-anniversary",
+	"url": "https://www.nysenate.gov/newsroom/articles/2011/george-maziarz/niagara-power-project-celebrates-its-50th-anniversary"
+}

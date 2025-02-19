@@ -1,0 +1,9 @@
+{
+	"id": "kgosvKxGx1fjeZk",
+	"json": "{\"id\":\"kgosvKxGx1fjeZk\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-19-2018/community-board-18-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-19-2018/community-board-18-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246661,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-19-2018/community-board-18-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-19-2018/community-board-18-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lWwfgkqxKzeKrJf",
+	"json": "{\"id\":\"lWwfgkqxKzeKrJf\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/november-13-2013/heroin-and-prescription-drug-epidemic-long-island-and-its\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/november-13-2013/heroin-and-prescription-drug-epidemic-long-island-and-its\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569702205,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/november-13-2013/heroin-and-prescription-drug-epidemic-long-island-and-its",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/november-13-2013/heroin-and-prescription-drug-epidemic-long-island-and-its"
+}

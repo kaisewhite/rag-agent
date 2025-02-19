@@ -1,0 +1,9 @@
+{
+	"id": "Ckw2FkmiZoxqgHK",
+	"json": "{\"id\":\"Ckw2FkmiZoxqgHK\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/january-09-2012/examine-alternative-project-delivery-methods\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/january-09-2012/examine-alternative-project-delivery-methods\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788174,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/january-09-2012/examine-alternative-project-delivery-methods",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/january-09-2012/examine-alternative-project-delivery-methods"
+}

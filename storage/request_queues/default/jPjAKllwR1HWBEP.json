@@ -1,0 +1,9 @@
+{
+	"id": "jPjAKllwR1HWBEP",
+	"json": "{\"id\":\"jPjAKllwR1HWBEP\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/february-06-2017/age-criminal-responsibility-and-its-impact-new-york-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/february-06-2017/age-criminal-responsibility-and-its-impact-new-york-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717590,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/february-06-2017/age-criminal-responsibility-and-its-impact-new-york-state",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/february-06-2017/age-criminal-responsibility-and-its-impact-new-york-state"
+}

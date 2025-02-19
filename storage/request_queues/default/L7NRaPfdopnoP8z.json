@@ -1,0 +1,9 @@
+{
+	"id": "L7NRaPfdopnoP8z",
+	"json": "{\"id\":\"L7NRaPfdopnoP8z\",\"url\":\"https://www.nysenate.gov/senators/michael-f-nozzolio/landing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/michael-f-nozzolio/landing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571198729,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/michael-f-nozzolio/landing",
+	"url": "https://www.nysenate.gov/senators/michael-f-nozzolio/landing"
+}

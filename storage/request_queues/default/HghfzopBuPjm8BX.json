@@ -1,0 +1,9 @@
+{
+	"id": "HghfzopBuPjm8BX",
+	"json": "{\"id\":\"HghfzopBuPjm8BX\",\"url\":\"https://www.nysenate.gov/newsroom/articles/liz-krueger/report-seniors-december-2015\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/liz-krueger/report-seniors-december-2015\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570753553,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/liz-krueger/report-seniors-december-2015",
+	"url": "https://www.nysenate.gov/newsroom/articles/liz-krueger/report-seniors-december-2015"
+}

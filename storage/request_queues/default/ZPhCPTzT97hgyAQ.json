@@ -1,0 +1,9 @@
+{
+	"id": "ZPhCPTzT97hgyAQ",
+	"json": "{\"id\":\"ZPhCPTzT97hgyAQ\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/june-04-2019/joint-public-hearing-conduct-discussion-online-privacy-and-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/june-04-2019/joint-public-hearing-conduct-discussion-online-privacy-and-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569796254,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/june-04-2019/joint-public-hearing-conduct-discussion-online-privacy-and-0",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/june-04-2019/joint-public-hearing-conduct-discussion-online-privacy-and-0"
+}

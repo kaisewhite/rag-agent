@@ -1,0 +1,9 @@
+{
+	"id": "hqI8wdtWpi1kVmm",
+	"json": "{\"id\":\"hqI8wdtWpi1kVmm\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2022/james-skoufis/state-sen-skoufis-leads-probe-new-york-utilities-pricing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2022/james-skoufis/state-sen-skoufis-leads-probe-new-york-utilities-pricing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808637,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2022/james-skoufis/state-sen-skoufis-leads-probe-new-york-utilities-pricing",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2022/james-skoufis/state-sen-skoufis-leads-probe-new-york-utilities-pricing"
+}

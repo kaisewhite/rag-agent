@@ -1,0 +1,9 @@
+{
+	"id": "KZLyIdAXnhPJuTd",
+	"json": "{\"id\":\"KZLyIdAXnhPJuTd\",\"url\":\"https://www.nysenate.gov/issues/covid-19-vaccine\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/covid-19-vaccine\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570976506,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/covid-19-vaccine",
+	"url": "https://www.nysenate.gov/issues/covid-19-vaccine"
+}

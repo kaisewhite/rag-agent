@@ -1,0 +1,9 @@
+{
+	"id": "9x5AnAmCmsIMtH8",
+	"json": "{\"id\":\"9x5AnAmCmsIMtH8\",\"url\":\"https://www.nysenate.gov/student-programs/where-are-they-now-dylan-rolleri-2010-session-assistant\",\"uniqueKey\":\"GET():https://www.nysenate.gov/student-programs/where-are-they-now-dylan-rolleri-2010-session-assistant\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569869707,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/student-programs/where-are-they-now-dylan-rolleri-2010-session-assistant",
+	"url": "https://www.nysenate.gov/student-programs/where-are-they-now-dylan-rolleri-2010-session-assistant"
+}

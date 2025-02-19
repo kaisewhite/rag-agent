@@ -1,0 +1,9 @@
+{
+	"id": "cnOcxlFiyVMQ8nC",
+	"json": "{\"id\":\"cnOcxlFiyVMQ8nC\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/brian-foley/sen-foley-announces-legislation-help-vets-reclaim-homes-lost\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/brian-foley/sen-foley-announces-legislation-help-vets-reclaim-homes-lost\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707004,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/brian-foley/sen-foley-announces-legislation-help-vets-reclaim-homes-lost",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/brian-foley/sen-foley-announces-legislation-help-vets-reclaim-homes-lost"
+}

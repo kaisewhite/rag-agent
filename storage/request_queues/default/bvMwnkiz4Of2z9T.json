@@ -1,0 +1,9 @@
+{
+	"id": "bvMwnkiz4Of2z9T",
+	"json": "{\"id\":\"bvMwnkiz4Of2z9T\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/senate-acts-quickly-pass-new-power-jobs-program\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/senate-acts-quickly-pass-new-power-jobs-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695528,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/senate-acts-quickly-pass-new-power-jobs-program",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/senate-acts-quickly-pass-new-power-jobs-program"
+}

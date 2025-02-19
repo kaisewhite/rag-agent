@@ -1,0 +1,9 @@
+{
+	"id": "1j7Dg9BFJb4FGPN",
+	"json": "{\"id\":\"1j7Dg9BFJb4FGPN\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S4912\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S4912\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570047356,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S4912",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S4912"
+}

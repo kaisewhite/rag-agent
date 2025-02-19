@@ -1,0 +1,9 @@
+{
+	"id": "30HWf7iTi7lNjIp",
+	"json": "{\"id\":\"30HWf7iTi7lNjIp\",\"url\":\"https://www.nysenate.gov/legislation/laws/BNK/A13-C\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/BNK/A13-C\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569886241,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/BNK/A13-C",
+	"url": "https://www.nysenate.gov/legislation/laws/BNK/A13-C"
+}

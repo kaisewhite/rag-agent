@@ -1,0 +1,9 @@
+{
+	"id": "ApKLKghR4Hs1yeR",
+	"json": "{\"id\":\"ApKLKghR4Hs1yeR\",\"url\":\"https://www.nysenate.gov/calendar/events/womens-issues/julia-salazar/february-13-2019/public-hearing-sexual-harassment\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/womens-issues/julia-salazar/february-13-2019/public-hearing-sexual-harassment\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569858763,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/womens-issues/julia-salazar/february-13-2019/public-hearing-sexual-harassment",
+	"url": "https://www.nysenate.gov/calendar/events/womens-issues/julia-salazar/february-13-2019/public-hearing-sexual-harassment"
+}

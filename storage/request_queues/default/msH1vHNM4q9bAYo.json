@@ -1,0 +1,9 @@
+{
+	"id": "msH1vHNM4q9bAYo",
+	"json": "{\"id\":\"msH1vHNM4q9bAYo\",\"url\":\"https://www.nysenate.gov/calendar/meetings/higher-education/may-30-2013/higher-education-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-30-2013/higher-education-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788166,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-30-2013/higher-education-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/higher-education/may-30-2013/higher-education-meeting"
+}

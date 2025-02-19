@@ -1,0 +1,9 @@
+{
+	"id": "MHISoGzsvc4PnEC",
+	"json": "{\"id\":\"MHISoGzsvc4PnEC\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/bill-perkins/senators-urge-governor-sign-authorities-reform-bill\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/bill-perkins/senators-urge-governor-sign-authorities-reform-bill\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741857,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/bill-perkins/senators-urge-governor-sign-authorities-reform-bill",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/bill-perkins/senators-urge-governor-sign-authorities-reform-bill"
+}

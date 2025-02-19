@@ -1,0 +1,9 @@
+{
+	"id": "4N5ZSlOU1PKyh19",
+	"json": "{\"id\":\"4N5ZSlOU1PKyh19\",\"url\":\"https://www.nysenate.gov/calendar/events/leroy-comrie/september-24-2022/free-paper-shredding-event\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/leroy-comrie/september-24-2022/free-paper-shredding-event\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570085505,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/leroy-comrie/september-24-2022/free-paper-shredding-event",
+	"url": "https://www.nysenate.gov/calendar/events/leroy-comrie/september-24-2022/free-paper-shredding-event"
+}

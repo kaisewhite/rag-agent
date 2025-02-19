@@ -1,0 +1,9 @@
+{
+	"id": "CbG59hbtUDrQCIH",
+	"json": "{\"id\":\"CbG59hbtUDrQCIH\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/william-stachowski/senator-stachowski-calls-measure-advance-historic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/william-stachowski/senator-stachowski-calls-measure-advance-historic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734377,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/william-stachowski/senator-stachowski-calls-measure-advance-historic",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/william-stachowski/senator-stachowski-calls-measure-advance-historic"
+}

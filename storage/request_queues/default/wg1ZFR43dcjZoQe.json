@@ -1,0 +1,9 @@
+{
+	"id": "wg1ZFR43dcjZoQe",
+	"json": "{\"id\":\"wg1ZFR43dcjZoQe\",\"url\":\"https://www.nysenate.gov/questionnaires/samra-g-brouk/subscribe-senator-brouks-newsletter\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/samra-g-brouk/subscribe-senator-brouks-newsletter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569619544,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/samra-g-brouk/subscribe-senator-brouks-newsletter",
+	"url": "https://www.nysenate.gov/questionnaires/samra-g-brouk/subscribe-senator-brouks-newsletter"
+}

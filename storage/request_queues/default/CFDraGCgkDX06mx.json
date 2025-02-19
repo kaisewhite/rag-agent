@@ -1,0 +1,9 @@
+{
+	"id": "CFDraGCgkDX06mx",
+	"json": "{\"id\":\"CFDraGCgkDX06mx\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-23-2021/conversations-senator-persaud\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-23-2021/conversations-senator-persaud\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247239,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-23-2021/conversations-senator-persaud",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-23-2021/conversations-senator-persaud"
+}

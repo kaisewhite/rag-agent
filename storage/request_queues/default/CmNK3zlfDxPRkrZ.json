@@ -1,0 +1,9 @@
+{
+	"id": "CmNK3zlfDxPRkrZ",
+	"json": "{\"id\":\"CmNK3zlfDxPRkrZ\",\"url\":\"https://www.nysenate.gov/calendar/meetings/finance/april-09-2019/finance-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/finance/april-09-2019/finance-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780967,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/finance/april-09-2019/finance-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/finance/april-09-2019/finance-meeting"
+}

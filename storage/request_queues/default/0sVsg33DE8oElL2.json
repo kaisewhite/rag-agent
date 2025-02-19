@@ -1,0 +1,9 @@
+{
+	"id": "0sVsg33DE8oElL2",
+	"json": "{\"id\":\"0sVsg33DE8oElL2\",\"url\":\"https://www.nysenate.gov/senators/lea-webb\",\"loadedUrl\":\"https://www.nysenate.gov/senators/lea-webb\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/lea-webb\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:48:00.167Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/lea-webb",
+	"url": "https://www.nysenate.gov/senators/lea-webb"
+}

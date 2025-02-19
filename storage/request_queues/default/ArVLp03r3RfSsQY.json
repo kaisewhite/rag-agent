@@ -1,0 +1,9 @@
+{
+	"id": "ArVLp03r3RfSsQY",
+	"json": "{\"id\":\"ArVLp03r3RfSsQY\",\"url\":\"https://www.nysenate.gov/calendar/meetings/judiciary/june-07-2011/judiciary-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/judiciary/june-07-2011/judiciary-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804299,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/judiciary/june-07-2011/judiciary-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/judiciary/june-07-2011/judiciary-meeting"
+}

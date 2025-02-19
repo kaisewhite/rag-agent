@@ -1,0 +1,9 @@
+{
+	"id": "JjBFpbnCWLWPfOC",
+	"json": "{\"id\":\"JjBFpbnCWLWPfOC\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Senior%20Citizen%20Rent%20Increase%20Exemption\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Senior+Citizen+Rent+Increase+Exemption\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571261160,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Senior+Citizen+Rent+Increase+Exemption",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Senior%20Citizen%20Rent%20Increase%20Exemption"
+}

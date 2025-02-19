@@ -1,0 +1,9 @@
+{
+	"id": "HnAVo25Yp4fTha3",
+	"json": "{\"id\":\"HnAVo25Yp4fTha3\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2022/michael-gianaris/gotham-gazette-state-government-more-important-its-ever\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2022/michael-gianaris/gotham-gazette-state-government-more-important-its-ever\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570196497,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2022/michael-gianaris/gotham-gazette-state-government-more-important-its-ever",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2022/michael-gianaris/gotham-gazette-state-government-more-important-its-ever"
+}

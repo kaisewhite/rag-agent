@@ -1,0 +1,9 @@
+{
+	"id": "KfjAMWNGqS7X87o",
+	"json": "{\"id\":\"KfjAMWNGqS7X87o\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-11-2025/saturday-open-office-hours-10am-1pm\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-11-2025/saturday-open-office-hours-10am-1pm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247573,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-11-2025/saturday-open-office-hours-10am-1pm",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-11-2025/saturday-open-office-hours-10am-1pm"
+}

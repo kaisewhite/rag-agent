@@ -1,0 +1,9 @@
+{
+	"id": "0P449M2vtEcz288",
+	"json": "{\"id\":\"0P449M2vtEcz288\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/rachel-may/legislative-commission-rural-resources-releases-analysis\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/rachel-may/legislative-commission-rural-resources-releases-analysis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695486,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/rachel-may/legislative-commission-rural-resources-releases-analysis",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/rachel-may/legislative-commission-rural-resources-releases-analysis"
+}

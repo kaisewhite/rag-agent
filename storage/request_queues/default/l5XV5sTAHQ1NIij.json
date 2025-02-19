@@ -1,0 +1,9 @@
+{
+	"id": "l5XV5sTAHQ1NIij",
+	"json": "{\"id\":\"l5XV5sTAHQ1NIij\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/april-baskin/baskin-announces-staff-appointments-and-temporary-office\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/april-baskin/baskin-announces-staff-appointments-and-temporary-office\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569614962,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/april-baskin/baskin-announces-staff-appointments-and-temporary-office",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/april-baskin/baskin-announces-staff-appointments-and-temporary-office"
+}

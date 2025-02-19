@@ -1,0 +1,9 @@
+{
+	"id": "K4BJTubS0G4y8kI",
+	"json": "{\"id\":\"K4BJTubS0G4y8kI\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/statement-senator-maziarz-indian-point-nuclear-safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/statement-senator-maziarz-indian-point-nuclear-safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765726,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/statement-senator-maziarz-indian-point-nuclear-safety",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/statement-senator-maziarz-indian-point-nuclear-safety"
+}

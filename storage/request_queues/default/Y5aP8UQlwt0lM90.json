@@ -1,0 +1,9 @@
+{
+	"id": "Y5aP8UQlwt0lM90",
+	"json": "{\"id\":\"Y5aP8UQlwt0lM90\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/officials-prepping-legislative-agenda-aid-new-yorkers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/officials-prepping-legislative-agenda-aid-new-yorkers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751247,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/officials-prepping-legislative-agenda-aid-new-yorkers",
+	"url": "https://www.nysenate.gov/newsroom/articles/2023/john-w-mannion/officials-prepping-legislative-agenda-aid-new-yorkers"
+}

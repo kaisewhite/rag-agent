@@ -1,0 +1,9 @@
+{
+	"id": "Cf5yY4mJZsMrVGI",
+	"json": "{\"id\":\"Cf5yY4mJZsMrVGI\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/senator-grisanti-proposes-bill-increase-number-green\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/senator-grisanti-proposes-bill-increase-number-green\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770753,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/senator-grisanti-proposes-bill-increase-number-green",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/mark-grisanti/senator-grisanti-proposes-bill-increase-number-green"
+}

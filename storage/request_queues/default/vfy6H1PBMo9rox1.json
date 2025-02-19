@@ -1,0 +1,9 @@
+{
+	"id": "vfy6H1PBMo9rox1",
+	"json": "{\"id\":\"vfy6H1PBMo9rox1\",\"url\":\"https://www.nysenate.gov/senators/diane-j-savino/landing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/diane-j-savino/landing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570038811,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/diane-j-savino/landing",
+	"url": "https://www.nysenate.gov/senators/diane-j-savino/landing"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "floz8p0xQjRjiKd",
+	"json": "{\"id\":\"floz8p0xQjRjiKd\",\"url\":\"https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/june-04-2013/energy-and-telecommunications-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/june-04-2013/energy-and-telecommunications-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765699,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/june-04-2013/energy-and-telecommunications-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/june-04-2013/energy-and-telecommunications-meeting"
+}

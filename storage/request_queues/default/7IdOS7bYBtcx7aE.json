@@ -1,0 +1,9 @@
+{
+	"id": "7IdOS7bYBtcx7aE",
+	"json": "{\"id\":\"7IdOS7bYBtcx7aE\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2025/sean-m-ryan/vacant-rental-program-vrp-applications-and-information\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/articles/2025/sean-m-ryan/vacant-rental-program-vrp-applications-and-information\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2025/sean-m-ryan/vacant-rental-program-vrp-applications-and-information\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:54:09.225Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2025/sean-m-ryan/vacant-rental-program-vrp-applications-and-information",
+	"url": "https://www.nysenate.gov/newsroom/articles/2025/sean-m-ryan/vacant-rental-program-vrp-applications-and-information"
+}

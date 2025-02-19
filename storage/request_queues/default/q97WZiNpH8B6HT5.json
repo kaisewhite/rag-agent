@@ -1,0 +1,9 @@
+{
+	"id": "q97WZiNpH8B6HT5",
+	"json": "{\"id\":\"q97WZiNpH8B6HT5\",\"url\":\"https://www.nysenate.gov/legislation/bills/2017/S8739\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2017/S8739\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570064705,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2017/S8739",
+	"url": "https://www.nysenate.gov/legislation/bills/2017/S8739"
+}

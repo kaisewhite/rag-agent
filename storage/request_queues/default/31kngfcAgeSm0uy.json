@@ -1,0 +1,9 @@
+{
+	"id": "31kngfcAgeSm0uy",
+	"json": "{\"id\":\"31kngfcAgeSm0uy\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/march-01-2012/examine-impact-proposed-agency-consolidations-affected-1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/march-01-2012/examine-impact-proposed-agency-consolidations-affected-1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833554,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/march-01-2012/examine-impact-proposed-agency-consolidations-affected-1",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/march-01-2012/examine-impact-proposed-agency-consolidations-affected-1"
+}

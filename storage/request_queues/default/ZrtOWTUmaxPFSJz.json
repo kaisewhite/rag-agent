@@ -1,0 +1,9 @@
+{
+	"id": "ZrtOWTUmaxPFSJz",
+	"json": "{\"id\":\"ZrtOWTUmaxPFSJz\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBS/A7\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBS/A7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569958472,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBS/A7",
+	"url": "https://www.nysenate.gov/legislation/laws/PBS/A7"
+}

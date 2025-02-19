@@ -1,0 +1,9 @@
+{
+	"id": "xBUHTT2IOTEa55s",
+	"json": "{\"id\":\"xBUHTT2IOTEa55s\",\"url\":\"https://www.nysenate.gov/sites/default/files/new_hyde_park_memorial_high_school_ptsa_-_james_reddan_hicksville_testimony.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/new_hyde_park_memorial_high_school_ptsa_-_james_reddan_hicksville_testimony.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571709813,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/new_hyde_park_memorial_high_school_ptsa_-_james_reddan_hicksville_testimony.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/new_hyde_park_memorial_high_school_ptsa_-_james_reddan_hicksville_testimony.pdf"
+}

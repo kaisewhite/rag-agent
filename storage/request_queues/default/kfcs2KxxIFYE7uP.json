@@ -1,0 +1,9 @@
+{
+	"id": "kfcs2KxxIFYE7uP",
+	"json": "{\"id\":\"kfcs2KxxIFYE7uP\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/daniel-l-squadron/small-stores-key-hoods-health-some-tell-hearing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/daniel-l-squadron/small-stores-key-hoods-health-some-tell-hearing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569714897,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/daniel-l-squadron/small-stores-key-hoods-health-some-tell-hearing",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/daniel-l-squadron/small-stores-key-hoods-health-some-tell-hearing"
+}

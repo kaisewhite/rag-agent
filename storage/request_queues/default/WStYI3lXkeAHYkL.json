@@ -1,0 +1,9 @@
+{
+	"id": "WStYI3lXkeAHYkL",
+	"json": "{\"id\":\"WStYI3lXkeAHYkL\",\"url\":\"https://www.nysenate.gov/issues/racial-statistics\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/racial-statistics\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571314770,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/racial-statistics",
+	"url": "https://www.nysenate.gov/issues/racial-statistics"
+}

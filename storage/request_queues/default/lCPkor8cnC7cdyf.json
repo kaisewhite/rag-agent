@@ -1,0 +1,9 @@
+{
+	"id": "lCPkor8cnC7cdyf",
+	"json": "{\"id\":\"lCPkor8cnC7cdyf\",\"url\":\"https://www.nysenate.gov/issues/homelessness-and-affordable-housing-crisis\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/homelessness-and-affordable-housing-crisis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569576478,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/homelessness-and-affordable-housing-crisis",
+	"url": "https://www.nysenate.gov/issues/homelessness-and-affordable-housing-crisis"
+}

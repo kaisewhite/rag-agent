@@ -1,0 +1,9 @@
+{
+	"id": "mYIN6uHQftnRt8x",
+	"json": "{\"id\":\"mYIN6uHQftnRt8x\",\"url\":\"https://www.nysenate.gov/issues/implementation-discovery-reform\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/implementation-discovery-reform\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725858,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/implementation-discovery-reform",
+	"url": "https://www.nysenate.gov/issues/implementation-discovery-reform"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "r12xryrQ9Cjxhbe",
+	"json": "{\"id\":\"r12xryrQ9Cjxhbe\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S1851/amendment/B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S1851/amendment/B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571426045,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S1851/amendment/B",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S1851/amendment/B"
+}

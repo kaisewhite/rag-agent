@@ -1,0 +1,9 @@
+{
+	"id": "tyuHlBofL2bC4W3",
+	"json": "{\"id\":\"tyuHlBofL2bC4W3\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVR\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/CVR\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVR\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:38.475Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVR",
+	"url": "https://www.nysenate.gov/legislation/laws/CVR"
+}

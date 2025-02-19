@@ -1,0 +1,9 @@
+{
+	"id": "UN61wsFKy3VVZFe",
+	"json": "{\"id\":\"UN61wsFKy3VVZFe\",\"url\":\"https://www.nysenate.gov/issues/food\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/food\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798906,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/food",
+	"url": "https://www.nysenate.gov/issues/food"
+}

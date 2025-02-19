@@ -1,0 +1,9 @@
+{
+	"id": "rk77Mq1eQe8qGpo",
+	"json": "{\"id\":\"rk77Mq1eQe8qGpo\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/thomas-duane/h1n1-swine-flu-resources\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/thomas-duane/h1n1-swine-flu-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781072,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/thomas-duane/h1n1-swine-flu-resources",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/thomas-duane/h1n1-swine-flu-resources"
+}

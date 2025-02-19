@@ -1,0 +1,9 @@
+{
+	"id": "77652mQDY4NN0ym",
+	"json": "{\"id\":\"77652mQDY4NN0ym\",\"url\":\"https://www.nysenate.gov/calendar/events/february-12-2025/nys-legislature-regent-candidate-interviews\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/february-12-2025/nys-legislature-regent-candidate-interviews\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569604486,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/february-12-2025/nys-legislature-regent-candidate-interviews",
+	"url": "https://www.nysenate.gov/calendar/events/february-12-2025/nys-legislature-regent-candidate-interviews"
+}

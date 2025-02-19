@@ -1,0 +1,9 @@
+{
+	"id": "O9377Tdap5Gjp2e",
+	"json": "{\"id\":\"O9377Tdap5Gjp2e\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Higher%20Education%20Funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Higher+Education+Funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571061558,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Higher+Education+Funding",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Higher%20Education%20Funding"
+}

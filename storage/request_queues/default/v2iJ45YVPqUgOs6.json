@@ -1,0 +1,9 @@
+{
+	"id": "v2iJ45YVPqUgOs6",
+	"json": "{\"id\":\"v2iJ45YVPqUgOs6\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S8850\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S8850\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571003245,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S8850",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S8850"
+}

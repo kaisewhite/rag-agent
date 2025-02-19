@@ -1,0 +1,9 @@
+{
+	"id": "1Qz5sQZAr7S9KeS",
+	"json": "{\"id\":\"1Qz5sQZAr7S9KeS\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/power-jobs-extended-two-weeks-absence-three-way\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/power-jobs-extended-two-weeks-absence-three-way\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695527,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/power-jobs-extended-two-weeks-absence-three-way",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/darrel-aubertine/power-jobs-extended-two-weeks-absence-three-way"
+}

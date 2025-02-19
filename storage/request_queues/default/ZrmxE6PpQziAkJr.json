@@ -1,0 +1,9 @@
+{
+	"id": "ZrmxE6PpQziAkJr",
+	"json": "{\"id\":\"ZrmxE6PpQziAkJr\",\"url\":\"https://www.nysenate.gov/issues/bail-reform-public-safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/bail-reform-public-safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569574142,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/bail-reform-public-safety",
+	"url": "https://www.nysenate.gov/issues/bail-reform-public-safety"
+}

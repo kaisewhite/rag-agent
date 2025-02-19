@@ -1,0 +1,9 @@
+{
+	"id": "pCDXjgz98UXVRfH",
+	"json": "{\"id\":\"pCDXjgz98UXVRfH\",\"url\":\"https://www.nysenate.gov/issues/housing-conditions\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/housing-conditions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808649,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/housing-conditions",
+	"url": "https://www.nysenate.gov/issues/housing-conditions"
+}

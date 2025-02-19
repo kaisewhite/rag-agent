@@ -1,0 +1,9 @@
+{
+	"id": "pCMVQATrfF4WoUG",
+	"json": "{\"id\":\"pCMVQATrfF4WoUG\",\"url\":\"https://www.nysenate.gov/sites/default/files/ny_cannabis_growers_processors_association.22.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/ny_cannabis_growers_processors_association.22.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571256313,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/ny_cannabis_growers_processors_association.22.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/ny_cannabis_growers_processors_association.22.pdf"
+}

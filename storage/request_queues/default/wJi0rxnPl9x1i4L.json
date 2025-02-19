@@ -1,0 +1,9 @@
+{
+	"id": "wJi0rxnPl9x1i4L",
+	"json": "{\"id\":\"wJi0rxnPl9x1i4L\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2023/sean-m-ryan/report-tax-breaks-costing-schools-big-money-investigative\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2023/sean-m-ryan/report-tax-breaks-costing-schools-big-money-investigative\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570062006,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2023/sean-m-ryan/report-tax-breaks-costing-schools-big-money-investigative",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2023/sean-m-ryan/report-tax-breaks-costing-schools-big-money-investigative"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "eVCPuLbHc4iVNQU",
+	"json": "{\"id\":\"eVCPuLbHc4iVNQU\",\"url\":\"https://www.nysenate.gov/profiles/2024/rob-rolison/linda-melton-mann\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/rob-rolison/linda-melton-mann\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/rob-rolison/linda-melton-mann\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:58:58.845Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/rob-rolison/linda-melton-mann",
+	"url": "https://www.nysenate.gov/profiles/2024/rob-rolison/linda-melton-mann"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Hq2RVfjI9ph7tZx",
+	"json": "{\"id\":\"Hq2RVfjI9ph7tZx\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-30-2019/free-financial-coaching-and-credit-improvement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-30-2019/free-financial-coaching-and-credit-improvement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247033,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-30-2019/free-financial-coaching-and-credit-improvement",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-30-2019/free-financial-coaching-and-credit-improvement"
+}

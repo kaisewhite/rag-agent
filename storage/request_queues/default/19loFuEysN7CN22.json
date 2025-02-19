@@ -1,0 +1,9 @@
+{
+	"id": "19loFuEysN7CN22",
+	"json": "{\"id\":\"19loFuEysN7CN22\",\"url\":\"https://www.nysenate.gov/calendar/meetings/social-services/february-01-2011/social-services-meeting-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/social-services/february-01-2011/social-services-meeting-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569576474,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/social-services/february-01-2011/social-services-meeting-0",
+	"url": "https://www.nysenate.gov/calendar/meetings/social-services/february-01-2011/social-services-meeting-0"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "wkIC0jCOr8qXo4A",
+	"json": "{\"id\":\"wkIC0jCOr8qXo4A\",\"url\":\"https://www.nysenate.gov/legislation/bills/2017/S6872\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2017/S6872\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570928469,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2017/S6872",
+	"url": "https://www.nysenate.gov/legislation/bills/2017/S6872"
+}

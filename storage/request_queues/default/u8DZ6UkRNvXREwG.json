@@ -1,0 +1,9 @@
+{
+	"id": "u8DZ6UkRNvXREwG",
+	"json": "{\"id\":\"u8DZ6UkRNvXREwG\",\"url\":\"https://www.nysenate.gov/issues/economic-and-revenue-consensus\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/economic-and-revenue-consensus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780971,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/economic-and-revenue-consensus",
+	"url": "https://www.nysenate.gov/issues/economic-and-revenue-consensus"
+}

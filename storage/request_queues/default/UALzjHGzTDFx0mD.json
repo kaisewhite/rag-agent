@@ -1,0 +1,9 @@
+{
+	"id": "UALzjHGzTDFx0mD",
+	"json": "{\"id\":\"UALzjHGzTDFx0mD\",\"url\":\"https://www.nysenate.gov/senators/kathleen-marchione/landing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/kathleen-marchione/landing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571198726,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/kathleen-marchione/landing",
+	"url": "https://www.nysenate.gov/senators/kathleen-marchione/landing"
+}

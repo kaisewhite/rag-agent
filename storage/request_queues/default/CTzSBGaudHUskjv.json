@@ -1,0 +1,9 @@
+{
+	"id": "CTzSBGaudHUskjv",
+	"json": "{\"id\":\"CTzSBGaudHUskjv\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/antoine-thompson/senator-thompson-passes-municipal-energy-sustainable\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/antoine-thompson/senator-thompson-passes-municipal-energy-sustainable\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770761,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/antoine-thompson/senator-thompson-passes-municipal-energy-sustainable",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/antoine-thompson/senator-thompson-passes-municipal-energy-sustainable"
+}

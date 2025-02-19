@@ -1,0 +1,9 @@
+{
+	"id": "TdPZGLP1N4xcrte",
+	"json": "{\"id\":\"TdPZGLP1N4xcrte\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Budget%20Hearings\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Budget+Hearings\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569581506,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Budget+Hearings",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Budget%20Hearings"
+}

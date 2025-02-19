@@ -1,0 +1,9 @@
+{
+	"id": "WfJ4J8bj9EWvp8W",
+	"json": "{\"id\":\"WfJ4J8bj9EWvp8W\",\"url\":\"https://www.nysenate.gov/issues/invasive-species\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/invasive-species\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707169,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/invasive-species",
+	"url": "https://www.nysenate.gov/issues/invasive-species"
+}

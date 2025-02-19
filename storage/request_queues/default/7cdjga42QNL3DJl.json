@@ -1,0 +1,9 @@
+{
+	"id": "7cdjga42QNL3DJl",
+	"json": "{\"id\":\"7cdjga42QNL3DJl\",\"url\":\"https://www.nysenate.gov/calendar/meetings/elections/june-01-2015/elections-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/elections/june-01-2015/elections-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756057,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/elections/june-01-2015/elections-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/elections/june-01-2015/elections-meeting"
+}

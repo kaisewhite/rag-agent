@@ -1,0 +1,9 @@
+{
+	"id": "d6DCU1NVM3nvgue",
+	"json": "{\"id\":\"d6DCU1NVM3nvgue\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2019/brad-hoylman/senate-unanimously-passes-historic-child-victims-act-putting\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/articles/2019/brad-hoylman-sigal/senate-unanimously-passes-historic-child-victims-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2019/brad-hoylman/senate-unanimously-passes-historic-child-victims-act-putting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:56:42.742Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2019/brad-hoylman/senate-unanimously-passes-historic-child-victims-act-putting",
+	"url": "https://www.nysenate.gov/newsroom/articles/2019/brad-hoylman/senate-unanimously-passes-historic-child-victims-act-putting"
+}

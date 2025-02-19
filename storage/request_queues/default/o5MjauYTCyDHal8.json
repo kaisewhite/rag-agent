@@ -1,0 +1,9 @@
+{
+	"id": "o5MjauYTCyDHal8",
+	"json": "{\"id\":\"o5MjauYTCyDHal8\",\"url\":\"https://www.nysenate.gov/questionnaires/joseph-griffo/senator-joseph-griffos-community-survey\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/joseph-griffo/senator-joseph-griffos-community-survey\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569641097,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/joseph-griffo/senator-joseph-griffos-community-survey",
+	"url": "https://www.nysenate.gov/questionnaires/joseph-griffo/senator-joseph-griffos-community-survey"
+}

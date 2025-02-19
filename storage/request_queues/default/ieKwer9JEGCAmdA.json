@@ -1,0 +1,9 @@
+{
+	"id": "ieKwer9JEGCAmdA",
+	"json": "{\"id\":\"ieKwer9JEGCAmdA\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/patricia-fahy/amid-worsening-affordability-crisis-senator-fahy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/patricia-fahy/amid-worsening-affordability-crisis-senator-fahy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569574140,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/patricia-fahy/amid-worsening-affordability-crisis-senator-fahy",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/patricia-fahy/amid-worsening-affordability-crisis-senator-fahy"
+}

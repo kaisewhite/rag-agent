@@ -1,0 +1,9 @@
+{
+	"id": "u2is6S6i8zFvmST",
+	"json": "{\"id\":\"u2is6S6i8zFvmST\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-27-2024/free-mammogram-bus-senator-persauds-district-office\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-27-2024/free-mammogram-bus-senator-persauds-district-office\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247523,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-27-2024/free-mammogram-bus-senator-persauds-district-office",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-27-2024/free-mammogram-bus-senator-persauds-district-office"
+}

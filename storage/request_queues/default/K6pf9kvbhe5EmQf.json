@@ -1,0 +1,9 @@
+{
+	"id": "K6pf9kvbhe5EmQf",
+	"json": "{\"id\":\"K6pf9kvbhe5EmQf\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-attends-grand-opening-stannards-brook-park\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-attends-grand-opening-stannards-brook-park\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847714,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-attends-grand-opening-stannards-brook-park",
+	"url": "https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-attends-grand-opening-stannards-brook-park"
+}

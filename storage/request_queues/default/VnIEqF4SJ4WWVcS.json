@@ -1,0 +1,9 @@
+{
+	"id": "VnIEqF4SJ4WWVcS",
+	"json": "{\"id\":\"VnIEqF4SJ4WWVcS\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/charles-fuschillo/senate-transportation-committee-approves-anti-dwi\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/charles-fuschillo/senate-transportation-committee-approves-anti-dwi\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855289,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/charles-fuschillo/senate-transportation-committee-approves-anti-dwi",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/charles-fuschillo/senate-transportation-committee-approves-anti-dwi"
+}

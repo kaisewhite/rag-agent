@@ -1,0 +1,9 @@
+{
+	"id": "dBdp3dqZV94Phpa",
+	"json": "{\"id\":\"dBdp3dqZV94Phpa\",\"url\":\"https://www.nysenate.gov/calendar/meetings/social-services/may-19-2021/social-services-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/social-services/may-19-2021/social-services-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569576464,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/social-services/may-19-2021/social-services-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/social-services/may-19-2021/social-services-meeting"
+}

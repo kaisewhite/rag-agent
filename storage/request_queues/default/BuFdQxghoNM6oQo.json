@@ -1,0 +1,9 @@
+{
+	"id": "BuFdQxghoNM6oQo",
+	"json": "{\"id\":\"BuFdQxghoNM6oQo\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/monica-r-martinez/smoldering-issue\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/monica-r-martinez/smoldering-issue\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570264114,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/monica-r-martinez/smoldering-issue",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/monica-r-martinez/smoldering-issue"
+}

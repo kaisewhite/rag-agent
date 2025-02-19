@@ -1,0 +1,9 @@
+{
+	"id": "nkHKxPGJyATn8qo",
+	"json": "{\"id\":\"nkHKxPGJyATn8qo\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-15-2017/community-board-5-cabinet-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-15-2017/community-board-5-cabinet-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246386,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-15-2017/community-board-5-cabinet-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-15-2017/community-board-5-cabinet-meeting"
+}

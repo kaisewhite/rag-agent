@@ -1,0 +1,9 @@
+{
+	"id": "5mfKcmLDlgV5myp",
+	"json": "{\"id\":\"5mfKcmLDlgV5myp\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/governor-signs-thompson-bill-limiting-phosphorus\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/governor-signs-thompson-bill-limiting-phosphorus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770758,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/governor-signs-thompson-bill-limiting-phosphorus",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/governor-signs-thompson-bill-limiting-phosphorus"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "yBxqVRUiEhfm742",
+	"json": "{\"id\":\"yBxqVRUiEhfm742\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S8404\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S8404\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570925321,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S8404",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S8404"
+}

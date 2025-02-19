@@ -1,0 +1,9 @@
+{
+	"id": "9Fxs3H389iqPe41",
+	"json": "{\"id\":\"9Fxs3H389iqPe41\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/december-16-2015/senior-resource-expo-jamaica\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/december-16-2015/senior-resource-expo-jamaica\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019258,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/december-16-2015/senior-resource-expo-jamaica",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/december-16-2015/senior-resource-expo-jamaica"
+}

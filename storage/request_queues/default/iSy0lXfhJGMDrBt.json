@@ -1,0 +1,9 @@
+{
+	"id": "iSy0lXfhJGMDrBt",
+	"json": "{\"id\":\"iSy0lXfhJGMDrBt\",\"url\":\"https://www.nysenate.gov/calendar/meetings/finance/march-22-2018/finance-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/finance/march-22-2018/finance-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780981,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/finance/march-22-2018/finance-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/finance/march-22-2018/finance-meeting"
+}

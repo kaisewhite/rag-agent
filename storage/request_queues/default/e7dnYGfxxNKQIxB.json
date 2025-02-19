@@ -1,0 +1,9 @@
+{
+	"id": "e7dnYGfxxNKQIxB",
+	"json": "{\"id\":\"e7dnYGfxxNKQIxB\",\"url\":\"https://www.nysenate.gov/newsroom/video/james-skoufis/senator-skoufis-aims-help-garnerville-residents-who-could-be-homeless\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/james-skoufis/senator-skoufis-aims-help-garnerville-residents-who-could-be-homeless\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571311369,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/james-skoufis/senator-skoufis-aims-help-garnerville-residents-who-could-be-homeless",
+	"url": "https://www.nysenate.gov/newsroom/video/james-skoufis/senator-skoufis-aims-help-garnerville-residents-who-could-be-homeless"
+}

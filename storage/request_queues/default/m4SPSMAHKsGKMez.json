@@ -1,0 +1,9 @@
+{
+	"id": "m4SPSMAHKsGKMez",
+	"json": "{\"id\":\"m4SPSMAHKsGKMez\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-10-2015/examine-overall-process-fast-food-wage-board-2015\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-10-2015/examine-overall-process-fast-food-wage-board-2015\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811597,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-10-2015/examine-overall-process-fast-food-wage-board-2015",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-10-2015/examine-overall-process-fast-food-wage-board-2015"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "iinYsnZmT0be17N",
+	"json": "{\"id\":\"iinYsnZmT0be17N\",\"url\":\"https://www.nysenate.gov/petitions/patricia-canzoneri-fitzpatrick/say-no-new-gas-ban\",\"uniqueKey\":\"GET():https://www.nysenate.gov/petitions/patricia-canzoneri-fitzpatrick/say-no-new-gas-ban\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569621716,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/petitions/patricia-canzoneri-fitzpatrick/say-no-new-gas-ban",
+	"url": "https://www.nysenate.gov/petitions/patricia-canzoneri-fitzpatrick/say-no-new-gas-ban"
+}

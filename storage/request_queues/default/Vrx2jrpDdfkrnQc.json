@@ -1,0 +1,9 @@
+{
+	"id": "Vrx2jrpDdfkrnQc",
+	"json": "{\"id\":\"Vrx2jrpDdfkrnQc\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/capitol-pressroom-state-bailout-proposed-beleaguered-school\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/capitol-pressroom-state-bailout-proposed-beleaguered-school\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569681276,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/capitol-pressroom-state-bailout-proposed-beleaguered-school",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/bill-weber/capitol-pressroom-state-bailout-proposed-beleaguered-school"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "i1Bfg2XPCxQF8a1",
+	"json": "{\"id\":\"i1Bfg2XPCxQF8a1\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/chairman-brooks-moves-two-important-bills-through\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/chairman-brooks-moves-two-important-bills-through\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855406,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/chairman-brooks-moves-two-important-bills-through",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/chairman-brooks-moves-two-important-bills-through"
+}

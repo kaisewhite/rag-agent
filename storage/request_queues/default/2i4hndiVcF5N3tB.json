@@ -1,0 +1,9 @@
+{
+	"id": "2i4hndiVcF5N3tB",
+	"json": "{\"id\":\"2i4hndiVcF5N3tB\",\"url\":\"https://www.nysenate.gov/issues/schools-education-nysed\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/schools-education-nysed\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569652532,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/schools-education-nysed",
+	"url": "https://www.nysenate.gov/issues/schools-education-nysed"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "WSwvSKvgUZfHsZW",
+	"json": "{\"id\":\"WSwvSKvgUZfHsZW\",\"url\":\"https://www.nysenate.gov/calendar/meetings/insurance/june-07-2010/insurance-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/insurance/june-07-2010/insurance-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569793099,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/insurance/june-07-2010/insurance-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/insurance/june-07-2010/insurance-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "dQass06Bc2Vun6m",
+	"json": "{\"id\":\"dQass06Bc2Vun6m\",\"url\":\"https://www.nysenate.gov/legislation/laws/RSS/A4\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RSS/A4\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569974680,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RSS/A4",
+	"url": "https://www.nysenate.gov/legislation/laws/RSS/A4"
+}

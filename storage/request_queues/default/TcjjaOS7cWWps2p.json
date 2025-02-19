@@ -1,0 +1,9 @@
+{
+	"id": "TcjjaOS7cWWps2p",
+	"json": "{\"id\":\"TcjjaOS7cWWps2p\",\"url\":\"https://www.nysenate.gov/calendar/meetings/codes/april-03-2024/codes-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/codes/april-03-2024/codes-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725844,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/codes/april-03-2024/codes-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/codes/april-03-2024/codes-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "NvRw67yf8g9QPNT",
+	"json": "{\"id\":\"NvRw67yf8g9QPNT\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-new-tv-tax-dead-arrival\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-new-tv-tax-dead-arrival\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765721,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-new-tv-tax-dead-arrival",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-new-tv-tax-dead-arrival"
+}

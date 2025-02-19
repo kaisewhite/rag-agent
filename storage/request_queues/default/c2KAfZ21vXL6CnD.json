@@ -1,0 +1,9 @@
+{
+	"id": "c2KAfZ21vXL6CnD",
+	"json": "{\"id\":\"c2KAfZ21vXL6CnD\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders-jr/january-19-2024/press-conference-senator-sanders-secures-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders-jr/january-19-2024/press-conference-senator-sanders-secures-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019501,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders-jr/january-19-2024/press-conference-senator-sanders-secures-funding",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders-jr/january-19-2024/press-conference-senator-sanders-secures-funding"
+}

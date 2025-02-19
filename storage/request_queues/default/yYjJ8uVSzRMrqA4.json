@@ -1,0 +1,9 @@
+{
+	"id": "yYjJ8uVSzRMrqA4",
+	"json": "{\"id\":\"yYjJ8uVSzRMrqA4\",\"url\":\"https://www.nysenate.gov/senators/velmanette-montgomery/landing/newsroom\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/velmanette-montgomery/landing/newsroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570267099,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/velmanette-montgomery/landing/newsroom",
+	"url": "https://www.nysenate.gov/senators/velmanette-montgomery/landing/newsroom"
+}

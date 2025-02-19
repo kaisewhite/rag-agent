@@ -1,0 +1,9 @@
+{
+	"id": "tB7cwydi1KhSJpq",
+	"json": "{\"id\":\"tB7cwydi1KhSJpq\",\"url\":\"https://www.nysenate.gov/calendar/events/health/kemp-hannon/may-29-2018/consider-state-legislation-which-would-limit-sale\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/health/kemp-hannon/may-29-2018/consider-state-legislation-which-would-limit-sale\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780985,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/health/kemp-hannon/may-29-2018/consider-state-legislation-which-would-limit-sale",
+	"url": "https://www.nysenate.gov/calendar/events/health/kemp-hannon/may-29-2018/consider-state-legislation-which-would-limit-sale"
+}

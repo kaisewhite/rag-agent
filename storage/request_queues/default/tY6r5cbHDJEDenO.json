@@ -1,0 +1,9 @@
+{
+	"id": "tY6r5cbHDJEDenO",
+	"json": "{\"id\":\"tY6r5cbHDJEDenO\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/suzi-oppenheimer/written-testimony-available-public-hearings-boces-model\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/suzi-oppenheimer/written-testimony-available-public-hearings-boces-model\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755192,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/suzi-oppenheimer/written-testimony-available-public-hearings-boces-model",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/suzi-oppenheimer/written-testimony-available-public-hearings-boces-model"
+}

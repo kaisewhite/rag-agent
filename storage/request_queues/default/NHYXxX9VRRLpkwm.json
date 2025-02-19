@@ -1,0 +1,9 @@
+{
+	"id": "NHYXxX9VRRLpkwm",
+	"json": "{\"id\":\"NHYXxX9VRRLpkwm\",\"url\":\"https://www.nysenate.gov/calendar/events/social-services/roxanne-j-persaud/november-26-2019/public-meeting-engage-social\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/social-services/roxanne-j-persaud/november-26-2019/public-meeting-engage-social\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569845042,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/social-services/roxanne-j-persaud/november-26-2019/public-meeting-engage-social",
+	"url": "https://www.nysenate.gov/calendar/events/social-services/roxanne-j-persaud/november-26-2019/public-meeting-engage-social"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lgCykWjN7uQIqnJ",
+	"json": "{\"id\":\"lgCykWjN7uQIqnJ\",\"url\":\"https://www.nysenate.gov/issues/long-island-economy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/long-island-economy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570287026,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/long-island-economy",
+	"url": "https://www.nysenate.gov/issues/long-island-economy"
+}

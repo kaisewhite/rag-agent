@@ -1,0 +1,9 @@
+{
+	"id": "T0NXgRUDWYOUk8q",
+	"json": "{\"id\":\"T0NXgRUDWYOUk8q\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/S13/amendment/original\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/S13/amendment/original\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571672340,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/S13/amendment/original",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/S13/amendment/original"
+}

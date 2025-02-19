@@ -1,0 +1,9 @@
+{
+	"id": "RVivXt8XKpiRPsk",
+	"json": "{\"id\":\"RVivXt8XKpiRPsk\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/november-29-2010/rules-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/november-29-2010/rules-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839973,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/november-29-2010/rules-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/november-29-2010/rules-meeting"
+}

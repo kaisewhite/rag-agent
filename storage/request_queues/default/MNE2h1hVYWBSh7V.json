@@ -1,0 +1,9 @@
+{
+	"id": "MNE2h1hVYWBSh7V",
+	"json": "{\"id\":\"MNE2h1hVYWBSh7V\",\"url\":\"https://www.nysenate.gov/legislation/laws/TAX/A31-I\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/TAX/A31-I\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569984708,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/TAX/A31-I",
+	"url": "https://www.nysenate.gov/legislation/laws/TAX/A31-I"
+}

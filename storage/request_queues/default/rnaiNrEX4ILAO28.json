@@ -1,0 +1,9 @@
+{
+	"id": "rnaiNrEX4ILAO28",
+	"json": "{\"id\":\"rnaiNrEX4ILAO28\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2019/fresh-creek-civic-association-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2019/fresh-creek-civic-association-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246990,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2019/fresh-creek-civic-association-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2019/fresh-creek-civic-association-meeting"
+}

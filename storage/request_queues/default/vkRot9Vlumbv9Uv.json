@@ -1,0 +1,9 @@
+{
+	"id": "vkRot9Vlumbv9Uv",
+	"json": "{\"id\":\"vkRot9Vlumbv9Uv\",\"url\":\"https://www.nysenate.gov/issues/juvenile-criminal-justice\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/juvenile-criminal-justice\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569589673,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/juvenile-criminal-justice",
+	"url": "https://www.nysenate.gov/issues/juvenile-criminal-justice"
+}

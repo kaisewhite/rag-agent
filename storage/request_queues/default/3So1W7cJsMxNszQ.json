@@ -1,0 +1,9 @@
+{
+	"id": "3So1W7cJsMxNszQ",
+	"json": "{\"id\":\"3So1W7cJsMxNszQ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/new-york-state-senate-republican-leader-rob-ortt?page=0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/new-york-state-senate-republican-leader-rob-ortt?page=0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570939514,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/new-york-state-senate-republican-leader-rob-ortt?page=0",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/new-york-state-senate-republican-leader-rob-ortt?page=0"
+}

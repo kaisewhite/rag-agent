@@ -1,0 +1,9 @@
+{
+	"id": "tOozxy5PUTCQnnc",
+	"json": "{\"id\":\"tOozxy5PUTCQnnc\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/kavanagh-hevesi-over-200-elected-officials-advocates-call\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/kavanagh-hevesi-over-200-elected-officials-advocates-call\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798918,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/kavanagh-hevesi-over-200-elected-officials-advocates-call",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/brian-kavanagh/kavanagh-hevesi-over-200-elected-officials-advocates-call"
+}

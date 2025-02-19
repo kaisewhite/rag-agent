@@ -1,0 +1,9 @@
+{
+	"id": "dB1VR2YOdgpvGHe",
+	"json": "{\"id\":\"dB1VR2YOdgpvGHe\",\"url\":\"https://www.nysenate.gov/calendar/events/aging/rachel-may/october-25-2019/madison-county-senior-information-fair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/aging/rachel-may/october-25-2019/madison-county-senior-information-fair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698326,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/aging/rachel-may/october-25-2019/madison-county-senior-information-fair",
+	"url": "https://www.nysenate.gov/calendar/events/aging/rachel-may/october-25-2019/madison-county-senior-information-fair"
+}

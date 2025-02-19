@@ -1,0 +1,9 @@
+{
+	"id": "UUfy5vDzURUxEwE",
+	"json": "{\"id\":\"UUfy5vDzURUxEwE\",\"url\":\"https://www.nysenate.gov/issues/anti-hate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/anti-hate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570131109,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/anti-hate",
+	"url": "https://www.nysenate.gov/issues/anti-hate"
+}

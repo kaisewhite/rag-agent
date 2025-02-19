@@ -1,0 +1,9 @@
+{
+	"id": "l4ah72FHOpeDkod",
+	"json": "{\"id\":\"l4ah72FHOpeDkod\",\"url\":\"https://www.nysenate.gov/issues/climate-justice\",\"loadedUrl\":\"https://www.nysenate.gov/issues/climate-justice\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/climate-justice\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:14:32.672Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/climate-justice",
+	"url": "https://www.nysenate.gov/issues/climate-justice"
+}

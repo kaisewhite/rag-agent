@@ -1,0 +1,9 @@
+{
+	"id": "1wjgX1CXkcPlxVd",
+	"json": "{\"id\":\"1wjgX1CXkcPlxVd\",\"url\":\"https://www.nysenate.gov/issues/nysed-regionalization\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nysed-regionalization\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571278440,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nysed-regionalization",
+	"url": "https://www.nysenate.gov/issues/nysed-regionalization"
+}

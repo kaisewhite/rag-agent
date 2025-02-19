@@ -1,0 +1,9 @@
+{
+	"id": "3p7Dk5M3B5NRbmO",
+	"json": "{\"id\":\"3p7Dk5M3B5NRbmO\",\"url\":\"https://www.nysenate.gov/calendar/meetings/cities-1/may-01-2018/cities-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/cities-1/may-01-2018/cities-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569714884,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/cities-1/may-01-2018/cities-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/cities-1/may-01-2018/cities-meeting"
+}

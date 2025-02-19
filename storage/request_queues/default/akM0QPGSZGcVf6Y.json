@@ -1,0 +1,9 @@
+{
+	"id": "akM0QPGSZGcVf6Y",
+	"json": "{\"id\":\"akM0QPGSZGcVf6Y\",\"url\":\"https://www.nysenate.gov/calendar/meetings/budget-and-revenue/april-30-2019/budget-and-revenue-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/budget-and-revenue/april-30-2019/budget-and-revenue-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569710580,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/budget-and-revenue/april-30-2019/budget-and-revenue-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/budget-and-revenue/april-30-2019/budget-and-revenue-meeting"
+}

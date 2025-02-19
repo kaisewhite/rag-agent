@@ -1,0 +1,9 @@
+{
+	"id": "xKXOdFue1kN7v5f",
+	"json": "{\"id\":\"xKXOdFue1kN7v5f\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-06-2018/examine-minority-and-women-owned-business-enterprises\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-06-2018/examine-minority-and-women-owned-business-enterprises\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734317,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-06-2018/examine-minority-and-women-owned-business-enterprises",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-06-2018/examine-minority-and-women-owned-business-enterprises"
+}

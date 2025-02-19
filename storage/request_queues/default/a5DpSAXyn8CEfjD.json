@@ -1,0 +1,9 @@
+{
+	"id": "a5DpSAXyn8CEfjD",
+	"json": "{\"id\":\"a5DpSAXyn8CEfjD\",\"url\":\"https://www.nysenate.gov/calendar/meetings/higher-education/may-03-2011/higher-education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-03-2011/higher-education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788175,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-03-2011/higher-education",
+	"url": "https://www.nysenate.gov/calendar/meetings/higher-education/may-03-2011/higher-education"
+}

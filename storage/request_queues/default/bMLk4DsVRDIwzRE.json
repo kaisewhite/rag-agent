@@ -1,0 +1,9 @@
+{
+	"id": "bMLk4DsVRDIwzRE",
+	"json": "{\"id\":\"bMLk4DsVRDIwzRE\",\"url\":\"https://www.nysenate.gov/issues/local-control\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/local-control\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571278444,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/local-control",
+	"url": "https://www.nysenate.gov/issues/local-control"
+}

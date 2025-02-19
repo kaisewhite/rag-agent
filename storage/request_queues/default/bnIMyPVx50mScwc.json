@@ -1,0 +1,9 @@
+{
+	"id": "bnIMyPVx50mScwc",
+	"json": "{\"id\":\"bnIMyPVx50mScwc\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/may-16-2022/rules-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/may-16-2022/rules-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839859,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/may-16-2022/rules-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/may-16-2022/rules-meeting"
+}

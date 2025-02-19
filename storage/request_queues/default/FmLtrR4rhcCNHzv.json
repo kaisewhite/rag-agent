@@ -1,0 +1,9 @@
+{
+	"id": "FmLtrR4rhcCNHzv",
+	"json": "{\"id\":\"FmLtrR4rhcCNHzv\",\"url\":\"https://www.nysenate.gov/sites/default/files/alexandra_bailey_sentencing_project.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/alexandra_bailey_sentencing_project.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716504,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/alexandra_bailey_sentencing_project.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/alexandra_bailey_sentencing_project.pdf"
+}

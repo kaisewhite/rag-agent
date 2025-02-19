@@ -1,0 +1,9 @@
+{
+	"id": "CeI4BXKh3iRaKkI",
+	"json": "{\"id\":\"CeI4BXKh3iRaKkI\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2022/jamaal-bailey/college-debt-would-loan-any-other-name-cost-quite-so-much\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2022/jamaal-bailey/college-debt-would-loan-any-other-name-cost-quite-so-much\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570959767,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2022/jamaal-bailey/college-debt-would-loan-any-other-name-cost-quite-so-much",
+	"url": "https://www.nysenate.gov/newsroom/articles/2022/jamaal-bailey/college-debt-would-loan-any-other-name-cost-quite-so-much"
+}

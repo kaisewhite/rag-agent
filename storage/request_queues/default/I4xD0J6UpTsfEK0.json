@@ -1,0 +1,9 @@
+{
+	"id": "I4xD0J6UpTsfEK0",
+	"json": "{\"id\":\"I4xD0J6UpTsfEK0\",\"url\":\"https://www.nysenate.gov/legislation/laws/GCT/A2-F\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GCT/A2-F\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569923416,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GCT/A2-F",
+	"url": "https://www.nysenate.gov/legislation/laws/GCT/A2-F"
+}

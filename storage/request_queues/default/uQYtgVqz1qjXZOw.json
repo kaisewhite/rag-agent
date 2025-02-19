@@ -1,0 +1,9 @@
+{
+	"id": "uQYtgVqz1qjXZOw",
+	"json": "{\"id\":\"uQYtgVqz1qjXZOw\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/james-alesi/senator-alesi-announces-passage-33-billion-tax-cut-job\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/james-alesi/senator-alesi-announces-passage-33-billion-tax-cut-job\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734375,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/james-alesi/senator-alesi-announces-passage-33-billion-tax-cut-job",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/james-alesi/senator-alesi-announces-passage-33-billion-tax-cut-job"
+}

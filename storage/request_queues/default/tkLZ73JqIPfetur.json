@@ -1,0 +1,9 @@
+{
+	"id": "tkLZ73JqIPfetur",
+	"json": "{\"id\":\"tkLZ73JqIPfetur\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S9114\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S9114\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798813,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S9114",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S9114"
+}

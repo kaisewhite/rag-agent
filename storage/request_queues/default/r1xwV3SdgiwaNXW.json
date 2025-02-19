@@ -1,0 +1,9 @@
+{
+	"id": "r1xwV3SdgiwaNXW",
+	"json": "{\"id\":\"r1xwV3SdgiwaNXW\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S7286/amendment/A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S7286/amendment/A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571180376,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S7286/amendment/A",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S7286/amendment/A"
+}

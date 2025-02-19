@@ -1,0 +1,9 @@
+{
+	"id": "ocRLR5kPBWp09xA",
+	"json": "{\"id\":\"ocRLR5kPBWp09xA\",\"url\":\"https://www.nysenate.gov/issues/long-islands-water-quality\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/long-islands-water-quality\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770689,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/long-islands-water-quality",
+	"url": "https://www.nysenate.gov/issues/long-islands-water-quality"
+}

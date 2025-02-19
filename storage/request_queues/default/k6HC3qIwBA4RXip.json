@@ -1,0 +1,9 @@
+{
+	"id": "k6HC3qIwBA4RXip",
+	"json": "{\"id\":\"k6HC3qIwBA4RXip\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/march-03-2020/public-hearing-solicit-views-interested-parties-new-york\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/march-03-2020/public-hearing-solicit-views-interested-parties-new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756049,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/march-03-2020/public-hearing-solicit-views-interested-parties-new-york",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/march-03-2020/public-hearing-solicit-views-interested-parties-new-york"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "wQki6mclRPU4mr3",
+	"json": "{\"id\":\"wQki6mclRPU4mr3\",\"url\":\"https://www.nysenate.gov/calendar/meetings/elections/february-10-2025/elections-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/elections/february-10-2025/elections-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569604478,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/elections/february-10-2025/elections-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/elections/february-10-2025/elections-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "SOOTMsgff6Phhj3",
+	"json": "{\"id\":\"SOOTMsgff6Phhj3\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-22-2017/practices-online-lending-industry\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-22-2017/practices-online-lending-industry\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706970,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-22-2017/practices-online-lending-industry",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-22-2017/practices-online-lending-industry"
+}

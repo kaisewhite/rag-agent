@@ -1,0 +1,9 @@
+{
+	"id": "438SnYEjFe0djlG",
+	"json": "{\"id\":\"438SnYEjFe0djlG\",\"url\":\"https://www.nysenate.gov/newsroom/video/bill-weber/senator-weber-debates-failure-secure-32-cola-direct-support-professionals\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/bill-weber/senator-weber-debates-failure-secure-32-cola-direct-support-professionals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751244,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/bill-weber/senator-weber-debates-failure-secure-32-cola-direct-support-professionals",
+	"url": "https://www.nysenate.gov/newsroom/video/bill-weber/senator-weber-debates-failure-secure-32-cola-direct-support-professionals"
+}

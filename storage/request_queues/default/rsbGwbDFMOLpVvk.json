@@ -1,0 +1,9 @@
+{
+	"id": "rsbGwbDFMOLpVvk",
+	"json": "{\"id\":\"rsbGwbDFMOLpVvk\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/january-24-2012/public-hearing-joint-legislative-public-hearing-2012-2013\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/january-24-2012/public-hearing-joint-legislative-public-hearing-2012-2013\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847567,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/january-24-2012/public-hearing-joint-legislative-public-hearing-2012-2013",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/january-24-2012/public-hearing-joint-legislative-public-hearing-2012-2013"
+}

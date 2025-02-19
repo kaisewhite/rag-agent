@@ -1,0 +1,9 @@
+{
+	"id": "r2NkluG0qcVBTVb",
+	"json": "{\"id\":\"r2NkluG0qcVBTVb\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/second-long-island-hearing-fair-housing-postponed-due\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/second-long-island-hearing-fair-housing-postponed-due\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798919,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/second-long-island-hearing-fair-housing-postponed-due",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/second-long-island-hearing-fair-housing-postponed-due"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "c5XXRQ4DFbOYaGs",
+	"json": "{\"id\":\"c5XXRQ4DFbOYaGs\",\"url\":\"https://www.nysenate.gov/calendar/events/andrew-gounardes/july-01-2019/dcas-city-job-101-workshop\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/july-01-2019/dcas-city-job-101-workshop\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570125446,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/andrew-gounardes/july-01-2019/dcas-city-job-101-workshop",
+	"url": "https://www.nysenate.gov/calendar/events/andrew-gounardes/july-01-2019/dcas-city-job-101-workshop"
+}

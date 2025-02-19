@@ -1,0 +1,9 @@
+{
+	"id": "q3yu4zOHHDLYEZ0",
+	"json": "{\"id\":\"q3yu4zOHHDLYEZ0\",\"url\":\"https://www.nysenate.gov/legislation/laws/BNK/A2\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/BNK/A2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569886229,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/BNK/A2",
+	"url": "https://www.nysenate.gov/legislation/laws/BNK/A2"
+}

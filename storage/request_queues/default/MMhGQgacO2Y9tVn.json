@@ -1,0 +1,9 @@
+{
+	"id": "MMhGQgacO2Y9tVn",
+	"json": "{\"id\":\"MMhGQgacO2Y9tVn\",\"url\":\"https://www.nysenate.gov/issues/higher-education-funding\",\"loadedUrl\":\"https://www.nysenate.gov/issues/higher-education-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/higher-education-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:11:01.562Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/higher-education-funding",
+	"url": "https://www.nysenate.gov/issues/higher-education-funding"
+}

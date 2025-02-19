@@ -1,0 +1,9 @@
+{
+	"id": "B4l6WUkFE0DrnHQ",
+	"json": "{\"id\":\"B4l6WUkFE0DrnHQ\",\"url\":\"https://www.nysenate.gov/issues/hunting-licenses\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/hunting-licenses\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569595435,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/hunting-licenses",
+	"url": "https://www.nysenate.gov/issues/hunting-licenses"
+}

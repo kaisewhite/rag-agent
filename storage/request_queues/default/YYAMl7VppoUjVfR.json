@@ -1,0 +1,9 @@
+{
+	"id": "YYAMl7VppoUjVfR",
+	"json": "{\"id\":\"YYAMl7VppoUjVfR\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2012/jack-m-martins/newsday-senator-martins-leads-li-delegation-bills-passed\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2012/jack-m-martins/newsday-senator-martins-leads-li-delegation-bills-passed\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847701,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2012/jack-m-martins/newsday-senator-martins-leads-li-delegation-bills-passed",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2012/jack-m-martins/newsday-senator-martins-leads-li-delegation-bills-passed"
+}

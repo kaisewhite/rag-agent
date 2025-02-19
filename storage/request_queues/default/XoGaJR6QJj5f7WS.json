@@ -1,0 +1,9 @@
+{
+	"id": "XoGaJR6QJj5f7WS",
+	"json": "{\"id\":\"XoGaJR6QJj5f7WS\",\"url\":\"https://www.nysenate.gov/issues/big-tech\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/big-tech\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740958,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/big-tech",
+	"url": "https://www.nysenate.gov/issues/big-tech"
+}

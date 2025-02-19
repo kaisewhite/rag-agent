@@ -1,0 +1,9 @@
+{
+	"id": "jAGaSCNJnU5SktD",
+	"json": "{\"id\":\"jAGaSCNJnU5SktD\",\"url\":\"https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-19-2021/new-york-city-education-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-19-2021/new-york-city-education-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569823653,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-19-2021/new-york-city-education-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/new-york-city-education/may-19-2021/new-york-city-education-meeting"
+}

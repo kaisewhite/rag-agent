@@ -1,0 +1,9 @@
+{
+	"id": "A7T6bWeAbKf7Lih",
+	"json": "{\"id\":\"A7T6bWeAbKf7Lih\",\"url\":\"https://www.nysenate.gov/legislation/laws/RPT/A1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RPT/A1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569971834,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RPT/A1",
+	"url": "https://www.nysenate.gov/legislation/laws/RPT/A1"
+}

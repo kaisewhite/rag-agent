@@ -1,0 +1,9 @@
+{
+	"id": "ofdGRpP8ZDkESgl",
+	"json": "{\"id\":\"ofdGRpP8ZDkESgl\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/martin-j-golden/senator-golden-named-chairman-senate-civil-service-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/martin-j-golden/senator-golden-named-chairman-senate-civil-service-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569724729,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/martin-j-golden/senator-golden-named-chairman-senate-civil-service-and",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/martin-j-golden/senator-golden-named-chairman-senate-civil-service-and"
+}

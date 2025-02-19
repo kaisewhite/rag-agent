@@ -1,0 +1,9 @@
+{
+	"id": "RlLFVZy1JsnLoc4",
+	"json": "{\"id\":\"RlLFVZy1JsnLoc4\",\"url\":\"https://www.nysenate.gov/legislation/laws/ELN/A6\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ELN/A6\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569913228,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ELN/A6",
+	"url": "https://www.nysenate.gov/legislation/laws/ELN/A6"
+}

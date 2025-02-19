@@ -1,0 +1,9 @@
+{
+	"id": "4ChQEUqT6bpDPbl",
+	"json": "{\"id\":\"4ChQEUqT6bpDPbl\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-new-york-focus-my-green-transportation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-new-york-focus-my-green-transportation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284274,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-new-york-focus-my-green-transportation",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-new-york-focus-my-green-transportation"
+}

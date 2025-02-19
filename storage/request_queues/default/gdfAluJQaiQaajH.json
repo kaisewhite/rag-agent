@@ -1,0 +1,9 @@
+{
+	"id": "gdfAluJQaiQaajH",
+	"json": "{\"id\":\"gdfAluJQaiQaajH\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/senator-ruth-hassell-thompson-hold-hearing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/senator-ruth-hassell-thompson-hold-hearing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569748009,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/senator-ruth-hassell-thompson-hold-hearing",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/senator-ruth-hassell-thompson-hold-hearing"
+}

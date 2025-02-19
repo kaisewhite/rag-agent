@@ -1,0 +1,9 @@
+{
+	"id": "IIltymgWj8tw6NK",
+	"json": "{\"id\":\"IIltymgWj8tw6NK\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/november-30-2010/second-avenue-subway-construction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/november-30-2010/second-avenue-subway-construction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741830,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/november-30-2010/second-avenue-subway-construction",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/november-30-2010/second-avenue-subway-construction"
+}

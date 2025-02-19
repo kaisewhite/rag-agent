@@ -1,0 +1,9 @@
+{
+	"id": "EQ5ShG5fm1zlGpp",
+	"json": "{\"id\":\"EQ5ShG5fm1zlGpp\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2025/brad-hoylman-sigal/testimony-nyc-city-council-committee-education?page=5\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2025/brad-hoylman-sigal/testimony-nyc-city-council-committee-education?page=5\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570192959,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2025/brad-hoylman-sigal/testimony-nyc-city-council-committee-education?page=5",
+	"url": "https://www.nysenate.gov/newsroom/articles/2025/brad-hoylman-sigal/testimony-nyc-city-council-committee-education?page=5"
+}

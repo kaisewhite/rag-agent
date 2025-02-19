@@ -1,0 +1,9 @@
+{
+	"id": "vWy6GC70H6FLo4a",
+	"json": "{\"id\":\"vWy6GC70H6FLo4a\",\"url\":\"https://www.nysenate.gov/senators/james-skoufis/about\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/james-skoufis/about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569674434,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/james-skoufis/about",
+	"url": "https://www.nysenate.gov/senators/james-skoufis/about"
+}

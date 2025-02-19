@@ -1,0 +1,9 @@
+{
+	"id": "I2X1l1isTPB884D",
+	"json": "{\"id\":\"I2X1l1isTPB884D\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/state-senator-demands-mlb-probe-astros-cheating-against\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/state-senator-demands-mlb-probe-astros-cheating-against\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808639,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/state-senator-demands-mlb-probe-astros-cheating-against",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/state-senator-demands-mlb-probe-astros-cheating-against"
+}

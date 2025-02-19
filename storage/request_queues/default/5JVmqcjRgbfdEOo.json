@@ -1,0 +1,9 @@
+{
+	"id": "5JVmqcjRgbfdEOo",
+	"json": "{\"id\":\"5JVmqcjRgbfdEOo\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/ruben-diaz/keeping-yourself-safe-guide-seniors\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/ruben-diaz/keeping-yourself-safe-guide-seniors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698380,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/ruben-diaz/keeping-yourself-safe-guide-seniors",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/ruben-diaz/keeping-yourself-safe-guide-seniors"
+}

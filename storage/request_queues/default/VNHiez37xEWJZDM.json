@@ -1,0 +1,9 @@
+{
+	"id": "VNHiez37xEWJZDM",
+	"json": "{\"id\":\"VNHiez37xEWJZDM\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/jen-metzger/senator-metzgers-newly-signed-farm-vehicle-registration\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/jen-metzger/senator-metzgers-newly-signed-farm-vehicle-registration\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707171,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/jen-metzger/senator-metzgers-newly-signed-farm-vehicle-registration",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/jen-metzger/senator-metzgers-newly-signed-farm-vehicle-registration"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Y6JB0Si3YKJi2g7",
+	"json": "{\"id\":\"Y6JB0Si3YKJi2g7\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/robert-g-ortt/senate-republican-leader-ortt-members-republican\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/robert-g-ortt/senate-republican-leader-ortt-members-republican\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571030206,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/robert-g-ortt/senate-republican-leader-ortt-members-republican",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/robert-g-ortt/senate-republican-leader-ortt-members-republican"
+}

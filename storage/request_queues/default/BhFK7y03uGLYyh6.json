@@ -1,0 +1,9 @@
+{
+	"id": "BhFK7y03uGLYyh6",
+	"json": "{\"id\":\"BhFK7y03uGLYyh6\",\"url\":\"https://www.nysenate.gov/senators/zellnor-myrie/newsroom\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/zellnor-myrie/newsroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569656857,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/zellnor-myrie/newsroom",
+	"url": "https://www.nysenate.gov/senators/zellnor-myrie/newsroom"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "kzq1cZiNJCiYTlQ",
+	"json": "{\"id\":\"kzq1cZiNJCiYTlQ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/senate-gives-final-passage-bill-adding-25-new-family\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/senate-gives-final-passage-bill-adding-25-new-family\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804306,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/senate-gives-final-passage-bill-adding-25-new-family",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/senate-gives-final-passage-bill-adding-25-new-family"
+}

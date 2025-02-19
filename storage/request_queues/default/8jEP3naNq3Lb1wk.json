@@ -1,0 +1,9 @@
+{
+	"id": "8jEP3naNq3Lb1wk",
+	"json": "{\"id\":\"8jEP3naNq3Lb1wk\",\"url\":\"https://www.nysenate.gov/calendar/meetings/social-services/may-13-2014/social-services-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/social-services/may-13-2014/social-services-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569576470,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/social-services/may-13-2014/social-services-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/social-services/may-13-2014/social-services-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "8m1S1wJzhFuSG5B",
+	"json": "{\"id\":\"8m1S1wJzhFuSG5B\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/psc-puts-maziarz-bill-practice\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/psc-puts-maziarz-bill-practice\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765719,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/psc-puts-maziarz-bill-practice",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/psc-puts-maziarz-bill-practice"
+}

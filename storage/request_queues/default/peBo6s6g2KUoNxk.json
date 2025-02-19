@@ -1,0 +1,9 @@
+{
+	"id": "peBo6s6g2KUoNxk",
+	"json": "{\"id\":\"peBo6s6g2KUoNxk\",\"url\":\"https://www.nysenate.gov/issues/natural-emergencies\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/natural-emergencies\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571278445,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/natural-emergencies",
+	"url": "https://www.nysenate.gov/issues/natural-emergencies"
+}

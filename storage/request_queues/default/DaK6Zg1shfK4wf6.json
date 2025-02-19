@@ -1,0 +1,9 @@
+{
+	"id": "DaK6Zg1shfK4wf6",
+	"json": "{\"id\":\"DaK6Zg1shfK4wf6\",\"url\":\"https://www.nysenate.gov/calendar/meetings/local-government/may-05-2010/local-government-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/local-government/may-05-2010/local-government-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847576,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/local-government/may-05-2010/local-government-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/local-government/may-05-2010/local-government-meeting"
+}

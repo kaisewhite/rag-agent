@@ -1,0 +1,9 @@
+{
+	"id": "6CgDKYTrK1oakQ9",
+	"json": "{\"id\":\"6CgDKYTrK1oakQ9\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/kemp-hannon/preliminary-2017-2018-report-new-york-state-senate-standing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/kemp-hannon/preliminary-2017-2018-report-new-york-state-senate-standing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780944,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/kemp-hannon/preliminary-2017-2018-report-new-york-state-senate-standing",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/kemp-hannon/preliminary-2017-2018-report-new-york-state-senate-standing"
+}

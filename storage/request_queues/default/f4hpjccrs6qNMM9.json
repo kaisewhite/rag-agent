@@ -1,0 +1,9 @@
+{
+	"id": "f4hpjccrs6qNMM9",
+	"json": "{\"id\":\"f4hpjccrs6qNMM9\",\"url\":\"https://www.nysenate.gov/issues/central-new-york\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/central-new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751236,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/central-new-york",
+	"url": "https://www.nysenate.gov/issues/central-new-york"
+}

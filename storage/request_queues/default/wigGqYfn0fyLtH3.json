@@ -1,0 +1,9 @@
+{
+	"id": "wigGqYfn0fyLtH3",
+	"json": "{\"id\":\"wigGqYfn0fyLtH3\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-15-2018/acc-mobile-adoption-event\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-15-2018/acc-mobile-adoption-event\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246654,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-15-2018/acc-mobile-adoption-event",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-15-2018/acc-mobile-adoption-event"
+}

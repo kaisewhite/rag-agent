@@ -1,0 +1,9 @@
+{
+	"id": "rls7gpGnxRozijb",
+	"json": "{\"id\":\"rls7gpGnxRozijb\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-05/senate-majority-to-pass-legislation-to-keep-new-yorkers-safe-from-lithium-ion-battery-hazards.pdf\",\"loadedUrl\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-05/senate-majority-to-pass-legislation-to-keep-new-yorkers-safe-from-lithium-ion-battery-hazards.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-05/senate-majority-to-pass-legislation-to-keep-new-yorkers-safe-from-lithium-ion-battery-hazards.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:16:12.023Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-05/senate-majority-to-pass-legislation-to-keep-new-yorkers-safe-from-lithium-ion-battery-hazards.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-05/senate-majority-to-pass-legislation-to-keep-new-yorkers-safe-from-lithium-ion-battery-hazards.pdf"
+}

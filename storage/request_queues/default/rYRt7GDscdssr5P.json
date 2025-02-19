@@ -1,0 +1,9 @@
+{
+	"id": "rYRt7GDscdssr5P",
+	"json": "{\"id\":\"rYRt7GDscdssr5P\",\"url\":\"https://www.nysenate.gov/issues/clean-energy-standard\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/clean-energy-standard\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765716,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/clean-energy-standard",
+	"url": "https://www.nysenate.gov/issues/clean-energy-standard"
+}

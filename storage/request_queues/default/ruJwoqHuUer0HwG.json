@@ -1,0 +1,9 @@
+{
+	"id": "ruJwoqHuUer0HwG",
+	"json": "{\"id\":\"ruJwoqHuUer0HwG\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-13-2019/psa-2-btb-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-13-2019/psa-2-btb-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247012,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-13-2019/psa-2-btb-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-13-2019/psa-2-btb-meeting"
+}

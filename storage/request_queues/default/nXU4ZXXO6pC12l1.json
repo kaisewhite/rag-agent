@@ -1,0 +1,9 @@
+{
+	"id": "nXU4ZXXO6pC12l1",
+	"json": "{\"id\":\"nXU4ZXXO6pC12l1\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/july-27-2021/joint-public-hearing-nursing-home-assisted-living-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/july-27-2021/joint-public-hearing-nursing-home-assisted-living-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698317,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/july-27-2021/joint-public-hearing-nursing-home-assisted-living-and",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/july-27-2021/joint-public-hearing-nursing-home-assisted-living-and"
+}

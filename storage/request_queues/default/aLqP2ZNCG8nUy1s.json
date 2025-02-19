@@ -1,0 +1,9 @@
+{
+	"id": "aLqP2ZNCG8nUy1s",
+	"json": "{\"id\":\"aLqP2ZNCG8nUy1s\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/charter-school-hearing-standing-room-only\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/charter-school-hearing-standing-room-only\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741842,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/charter-school-hearing-standing-room-only",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/bill-perkins/charter-school-hearing-standing-room-only"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "MWDsJtJpYt1u23S",
+	"json": "{\"id\":\"MWDsJtJpYt1u23S\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-legislation-improve-public-service\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-legislation-improve-public-service\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847598,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-legislation-improve-public-service",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senator-martins-legislation-improve-public-service"
+}

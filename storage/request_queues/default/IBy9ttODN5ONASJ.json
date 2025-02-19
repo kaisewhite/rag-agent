@@ -1,0 +1,9 @@
+{
+	"id": "IBy9ttODN5ONASJ",
+	"json": "{\"id\":\"IBy9ttODN5ONASJ\",\"url\":\"https://www.nysenate.gov/questionnaires/kevin-s-parker/senator-parkers-community-survey\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/kevin-s-parker/senator-parkers-community-survey\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569664907,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/kevin-s-parker/senator-parkers-community-survey",
+	"url": "https://www.nysenate.gov/questionnaires/kevin-s-parker/senator-parkers-community-survey"
+}

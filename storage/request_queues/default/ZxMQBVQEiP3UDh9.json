@@ -1,0 +1,9 @@
+{
+	"id": "ZxMQBVQEiP3UDh9",
+	"json": "{\"id\":\"ZxMQBVQEiP3UDh9\",\"url\":\"https://www.nysenate.gov/issues/prisons-corrections-officers-doccs-violent-inmate-attacks\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/prisons-corrections-officers-doccs-violent-inmate-attacks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569616708,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/prisons-corrections-officers-doccs-violent-inmate-attacks",
+	"url": "https://www.nysenate.gov/issues/prisons-corrections-officers-doccs-violent-inmate-attacks"
+}

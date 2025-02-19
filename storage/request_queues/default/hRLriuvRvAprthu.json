@@ -1,0 +1,9 @@
+{
+	"id": "hRLriuvRvAprthu",
+	"json": "{\"id\":\"hRLriuvRvAprthu\",\"url\":\"https://www.nysenate.gov/issues/internet-and-technology\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/internet-and-technology\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740913,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/internet-and-technology",
+	"url": "https://www.nysenate.gov/issues/internet-and-technology"
+}

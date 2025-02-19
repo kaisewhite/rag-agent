@@ -1,0 +1,9 @@
+{
+	"id": "bZv3t5GxqikvL3N",
+	"json": "{\"id\":\"bZv3t5GxqikvL3N\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/brad-hoylman-sigal/senator-hoylman-sigal-assemblymember-elect-lasher\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/brad-hoylman-sigal/senator-hoylman-sigal-assemblymember-elect-lasher\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570200220,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/brad-hoylman-sigal/senator-hoylman-sigal-assemblymember-elect-lasher",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/brad-hoylman-sigal/senator-hoylman-sigal-assemblymember-elect-lasher"
+}

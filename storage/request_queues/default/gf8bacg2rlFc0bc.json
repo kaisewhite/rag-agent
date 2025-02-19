@@ -1,0 +1,9 @@
+{
+	"id": "gf8bacg2rlFc0bc",
+	"json": "{\"id\":\"gf8bacg2rlFc0bc\",\"url\":\"https://www.nysenate.gov/newsroom/video/kristen-gonzalez/ny-state-senator-kristen-gonzalez-resolution-memorialize-black\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/kristen-gonzalez/ny-state-senator-kristen-gonzalez-resolution-memorialize-black\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569639734,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/kristen-gonzalez/ny-state-senator-kristen-gonzalez-resolution-memorialize-black",
+	"url": "https://www.nysenate.gov/newsroom/video/kristen-gonzalez/ny-state-senator-kristen-gonzalez-resolution-memorialize-black"
+}

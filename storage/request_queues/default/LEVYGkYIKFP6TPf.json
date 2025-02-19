@@ -1,0 +1,9 @@
+{
+	"id": "LEVYGkYIKFP6TPf",
+	"json": "{\"id\":\"LEVYGkYIKFP6TPf\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Aging%20In%20Place\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Aging+In+Place\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570064702,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Aging+In+Place",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Aging%20In%20Place"
+}

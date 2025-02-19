@@ -1,0 +1,9 @@
+{
+	"id": "IQ2EFHwZTdETefF",
+	"json": "{\"id\":\"IQ2EFHwZTdETefF\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S135\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S135\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569586678,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S135",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S135"
+}

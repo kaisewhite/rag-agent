@@ -1,0 +1,9 @@
+{
+	"id": "B6Ri1djdMGiWMYr",
+	"json": "{\"id\":\"B6Ri1djdMGiWMYr\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/letter-speaker-adams-protecting-our-environment-and-cacp\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/letter-speaker-adams-protecting-our-environment-and-cacp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571284270,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/letter-speaker-adams-protecting-our-environment-and-cacp",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/brad-hoylman-sigal/letter-speaker-adams-protecting-our-environment-and-cacp"
+}

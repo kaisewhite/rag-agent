@@ -1,0 +1,9 @@
+{
+	"id": "0yDHnOp3xbbsi3X",
+	"json": "{\"id\":\"0yDHnOp3xbbsi3X\",\"url\":\"https://www.nysenate.gov/calendar/meetings/insurance/march-20-2017/insurance-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/insurance/march-20-2017/insurance-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569793087,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/insurance/march-20-2017/insurance-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/insurance/march-20-2017/insurance-meeting"
+}

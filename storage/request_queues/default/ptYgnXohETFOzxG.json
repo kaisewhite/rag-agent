@@ -1,0 +1,9 @@
+{
+	"id": "ptYgnXohETFOzxG",
+	"json": "{\"id\":\"ptYgnXohETFOzxG\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/governor-signs-bill-banning-products-chemical-14-dioxane\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/governor-signs-bill-banning-products-chemical-14-dioxane\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770702,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/governor-signs-bill-banning-products-chemical-14-dioxane",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/governor-signs-bill-banning-products-chemical-14-dioxane"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "WaTlv8e8l4Mi7By",
+	"json": "{\"id\":\"WaTlv8e8l4Mi7By\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/bill-perkins/21310-eminent-domain-workshop-press-conference\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/bill-perkins/21310-eminent-domain-workshop-press-conference\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741847,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/bill-perkins/21310-eminent-domain-workshop-press-conference",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/bill-perkins/21310-eminent-domain-workshop-press-conference"
+}

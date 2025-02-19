@@ -1,0 +1,9 @@
+{
+	"id": "brV1Sdi6eqZNByC",
+	"json": "{\"id\":\"brV1Sdi6eqZNByC\",\"url\":\"https://www.nysenate.gov/calendar/public-hearings/october-17-2023/public-hearing-discuss-retention-and-recruitment-civil\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public-hearings/october-17-2023/public-hearing-discuss-retention-and-recruitment-civil\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569724697,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public-hearings/october-17-2023/public-hearing-discuss-retention-and-recruitment-civil",
+	"url": "https://www.nysenate.gov/calendar/public-hearings/october-17-2023/public-hearing-discuss-retention-and-recruitment-civil"
+}

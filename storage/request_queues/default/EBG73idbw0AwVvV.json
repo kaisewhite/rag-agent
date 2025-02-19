@@ -1,0 +1,9 @@
+{
+	"id": "EBG73idbw0AwVvV",
+	"json": "{\"id\":\"EBG73idbw0AwVvV\",\"url\":\"https://www.nysenate.gov/sites/default/files/brooklyn_defenders_services.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/brooklyn_defenders_services.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716513,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/brooklyn_defenders_services.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/brooklyn_defenders_services.pdf"
+}

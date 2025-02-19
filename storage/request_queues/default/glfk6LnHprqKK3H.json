@@ -1,0 +1,9 @@
+{
+	"id": "glfk6LnHprqKK3H",
+	"json": "{\"id\":\"glfk6LnHprqKK3H\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/important-news-regarding-hurricane-sandy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/important-news-regarding-hurricane-sandy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847670,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/important-news-regarding-hurricane-sandy",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/important-news-regarding-hurricane-sandy"
+}

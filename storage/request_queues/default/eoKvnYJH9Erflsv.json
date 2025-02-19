@@ -1,0 +1,9 @@
+{
+	"id": "eoKvnYJH9Erflsv",
+	"json": "{\"id\":\"eoKvnYJH9Erflsv\",\"url\":\"https://www.nysenate.gov/dashboard/senators/james-tedisco\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/james-tedisco\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569551655,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/james-tedisco",
+	"url": "https://www.nysenate.gov/dashboard/senators/james-tedisco"
+}

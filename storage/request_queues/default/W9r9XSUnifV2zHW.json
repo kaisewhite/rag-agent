@@ -1,0 +1,9 @@
+{
+	"id": "W9r9XSUnifV2zHW",
+	"json": "{\"id\":\"W9r9XSUnifV2zHW\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/andrew-j-lanza/members-new-york-state-senate-republican-conference\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-j-lanza/members-new-york-state-senate-republican-conference\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569650085,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-j-lanza/members-new-york-state-senate-republican-conference",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/andrew-j-lanza/members-new-york-state-senate-republican-conference"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "dVUeBcQAEUtOjWn",
+	"json": "{\"id\":\"dVUeBcQAEUtOjWn\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/june-05-2012/investigate-circumstances-surrounding-organized-retail-crime\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/june-05-2012/investigate-circumstances-surrounding-organized-retail-crime\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740929,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/june-05-2012/investigate-circumstances-surrounding-organized-retail-crime",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/june-05-2012/investigate-circumstances-surrounding-organized-retail-crime"
+}

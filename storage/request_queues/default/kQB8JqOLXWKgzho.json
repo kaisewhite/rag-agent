@@ -1,0 +1,9 @@
+{
+	"id": "kQB8JqOLXWKgzho",
+	"json": "{\"id\":\"kQB8JqOLXWKgzho\",\"url\":\"https://www.nysenate.gov/legislation/laws/STL/A10\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/STL/A10\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569981446,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/STL/A10",
+	"url": "https://www.nysenate.gov/legislation/laws/STL/A10"
+}

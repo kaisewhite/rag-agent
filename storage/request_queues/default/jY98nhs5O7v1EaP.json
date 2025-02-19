@@ -1,0 +1,9 @@
+{
+	"id": "jY98nhs5O7v1EaP",
+	"json": "{\"id\":\"jY98nhs5O7v1EaP\",\"url\":\"https://www.nysenate.gov/issues/access-higher-education?page=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/access-higher-education?page=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570928911,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/access-higher-education?page=1",
+	"url": "https://www.nysenate.gov/issues/access-higher-education?page=1"
+}

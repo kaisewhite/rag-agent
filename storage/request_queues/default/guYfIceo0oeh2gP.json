@@ -1,0 +1,9 @@
+{
+	"id": "guYfIceo0oeh2gP",
+	"json": "{\"id\":\"guYfIceo0oeh2gP\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/steven-d-rhoads/new-york-state-senator-steve-rhoads-senate-republican\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/steven-d-rhoads/new-york-state-senator-steve-rhoads-senate-republican\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571109053,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/steven-d-rhoads/new-york-state-senator-steve-rhoads-senate-republican",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/steven-d-rhoads/new-york-state-senator-steve-rhoads-senate-republican"
+}

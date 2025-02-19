@@ -1,0 +1,9 @@
+{
+	"id": "7yLSq3KgT7xnCRU",
+	"json": "{\"id\":\"7yLSq3KgT7xnCRU\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2022/jessica-ramos/new-york-lawmakers-and-advocates-say-minimum-wage-hike\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2022/jessica-ramos/new-york-lawmakers-and-advocates-say-minimum-wage-hike\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811627,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2022/jessica-ramos/new-york-lawmakers-and-advocates-say-minimum-wage-hike",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2022/jessica-ramos/new-york-lawmakers-and-advocates-say-minimum-wage-hike"
+}

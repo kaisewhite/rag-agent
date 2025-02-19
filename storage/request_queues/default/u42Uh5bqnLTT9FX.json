@@ -1,0 +1,9 @@
+{
+	"id": "u42Uh5bqnLTT9FX",
+	"json": "{\"id\":\"u42Uh5bqnLTT9FX\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/bill-making-it-easier-claim-star-exemptions-passes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/bill-making-it-easier-claim-star-exemptions-passes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848863,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/bill-making-it-easier-claim-star-exemptions-passes",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/bill-making-it-easier-claim-star-exemptions-passes"
+}

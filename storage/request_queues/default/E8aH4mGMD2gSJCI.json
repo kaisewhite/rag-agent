@@ -1,0 +1,9 @@
+{
+	"id": "E8aH4mGMD2gSJCI",
+	"json": "{\"id\":\"E8aH4mGMD2gSJCI\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-06-2020/69th-precinct-national-night-out\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-06-2020/69th-precinct-national-night-out\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247200,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-06-2020/69th-precinct-national-night-out",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-06-2020/69th-precinct-national-night-out"
+}

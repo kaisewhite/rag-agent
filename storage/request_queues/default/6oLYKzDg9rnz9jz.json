@@ -1,0 +1,9 @@
+{
+	"id": "6oLYKzDg9rnz9jz",
+	"json": "{\"id\":\"6oLYKzDg9rnz9jz\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S5001\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S5001\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570178721,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S5001",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S5001"
+}

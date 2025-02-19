@@ -1,0 +1,9 @@
+{
+	"id": "TSNjRCfQ7El9CrP",
+	"json": "{\"id\":\"TSNjRCfQ7El9CrP\",\"url\":\"https://www.nysenate.gov/legislation/laws/CNT\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/CNT\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CNT\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:32.273Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CNT",
+	"url": "https://www.nysenate.gov/legislation/laws/CNT"
+}

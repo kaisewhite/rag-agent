@@ -1,0 +1,9 @@
+{
+	"id": "fTP7BKrgzDa4lgi",
+	"json": "{\"id\":\"fTP7BKrgzDa4lgi\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-17-2010/joint-senate-standing-committee-hearing-battlegrounds\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-17-2010/joint-senate-standing-committee-hearing-battlegrounds\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855401,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-17-2010/joint-senate-standing-committee-hearing-battlegrounds",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-17-2010/joint-senate-standing-committee-hearing-battlegrounds"
+}

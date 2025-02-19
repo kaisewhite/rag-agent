@@ -1,0 +1,9 @@
+{
+	"id": "aukIbA4rbfen4HJ",
+	"json": "{\"id\":\"aukIbA4rbfen4HJ\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/state-senators-examine-college-costs-offer-resources\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/state-senators-examine-college-costs-offer-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740968,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/state-senators-examine-college-costs-offer-resources",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/state-senators-examine-college-costs-offer-resources"
+}

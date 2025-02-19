@@ -1,0 +1,9 @@
+{
+	"id": "dgKTMTnz5bGdMjx",
+	"json": "{\"id\":\"dgKTMTnz5bGdMjx\",\"url\":\"https://www.nysenate.gov/issues/orange-and-rockland\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/orange-and-rockland\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808637,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/orange-and-rockland",
+	"url": "https://www.nysenate.gov/issues/orange-and-rockland"
+}

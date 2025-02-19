@@ -1,0 +1,9 @@
+{
+	"id": "VxLw7l1J514IrT6",
+	"json": "{\"id\":\"VxLw7l1J514IrT6\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/february-25-2020/public-hearing-examine-effectiveness-current-flooding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/february-25-2020/public-hearing-examine-effectiveness-current-flooding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695478,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/february-25-2020/public-hearing-examine-effectiveness-current-flooding",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/february-25-2020/public-hearing-examine-effectiveness-current-flooding"
+}

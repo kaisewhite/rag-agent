@@ -1,0 +1,9 @@
+{
+	"id": "4vgcN1CPS8iAu79",
+	"json": "{\"id\":\"4vgcN1CPS8iAu79\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/nyaot-testimony-on-2026-executive-budget.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/nyaot-testimony-on-2026-executive-budget.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570514525,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/nyaot-testimony-on-2026-executive-budget.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/nyaot-testimony-on-2026-executive-budget.pdf"
+}

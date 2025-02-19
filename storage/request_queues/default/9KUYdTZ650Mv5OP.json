@@ -1,0 +1,9 @@
+{
+	"id": "9KUYdTZ650Mv5OP",
+	"json": "{\"id\":\"9KUYdTZ650Mv5OP\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-sponsor-child-car-seat-safety-day\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-sponsor-child-car-seat-safety-day\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848840,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-sponsor-child-car-seat-safety-day",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-sponsor-child-car-seat-safety-day"
+}

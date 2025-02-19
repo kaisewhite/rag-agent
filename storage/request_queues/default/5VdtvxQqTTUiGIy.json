@@ -1,0 +1,9 @@
+{
+	"id": "5VdtvxQqTTUiGIy",
+	"json": "{\"id\":\"5VdtvxQqTTUiGIy\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/bill-perkins/pol-says-brooklyn-arena-financing-illegal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/bill-perkins/pol-says-brooklyn-arena-financing-illegal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741850,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/bill-perkins/pol-says-brooklyn-arena-financing-illegal",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/bill-perkins/pol-says-brooklyn-arena-financing-illegal"
+}

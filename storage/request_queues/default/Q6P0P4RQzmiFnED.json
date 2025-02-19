@@ -1,0 +1,9 @@
+{
+	"id": "Q6P0P4RQzmiFnED",
+	"json": "{\"id\":\"Q6P0P4RQzmiFnED\",\"url\":\"https://www.nysenate.gov/legislation/laws/SOS/A10-C\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/SOS/A10-C\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569979725,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/SOS/A10-C",
+	"url": "https://www.nysenate.gov/legislation/laws/SOS/A10-C"
+}

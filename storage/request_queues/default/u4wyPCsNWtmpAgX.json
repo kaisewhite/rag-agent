@@ -1,0 +1,9 @@
+{
+	"id": "u4wyPCsNWtmpAgX",
+	"json": "{\"id\":\"u4wyPCsNWtmpAgX\",\"url\":\"https://www.nysenate.gov/issues/clean-drinking-water\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/clean-drinking-water\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695486,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/clean-drinking-water",
+	"url": "https://www.nysenate.gov/issues/clean-drinking-water"
+}

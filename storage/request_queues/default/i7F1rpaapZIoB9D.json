@@ -1,0 +1,9 @@
+{
+	"id": "i7F1rpaapZIoB9D",
+	"json": "{\"id\":\"i7F1rpaapZIoB9D\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/senate-acts-alleviate-student-debt-increase-tuition-assistance\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2022/senate-acts-alleviate-student-debt-increase-tuition-assistance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/senate-acts-alleviate-student-debt-increase-tuition-assistance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:10:53.894Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/senate-acts-alleviate-student-debt-increase-tuition-assistance",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/senate-acts-alleviate-student-debt-increase-tuition-assistance"
+}

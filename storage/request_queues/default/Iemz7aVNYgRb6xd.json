@@ -1,0 +1,9 @@
+{
+	"id": "Iemz7aVNYgRb6xd",
+	"json": "{\"id\":\"Iemz7aVNYgRb6xd\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-02-2017/circle-support-free-community-building-event\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-02-2017/circle-support-free-community-building-event\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246399,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-02-2017/circle-support-free-community-building-event",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-02-2017/circle-support-free-community-building-event"
+}

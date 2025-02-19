@@ -1,0 +1,9 @@
+{
+	"id": "yyuUiJWW5evkMGV",
+	"json": "{\"id\":\"yyuUiJWW5evkMGV\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2016/thomas-f-omara/omara-welcomes-call-strengthen-new-yorks-environmental\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2016/thomas-f-omara/omara-welcomes-call-strengthen-new-yorks-environmental\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770742,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2016/thomas-f-omara/omara-welcomes-call-strengthen-new-yorks-environmental",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2016/thomas-f-omara/omara-welcomes-call-strengthen-new-yorks-environmental"
+}

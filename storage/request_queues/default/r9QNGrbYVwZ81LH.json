@@ -1,0 +1,9 @@
+{
+	"id": "r9QNGrbYVwZ81LH",
+	"json": "{\"id\":\"r9QNGrbYVwZ81LH\",\"url\":\"https://www.nysenate.gov/issues/birth-certificates\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/birth-certificates\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717627,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/birth-certificates",
+	"url": "https://www.nysenate.gov/issues/birth-certificates"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "6pNgS23OaFBzXtG",
+	"json": "{\"id\":\"6pNgS23OaFBzXtG\",\"url\":\"https://www.nysenate.gov/legislation/laws/GMU/A17-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GMU/A17-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569925307,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GMU/A17-A",
+	"url": "https://www.nysenate.gov/legislation/laws/GMU/A17-A"
+}

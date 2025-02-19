@@ -1,0 +1,9 @@
+{
+	"id": "t6qEnzwIJNvfw4N",
+	"json": "{\"id\":\"t6qEnzwIJNvfw4N\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/american-society-for-prevention-of-cruelty-to-animals.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/american-society-for-prevention-of-cruelty-to-animals.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570449487,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/american-society-for-prevention-of-cruelty-to-animals.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-01/american-society-for-prevention-of-cruelty-to-animals.pdf"
+}

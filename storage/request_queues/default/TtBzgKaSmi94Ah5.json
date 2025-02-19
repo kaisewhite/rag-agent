@@ -1,0 +1,9 @@
+{
+	"id": "TtBzgKaSmi94Ah5",
+	"json": "{\"id\":\"TtBzgKaSmi94Ah5\",\"url\":\"https://www.nysenate.gov/issues/thank-you\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/thank-you\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570287022,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/thank-you",
+	"url": "https://www.nysenate.gov/issues/thank-you"
+}

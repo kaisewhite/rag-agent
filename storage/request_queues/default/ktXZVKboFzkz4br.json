@@ -1,0 +1,9 @@
+{
+	"id": "ktXZVKboFzkz4br",
+	"json": "{\"id\":\"ktXZVKboFzkz4br\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/kristen-gonzalez/senator-gonzalezs-bill-regarding-cloud-computing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/kristen-gonzalez/senator-gonzalezs-bill-regarding-cloud-computing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571439451,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/kristen-gonzalez/senator-gonzalezs-bill-regarding-cloud-computing",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/kristen-gonzalez/senator-gonzalezs-bill-regarding-cloud-computing"
+}

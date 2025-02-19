@@ -1,0 +1,9 @@
+{
+	"id": "3GCErRVB6mNbsy7",
+	"json": "{\"id\":\"3GCErRVB6mNbsy7\",\"url\":\"https://www.nysenate.gov/calendar/events/finance/catharine-young/may-16-2017/press-conference-calling-action-federal-highway\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/finance/catharine-young/may-16-2017/press-conference-calling-action-federal-highway\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780988,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/finance/catharine-young/may-16-2017/press-conference-calling-action-federal-highway",
+	"url": "https://www.nysenate.gov/calendar/events/finance/catharine-young/may-16-2017/press-conference-calling-action-federal-highway"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "6PqbN59Y8cSPDr9",
+	"json": "{\"id\":\"6PqbN59Y8cSPDr9\",\"url\":\"https://www.nysenate.gov/issues/homeowner-protections\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/homeowner-protections\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740961,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/homeowner-protections",
+	"url": "https://www.nysenate.gov/issues/homeowner-protections"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "uRbBogqs0ab1yEG",
+	"json": "{\"id\":\"uRbBogqs0ab1yEG\",\"url\":\"https://www.nysenate.gov/issues/natural-disaster\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/natural-disaster\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570301679,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/natural-disaster",
+	"url": "https://www.nysenate.gov/issues/natural-disaster"
+}

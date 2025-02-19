@@ -1,0 +1,9 @@
+{
+	"id": "7K95Ke6hi2rYTlR",
+	"json": "{\"id\":\"7K95Ke6hi2rYTlR\",\"url\":\"https://www.nysenate.gov/legislation/laws/MHY/TA\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/MHY/TA\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569943071,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/MHY/TA",
+	"url": "https://www.nysenate.gov/legislation/laws/MHY/TA"
+}

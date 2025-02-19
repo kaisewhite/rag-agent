@@ -1,0 +1,9 @@
+{
+	"id": "0M1Md9E1DK4yYlj",
+	"json": "{\"id\":\"0M1Md9E1DK4yYlj\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/senator-stavisky-ranked-third-most-powerful-leader\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/senator-stavisky-ranked-third-most-powerful-leader\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571061550,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/senator-stavisky-ranked-third-most-powerful-leader",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/senator-stavisky-ranked-third-most-powerful-leader"
+}

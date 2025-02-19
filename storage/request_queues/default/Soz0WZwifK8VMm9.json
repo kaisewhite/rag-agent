@@ -1,0 +1,9 @@
+{
+	"id": "Soz0WZwifK8VMm9",
+	"json": "{\"id\":\"Soz0WZwifK8VMm9\",\"url\":\"https://www.nysenate.gov/legislation/laws/ISC/A80\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ISC/A80\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569932505,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ISC/A80",
+	"url": "https://www.nysenate.gov/legislation/laws/ISC/A80"
+}

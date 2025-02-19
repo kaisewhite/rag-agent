@@ -1,0 +1,9 @@
+{
+	"id": "AfJqzSupYFwtyMJ",
+	"json": "{\"id\":\"AfJqzSupYFwtyMJ\",\"url\":\"https://www.nysenate.gov/issues/housing-reform\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/housing-reform\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798895,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/housing-reform",
+	"url": "https://www.nysenate.gov/issues/housing-reform"
+}

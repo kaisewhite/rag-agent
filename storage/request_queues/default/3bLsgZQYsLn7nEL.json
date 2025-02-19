@@ -1,0 +1,9 @@
+{
+	"id": "3bLsgZQYsLn7nEL",
+	"json": "{\"id\":\"3bLsgZQYsLn7nEL\",\"url\":\"https://www.nysenate.gov/sites/default/files/barry_manuel_senate_hearing_testimony_final_2.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/barry_manuel_senate_hearing_testimony_final_2.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716511,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/barry_manuel_senate_hearing_testimony_final_2.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/barry_manuel_senate_hearing_testimony_final_2.pdf"
+}

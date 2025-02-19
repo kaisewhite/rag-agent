@@ -1,0 +1,9 @@
+{
+	"id": "y8whuOEETKBd9fD",
+	"json": "{\"id\":\"y8whuOEETKBd9fD\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/june-18-2020/senator-sanders-host-early-voting-event\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/june-18-2020/senator-sanders-host-early-voting-event\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019457,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/june-18-2020/senator-sanders-host-early-voting-event",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/june-18-2020/senator-sanders-host-early-voting-event"
+}

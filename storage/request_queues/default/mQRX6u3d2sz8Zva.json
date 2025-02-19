@@ -1,0 +1,9 @@
+{
+	"id": "mQRX6u3d2sz8Zva",
+	"json": "{\"id\":\"mQRX6u3d2sz8Zva\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/robert-g-ortt/new-york-state-senate-republican-leader-rob-ortt\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/robert-g-ortt/new-york-state-senate-republican-leader-rob-ortt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569662177,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/robert-g-ortt/new-york-state-senate-republican-leader-rob-ortt",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/robert-g-ortt/new-york-state-senate-republican-leader-rob-ortt"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "iOaTbvMvLNgqLo7",
+	"json": "{\"id\":\"iOaTbvMvLNgqLo7\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/nathalia-fernandez/nylcv-releases-2024-state-environmental-scorecard\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/nathalia-fernandez/nylcv-releases-2024-state-environmental-scorecard\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569636118,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/nathalia-fernandez/nylcv-releases-2024-state-environmental-scorecard",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/nathalia-fernandez/nylcv-releases-2024-state-environmental-scorecard"
+}

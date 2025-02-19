@@ -1,0 +1,9 @@
+{
+	"id": "3Jey6uAi4GHrNRr",
+	"json": "{\"id\":\"3Jey6uAi4GHrNRr\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/senator-kevin-thomas-sponsor-student-borrower-protection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/senator-kevin-thomas-sponsor-student-borrower-protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740970,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/senator-kevin-thomas-sponsor-student-borrower-protection",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/senator-kevin-thomas-sponsor-student-borrower-protection"
+}

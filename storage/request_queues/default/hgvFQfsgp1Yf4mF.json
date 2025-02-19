@@ -1,0 +1,9 @@
+{
+	"id": "hgvFQfsgp1Yf4mF",
+	"json": "{\"id\":\"hgvFQfsgp1Yf4mF\",\"url\":\"https://www.nysenate.gov/legislation/bills/2015/A8268\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2015/A8268\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571128532,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2015/A8268",
+	"url": "https://www.nysenate.gov/legislation/bills/2015/A8268"
+}

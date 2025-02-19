@@ -1,0 +1,9 @@
+{
+	"id": "aFt9EiWf96A7ACO",
+	"json": "{\"id\":\"aFt9EiWf96A7ACO\",\"url\":\"https://www.nysenate.gov/petitions/pamela-helming/made-america-show-your-support\",\"uniqueKey\":\"GET():https://www.nysenate.gov/petitions/pamela-helming/made-america-show-your-support\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571686349,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/petitions/pamela-helming/made-america-show-your-support",
+	"url": "https://www.nysenate.gov/petitions/pamela-helming/made-america-show-your-support"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "RPC757m5kfCSRWu",
+	"json": "{\"id\":\"RPC757m5kfCSRWu\",\"url\":\"https://www.nysenate.gov/legislation/laws/RPP\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/RPP\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RPP\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:52:49.462Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RPP",
+	"url": "https://www.nysenate.gov/legislation/laws/RPP"
+}

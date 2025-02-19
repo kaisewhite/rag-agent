@@ -1,0 +1,9 @@
+{
+	"id": "fDuz2zgcsyJOnlO",
+	"json": "{\"id\":\"fDuz2zgcsyJOnlO\",\"url\":\"https://www.nysenate.gov/print/pdf/node/12046327\",\"loadedUrl\":\"https://www.nysenate.gov/print/pdf/node/12046327\",\"uniqueKey\":\"GET():https://www.nysenate.gov/print/pdf/node/12046327\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:08:00.818Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/print/pdf/node/12046327",
+	"url": "https://www.nysenate.gov/print/pdf/node/12046327"
+}

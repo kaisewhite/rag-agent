@@ -1,0 +1,9 @@
+{
+	"id": "JRmchsGx06TIp74",
+	"json": "{\"id\":\"JRmchsGx06TIp74\",\"url\":\"https://www.nysenate.gov/issues/honoring-women\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/honoring-women\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569858764,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/honoring-women",
+	"url": "https://www.nysenate.gov/issues/honoring-women"
+}

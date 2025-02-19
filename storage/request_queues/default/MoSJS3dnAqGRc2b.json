@@ -1,0 +1,9 @@
+{
+	"id": "MoSJS3dnAqGRc2b",
+	"json": "{\"id\":\"MoSJS3dnAqGRc2b\",\"url\":\"https://www.nysenate.gov/issues/bipartisan-support\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/bipartisan-support\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569581505,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/bipartisan-support",
+	"url": "https://www.nysenate.gov/issues/bipartisan-support"
+}

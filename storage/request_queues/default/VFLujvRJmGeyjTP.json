@@ -1,0 +1,9 @@
+{
+	"id": "VFLujvRJmGeyjTP",
+	"json": "{\"id\":\"VFLujvRJmGeyjTP\",\"url\":\"https://www.nysenate.gov/legislation/bills/2011/S3005\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2011/S3005\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570984626,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2011/S3005",
+	"url": "https://www.nysenate.gov/legislation/bills/2011/S3005"
+}

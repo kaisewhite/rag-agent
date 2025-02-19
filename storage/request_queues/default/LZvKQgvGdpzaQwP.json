@@ -1,0 +1,9 @@
+{
+	"id": "LZvKQgvGdpzaQwP",
+	"json": "{\"id\":\"LZvKQgvGdpzaQwP\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-receives-legislator-year-recognition\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-receives-legislator-year-recognition\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695490,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-receives-legislator-year-recognition",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-receives-legislator-year-recognition"
+}

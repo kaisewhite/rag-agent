@@ -1,0 +1,9 @@
+{
+	"id": "6eYpeRIDdtQlG1H",
+	"json": "{\"id\":\"6eYpeRIDdtQlG1H\",\"url\":\"https://www.nysenate.gov/issues/road-safety-infrastructure-highway-safety\",\"loadedUrl\":\"https://www.nysenate.gov/issues/road-safety-infrastructure-highway-safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/road-safety-infrastructure-highway-safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:18:59.507Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/road-safety-infrastructure-highway-safety",
+	"url": "https://www.nysenate.gov/issues/road-safety-infrastructure-highway-safety"
+}

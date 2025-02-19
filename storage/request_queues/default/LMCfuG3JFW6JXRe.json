@@ -1,0 +1,9 @@
+{
+	"id": "LMCfuG3JFW6JXRe",
+	"json": "{\"id\":\"LMCfuG3JFW6JXRe\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/thomas-bill-expanding-protections-motor-vehicle-leasees\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/thomas-bill-expanding-protections-motor-vehicle-leasees\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740973,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/thomas-bill-expanding-protections-motor-vehicle-leasees",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/thomas-bill-expanding-protections-motor-vehicle-leasees"
+}

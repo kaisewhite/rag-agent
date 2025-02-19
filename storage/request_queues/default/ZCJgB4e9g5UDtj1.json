@@ -1,0 +1,9 @@
+{
+	"id": "ZCJgB4e9g5UDtj1",
+	"json": "{\"id\":\"ZCJgB4e9g5UDtj1\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/october-30-2021/halloween-early-voting-event-wear-costume-and-get\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/october-30-2021/halloween-early-voting-event-wear-costume-and-get\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019489,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/october-30-2021/halloween-early-voting-event-wear-costume-and-get",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/october-30-2021/halloween-early-voting-event-wear-costume-and-get"
+}

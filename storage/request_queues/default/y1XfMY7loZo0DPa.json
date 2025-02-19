@@ -1,0 +1,9 @@
+{
+	"id": "y1XfMY7loZo0DPa",
+	"json": "{\"id\":\"y1XfMY7loZo0DPa\",\"url\":\"https://www.nysenate.gov/issues/emissions\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/emissions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770673,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/emissions",
+	"url": "https://www.nysenate.gov/issues/emissions"
+}

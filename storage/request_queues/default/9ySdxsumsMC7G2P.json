@@ -1,0 +1,9 @@
+{
+	"id": "9ySdxsumsMC7G2P",
+	"json": "{\"id\":\"9ySdxsumsMC7G2P\",\"url\":\"https://www.nysenate.gov/issues/pseg\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/pseg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569571297,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/pseg",
+	"url": "https://www.nysenate.gov/issues/pseg"
+}

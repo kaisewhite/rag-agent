@@ -1,0 +1,9 @@
+{
+	"id": "zALXJ0Q51103hd8",
+	"json": "{\"id\":\"zALXJ0Q51103hd8\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/brian-kavanagh/joint-statement-senate-majority-leader-andrea-stewart\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/brian-kavanagh/joint-statement-senate-majority-leader-andrea-stewart\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798926,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/brian-kavanagh/joint-statement-senate-majority-leader-andrea-stewart",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/brian-kavanagh/joint-statement-senate-majority-leader-andrea-stewart"
+}

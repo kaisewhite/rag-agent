@@ -1,0 +1,9 @@
+{
+	"id": "0HZ17e3YA5pn83C",
+	"json": "{\"id\":\"0HZ17e3YA5pn83C\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/push-rein-social-media-sweeps-states\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/push-rein-social-media-sweeps-states\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570984967,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/push-rein-social-media-sweeps-states",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/push-rein-social-media-sweeps-states"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "amhYjRV5wrJkG8w",
+	"json": "{\"id\":\"amhYjRV5wrJkG8w\",\"url\":\"https://www.nysenate.gov/dashboard/senators/chris-jacobs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/chris-jacobs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571049952,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/chris-jacobs",
+	"url": "https://www.nysenate.gov/dashboard/senators/chris-jacobs"
+}

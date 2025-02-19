@@ -1,0 +1,9 @@
+{
+	"id": "Y3ybFrLazyI40RM",
+	"json": "{\"id\":\"Y3ybFrLazyI40RM\",\"url\":\"https://www.nysenate.gov/issues/empire-state-development\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/empire-state-development\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570988164,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/empire-state-development",
+	"url": "https://www.nysenate.gov/issues/empire-state-development"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "1Gu6z0RP53UwfQZ",
+	"json": "{\"id\":\"1Gu6z0RP53UwfQZ\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/ny-lawmakers-call-plan-stiffer-penalties-housing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/ny-lawmakers-call-plan-stiffer-penalties-housing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740959,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/ny-lawmakers-call-plan-stiffer-penalties-housing",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/kevin-thomas/ny-lawmakers-call-plan-stiffer-penalties-housing"
+}

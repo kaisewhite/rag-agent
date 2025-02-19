@@ -1,0 +1,9 @@
+{
+	"id": "So4u2Sgt17OgZZq",
+	"json": "{\"id\":\"So4u2Sgt17OgZZq\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-07-2024/sd-19-food-distribution-405-williams-ave-thursday\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-07-2024/sd-19-food-distribution-405-williams-ave-thursday\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247507,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-07-2024/sd-19-food-distribution-405-williams-ave-thursday",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-07-2024/sd-19-food-distribution-405-williams-ave-thursday"
+}

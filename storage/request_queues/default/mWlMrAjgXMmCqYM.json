@@ -1,0 +1,9 @@
+{
+	"id": "mWlMrAjgXMmCqYM",
+	"json": "{\"id\":\"mWlMrAjgXMmCqYM\",\"url\":\"https://www.nysenate.gov/issues/scott\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/scott\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571672341,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/scott",
+	"url": "https://www.nysenate.gov/issues/scott"
+}

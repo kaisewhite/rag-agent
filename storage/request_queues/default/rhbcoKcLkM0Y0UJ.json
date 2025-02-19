@@ -1,0 +1,9 @@
+{
+	"id": "rhbcoKcLkM0Y0UJ",
+	"json": "{\"id\":\"rhbcoKcLkM0Y0UJ\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/S3100\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/S3100\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571654480,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/S3100",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/S3100"
+}

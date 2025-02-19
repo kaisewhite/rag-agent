@@ -1,0 +1,9 @@
+{
+	"id": "ZNqnbtrHThteeLc",
+	"json": "{\"id\":\"ZNqnbtrHThteeLc\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Sound%20the%20Alarm\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Sound+the+Alarm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571358208,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Sound+the+Alarm",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Sound%20the%20Alarm"
+}

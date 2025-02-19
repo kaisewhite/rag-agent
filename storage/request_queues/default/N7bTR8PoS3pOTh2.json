@@ -1,0 +1,9 @@
+{
+	"id": "N7bTR8PoS3pOTh2",
+	"json": "{\"id\":\"N7bTR8PoS3pOTh2\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/john-j-flanagan/senate-education-committee-examines-teacher-discipline\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/john-j-flanagan/senate-education-committee-examines-teacher-discipline\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755186,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/john-j-flanagan/senate-education-committee-examines-teacher-discipline",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/john-j-flanagan/senate-education-committee-examines-teacher-discipline"
+}

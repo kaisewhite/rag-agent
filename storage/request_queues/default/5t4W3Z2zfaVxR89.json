@@ -1,0 +1,9 @@
+{
+	"id": "5t4W3Z2zfaVxR89",
+	"json": "{\"id\":\"5t4W3Z2zfaVxR89\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/testimony-january-31-2013-budget-hearing-transportation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/testimony-january-31-2013-budget-hearing-transportation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781265,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/testimony-january-31-2013-budget-hearing-transportation",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/testimony-january-31-2013-budget-hearing-transportation"
+}

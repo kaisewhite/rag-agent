@@ -1,0 +1,9 @@
+{
+	"id": "67TlAOBYHhpdo43",
+	"json": "{\"id\":\"67TlAOBYHhpdo43\",\"url\":\"https://www.nysenate.gov/legislation/laws/RCO/A8-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RCO/A8-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569967056,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RCO/A8-A",
+	"url": "https://www.nysenate.gov/legislation/laws/RCO/A8-A"
+}

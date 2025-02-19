@@ -1,0 +1,9 @@
+{
+	"id": "JKMGYZHv9Fso705",
+	"json": "{\"id\":\"JKMGYZHv9Fso705\",\"url\":\"https://www.nysenate.gov/issues/hempcbd-production\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/hempcbd-production\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707170,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/hempcbd-production",
+	"url": "https://www.nysenate.gov/issues/hempcbd-production"
+}

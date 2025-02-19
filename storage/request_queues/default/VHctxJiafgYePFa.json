@@ -1,0 +1,9 @@
+{
+	"id": "VHctxJiafgYePFa",
+	"json": "{\"id\":\"VHctxJiafgYePFa\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/john-j-flanagan/senator-flanagan-leads-effort-return-one-billion\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/john-j-flanagan/senator-flanagan-leads-effort-return-one-billion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755185,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/john-j-flanagan/senator-flanagan-leads-effort-return-one-billion",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/john-j-flanagan/senator-flanagan-leads-effort-return-one-billion"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "P8PU9Qe8A9MNCWN",
+	"json": "{\"id\":\"P8PU9Qe8A9MNCWN\",\"url\":\"https://www.nysenate.gov/issues/cutting-red-tape\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/cutting-red-tape\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734372,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/cutting-red-tape",
+	"url": "https://www.nysenate.gov/issues/cutting-red-tape"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "0sW4CYWDugl7h3M",
+	"json": "{\"id\":\"0sW4CYWDugl7h3M\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-06/2024-undergraduate-session-assistant-application-fillable.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-06/2024-undergraduate-session-assistant-application-fillable.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569868753,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-06/2024-undergraduate-session-assistant-application-fillable.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2024-06/2024-undergraduate-session-assistant-application-fillable.pdf"
+}

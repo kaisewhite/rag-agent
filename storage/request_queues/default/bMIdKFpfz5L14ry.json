@@ -1,0 +1,9 @@
+{
+	"id": "bMIdKFpfz5L14ry",
+	"json": "{\"id\":\"bMIdKFpfz5L14ry\",\"url\":\"https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/march-17-2021/energy-and-telecommunications-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/march-17-2021/energy-and-telecommunications-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765687,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/march-17-2021/energy-and-telecommunications-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/march-17-2021/energy-and-telecommunications-meeting"
+}

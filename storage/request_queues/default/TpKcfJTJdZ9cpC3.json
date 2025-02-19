@@ -1,0 +1,9 @@
+{
+	"id": "TpKcfJTJdZ9cpC3",
+	"json": "{\"id\":\"TpKcfJTJdZ9cpC3\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/darrel-aubertine/sen-aubertine-named-new-york-snowmobile-association-2010\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/darrel-aubertine/sen-aubertine-named-new-york-snowmobile-association-2010\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695528,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/darrel-aubertine/sen-aubertine-named-new-york-snowmobile-association-2010",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/darrel-aubertine/sen-aubertine-named-new-york-snowmobile-association-2010"
+}

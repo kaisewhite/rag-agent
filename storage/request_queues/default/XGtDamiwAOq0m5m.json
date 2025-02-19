@@ -1,0 +1,9 @@
+{
+	"id": "XGtDamiwAOq0m5m",
+	"json": "{\"id\":\"XGtDamiwAOq0m5m\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2018/patty-ritchie/ritchie-state-budget-supports-future-county-fairs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2018/patty-ritchie/ritchie-state-budget-supports-future-county-fairs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707172,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2018/patty-ritchie/ritchie-state-budget-supports-future-county-fairs",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2018/patty-ritchie/ritchie-state-budget-supports-future-county-fairs"
+}

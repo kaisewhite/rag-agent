@@ -1,0 +1,9 @@
+{
+	"id": "U2t4zD7LAlMUoa3",
+	"json": "{\"id\":\"U2t4zD7LAlMUoa3\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2011/patty-ritchie/state-senator-patty-ritchie-new-york-state-dairy-princess\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2011/patty-ritchie/state-senator-patty-ritchie-new-york-state-dairy-princess\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707191,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2011/patty-ritchie/state-senator-patty-ritchie-new-york-state-dairy-princess",
+	"url": "https://www.nysenate.gov/newsroom/articles/2011/patty-ritchie/state-senator-patty-ritchie-new-york-state-dairy-princess"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "SHqF3lR2PcPstig",
+	"json": "{\"id\":\"SHqF3lR2PcPstig\",\"url\":\"https://www.nysenate.gov/calendar/meetings/transportation/february-25-2020/transportation-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/transportation/february-25-2020/transportation-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855230,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/transportation/february-25-2020/transportation-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/transportation/february-25-2020/transportation-meeting"
+}

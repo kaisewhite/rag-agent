@@ -1,0 +1,9 @@
+{
+	"id": "2hkX0aMzGI16hhG",
+	"json": "{\"id\":\"2hkX0aMzGI16hhG\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/february-13-2021/ppe-giveaway-baisley-houses-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/february-13-2021/ppe-giveaway-baisley-houses-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019487,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/february-13-2021/ppe-giveaway-baisley-houses-0",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/february-13-2021/ppe-giveaway-baisley-houses-0"
+}

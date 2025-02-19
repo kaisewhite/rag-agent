@@ -1,0 +1,9 @@
+{
+	"id": "hNt8Z9gnpw9JaKT",
+	"json": "{\"id\":\"hNt8Z9gnpw9JaKT\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBG/A10-B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBG/A10-B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569952398,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBG/A10-B",
+	"url": "https://www.nysenate.gov/legislation/laws/PBG/A10-B"
+}

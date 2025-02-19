@@ -1,0 +1,9 @@
+{
+	"id": "UvFuHIXxHVE6TAf",
+	"json": "{\"id\":\"UvFuHIXxHVE6TAf\",\"url\":\"https://www.nysenate.gov/issues/npower\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/npower\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570984971,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/npower",
+	"url": "https://www.nysenate.gov/issues/npower"
+}

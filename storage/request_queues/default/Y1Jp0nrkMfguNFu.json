@@ -1,0 +1,9 @@
+{
+	"id": "Y1Jp0nrkMfguNFu",
+	"json": "{\"id\":\"Y1Jp0nrkMfguNFu\",\"url\":\"https://www.nysenate.gov/dashboard/senators/martin-j-golden\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/martin-j-golden\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808636,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/martin-j-golden",
+	"url": "https://www.nysenate.gov/dashboard/senators/martin-j-golden"
+}

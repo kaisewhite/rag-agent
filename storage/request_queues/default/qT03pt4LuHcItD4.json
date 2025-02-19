@@ -1,0 +1,9 @@
+{
+	"id": "qT03pt4LuHcItD4",
+	"json": "{\"id\":\"qT03pt4LuHcItD4\",\"url\":\"https://www.nysenate.gov/legislation/laws/EDN\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/EDN\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/EDN\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:43.365Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/EDN",
+	"url": "https://www.nysenate.gov/legislation/laws/EDN"
+}

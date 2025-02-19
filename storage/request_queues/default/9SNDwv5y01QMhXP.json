@@ -1,0 +1,9 @@
+{
+	"id": "9SNDwv5y01QMhXP",
+	"json": "{\"id\":\"9SNDwv5y01QMhXP\",\"url\":\"https://www.nysenate.gov/student-programs/news-2016-session-assistant-helps-new-senator-get-acclimated-albany\",\"uniqueKey\":\"GET():https://www.nysenate.gov/student-programs/news-2016-session-assistant-helps-new-senator-get-acclimated-albany\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569869717,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/student-programs/news-2016-session-assistant-helps-new-senator-get-acclimated-albany",
+	"url": "https://www.nysenate.gov/student-programs/news-2016-session-assistant-helps-new-senator-get-acclimated-albany"
+}

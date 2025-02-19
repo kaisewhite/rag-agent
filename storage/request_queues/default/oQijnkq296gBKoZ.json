@@ -1,0 +1,9 @@
+{
+	"id": "oQijnkq296gBKoZ",
+	"json": "{\"id\":\"oQijnkq296gBKoZ\",\"url\":\"https://www.nysenate.gov/calendar/meetings/children-and-families/june-02-2010/children-and-families-meeting-meeting-was\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/children-and-families/june-02-2010/children-and-families-meeting-meeting-was\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717604,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/children-and-families/june-02-2010/children-and-families-meeting-meeting-was",
+	"url": "https://www.nysenate.gov/calendar/meetings/children-and-families/june-02-2010/children-and-families-meeting-meeting-was"
+}

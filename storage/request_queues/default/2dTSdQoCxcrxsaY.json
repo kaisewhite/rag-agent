@@ -1,0 +1,9 @@
+{
+	"id": "2dTSdQoCxcrxsaY",
+	"json": "{\"id\":\"2dTSdQoCxcrxsaY\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/rachel-may/senator-rachel-may-highlights-aging-budget-victories\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/rachel-may/senator-rachel-may-highlights-aging-budget-victories\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698355,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/rachel-may/senator-rachel-may-highlights-aging-budget-victories",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/rachel-may/senator-rachel-may-highlights-aging-budget-victories"
+}

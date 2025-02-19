@@ -1,0 +1,9 @@
+{
+	"id": "CKtSSLNs6afwuFt",
+	"json": "{\"id\":\"CKtSSLNs6afwuFt\",\"url\":\"https://www.nysenate.gov/legislation/laws/GBS/A39-DD\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GBS/A39-DD\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569921830,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GBS/A39-DD",
+	"url": "https://www.nysenate.gov/legislation/laws/GBS/A39-DD"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "aAZwlPWTsE2APes",
+	"json": "{\"id\":\"aAZwlPWTsE2APes\",\"url\":\"https://www.nysenate.gov/profiles/2024/robert-jackson/yvonne-stennett\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/robert-jackson/yvonne-stennett\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/robert-jackson/yvonne-stennett\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:58:40.304Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/robert-jackson/yvonne-stennett",
+	"url": "https://www.nysenate.gov/profiles/2024/robert-jackson/yvonne-stennett"
+}

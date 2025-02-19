@@ -1,0 +1,9 @@
+{
+	"id": "ATXR2IxCycFrdAF",
+	"json": "{\"id\":\"ATXR2IxCycFrdAF\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/governor-hochul-signs-senator-staviskys-legislation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/governor-hochul-signs-senator-staviskys-legislation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569589244,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/governor-hochul-signs-senator-staviskys-legislation",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/toby-ann-stavisky/governor-hochul-signs-senator-staviskys-legislation"
+}

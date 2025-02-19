@@ -1,0 +1,9 @@
+{
+	"id": "RPMQm7WwwWSr1HL",
+	"json": "{\"id\":\"RPMQm7WwwWSr1HL\",\"url\":\"https://www.nysenate.gov/legislation/bills/2013/A3962\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2013/A3962\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570928467,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2013/A3962",
+	"url": "https://www.nysenate.gov/legislation/bills/2013/A3962"
+}

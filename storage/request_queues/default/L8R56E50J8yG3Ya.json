@@ -1,0 +1,9 @@
+{
+	"id": "L8R56E50J8yG3Ya",
+	"json": "{\"id\":\"L8R56E50J8yG3Ya\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2022/michael-gianaris/new-yorks-emergency-rental-assistance-program\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2022/michael-gianaris/new-yorks-emergency-rental-assistance-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569638738,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2022/michael-gianaris/new-yorks-emergency-rental-assistance-program",
+	"url": "https://www.nysenate.gov/newsroom/articles/2022/michael-gianaris/new-yorks-emergency-rental-assistance-program"
+}

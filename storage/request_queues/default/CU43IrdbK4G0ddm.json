@@ -1,0 +1,9 @@
+{
+	"id": "CU43IrdbK4G0ddm",
+	"json": "{\"id\":\"CU43IrdbK4G0ddm\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/jose-m-serrano/senator-serrano-attends-assemblymember-alex-bores-town-hall\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/jose-m-serrano/senator-serrano-attends-assemblymember-alex-bores-town-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569673975,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/jose-m-serrano/senator-serrano-attends-assemblymember-alex-bores-town-hall",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/jose-m-serrano/senator-serrano-attends-assemblymember-alex-bores-town-hall"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "mflkm9wsUsp18Cs",
+	"json": "{\"id\":\"mflkm9wsUsp18Cs\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/luis-r-sepulveda/senator-luis-sepulveda-and-senate-majority-pass\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/luis-r-sepulveda/senator-luis-sepulveda-and-senate-majority-pass\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571589983,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/luis-r-sepulveda/senator-luis-sepulveda-and-senate-majority-pass",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/luis-r-sepulveda/senator-luis-sepulveda-and-senate-majority-pass"
+}

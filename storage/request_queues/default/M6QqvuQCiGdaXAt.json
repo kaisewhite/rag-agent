@@ -1,0 +1,9 @@
+{
+	"id": "M6QqvuQCiGdaXAt",
+	"json": "{\"id\":\"M6QqvuQCiGdaXAt\",\"url\":\"https://www.nysenate.gov/questionnaires/jabari-brisport/get-email-updates\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/jabari-brisport/get-email-updates\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569617845,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/jabari-brisport/get-email-updates",
+	"url": "https://www.nysenate.gov/questionnaires/jabari-brisport/get-email-updates"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lwX9u865QDy8VXK",
+	"json": "{\"id\":\"lwX9u865QDy8VXK\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/toby-ann-stavisky/governors-proposed-cuts-higher-education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/toby-ann-stavisky/governors-proposed-cuts-higher-education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788188,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/toby-ann-stavisky/governors-proposed-cuts-higher-education",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/toby-ann-stavisky/governors-proposed-cuts-higher-education"
+}

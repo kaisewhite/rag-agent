@@ -1,0 +1,9 @@
+{
+	"id": "6qpcmuqDMl6gCFU",
+	"json": "{\"id\":\"6qpcmuqDMl6gCFU\",\"url\":\"https://www.nysenate.gov/issues/preferential-rents\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/preferential-rents\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571122648,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/preferential-rents",
+	"url": "https://www.nysenate.gov/issues/preferential-rents"
+}

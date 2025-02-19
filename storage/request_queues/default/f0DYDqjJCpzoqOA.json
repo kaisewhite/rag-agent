@@ -1,0 +1,9 @@
+{
+	"id": "f0DYDqjJCpzoqOA",
+	"json": "{\"id\":\"f0DYDqjJCpzoqOA\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/october-21-2021/senator-liz-kruegers-virtual-senior-resource-fair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/october-21-2021/senator-liz-kruegers-virtual-senior-resource-fair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752688,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/october-21-2021/senator-liz-kruegers-virtual-senior-resource-fair",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/october-21-2021/senator-liz-kruegers-virtual-senior-resource-fair"
+}

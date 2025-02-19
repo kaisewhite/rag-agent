@@ -1,0 +1,9 @@
+{
+	"id": "rgw5IjkmM5p7nhs",
+	"json": "{\"id\":\"rgw5IjkmM5p7nhs\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/kevin-thomas/we-deserve-transparency-and-accountability-covid-tracing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/kevin-thomas/we-deserve-transparency-and-accountability-covid-tracing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740963,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/kevin-thomas/we-deserve-transparency-and-accountability-covid-tracing",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/kevin-thomas/we-deserve-transparency-and-accountability-covid-tracing"
+}

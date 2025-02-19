@@ -1,0 +1,9 @@
+{
+	"id": "s9mCe1fBxV5zFq0",
+	"json": "{\"id\":\"s9mCe1fBxV5zFq0\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/new-york-state-senator-eric-adams-helps-obtain-loan-prevent\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/new-york-state-senator-eric-adams-helps-obtain-loan-prevent\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833566,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/new-york-state-senator-eric-adams-helps-obtain-loan-prevent",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/eric-adams/new-york-state-senator-eric-adams-helps-obtain-loan-prevent"
+}

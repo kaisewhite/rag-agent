@@ -1,0 +1,9 @@
+{
+	"id": "txdaF1HqfPe4LbT",
+	"json": "{\"id\":\"txdaF1HqfPe4LbT\",\"url\":\"https://www.nysenate.gov/issues/2020-presidential-primary\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/2020-presidential-primary\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756048,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/2020-presidential-primary",
+	"url": "https://www.nysenate.gov/issues/2020-presidential-primary"
+}

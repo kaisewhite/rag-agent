@@ -1,0 +1,9 @@
+{
+	"id": "eGVjM2wNxtHFNv9",
+	"json": "{\"id\":\"eGVjM2wNxtHFNv9\",\"url\":\"https://www.nysenate.gov/committees/social-services\",\"loadedUrl\":\"https://www.nysenate.gov/committees/social-services\",\"uniqueKey\":\"GET():https://www.nysenate.gov/committees/social-services\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:50:45.051Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/committees/social-services",
+	"url": "https://www.nysenate.gov/committees/social-services"
+}

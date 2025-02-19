@@ -1,0 +1,9 @@
+{
+	"id": "Z7OE4c9tuwaEiGc",
+	"json": "{\"id\":\"Z7OE4c9tuwaEiGc\",\"url\":\"https://www.nysenate.gov/senators/leroy-comrie\",\"loadedUrl\":\"https://www.nysenate.gov/senators/leroy-comrie\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/leroy-comrie\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:44:28.827Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/leroy-comrie",
+	"url": "https://www.nysenate.gov/senators/leroy-comrie"
+}

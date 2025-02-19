@@ -1,0 +1,9 @@
+{
+	"id": "qp50P9TbYdYBpU9",
+	"json": "{\"id\":\"qp50P9TbYdYBpU9\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2016/thomas-f-omara/omara-cornell-university-announce-upgrade-americas-only\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2016/thomas-f-omara/omara-cornell-university-announce-upgrade-americas-only\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770732,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2016/thomas-f-omara/omara-cornell-university-announce-upgrade-americas-only",
+	"url": "https://www.nysenate.gov/newsroom/articles/2016/thomas-f-omara/omara-cornell-university-announce-upgrade-americas-only"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "80XRQu2DOGw0EDI",
+	"json": "{\"id\":\"80XRQu2DOGw0EDI\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/toby-ann-stavisky/senate-and-assembly-higher-education-committees?page=7\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/toby-ann-stavisky/senate-and-assembly-higher-education-committees?page=7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571027739,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/toby-ann-stavisky/senate-and-assembly-higher-education-committees?page=7",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/toby-ann-stavisky/senate-and-assembly-higher-education-committees?page=7"
+}

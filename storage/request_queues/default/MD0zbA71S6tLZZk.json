@@ -1,0 +1,9 @@
+{
+	"id": "MD0zbA71S6tLZZk",
+	"json": "{\"id\":\"MD0zbA71S6tLZZk\",\"url\":\"https://www.nysenate.gov/senators/patricia-fahy/contact\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/patricia-fahy/contact\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569633463,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/patricia-fahy/contact",
+	"url": "https://www.nysenate.gov/senators/patricia-fahy/contact"
+}

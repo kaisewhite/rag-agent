@@ -1,0 +1,9 @@
+{
+	"id": "RkW8bQhmTGx9ucc",
+	"json": "{\"id\":\"RkW8bQhmTGx9ucc\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/diane-j-savino/senator-savino-announces-collegiate-scholarships-geared\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/diane-j-savino/senator-savino-announces-collegiate-scholarships-geared\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569724730,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/diane-j-savino/senator-savino-announces-collegiate-scholarships-geared",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/diane-j-savino/senator-savino-announces-collegiate-scholarships-geared"
+}

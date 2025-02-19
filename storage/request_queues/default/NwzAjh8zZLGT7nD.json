@@ -1,0 +1,9 @@
+{
+	"id": "NwzAjh8zZLGT7nD",
+	"json": "{\"id\":\"NwzAjh8zZLGT7nD\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/S2765\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/S2765\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571056094,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/S2765",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/S2765"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lh8KdxQJf8NXblR",
+	"json": "{\"id\":\"lh8KdxQJf8NXblR\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-17-2018/senator-roxanne-j-persauds-panel-discussion-home\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-17-2018/senator-roxanne-j-persauds-panel-discussion-home\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246440,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-17-2018/senator-roxanne-j-persauds-panel-discussion-home",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-17-2018/senator-roxanne-j-persauds-panel-discussion-home"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "UPkqPd5BxtGT5pK",
+	"json": "{\"id\":\"UPkqPd5BxtGT5pK\",\"url\":\"https://www.nysenate.gov/calendar/events/jeremy-cooney/february-18-2025/urgent-policy-briefing-womens-health\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/jeremy-cooney/february-18-2025/urgent-policy-briefing-womens-health\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569608026,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/jeremy-cooney/february-18-2025/urgent-policy-briefing-womens-health",
+	"url": "https://www.nysenate.gov/calendar/events/jeremy-cooney/february-18-2025/urgent-policy-briefing-womens-health"
+}

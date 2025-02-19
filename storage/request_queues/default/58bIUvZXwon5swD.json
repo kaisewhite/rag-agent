@@ -1,0 +1,9 @@
+{
+	"id": "58bIUvZXwon5swD",
+	"json": "{\"id\":\"58bIUvZXwon5swD\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/jen-metzger/covid-19-information-guide-new-york-farmers-agriculture\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/jen-metzger/covid-19-information-guide-new-york-farmers-agriculture\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707162,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/jen-metzger/covid-19-information-guide-new-york-farmers-agriculture",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/jen-metzger/covid-19-information-guide-new-york-farmers-agriculture"
+}

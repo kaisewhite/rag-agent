@@ -1,0 +1,9 @@
+{
+	"id": "7flZq6PRJjsD2s0",
+	"json": "{\"id\":\"7flZq6PRJjsD2s0\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/A2894\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/A2894\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571047455,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/A2894",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/A2894"
+}

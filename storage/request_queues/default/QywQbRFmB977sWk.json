@@ -1,0 +1,9 @@
+{
+	"id": "QywQbRFmB977sWk",
+	"json": "{\"id\":\"QywQbRFmB977sWk\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/wcbs-newsradio-880-over-200-ny-politicians-request-10b\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/wcbs-newsradio-880-over-200-ny-politicians-request-10b\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798918,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/wcbs-newsradio-880-over-200-ny-politicians-request-10b",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/wcbs-newsradio-880-over-200-ny-politicians-request-10b"
+}

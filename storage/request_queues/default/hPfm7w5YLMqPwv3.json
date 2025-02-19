@@ -1,0 +1,9 @@
+{
+	"id": "hPfm7w5YLMqPwv3",
+	"json": "{\"id\":\"hPfm7w5YLMqPwv3\",\"url\":\"https://www.nysenate.gov/calendar/meetings/rules/june-14-2017/rules-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/rules/june-14-2017/rules-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569839900,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/rules/june-14-2017/rules-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/rules/june-14-2017/rules-meeting"
+}

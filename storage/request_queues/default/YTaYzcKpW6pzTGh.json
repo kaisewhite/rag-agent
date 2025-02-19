@@ -1,0 +1,9 @@
+{
+	"id": "YTaYzcKpW6pzTGh",
+	"json": "{\"id\":\"YTaYzcKpW6pzTGh\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=First%20Responder\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=First+Responder\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571654478,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=First+Responder",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=First%20Responder"
+}

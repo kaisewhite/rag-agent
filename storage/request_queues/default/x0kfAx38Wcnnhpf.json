@@ -1,0 +1,9 @@
+{
+	"id": "x0kfAx38Wcnnhpf",
+	"json": "{\"id\":\"x0kfAx38Wcnnhpf\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-19-2025/brooklyn-childrens-museum-black-future-festival\",\"loadedUrl\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-19-2025/brooklyn-childrens-museum-black-future-festival\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-19-2025/brooklyn-childrens-museum-black-future-festival\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:57:50.508Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-19-2025/brooklyn-childrens-museum-black-future-festival",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-19-2025/brooklyn-childrens-museum-black-future-festival"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Om6M3y78Zw27R46",
+	"json": "{\"id\":\"Om6M3y78Zw27R46\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S3560\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S3560\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571407249,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S3560",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S3560"
+}

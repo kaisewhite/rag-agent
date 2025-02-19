@@ -1,0 +1,9 @@
+{
+	"id": "6BZasp0rV8YUU3L",
+	"json": "{\"id\":\"6BZasp0rV8YUU3L\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/luis-r-sepulveda/el-senador-luis-sepulveda-presenta-un-proyecto-de-ley\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/luis-r-sepulveda/el-senador-luis-sepulveda-presenta-un-proyecto-de-ley\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571672331,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/luis-r-sepulveda/el-senador-luis-sepulveda-presenta-un-proyecto-de-ley",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/luis-r-sepulveda/el-senador-luis-sepulveda-presenta-un-proyecto-de-ley"
+}

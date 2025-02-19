@@ -1,0 +1,9 @@
+{
+	"id": "Rljn23o9BqWCclc",
+	"json": "{\"id\":\"Rljn23o9BqWCclc\",\"url\":\"https://www.nysenate.gov/student-programs/where-are-they-now-tom-briggs-2008-session-assistant\",\"uniqueKey\":\"GET():https://www.nysenate.gov/student-programs/where-are-they-now-tom-briggs-2008-session-assistant\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569869722,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/student-programs/where-are-they-now-tom-briggs-2008-session-assistant",
+	"url": "https://www.nysenate.gov/student-programs/where-are-they-now-tom-briggs-2008-session-assistant"
+}

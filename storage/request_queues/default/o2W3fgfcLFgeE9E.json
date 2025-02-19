@@ -1,0 +1,9 @@
+{
+	"id": "o2W3fgfcLFgeE9E",
+	"json": "{\"id\":\"o2W3fgfcLFgeE9E\",\"url\":\"https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-small-businesses\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-small-businesses\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734371,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-small-businesses",
+	"url": "https://www.nysenate.gov/issues/coronavirus-pandemic-covid-19-small-businesses"
+}

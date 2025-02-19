@@ -1,0 +1,9 @@
+{
+	"id": "yI7KfOz65OtAx7N",
+	"json": "{\"id\":\"yI7KfOz65OtAx7N\",\"url\":\"https://www.nysenate.gov/calendar/meetings/agriculture/july-20-2020/agriculture-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/agriculture/july-20-2020/agriculture-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707117,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/agriculture/july-20-2020/agriculture-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/agriculture/july-20-2020/agriculture-meeting"
+}

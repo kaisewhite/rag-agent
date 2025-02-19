@@ -1,0 +1,9 @@
+{
+	"id": "Al80raNkan4mEQq",
+	"json": "{\"id\":\"Al80raNkan4mEQq\",\"url\":\"https://www.nysenate.gov/issues/untraceable-firearms\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/untraceable-firearms\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571672345,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/untraceable-firearms",
+	"url": "https://www.nysenate.gov/issues/untraceable-firearms"
+}

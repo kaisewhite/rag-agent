@@ -1,0 +1,9 @@
+{
+	"id": "BduuBGjnjHksTvl",
+	"json": "{\"id\":\"BduuBGjnjHksTvl\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-22-2013/examine-re-codification-new-york-states-not-profit-corporation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-22-2013/examine-re-codification-new-york-states-not-profit-corporation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741821,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-22-2013/examine-re-codification-new-york-states-not-profit-corporation",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-22-2013/examine-re-codification-new-york-states-not-profit-corporation"
+}

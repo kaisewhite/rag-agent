@@ -1,0 +1,9 @@
+{
+	"id": "fJF8wEVSp65ohVj",
+	"json": "{\"id\":\"fJF8wEVSp65ohVj\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/S149\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/S149\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571460680,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/S149",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/S149"
+}

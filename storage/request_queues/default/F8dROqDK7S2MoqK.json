@@ -1,0 +1,9 @@
+{
+	"id": "F8dROqDK7S2MoqK",
+	"json": "{\"id\":\"F8dROqDK7S2MoqK\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-29-2021/sd19-food-food-distribution\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-29-2021/sd19-food-food-distribution\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247303,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-29-2021/sd19-food-food-distribution",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-29-2021/sd19-food-food-distribution"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Ul8nqxv3X4jbBLP",
+	"json": "{\"id\":\"Ul8nqxv3X4jbBLP\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/skoufis-reaches-deal-rent-increases\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/skoufis-reaches-deal-rent-increases\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571111773,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/skoufis-reaches-deal-rent-increases",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/james-skoufis/skoufis-reaches-deal-rent-increases"
+}

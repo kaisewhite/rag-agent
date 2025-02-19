@@ -1,0 +1,9 @@
+{
+	"id": "1bN5QrD9zPDuQww",
+	"json": "{\"id\":\"1bN5QrD9zPDuQww\",\"url\":\"https://www.nysenate.gov/newsroom/articles/shirley-huntley/30409-passed-senate-huntley-sponsors-s-2362\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/shirley-huntley/30409-passed-senate-huntley-sponsors-s-2362\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569819334,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/shirley-huntley/30409-passed-senate-huntley-sponsors-s-2362",
+	"url": "https://www.nysenate.gov/newsroom/articles/shirley-huntley/30409-passed-senate-huntley-sponsors-s-2362"
+}

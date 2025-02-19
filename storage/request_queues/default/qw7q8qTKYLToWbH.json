@@ -1,0 +1,9 @@
+{
+	"id": "qw7q8qTKYLToWbH",
+	"json": "{\"id\":\"qw7q8qTKYLToWbH\",\"url\":\"https://www.nysenate.gov/issues/school\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/school\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770699,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/school",
+	"url": "https://www.nysenate.gov/issues/school"
+}

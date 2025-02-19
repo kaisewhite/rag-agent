@@ -1,0 +1,9 @@
+{
+	"id": "bg0IPwDppg93r6r",
+	"json": "{\"id\":\"bg0IPwDppg93r6r\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/james-skoufis/following-docgo-reports-lawmakers-look-oversight-emergency\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/james-skoufis/following-docgo-reports-lawmakers-look-oversight-emergency\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570127837,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/james-skoufis/following-docgo-reports-lawmakers-look-oversight-emergency",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/james-skoufis/following-docgo-reports-lawmakers-look-oversight-emergency"
+}

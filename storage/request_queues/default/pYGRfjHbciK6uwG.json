@@ -1,0 +1,9 @@
+{
+	"id": "pYGRfjHbciK6uwG",
+	"json": "{\"id\":\"pYGRfjHbciK6uwG\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/alessandra-biaggi/cuomos-ethics-plan-focuses-procurement-lobbying\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/alessandra-biaggi/cuomos-ethics-plan-focuses-procurement-lobbying\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770302,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/alessandra-biaggi/cuomos-ethics-plan-focuses-procurement-lobbying",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/alessandra-biaggi/cuomos-ethics-plan-focuses-procurement-lobbying"
+}

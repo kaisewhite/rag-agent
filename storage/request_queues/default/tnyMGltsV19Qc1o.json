@@ -1,0 +1,9 @@
+{
+	"id": "tnyMGltsV19Qc1o",
+	"json": "{\"id\":\"tnyMGltsV19Qc1o\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2025/free-e-waste-recycling-collection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2025/free-e-waste-recycling-collection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247563,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2025/free-e-waste-recycling-collection",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2025/free-e-waste-recycling-collection"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "TnR4KOczvz3a9Ry",
+	"json": "{\"id\":\"TnR4KOczvz3a9Ry\",\"url\":\"https://www.nysenate.gov/issues/commercial-foreclosure-moratorium\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/commercial-foreclosure-moratorium\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734369,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/commercial-foreclosure-moratorium",
+	"url": "https://www.nysenate.gov/issues/commercial-foreclosure-moratorium"
+}

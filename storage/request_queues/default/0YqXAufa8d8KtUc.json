@@ -1,0 +1,9 @@
+{
+	"id": "0YqXAufa8d8KtUc",
+	"json": "{\"id\":\"0YqXAufa8d8KtUc\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/thousand-small-steps-toward-more-perfect-union\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/thousand-small-steps-toward-more-perfect-union\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770709,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/thousand-small-steps-toward-more-perfect-union",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/thousand-small-steps-toward-more-perfect-union"
+}

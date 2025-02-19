@@ -1,0 +1,9 @@
+{
+	"id": "riPfWtspQwKI0Yq",
+	"json": "{\"id\":\"riPfWtspQwKI0Yq\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S774\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/bills/2025/S774\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S774\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:55:49.837Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S774",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S774"
+}

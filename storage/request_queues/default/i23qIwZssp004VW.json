@@ -1,0 +1,9 @@
+{
+	"id": "i23qIwZssp004VW",
+	"json": "{\"id\":\"i23qIwZssp004VW\",\"url\":\"https://www.nysenate.gov/issues/student-loans\",\"loadedUrl\":\"https://www.nysenate.gov/issues/student-loans\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/student-loans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:09:13.430Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/student-loans",
+	"url": "https://www.nysenate.gov/issues/student-loans"
+}

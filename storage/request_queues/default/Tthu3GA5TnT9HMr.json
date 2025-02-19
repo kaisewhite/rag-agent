@@ -1,0 +1,9 @@
+{
+	"id": "Tthu3GA5TnT9HMr",
+	"json": "{\"id\":\"Tthu3GA5TnT9HMr\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/S122\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/bills/2021/S122\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/S122\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:14:52.187Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/S122",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/S122"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Zk0WGzGMrN98lHz",
+	"json": "{\"id\":\"Zk0WGzGMrN98lHz\",\"url\":\"https://www.nysenate.gov/legislation/laws/NAV/A11\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/NAV/A11\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569946054,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/NAV/A11",
+	"url": "https://www.nysenate.gov/legislation/laws/NAV/A11"
+}

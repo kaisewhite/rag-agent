@@ -1,0 +1,9 @@
+{
+	"id": "HJDejcxUg15E2hV",
+	"json": "{\"id\":\"HJDejcxUg15E2hV\",\"url\":\"https://www.nysenate.gov/issues/new-york-state-police\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-york-state-police\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808653,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-york-state-police",
+	"url": "https://www.nysenate.gov/issues/new-york-state-police"
+}

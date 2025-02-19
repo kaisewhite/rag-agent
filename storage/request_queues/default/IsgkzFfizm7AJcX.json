@@ -1,0 +1,9 @@
+{
+	"id": "IsgkzFfizm7AJcX",
+	"json": "{\"id\":\"IsgkzFfizm7AJcX\",\"url\":\"https://www.nysenate.gov/issues/south-shore-waters\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/south-shore-waters\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770691,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/south-shore-waters",
+	"url": "https://www.nysenate.gov/issues/south-shore-waters"
+}

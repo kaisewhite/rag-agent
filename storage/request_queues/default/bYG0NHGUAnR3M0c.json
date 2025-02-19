@@ -1,0 +1,9 @@
+{
+	"id": "bYG0NHGUAnR3M0c",
+	"json": "{\"id\":\"bYG0NHGUAnR3M0c\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/state-senate-investigating-idas-compliance-oversight-laws\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/state-senate-investigating-idas-compliance-oversight-laws\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808649,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/state-senate-investigating-idas-compliance-oversight-laws",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/state-senate-investigating-idas-compliance-oversight-laws"
+}

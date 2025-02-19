@@ -1,0 +1,9 @@
+{
+	"id": "TrCP0bwSPsY10gW",
+	"json": "{\"id\":\"TrCP0bwSPsY10gW\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-08-2019/east-new-york-gotham-hospital-community-advisory\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-08-2019/east-new-york-gotham-hospital-community-advisory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246670,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-08-2019/east-new-york-gotham-hospital-community-advisory",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-08-2019/east-new-york-gotham-hospital-community-advisory"
+}

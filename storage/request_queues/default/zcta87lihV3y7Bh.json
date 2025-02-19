@@ -1,0 +1,9 @@
+{
+	"id": "zcta87lihV3y7Bh",
+	"json": "{\"id\":\"zcta87lihV3y7Bh\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=IDAs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=IDAs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571634071,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=IDAs",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=IDAs"
+}

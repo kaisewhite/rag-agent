@@ -1,0 +1,9 @@
+{
+	"id": "cVoyjAgOMCkl3Mj",
+	"json": "{\"id\":\"cVoyjAgOMCkl3Mj\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/statement-senator-ramos-celebrates-contract-agreement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/statement-senator-ramos-celebrates-contract-agreement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811621,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/statement-senator-ramos-celebrates-contract-agreement",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/jessica-ramos/statement-senator-ramos-celebrates-contract-agreement"
+}

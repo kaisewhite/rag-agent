@@ -1,0 +1,9 @@
+{
+	"id": "e1Se1rX9gEe979V",
+	"json": "{\"id\":\"e1Se1rX9gEe979V\",\"url\":\"https://www.nysenate.gov/issues/animal-protection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/animal-protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739572375474,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/animal-protection",
+	"url": "https://www.nysenate.gov/issues/animal-protection"
+}

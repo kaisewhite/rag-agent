@@ -1,0 +1,9 @@
+{
+	"id": "pKuqQj4WeNDiBE8",
+	"json": "{\"id\":\"pKuqQj4WeNDiBE8\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S8866\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S8866\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571278436,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S8866",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S8866"
+}

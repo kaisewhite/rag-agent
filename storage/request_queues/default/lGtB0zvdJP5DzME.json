@@ -1,0 +1,9 @@
+{
+	"id": "lGtB0zvdJP5DzME",
+	"json": "{\"id\":\"lGtB0zvdJP5DzME\",\"url\":\"https://www.nysenate.gov/issues/combatting-nitrogen-pollution\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/combatting-nitrogen-pollution\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770678,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/combatting-nitrogen-pollution",
+	"url": "https://www.nysenate.gov/issues/combatting-nitrogen-pollution"
+}

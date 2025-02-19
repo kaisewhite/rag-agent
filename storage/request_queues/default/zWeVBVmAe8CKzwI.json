@@ -1,0 +1,9 @@
+{
+	"id": "zWeVBVmAe8CKzwI",
+	"json": "{\"id\":\"zWeVBVmAe8CKzwI\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-27-2018/63rd-precinct-community-council-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-27-2018/63rd-precinct-community-council-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246545,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-27-2018/63rd-precinct-community-council-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-27-2018/63rd-precinct-community-council-monthly-meeting"
+}

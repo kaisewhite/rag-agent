@@ -1,0 +1,9 @@
+{
+	"id": "JEo8F7ds6Z3F6If",
+	"json": "{\"id\":\"JEo8F7ds6Z3F6If\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/city-limits-rent-relief-bill-faces-vote-albany\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/city-limits-rent-relief-bill-faces-vote-albany\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798916,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/city-limits-rent-relief-bill-faces-vote-albany",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/city-limits-rent-relief-bill-faces-vote-albany"
+}

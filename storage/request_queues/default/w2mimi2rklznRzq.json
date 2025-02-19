@@ -1,0 +1,9 @@
+{
+	"id": "w2mimi2rklznRzq",
+	"json": "{\"id\":\"w2mimi2rklznRzq\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/thomas-duane/testimony-photos-and-video-senate-health-committee-hearing-food\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/thomas-duane/testimony-photos-and-video-senate-health-committee-hearing-food\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781068,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/thomas-duane/testimony-photos-and-video-senate-health-committee-hearing-food",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/thomas-duane/testimony-photos-and-video-senate-health-committee-hearing-food"
+}

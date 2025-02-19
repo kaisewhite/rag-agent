@@ -1,0 +1,9 @@
+{
+	"id": "zlWfVcMT6Caak94",
+	"json": "{\"id\":\"zlWfVcMT6Caak94\",\"url\":\"https://www.nysenate.gov/issues/tap\",\"loadedUrl\":\"https://www.nysenate.gov/issues/tap\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/tap\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:10:20.772Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/tap",
+	"url": "https://www.nysenate.gov/issues/tap"
+}

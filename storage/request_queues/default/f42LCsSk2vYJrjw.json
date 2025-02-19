@@ -1,0 +1,9 @@
+{
+	"id": "f42LCsSk2vYJrjw",
+	"json": "{\"id\":\"f42LCsSk2vYJrjw\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S2869\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/bills/2019/S2869\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S2869\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:09:44.644Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S2869",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S2869"
+}

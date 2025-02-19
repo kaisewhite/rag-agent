@@ -1,0 +1,9 @@
+{
+	"id": "bU6dUqpdXl7MFUj",
+	"json": "{\"id\":\"bU6dUqpdXl7MFUj\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Senator%20Harckham.%20SD40\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Senator+Harckham.+SD40\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571537060,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Senator+Harckham.+SD40",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Senator%20Harckham.%20SD40"
+}

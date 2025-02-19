@@ -1,0 +1,9 @@
+{
+	"id": "2aGp7pto937Sifb",
+	"json": "{\"id\":\"2aGp7pto937Sifb\",\"url\":\"https://www.nysenate.gov/legislation/laws/ACA/TD\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ACA/TD\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569879760,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ACA/TD",
+	"url": "https://www.nysenate.gov/legislation/laws/ACA/TD"
+}

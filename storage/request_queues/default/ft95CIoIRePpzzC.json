@@ -1,0 +1,9 @@
+{
+	"id": "ft95CIoIRePpzzC",
+	"json": "{\"id\":\"ft95CIoIRePpzzC\",\"url\":\"https://www.nysenate.gov/issues/albany\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/albany\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569633468,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/albany",
+	"url": "https://www.nysenate.gov/issues/albany"
+}

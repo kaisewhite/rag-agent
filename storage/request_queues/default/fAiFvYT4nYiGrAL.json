@@ -1,0 +1,9 @@
+{
+	"id": "fAiFvYT4nYiGrAL",
+	"json": "{\"id\":\"fAiFvYT4nYiGrAL\",\"url\":\"https://www.nysenate.gov/legislation/laws/AGM/A25-AAAA\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/AGM/A25-AAAA\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569883188,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/AGM/A25-AAAA",
+	"url": "https://www.nysenate.gov/legislation/laws/AGM/A25-AAAA"
+}

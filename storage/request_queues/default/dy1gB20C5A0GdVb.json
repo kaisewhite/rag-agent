@@ -1,0 +1,9 @@
+{
+	"id": "dy1gB20C5A0GdVb",
+	"json": "{\"id\":\"dy1gB20C5A0GdVb\",\"url\":\"https://www.nysenate.gov/issues/cdc\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/cdc\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798904,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/cdc",
+	"url": "https://www.nysenate.gov/issues/cdc"
+}

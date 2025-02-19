@@ -1,0 +1,9 @@
+{
+	"id": "aAjAvQYsciz6e2Q",
+	"json": "{\"id\":\"aAjAvQYsciz6e2Q\",\"url\":\"https://www.nysenate.gov/legislation/laws/ABP\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/laws/ABP\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ABP\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:51:18.569Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ABP",
+	"url": "https://www.nysenate.gov/legislation/laws/ABP"
+}

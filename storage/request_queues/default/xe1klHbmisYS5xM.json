@@ -1,0 +1,9 @@
+{
+	"id": "xe1klHbmisYS5xM",
+	"json": "{\"id\":\"xe1klHbmisYS5xM\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/february-19-2019/joint-public-hearing-examine-effectiveness-new-york-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/february-19-2019/joint-public-hearing-examine-effectiveness-new-york-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855239,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/february-19-2019/joint-public-hearing-examine-effectiveness-new-york-0",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/february-19-2019/joint-public-hearing-examine-effectiveness-new-york-0"
+}

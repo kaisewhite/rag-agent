@@ -1,0 +1,9 @@
+{
+	"id": "4fpY2hDHmU7fByr",
+	"json": "{\"id\":\"4fpY2hDHmU7fByr\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-announces-small-business-regulatory-watch\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-announces-small-business-regulatory-watch\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686727,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-announces-small-business-regulatory-watch",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-announces-small-business-regulatory-watch"
+}

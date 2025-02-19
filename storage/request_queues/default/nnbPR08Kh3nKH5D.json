@@ -1,0 +1,9 @@
+{
+	"id": "nnbPR08Kh3nKH5D",
+	"json": "{\"id\":\"nnbPR08Kh3nKH5D\",\"url\":\"https://www.nysenate.gov/senators/andrew-j-lanza/newsroom\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/andrew-j-lanza/newsroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569650081,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/andrew-j-lanza/newsroom",
+	"url": "https://www.nysenate.gov/senators/andrew-j-lanza/newsroom"
+}

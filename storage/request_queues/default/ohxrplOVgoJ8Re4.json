@@ -1,0 +1,9 @@
+{
+	"id": "ohxrplOVgoJ8Re4",
+	"json": "{\"id\":\"ohxrplOVgoJ8Re4\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/lee-zeldin/statement-senator-lee-m-zeldin-re-lipa\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/lee-zeldin/statement-senator-lee-m-zeldin-re-lipa\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740988,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/lee-zeldin/statement-senator-lee-m-zeldin-re-lipa",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/lee-zeldin/statement-senator-lee-m-zeldin-re-lipa"
+}

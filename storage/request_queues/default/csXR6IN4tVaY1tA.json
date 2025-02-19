@@ -1,0 +1,9 @@
+{
+	"id": "csXR6IN4tVaY1tA",
+	"json": "{\"id\":\"csXR6IN4tVaY1tA\",\"url\":\"https://www.nysenate.gov/issues/fdny\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/fdny\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571343388,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/fdny",
+	"url": "https://www.nysenate.gov/issues/fdny"
+}

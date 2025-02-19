@@ -1,0 +1,9 @@
+{
+	"id": "UYzUBzzUd8Izxu2",
+	"json": "{\"id\":\"UYzUBzzUd8Izxu2\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2025/robert-g-ortt/official-correspondence-senate-and-assembly-republicans-united\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2025/robert-g-ortt/official-correspondence-senate-and-assembly-republicans-united\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569662176,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2025/robert-g-ortt/official-correspondence-senate-and-assembly-republicans-united",
+	"url": "https://www.nysenate.gov/newsroom/articles/2025/robert-g-ortt/official-correspondence-senate-and-assembly-republicans-united"
+}

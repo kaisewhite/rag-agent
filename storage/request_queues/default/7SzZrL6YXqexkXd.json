@@ -1,0 +1,9 @@
+{
+	"id": "7SzZrL6YXqexkXd",
+	"json": "{\"id\":\"7SzZrL6YXqexkXd\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/thompson-pushing-state-wide-solar-compliance-switch\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/thompson-pushing-state-wide-solar-compliance-switch\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770758,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/thompson-pushing-state-wide-solar-compliance-switch",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/thompson-pushing-state-wide-solar-compliance-switch"
+}

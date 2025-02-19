@@ -1,0 +1,9 @@
+{
+	"id": "YH7PYHyM3Hqy4Fz",
+	"json": "{\"id\":\"YH7PYHyM3Hqy4Fz\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/brian-kavanagh/senator-kavanagh-and-assemblymember-kelles-introduce\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/brian-kavanagh/senator-kavanagh-and-assemblymember-kelles-introduce\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569647000,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/brian-kavanagh/senator-kavanagh-and-assemblymember-kelles-introduce",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/brian-kavanagh/senator-kavanagh-and-assemblymember-kelles-introduce"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "GigNxPhxCV8QBTq",
+	"json": "{\"id\":\"GigNxPhxCV8QBTq\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/grisanti-has-six-bills-signed-law-governor\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/grisanti-has-six-bills-signed-law-governor\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770749,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/grisanti-has-six-bills-signed-law-governor",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/mark-grisanti/grisanti-has-six-bills-signed-law-governor"
+}

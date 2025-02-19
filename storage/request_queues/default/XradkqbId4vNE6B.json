@@ -1,0 +1,9 @@
+{
+	"id": "XradkqbId4vNE6B",
+	"json": "{\"id\":\"XradkqbId4vNE6B\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/roy-mcdonald/mcdonald-announces-suicide-prevention-awareness-effort\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/roy-mcdonald/mcdonald-announces-suicide-prevention-awareness-effort\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569819330,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/roy-mcdonald/mcdonald-announces-suicide-prevention-awareness-effort",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/roy-mcdonald/mcdonald-announces-suicide-prevention-awareness-effort"
+}

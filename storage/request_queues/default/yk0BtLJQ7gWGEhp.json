@@ -1,0 +1,9 @@
+{
+	"id": "yk0BtLJQ7gWGEhp",
+	"json": "{\"id\":\"yk0BtLJQ7gWGEhp\",\"url\":\"https://www.nysenate.gov/calendar/meetings/judiciary/may-28-2015/judiciary-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/judiciary/may-28-2015/judiciary-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804288,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/judiciary/may-28-2015/judiciary-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/judiciary/may-28-2015/judiciary-meeting"
+}

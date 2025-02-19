@@ -1,0 +1,9 @@
+{
+	"id": "iCydaQYJfXUKJw1",
+	"json": "{\"id\":\"iCydaQYJfXUKJw1\",\"url\":\"https://www.nysenate.gov/newsroom/articles/darrel-aubertine/senator-aubertines-protect-yourself-identity-theft-brochure\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/darrel-aubertine/senator-aubertines-protect-yourself-identity-theft-brochure\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740990,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/darrel-aubertine/senator-aubertines-protect-yourself-identity-theft-brochure",
+	"url": "https://www.nysenate.gov/newsroom/articles/darrel-aubertine/senator-aubertines-protect-yourself-identity-theft-brochure"
+}

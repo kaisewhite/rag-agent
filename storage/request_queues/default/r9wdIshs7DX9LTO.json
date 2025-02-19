@@ -1,0 +1,9 @@
+{
+	"id": "r9wdIshs7DX9LTO",
+	"json": "{\"id\":\"r9wdIshs7DX9LTO\",\"url\":\"https://www.nysenate.gov/petitions/jack-m-martins/take-back-parents-rights\",\"uniqueKey\":\"GET():https://www.nysenate.gov/petitions/jack-m-martins/take-back-parents-rights\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569651960,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/petitions/jack-m-martins/take-back-parents-rights",
+	"url": "https://www.nysenate.gov/petitions/jack-m-martins/take-back-parents-rights"
+}

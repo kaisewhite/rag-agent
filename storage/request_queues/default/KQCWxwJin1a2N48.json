@@ -1,0 +1,9 @@
+{
+	"id": "KQCWxwJin1a2N48",
+	"json": "{\"id\":\"KQCWxwJin1a2N48\",\"url\":\"https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-05-2010/corporations-authorities-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-05-2010/corporations-authorities-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741833,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-05-2010/corporations-authorities-and",
+	"url": "https://www.nysenate.gov/calendar/meetings/corporations-authorities-and-commissions/may-05-2010/corporations-authorities-and"
+}

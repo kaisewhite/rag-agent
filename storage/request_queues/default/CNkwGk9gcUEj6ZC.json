@@ -1,0 +1,9 @@
+{
+	"id": "CNkwGk9gcUEj6ZC",
+	"json": "{\"id\":\"CNkwGk9gcUEj6ZC\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/simcha-felder/governor-cuomo-signs-two-felder-bills-law\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/simcha-felder/governor-cuomo-signs-two-felder-bills-law\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569823667,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/simcha-felder/governor-cuomo-signs-two-felder-bills-law",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/simcha-felder/governor-cuomo-signs-two-felder-bills-law"
+}

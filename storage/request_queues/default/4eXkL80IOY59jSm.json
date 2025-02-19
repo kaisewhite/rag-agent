@@ -1,0 +1,9 @@
+{
+	"id": "4eXkL80IOY59jSm",
+	"json": "{\"id\":\"4eXkL80IOY59jSm\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-29-2020/mask-hand-sanitizer-giveaway\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-29-2020/mask-hand-sanitizer-giveaway\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247137,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-29-2020/mask-hand-sanitizer-giveaway",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-29-2020/mask-hand-sanitizer-giveaway"
+}

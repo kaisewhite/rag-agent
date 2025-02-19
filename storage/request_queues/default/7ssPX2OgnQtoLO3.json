@@ -1,0 +1,9 @@
+{
+	"id": "7ssPX2OgnQtoLO3",
+	"json": "{\"id\":\"7ssPX2OgnQtoLO3\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/A1687\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/A1687\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570073510,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/A1687",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/A1687"
+}

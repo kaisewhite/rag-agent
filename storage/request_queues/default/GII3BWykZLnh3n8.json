@@ -1,0 +1,9 @@
+{
+	"id": "GII3BWykZLnh3n8",
+	"json": "{\"id\":\"GII3BWykZLnh3n8\",\"url\":\"https://www.nysenate.gov/sites/default/files/ruth_finklestein_brookdale.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/ruth_finklestein_brookdale.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716542,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/ruth_finklestein_brookdale.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/ruth_finklestein_brookdale.pdf"
+}

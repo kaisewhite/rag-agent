@@ -1,0 +1,9 @@
+{
+	"id": "bod5L0M4KjPo6wj",
+	"json": "{\"id\":\"bod5L0M4KjPo6wj\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-11-2019/eny-gotham-hospital-community-advisory-board-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-11-2019/eny-gotham-hospital-community-advisory-board-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247007,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-11-2019/eny-gotham-hospital-community-advisory-board-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-11-2019/eny-gotham-hospital-community-advisory-board-meeting"
+}

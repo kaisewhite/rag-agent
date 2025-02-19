@@ -1,0 +1,9 @@
+{
+	"id": "D8QfF7fyAv6gWod",
+	"json": "{\"id\":\"D8QfF7fyAv6gWod\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/patty-ritchie/support-local-farmers-and-eat-right\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/patty-ritchie/support-local-farmers-and-eat-right\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707181,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/patty-ritchie/support-local-farmers-and-eat-right",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/patty-ritchie/support-local-farmers-and-eat-right"
+}

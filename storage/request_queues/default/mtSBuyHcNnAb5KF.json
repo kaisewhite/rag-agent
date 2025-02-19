@@ -1,0 +1,9 @@
+{
+	"id": "mtSBuyHcNnAb5KF",
+	"json": "{\"id\":\"mtSBuyHcNnAb5KF\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2020/rachel-may/statement-senator-may-and-assemblymember-santabarbara-chairs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2020/rachel-may/statement-senator-may-and-assemblymember-santabarbara-chairs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695493,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2020/rachel-may/statement-senator-may-and-assemblymember-santabarbara-chairs",
+	"url": "https://www.nysenate.gov/newsroom/articles/2020/rachel-may/statement-senator-may-and-assemblymember-santabarbara-chairs"
+}

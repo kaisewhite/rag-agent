@@ -1,0 +1,9 @@
+{
+	"id": "dNHOELZTkFK9b4l",
+	"json": "{\"id\":\"dNHOELZTkFK9b4l\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/january-14-2022/joint-public-hearing-review-effectiveness-business\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/january-14-2022/joint-public-hearing-review-effectiveness-business\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780900,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/january-14-2022/joint-public-hearing-review-effectiveness-business",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/january-14-2022/joint-public-hearing-review-effectiveness-business"
+}

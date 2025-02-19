@@ -1,0 +1,9 @@
+{
+	"id": "av8YC7eBNRLYGc1",
+	"json": "{\"id\":\"av8YC7eBNRLYGc1\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/brian-kavanagh/ny-times-new-rent-laws-pass-ny-pendulum-swinging-against\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/brian-kavanagh/ny-times-new-rent-laws-pass-ny-pendulum-swinging-against\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798925,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/brian-kavanagh/ny-times-new-rent-laws-pass-ny-pendulum-swinging-against",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/brian-kavanagh/ny-times-new-rent-laws-pass-ny-pendulum-swinging-against"
+}

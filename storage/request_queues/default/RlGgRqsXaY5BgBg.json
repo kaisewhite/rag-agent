@@ -1,0 +1,9 @@
+{
+	"id": "RlGgRqsXaY5BgBg",
+	"json": "{\"id\":\"RlGgRqsXaY5BgBg\",\"url\":\"https://www.nysenate.gov/issues/public-corruption\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/public-corruption\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571636247,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/public-corruption",
+	"url": "https://www.nysenate.gov/issues/public-corruption"
+}

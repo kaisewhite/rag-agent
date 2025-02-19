@@ -1,0 +1,9 @@
+{
+	"id": "I6bWEMdeBhBH5L7",
+	"json": "{\"id\":\"I6bWEMdeBhBH5L7\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/patty-ritchie/ag-assessment-bill-cuts-paperwork\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/patty-ritchie/ag-assessment-bill-cuts-paperwork\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707192,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/patty-ritchie/ag-assessment-bill-cuts-paperwork",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/patty-ritchie/ag-assessment-bill-cuts-paperwork"
+}

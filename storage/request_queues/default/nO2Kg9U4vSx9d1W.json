@@ -1,0 +1,9 @@
+{
+	"id": "nO2Kg9U4vSx9d1W",
+	"json": "{\"id\":\"nO2Kg9U4vSx9d1W\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-27-2020/food-distribution-brooklyn-lifestyle-athletic-club\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-27-2020/food-distribution-brooklyn-lifestyle-athletic-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247136,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-27-2020/food-distribution-brooklyn-lifestyle-athletic-club",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-27-2020/food-distribution-brooklyn-lifestyle-athletic-club"
+}

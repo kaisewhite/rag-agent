@@ -1,0 +1,9 @@
+{
+	"id": "CjVmBhrpgsumyZZ",
+	"json": "{\"id\":\"CjVmBhrpgsumyZZ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/liz-krueger/senators-urge-state-board-elections-fix-draft-ballot\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/liz-krueger/senators-urge-state-board-elections-fix-draft-ballot\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570909765,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/liz-krueger/senators-urge-state-board-elections-fix-draft-ballot",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/liz-krueger/senators-urge-state-board-elections-fix-draft-ballot"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "wQW954EGas3M89R",
+	"json": "{\"id\":\"wQW954EGas3M89R\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/january-22-2010/sen-duane-announces-public-hearing-food-policy-new-york\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/january-22-2010/sen-duane-announces-public-hearing-food-policy-new-york\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781040,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/january-22-2010/sen-duane-announces-public-hearing-food-policy-new-york",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/january-22-2010/sen-duane-announces-public-hearing-food-policy-new-york"
+}

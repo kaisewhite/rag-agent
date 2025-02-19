@@ -1,0 +1,9 @@
+{
+	"id": "uGU16LVPtVAPrll",
+	"json": "{\"id\":\"uGU16LVPtVAPrll\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-15-2020/food-distribution-19th-senate-district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-15-2020/food-distribution-19th-senate-district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247220,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-15-2020/food-distribution-19th-senate-district",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-15-2020/food-distribution-19th-senate-district"
+}

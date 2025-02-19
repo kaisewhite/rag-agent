@@ -1,0 +1,9 @@
+{
+	"id": "nbSdjtcnGauedh8",
+	"json": "{\"id\":\"nbSdjtcnGauedh8\",\"url\":\"https://www.nysenate.gov/issues/municipal-clerks\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/municipal-clerks\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569643819,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/municipal-clerks",
+	"url": "https://www.nysenate.gov/issues/municipal-clerks"
+}

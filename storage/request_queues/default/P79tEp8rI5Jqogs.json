@@ -1,0 +1,9 @@
+{
+	"id": "P79tEp8rI5Jqogs",
+	"json": "{\"id\":\"P79tEp8rI5Jqogs\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/project-guardianship-joint-budget-testimony_human-services-2.12.25.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/project-guardianship-joint-budget-testimony_human-services-2.12.25.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570525077,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/project-guardianship-joint-budget-testimony_human-services-2.12.25.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/project-guardianship-joint-budget-testimony_human-services-2.12.25.pdf"
+}

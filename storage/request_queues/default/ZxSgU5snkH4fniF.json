@@ -1,0 +1,9 @@
+{
+	"id": "ZxSgU5snkH4fniF",
+	"json": "{\"id\":\"ZxSgU5snkH4fniF\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/may-30-2019/public-hearing-creation-automatic-voter-registration-system\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/may-30-2019/public-hearing-creation-automatic-voter-registration-system\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756051,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/may-30-2019/public-hearing-creation-automatic-voter-registration-system",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/may-30-2019/public-hearing-creation-automatic-voter-registration-system"
+}

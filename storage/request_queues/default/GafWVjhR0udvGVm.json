@@ -1,0 +1,9 @@
+{
+	"id": "GafWVjhR0udvGVm",
+	"json": "{\"id\":\"GafWVjhR0udvGVm\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/michael-gianaris/new-york-times-ny-legislature-expected-extend-eviction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/michael-gianaris/new-york-times-ny-legislature-expected-extend-eviction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570733406,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/michael-gianaris/new-york-times-ny-legislature-expected-extend-eviction",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/michael-gianaris/new-york-times-ny-legislature-expected-extend-eviction"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "AOqUC5V6eEZqPXY",
+	"json": "{\"id\":\"AOqUC5V6eEZqPXY\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/A6559\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/A6559\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571471359,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/A6559",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/A6559"
+}

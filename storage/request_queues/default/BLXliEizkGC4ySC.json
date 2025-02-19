@@ -1,0 +1,9 @@
+{
+	"id": "BLXliEizkGC4ySC",
+	"json": "{\"id\":\"BLXliEizkGC4ySC\",\"url\":\"https://www.nysenate.gov/issues/911-disability\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/911-disability\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571654482,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/911-disability",
+	"url": "https://www.nysenate.gov/issues/911-disability"
+}

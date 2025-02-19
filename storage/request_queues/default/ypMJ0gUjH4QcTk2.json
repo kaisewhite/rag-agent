@@ -1,0 +1,9 @@
+{
+	"id": "ypMJ0gUjH4QcTk2",
+	"json": "{\"id\":\"ypMJ0gUjH4QcTk2\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-gaughran/how-limousine-safety-ran-out-gas\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-gaughran/how-limousine-safety-ran-out-gas\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571592652,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-gaughran/how-limousine-safety-ran-out-gas",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/james-gaughran/how-limousine-safety-ran-out-gas"
+}

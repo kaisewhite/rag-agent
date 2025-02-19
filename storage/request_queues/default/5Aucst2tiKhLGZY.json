@@ -1,0 +1,9 @@
+{
+	"id": "5Aucst2tiKhLGZY",
+	"json": "{\"id\":\"5Aucst2tiKhLGZY\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-hosts-green-jobs-green-ny-session\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-hosts-green-jobs-green-ny-session\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770760,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-hosts-green-jobs-green-ny-session",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/antoine-thompson/senator-thompson-hosts-green-jobs-green-ny-session"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "SwC9ei8D9VrZOkt",
+	"json": "{\"id\":\"SwC9ei8D9VrZOkt\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/alessandra-biaggi/biaggi-chairs-first-public-sexual-harassment-hearing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/alessandra-biaggi/biaggi-chairs-first-public-sexual-harassment-hearing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770299,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/alessandra-biaggi/biaggi-chairs-first-public-sexual-harassment-hearing",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/alessandra-biaggi/biaggi-chairs-first-public-sexual-harassment-hearing"
+}

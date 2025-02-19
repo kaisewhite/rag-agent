@@ -1,0 +1,9 @@
+{
+	"id": "Y2APuq8751DaB3Q",
+	"json": "{\"id\":\"Y2APuq8751DaB3Q\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/mario-r-mattera/senate-republican-conference-fights-men-and-women-blue\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/mario-r-mattera/senate-republican-conference-fights-men-and-women-blue\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571668744,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/mario-r-mattera/senate-republican-conference-fights-men-and-women-blue",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/mario-r-mattera/senate-republican-conference-fights-men-and-women-blue"
+}

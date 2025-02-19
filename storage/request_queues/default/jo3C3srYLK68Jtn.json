@@ -1,0 +1,9 @@
+{
+	"id": "jo3C3srYLK68Jtn",
+	"json": "{\"id\":\"jo3C3srYLK68Jtn\",\"url\":\"https://www.nysenate.gov/questionnaires/andrea-stewart-cousins/subscribe-our-newsletter-where-we-will-be-sending-you-regular\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/andrea-stewart-cousins/subscribe-our-newsletter-where-we-will-be-sending-you-regular\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569677639,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/andrea-stewart-cousins/subscribe-our-newsletter-where-we-will-be-sending-you-regular",
+	"url": "https://www.nysenate.gov/questionnaires/andrea-stewart-cousins/subscribe-our-newsletter-where-we-will-be-sending-you-regular"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "dCFT107mQour3Lt",
+	"json": "{\"id\":\"dCFT107mQour3Lt\",\"url\":\"https://www.nysenate.gov/issues/safe-storage\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/safe-storage\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570176344,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/safe-storage",
+	"url": "https://www.nysenate.gov/issues/safe-storage"
+}

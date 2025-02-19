@@ -1,0 +1,9 @@
+{
+	"id": "NSKh9Ty1tzo3Zfv",
+	"json": "{\"id\":\"NSKh9Ty1tzo3Zfv\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/simcha-felder/felder-applauds-governors-additional-15-million-heap\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/simcha-felder/felder-applauds-governors-additional-15-million-heap\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571152980,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/simcha-felder/felder-applauds-governors-additional-15-million-heap",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/simcha-felder/felder-applauds-governors-additional-15-million-heap"
+}

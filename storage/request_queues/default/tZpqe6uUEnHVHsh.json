@@ -1,0 +1,9 @@
+{
+	"id": "tZpqe6uUEnHVHsh",
+	"json": "{\"id\":\"tZpqe6uUEnHVHsh\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-17-2023/food-distribution\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-17-2023/food-distribution\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247456,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-17-2023/food-distribution",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-17-2023/food-distribution"
+}

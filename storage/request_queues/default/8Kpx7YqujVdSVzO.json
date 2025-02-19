@@ -1,0 +1,9 @@
+{
+	"id": "8Kpx7YqujVdSVzO",
+	"json": "{\"id\":\"8Kpx7YqujVdSVzO\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S4323\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S4323\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570748323,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S4323",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S4323"
+}

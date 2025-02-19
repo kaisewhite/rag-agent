@@ -1,0 +1,9 @@
+{
+	"id": "a7469G8DAxJ8SgL",
+	"json": "{\"id\":\"a7469G8DAxJ8SgL\",\"url\":\"https://www.nysenate.gov/dashboard/senators/rob-rolison\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/rob-rolison\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571173398,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/rob-rolison",
+	"url": "https://www.nysenate.gov/dashboard/senators/rob-rolison"
+}

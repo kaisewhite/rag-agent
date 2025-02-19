@@ -1,0 +1,9 @@
+{
+	"id": "R06U9rlHU8VESGS",
+	"json": "{\"id\":\"R06U9rlHU8VESGS\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/toby-ann-stavisky/senator-stavisky-receives-suny-award?page=8\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/toby-ann-stavisky/senator-stavisky-receives-suny-award?page=8\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571066686,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/toby-ann-stavisky/senator-stavisky-receives-suny-award?page=8",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/toby-ann-stavisky/senator-stavisky-receives-suny-award?page=8"
+}

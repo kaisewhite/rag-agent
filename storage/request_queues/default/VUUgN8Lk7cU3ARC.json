@@ -1,0 +1,9 @@
+{
+	"id": "VUUgN8Lk7cU3ARC",
+	"json": "{\"id\":\"VUUgN8Lk7cU3ARC\",\"url\":\"https://www.nysenate.gov/legislation/laws/CAL/A1-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CAL/A1-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569888159,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CAL/A1-A",
+	"url": "https://www.nysenate.gov/legislation/laws/CAL/A1-A"
+}

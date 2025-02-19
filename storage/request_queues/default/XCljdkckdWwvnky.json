@@ -1,0 +1,9 @@
+{
+	"id": "XCljdkckdWwvnky",
+	"json": "{\"id\":\"XCljdkckdWwvnky\",\"url\":\"https://www.nysenate.gov/newsroom/articles/malcolm-smith/budget-bill-supplement-2009-10-financial-plan-table-quick-start\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/malcolm-smith/budget-bill-supplement-2009-10-financial-plan-table-quick-start\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781283,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/malcolm-smith/budget-bill-supplement-2009-10-financial-plan-table-quick-start",
+	"url": "https://www.nysenate.gov/newsroom/articles/malcolm-smith/budget-bill-supplement-2009-10-financial-plan-table-quick-start"
+}

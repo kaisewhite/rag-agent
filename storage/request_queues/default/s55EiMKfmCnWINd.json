@@ -1,0 +1,9 @@
+{
+	"id": "s55EiMKfmCnWINd",
+	"json": "{\"id\":\"s55EiMKfmCnWINd\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/senator-kruegers-december-2024-update\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/senator-kruegers-december-2024-update\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570894353,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/senator-kruegers-december-2024-update",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/senator-kruegers-december-2024-update"
+}

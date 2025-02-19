@@ -1,0 +1,9 @@
+{
+	"id": "T3IMSnonckMrrvT",
+	"json": "{\"id\":\"T3IMSnonckMrrvT\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/craig-johnson/senator-johnson-new-york-cant-afford-give-indian\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/craig-johnson/senator-johnson-new-york-cant-afford-give-indian\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808662,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/craig-johnson/senator-johnson-new-york-cant-afford-give-indian",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/craig-johnson/senator-johnson-new-york-cant-afford-give-indian"
+}

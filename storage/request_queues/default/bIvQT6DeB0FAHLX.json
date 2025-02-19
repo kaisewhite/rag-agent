@@ -1,0 +1,9 @@
+{
+	"id": "bIvQT6DeB0FAHLX",
+	"json": "{\"id\":\"bIvQT6DeB0FAHLX\",\"url\":\"https://www.nysenate.gov/issues/bfair2directcare\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/bfair2directcare\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569819328,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/bfair2directcare",
+	"url": "https://www.nysenate.gov/issues/bfair2directcare"
+}

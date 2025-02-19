@@ -1,0 +1,9 @@
+{
+	"id": "tSTogKazUTM8hOH",
+	"json": "{\"id\":\"tSTogKazUTM8hOH\",\"url\":\"https://www.nysenate.gov/issues/bridge-strikes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/bridge-strikes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571570726,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/bridge-strikes",
+	"url": "https://www.nysenate.gov/issues/bridge-strikes"
+}

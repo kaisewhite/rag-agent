@@ -1,0 +1,9 @@
+{
+	"id": "JhJvoYhINaUV3hc",
+	"json": "{\"id\":\"JhJvoYhINaUV3hc\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/pamela-helming/senator-helming-applauds-legislation-aimed-school-bus\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/pamela-helming/senator-helming-applauds-legislation-aimed-school-bus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571678788,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/pamela-helming/senator-helming-applauds-legislation-aimed-school-bus",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/pamela-helming/senator-helming-applauds-legislation-aimed-school-bus"
+}

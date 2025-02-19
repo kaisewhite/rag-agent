@@ -1,0 +1,9 @@
+{
+	"id": "zqMnWJoofE6MuNo",
+	"json": "{\"id\":\"zqMnWJoofE6MuNo\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/S5924/amendment/A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/S5924/amendment/A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570953428,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/S5924/amendment/A",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/S5924/amendment/A"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "elws0MRcJUVJgUh",
+	"json": "{\"id\":\"elws0MRcJUVJgUh\",\"url\":\"https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-11-2020/veterans\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-11-2020/veterans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855380,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-11-2020/veterans",
+	"url": "https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-11-2020/veterans"
+}

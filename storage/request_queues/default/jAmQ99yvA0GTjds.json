@@ -1,0 +1,9 @@
+{
+	"id": "jAmQ99yvA0GTjds",
+	"json": "{\"id\":\"jAmQ99yvA0GTjds\",\"url\":\"https://www.nysenate.gov/legislation/laws/LEG/A5-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/LEG/A5-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569936246,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/LEG/A5-A",
+	"url": "https://www.nysenate.gov/legislation/laws/LEG/A5-A"
+}

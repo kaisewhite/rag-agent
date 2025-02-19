@@ -1,0 +1,9 @@
+{
+	"id": "AySXttN8nTtPwQx",
+	"json": "{\"id\":\"AySXttN8nTtPwQx\",\"url\":\"https://www.nysenate.gov/issues/good-cause-eviction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/good-cause-eviction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798866,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/good-cause-eviction",
+	"url": "https://www.nysenate.gov/issues/good-cause-eviction"
+}

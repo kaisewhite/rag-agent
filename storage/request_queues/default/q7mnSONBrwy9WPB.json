@@ -1,0 +1,9 @@
+{
+	"id": "q7mnSONBrwy9WPB",
+	"json": "{\"id\":\"q7mnSONBrwy9WPB\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/antoine-thompson/senator-thompson-seeking-input-gas-drilling-marcellus\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/antoine-thompson/senator-thompson-seeking-input-gas-drilling-marcellus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770762,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/antoine-thompson/senator-thompson-seeking-input-gas-drilling-marcellus",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/antoine-thompson/senator-thompson-seeking-input-gas-drilling-marcellus"
+}

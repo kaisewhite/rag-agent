@@ -1,0 +1,9 @@
+{
+	"id": "lbOJxZJXfWs8B5k",
+	"json": "{\"id\":\"lbOJxZJXfWs8B5k\",\"url\":\"https://www.nysenate.gov/legislation/laws/LEG/A6-A\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/LEG/A6-A\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569936247,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/LEG/A6-A",
+	"url": "https://www.nysenate.gov/legislation/laws/LEG/A6-A"
+}

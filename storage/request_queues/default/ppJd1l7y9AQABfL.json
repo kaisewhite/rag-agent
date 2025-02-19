@@ -1,0 +1,9 @@
+{
+	"id": "ppJd1l7y9AQABfL",
+	"json": "{\"id\":\"ppJd1l7y9AQABfL\",\"url\":\"https://www.nysenate.gov/issues/due-process\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/due-process\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717643,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/due-process",
+	"url": "https://www.nysenate.gov/issues/due-process"
+}

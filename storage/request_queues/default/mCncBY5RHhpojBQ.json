@@ -1,0 +1,9 @@
+{
+	"id": "mCncBY5RHhpojBQ",
+	"json": "{\"id\":\"mCncBY5RHhpojBQ\",\"url\":\"https://www.nysenate.gov/issues/lyft\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/lyft\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571662836,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/lyft",
+	"url": "https://www.nysenate.gov/issues/lyft"
+}

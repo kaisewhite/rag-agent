@@ -1,0 +1,9 @@
+{
+	"id": "eZskMOF1mZeC1L0",
+	"json": "{\"id\":\"eZskMOF1mZeC1L0\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-announces-his-signing-public-authorities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-announces-his-signing-public-authorities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741851,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-announces-his-signing-public-authorities",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/governor-paterson-announces-his-signing-public-authorities"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "B2IU5MIl67auMfn",
+	"json": "{\"id\":\"B2IU5MIl67auMfn\",\"url\":\"https://www.nysenate.gov/issues/mount-sinai-beth-israel-closure\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/mount-sinai-beth-israel-closure\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570906370,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/mount-sinai-beth-israel-closure",
+	"url": "https://www.nysenate.gov/issues/mount-sinai-beth-israel-closure"
+}

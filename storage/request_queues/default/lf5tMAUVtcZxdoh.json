@@ -1,0 +1,9 @@
+{
+	"id": "lf5tMAUVtcZxdoh",
+	"json": "{\"id\":\"lf5tMAUVtcZxdoh\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/kevin-s-parker/senator-kevin-parker-holds-going-green-lets-conserve\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/kevin-s-parker/senator-kevin-parker-holds-going-green-lets-conserve\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569664907,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/kevin-s-parker/senator-kevin-parker-holds-going-green-lets-conserve",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/kevin-s-parker/senator-kevin-parker-holds-going-green-lets-conserve"
+}

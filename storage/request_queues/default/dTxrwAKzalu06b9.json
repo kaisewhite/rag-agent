@@ -1,0 +1,9 @@
+{
+	"id": "dTxrwAKzalu06b9",
+	"json": "{\"id\":\"dTxrwAKzalu06b9\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/joseph-addabbo/transcripted-testimony-novembers-senate-elections-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/joseph-addabbo/transcripted-testimony-novembers-senate-elections-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756067,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/joseph-addabbo/transcripted-testimony-novembers-senate-elections-committee",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/joseph-addabbo/transcripted-testimony-novembers-senate-elections-committee"
+}

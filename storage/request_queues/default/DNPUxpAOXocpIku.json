@@ -1,0 +1,9 @@
+{
+	"id": "DNPUxpAOXocpIku",
+	"json": "{\"id\":\"DNPUxpAOXocpIku\",\"url\":\"https://www.nysenate.gov/senators/mark-walczyk\",\"loadedUrl\":\"https://www.nysenate.gov/senators/mark-walczyk\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/mark-walczyk\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:47:59.811Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/mark-walczyk",
+	"url": "https://www.nysenate.gov/senators/mark-walczyk"
+}

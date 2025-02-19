@@ -1,0 +1,9 @@
+{
+	"id": "2xUMmz50c54mZsu",
+	"json": "{\"id\":\"2xUMmz50c54mZsu\",\"url\":\"https://www.nysenate.gov/issues/puppy-mill-pipeline\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/puppy-mill-pipeline\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569544411,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/puppy-mill-pipeline",
+	"url": "https://www.nysenate.gov/issues/puppy-mill-pipeline"
+}

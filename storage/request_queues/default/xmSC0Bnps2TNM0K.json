@@ -1,0 +1,9 @@
+{
+	"id": "xmSC0Bnps2TNM0K",
+	"json": "{\"id\":\"xmSC0Bnps2TNM0K\",\"url\":\"https://www.nysenate.gov/issues/nonfiscal-policy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nonfiscal-policy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770670,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nonfiscal-policy",
+	"url": "https://www.nysenate.gov/issues/nonfiscal-policy"
+}

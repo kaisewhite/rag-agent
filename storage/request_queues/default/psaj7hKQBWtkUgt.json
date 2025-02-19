@@ -1,0 +1,9 @@
+{
+	"id": "psaj7hKQBWtkUgt",
+	"json": "{\"id\":\"psaj7hKQBWtkUgt\",\"url\":\"https://www.nysenate.gov/senators/ruth-hassell-thompson/landing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/ruth-hassell-thompson/landing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571198721,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/ruth-hassell-thompson/landing",
+	"url": "https://www.nysenate.gov/senators/ruth-hassell-thompson/landing"
+}

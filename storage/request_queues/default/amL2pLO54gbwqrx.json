@@ -1,0 +1,9 @@
+{
+	"id": "amL2pLO54gbwqrx",
+	"json": "{\"id\":\"amL2pLO54gbwqrx\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/disaster-assistance-guide-available\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/disaster-assistance-guide-available\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847669,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/disaster-assistance-guide-available",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/disaster-assistance-guide-available"
+}

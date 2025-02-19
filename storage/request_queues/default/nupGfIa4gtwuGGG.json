@@ -1,0 +1,9 @@
+{
+	"id": "nupGfIa4gtwuGGG",
+	"json": "{\"id\":\"nupGfIa4gtwuGGG\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2018/susan-serino/serino-intoduces-baileys-law-deter-crimes-against\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2018/susan-serino/serino-intoduces-baileys-law-deter-crimes-against\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698358,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2018/susan-serino/serino-intoduces-baileys-law-deter-crimes-against",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2018/susan-serino/serino-intoduces-baileys-law-deter-crimes-against"
+}

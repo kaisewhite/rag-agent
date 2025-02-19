@@ -1,0 +1,9 @@
+{
+	"id": "vgploTwmu6xLAGL",
+	"json": "{\"id\":\"vgploTwmu6xLAGL\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-joins-governor-announcing-long-island\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-joins-governor-announcing-long-island\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848849,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-joins-governor-announcing-long-island",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senator-martins-joins-governor-announcing-long-island"
+}

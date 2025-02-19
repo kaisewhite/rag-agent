@@ -1,0 +1,9 @@
+{
+	"id": "Pi2dDN30Ds9qsxG",
+	"json": "{\"id\":\"Pi2dDN30Ds9qsxG\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-08-2017/community-board-16-cabinet-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-08-2017/community-board-16-cabinet-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246379,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-08-2017/community-board-16-cabinet-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-08-2017/community-board-16-cabinet-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ucvrJHioG659efj",
+	"json": "{\"id\":\"ucvrJHioG659efj\",\"url\":\"https://www.nysenate.gov/issues/water-infrastructure\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/water-infrastructure\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569551653,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/water-infrastructure",
+	"url": "https://www.nysenate.gov/issues/water-infrastructure"
+}

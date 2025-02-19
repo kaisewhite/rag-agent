@@ -1,0 +1,9 @@
+{
+	"id": "R4zfcaMmf1Wfan8",
+	"json": "{\"id\":\"R4zfcaMmf1Wfan8\",\"url\":\"https://www.nysenate.gov/questionnaires/andrew-gounardes/dont-miss-update-sign-our-community-newsletter\",\"loadedUrl\":\"https://www.nysenate.gov/questionnaires/andrew-gounardes/dont-miss-update-sign-our-community-newsletter\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/andrew-gounardes/dont-miss-update-sign-our-community-newsletter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:55:37.103Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/andrew-gounardes/dont-miss-update-sign-our-community-newsletter",
+	"url": "https://www.nysenate.gov/questionnaires/andrew-gounardes/dont-miss-update-sign-our-community-newsletter"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Dpn7SHMqJHldDlh",
+	"json": "{\"id\":\"Dpn7SHMqJHldDlh\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/sen-kruegers-older-adult-guide-2023-2024\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/sen-kruegers-older-adult-guide-2023-2024\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569648069,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/sen-kruegers-older-adult-guide-2023-2024",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/liz-krueger/sen-kruegers-older-adult-guide-2023-2024"
+}

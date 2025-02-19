@@ -1,0 +1,9 @@
+{
+	"id": "TFTg0vAtD7uDg6J",
+	"json": "{\"id\":\"TFTg0vAtD7uDg6J\",\"url\":\"https://www.nysenate.gov/newsroom/video/liz-krueger/virtual-housing-lunch-hour-series-session-1-how-get-my-landlord-make\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/liz-krueger/virtual-housing-lunch-hour-series-session-1-how-get-my-landlord-make\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570902150,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/liz-krueger/virtual-housing-lunch-hour-series-session-1-how-get-my-landlord-make",
+	"url": "https://www.nysenate.gov/newsroom/video/liz-krueger/virtual-housing-lunch-hour-series-session-1-how-get-my-landlord-make"
+}

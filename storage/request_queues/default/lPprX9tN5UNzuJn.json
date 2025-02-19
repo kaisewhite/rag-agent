@@ -1,0 +1,9 @@
+{
+	"id": "lPprX9tN5UNzuJn",
+	"json": "{\"id\":\"lPprX9tN5UNzuJn\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senate-approves-consumer-credit-fairness-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senate-approves-consumer-credit-fairness-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740954,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senate-approves-consumer-credit-fairness-act",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/senate-approves-consumer-credit-fairness-act"
+}

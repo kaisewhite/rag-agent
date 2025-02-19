@@ -1,0 +1,9 @@
+{
+	"id": "KDuh1PWO4JWCriL",
+	"json": "{\"id\":\"KDuh1PWO4JWCriL\",\"url\":\"https://www.nysenate.gov/issues/clean-drinking-water-environmental-protection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/clean-drinking-water-environmental-protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770687,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/clean-drinking-water-environmental-protection",
+	"url": "https://www.nysenate.gov/issues/clean-drinking-water-environmental-protection"
+}

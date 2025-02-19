@@ -1,0 +1,9 @@
+{
+	"id": "LOpMx3nMVV1C7O6",
+	"json": "{\"id\":\"LOpMx3nMVV1C7O6\",\"url\":\"https://www.nysenate.gov/sites/default/files/NYSenate.gov%20waiver_3lang.pdf\",\"loadedUrl\":\"https://www.nysenate.gov/sites/default/files/NYSenate.gov%20waiver_3lang.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/NYSenate.gov%20waiver_3lang.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:05:14.429Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/NYSenate.gov%20waiver_3lang.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/NYSenate.gov%20waiver_3lang.pdf"
+}

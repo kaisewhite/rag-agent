@@ -1,0 +1,9 @@
+{
+	"id": "GwzRra3cyR8ATLJ",
+	"json": "{\"id\":\"GwzRra3cyR8ATLJ\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/column-afterlife-car-payments\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/column-afterlife-car-payments\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740973,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/column-afterlife-car-payments",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/column-afterlife-car-payments"
+}

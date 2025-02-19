@@ -1,0 +1,9 @@
+{
+	"id": "qDolUhxAga3eWqx",
+	"json": "{\"id\":\"qDolUhxAga3eWqx\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2021/roxanne-j-persaud/nys-senate-awards?page=7\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2021/roxanne-j-persaud/nys-senate-awards?page=7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570278405,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2021/roxanne-j-persaud/nys-senate-awards?page=7",
+	"url": "https://www.nysenate.gov/newsroom/articles/2021/roxanne-j-persaud/nys-senate-awards?page=7"
+}

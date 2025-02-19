@@ -1,0 +1,9 @@
+{
+	"id": "xVZaZSkFhWP2ABM",
+	"json": "{\"id\":\"xVZaZSkFhWP2ABM\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/december-02-2019/postponed-public-hearing-opwdd-transition-managed-care\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/december-02-2019/postponed-public-hearing-opwdd-transition-managed-care\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569819297,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/december-02-2019/postponed-public-hearing-opwdd-transition-managed-care",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/december-02-2019/postponed-public-hearing-opwdd-transition-managed-care"
+}

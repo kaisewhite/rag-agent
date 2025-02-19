@@ -1,0 +1,9 @@
+{
+	"id": "m0GN5B3OkyLNbqi",
+	"json": "{\"id\":\"m0GN5B3OkyLNbqi\",\"url\":\"https://www.nysenate.gov/issues/new-york-state-senate-veterans-hall-fame\",\"loadedUrl\":\"https://www.nysenate.gov/issues/new-york-state-senate-veterans-hall-fame\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-york-state-senate-veterans-hall-fame\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:55:03.151Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-york-state-senate-veterans-hall-fame",
+	"url": "https://www.nysenate.gov/issues/new-york-state-senate-veterans-hall-fame"
+}

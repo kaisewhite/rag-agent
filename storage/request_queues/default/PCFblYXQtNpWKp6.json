@@ -1,0 +1,9 @@
+{
+	"id": "PCFblYXQtNpWKp6",
+	"json": "{\"id\":\"PCFblYXQtNpWKp6\",\"url\":\"https://www.nysenate.gov/profiles/2023/leroy-comrie/cheryl-caddle\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2023/leroy-comrie/cheryl-caddle\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570083057,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2023/leroy-comrie/cheryl-caddle",
+	"url": "https://www.nysenate.gov/profiles/2023/leroy-comrie/cheryl-caddle"
+}

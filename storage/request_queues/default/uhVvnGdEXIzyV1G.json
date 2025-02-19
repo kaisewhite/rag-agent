@@ -1,0 +1,9 @@
+{
+	"id": "uhVvnGdEXIzyV1G",
+	"json": "{\"id\":\"uhVvnGdEXIzyV1G\",\"url\":\"https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/june-01-2010/housing-construction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/june-01-2010/housing-construction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798859,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/june-01-2010/housing-construction",
+	"url": "https://www.nysenate.gov/calendar/meetings/housing-construction-and-community-development/june-01-2010/housing-construction"
+}

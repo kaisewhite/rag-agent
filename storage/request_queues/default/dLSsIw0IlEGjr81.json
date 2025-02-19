@@ -1,0 +1,9 @@
+{
+	"id": "dLSsIw0IlEGjr81",
+	"json": "{\"id\":\"dLSsIw0IlEGjr81\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Racial%20and%20Religious%20Bias\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Racial+and+Religious+Bias\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571290244,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Racial+and+Religious+Bias",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Racial%20and%20Religious%20Bias"
+}

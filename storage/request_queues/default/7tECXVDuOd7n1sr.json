@@ -1,0 +1,9 @@
+{
+	"id": "7tECXVDuOd7n1sr",
+	"json": "{\"id\":\"7tECXVDuOd7n1sr\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/public-authorities-and-idas-urgently-need-reform-skoufis\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/public-authorities-and-idas-urgently-need-reform-skoufis\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/public-authorities-and-idas-urgently-need-reform-skoufis\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:20:50.445Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/public-authorities-and-idas-urgently-need-reform-skoufis",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/james-skoufis/public-authorities-and-idas-urgently-need-reform-skoufis"
+}

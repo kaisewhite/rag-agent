@@ -1,0 +1,9 @@
+{
+	"id": "4mb9AvXJrK3RKm7",
+	"json": "{\"id\":\"4mb9AvXJrK3RKm7\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2023/jamaal-t-bailey/new-law-requires-all-cosmetology-students-new-york-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2023/jamaal-t-bailey/new-law-requires-all-cosmetology-students-new-york-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569615879,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2023/jamaal-t-bailey/new-law-requires-all-cosmetology-students-new-york-state",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2023/jamaal-t-bailey/new-law-requires-all-cosmetology-students-new-york-state"
+}

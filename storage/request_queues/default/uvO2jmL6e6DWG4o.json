@@ -1,0 +1,9 @@
+{
+	"id": "uvO2jmL6e6DWG4o",
+	"json": "{\"id\":\"uvO2jmL6e6DWG4o\",\"url\":\"https://www.nysenate.gov/issues/food-desert\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/food-desert\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571642495,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/food-desert",
+	"url": "https://www.nysenate.gov/issues/food-desert"
+}

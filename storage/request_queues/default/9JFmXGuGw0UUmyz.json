@@ -1,0 +1,9 @@
+{
+	"id": "9JFmXGuGw0UUmyz",
+	"json": "{\"id\":\"9JFmXGuGw0UUmyz\",\"url\":\"https://www.nysenate.gov/sites/default/files/10-1-18-senate_public_hearing_on_states_parole_policies_governors_executive_order_giving_parolees_the_right_to_vote.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/10-1-18-senate_public_hearing_on_states_parole_policies_governors_executive_order_giving_parolees_the_right_to_vote.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571727285,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/10-1-18-senate_public_hearing_on_states_parole_policies_governors_executive_order_giving_parolees_the_right_to_vote.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/10-1-18-senate_public_hearing_on_states_parole_policies_governors_executive_order_giving_parolees_the_right_to_vote.pdf"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "6RbVFtcBdTo2eXs",
+	"json": "{\"id\":\"6RbVFtcBdTo2eXs\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVR/A5\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVR/A5\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569898462,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVR/A5",
+	"url": "https://www.nysenate.gov/legislation/laws/CVR/A5"
+}

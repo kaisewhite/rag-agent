@@ -1,0 +1,9 @@
+{
+	"id": "5bWq3ckCWyUuRZg",
+	"json": "{\"id\":\"5bWq3ckCWyUuRZg\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/senator-gounardes-impacted-families-and-advocates\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/senator-gounardes-impacted-families-and-advocates\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570136218,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/senator-gounardes-impacted-families-and-advocates",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/senator-gounardes-impacted-families-and-advocates"
+}

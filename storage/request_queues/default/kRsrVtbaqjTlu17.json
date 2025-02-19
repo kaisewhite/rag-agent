@@ -1,0 +1,9 @@
+{
+	"id": "kRsrVtbaqjTlu17",
+	"json": "{\"id\":\"kRsrVtbaqjTlu17\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/new-transparent-process-examine-budget-ny-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/new-transparent-process-examine-budget-ny-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788187,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/new-transparent-process-examine-budget-ny-state",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/kenneth-p-lavalle/new-transparent-process-examine-budget-ny-state"
+}

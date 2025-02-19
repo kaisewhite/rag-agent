@@ -1,0 +1,9 @@
+{
+	"id": "98PY5X1SZztRUUU",
+	"json": "{\"id\":\"98PY5X1SZztRUUU\",\"url\":\"https://www.nysenate.gov/calendar/meetings/elections/january-09-2020/elections-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/elections/january-09-2020/elections-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756050,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/elections/january-09-2020/elections-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/elections/january-09-2020/elections-meeting"
+}

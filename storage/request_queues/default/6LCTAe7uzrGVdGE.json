@@ -1,0 +1,9 @@
+{
+	"id": "6LCTAe7uzrGVdGE",
+	"json": "{\"id\":\"6LCTAe7uzrGVdGE\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/new-york-state-lawmakers-hold-public-hearing-vaping\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/new-york-state-lawmakers-hold-public-hearing-vaping\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740972,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/new-york-state-lawmakers-hold-public-hearing-vaping",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/new-york-state-lawmakers-hold-public-hearing-vaping"
+}

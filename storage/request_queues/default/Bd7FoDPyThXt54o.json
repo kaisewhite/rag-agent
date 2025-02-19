@@ -1,0 +1,9 @@
+{
+	"id": "Bd7FoDPyThXt54o",
+	"json": "{\"id\":\"Bd7FoDPyThXt54o\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/sean-m-ryan/state-sen-sean-ryan-talks-affordable-housing-capitol\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/sean-m-ryan/state-sen-sean-ryan-talks-affordable-housing-capitol\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570054550,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/sean-m-ryan/state-sen-sean-ryan-talks-affordable-housing-capitol",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/sean-m-ryan/state-sen-sean-ryan-talks-affordable-housing-capitol"
+}

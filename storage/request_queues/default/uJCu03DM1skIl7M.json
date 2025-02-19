@@ -1,0 +1,9 @@
+{
+	"id": "uJCu03DM1skIl7M",
+	"json": "{\"id\":\"uJCu03DM1skIl7M\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/daniel-l-squadron/retail-diversity-and-neighborhood-health-public-hearing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/daniel-l-squadron/retail-diversity-and-neighborhood-health-public-hearing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569714898,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/daniel-l-squadron/retail-diversity-and-neighborhood-health-public-hearing",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/daniel-l-squadron/retail-diversity-and-neighborhood-health-public-hearing"
+}

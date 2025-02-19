@@ -1,0 +1,9 @@
+{
+	"id": "ygNJrKkWxg0yxHF",
+	"json": "{\"id\":\"ygNJrKkWxg0yxHF\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/new-york-state-senate-minority-leader-rob-ortt\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/new-york-state-senate-minority-leader-rob-ortt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570257765,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/new-york-state-senate-minority-leader-rob-ortt",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/robert-g-ortt/new-york-state-senate-minority-leader-rob-ortt"
+}

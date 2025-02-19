@@ -1,0 +1,9 @@
+{
+	"id": "eBg2QpgA6sHn2ue",
+	"json": "{\"id\":\"eBg2QpgA6sHn2ue\",\"url\":\"https://www.nysenate.gov/dashboard/senators/jen-metzger\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/jen-metzger\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571460678,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/jen-metzger",
+	"url": "https://www.nysenate.gov/dashboard/senators/jen-metzger"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "lmvy5Vt0OxLvWQE",
+	"json": "{\"id\":\"lmvy5Vt0OxLvWQE\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/undergraduate-program#main-content\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/undergraduate-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569868751,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/undergraduate-program",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/undergraduate-program#main-content"
+}

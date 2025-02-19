@@ -1,0 +1,9 @@
+{
+	"id": "asts0huhOwbxZVa",
+	"json": "{\"id\":\"asts0huhOwbxZVa\",\"url\":\"https://www.nysenate.gov/issues/committee-energy-and-telecommunications\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/committee-energy-and-telecommunications\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765691,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/committee-energy-and-telecommunications",
+	"url": "https://www.nysenate.gov/issues/committee-energy-and-telecommunications"
+}

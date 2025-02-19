@@ -1,0 +1,9 @@
+{
+	"id": "KXTtENJZeVEjQom",
+	"json": "{\"id\":\"KXTtENJZeVEjQom\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jeffrey-d-klein/senate-passes-kleins-legislation-ban-caffeinated\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jeffrey-d-klein/senate-passes-kleins-legislation-ban-caffeinated\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569702211,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jeffrey-d-klein/senate-passes-kleins-legislation-ban-caffeinated",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jeffrey-d-klein/senate-passes-kleins-legislation-ban-caffeinated"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "6sVrMxXCMm3jbJo",
+	"json": "{\"id\":\"6sVrMxXCMm3jbJo\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-and-assemblywoman-schimel-participate-league\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-and-assemblywoman-schimel-participate-league\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847712,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-and-assemblywoman-schimel-participate-league",
+	"url": "https://www.nysenate.gov/newsroom/articles/2012/jack-m-martins/senator-martins-and-assemblywoman-schimel-participate-league"
+}

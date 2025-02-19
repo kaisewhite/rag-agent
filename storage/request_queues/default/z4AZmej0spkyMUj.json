@@ -1,0 +1,9 @@
+{
+	"id": "z4AZmej0spkyMUj",
+	"json": "{\"id\":\"z4AZmej0spkyMUj\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2014/catharine-young/senate-passes-legislation-supporting-soil-and-water\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2014/catharine-young/senate-passes-legislation-supporting-soil-and-water\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695517,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2014/catharine-young/senate-passes-legislation-supporting-soil-and-water",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2014/catharine-young/senate-passes-legislation-supporting-soil-and-water"
+}

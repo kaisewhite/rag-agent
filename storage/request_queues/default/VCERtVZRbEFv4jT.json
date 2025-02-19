@@ -1,0 +1,9 @@
+{
+	"id": "VCERtVZRbEFv4jT",
+	"json": "{\"id\":\"VCERtVZRbEFv4jT\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/A3001\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/A3001\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570586594,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/A3001",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/A3001"
+}

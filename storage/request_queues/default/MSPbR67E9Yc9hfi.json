@@ -1,0 +1,9 @@
+{
+	"id": "MSPbR67E9Yc9hfi",
+	"json": "{\"id\":\"MSPbR67E9Yc9hfi\",\"url\":\"https://www.nysenate.gov/issues/literacy-reading\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/literacy-reading\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570176348,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/literacy-reading",
+	"url": "https://www.nysenate.gov/issues/literacy-reading"
+}

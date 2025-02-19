@@ -1,0 +1,9 @@
+{
+	"id": "Y3lAdsjyAeH8T5o",
+	"json": "{\"id\":\"Y3lAdsjyAeH8T5o\",\"url\":\"https://www.nysenate.gov/senators/nathalia-fernandez/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/nathalia-fernandez/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569636115,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/nathalia-fernandez/district",
+	"url": "https://www.nysenate.gov/senators/nathalia-fernandez/district"
+}

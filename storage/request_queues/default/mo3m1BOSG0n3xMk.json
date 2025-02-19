@@ -1,0 +1,9 @@
+{
+	"id": "mo3m1BOSG0n3xMk",
+	"json": "{\"id\":\"mo3m1BOSG0n3xMk\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S8308/amendment/C\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S8308/amendment/C\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739572375474,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S8308/amendment/C",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S8308/amendment/C"
+}

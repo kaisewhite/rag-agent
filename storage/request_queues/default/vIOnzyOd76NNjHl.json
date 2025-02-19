@@ -1,0 +1,9 @@
+{
+	"id": "vIOnzyOd76NNjHl",
+	"json": "{\"id\":\"vIOnzyOd76NNjHl\",\"url\":\"https://www.nysenate.gov/issues/roundtable\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/roundtable\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707164,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/roundtable",
+	"url": "https://www.nysenate.gov/issues/roundtable"
+}

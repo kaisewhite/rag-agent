@@ -1,0 +1,9 @@
+{
+	"id": "302XyOnedsMOQWF",
+	"json": "{\"id\":\"302XyOnedsMOQWF\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/april-19-2018/second-series-classes-madam-cj-walker-institute\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/april-19-2018/second-series-classes-madam-cj-walker-institute\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019395,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/april-19-2018/second-series-classes-madam-cj-walker-institute",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/april-19-2018/second-series-classes-madam-cj-walker-institute"
+}

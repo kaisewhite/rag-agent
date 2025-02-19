@@ -1,0 +1,9 @@
+{
+	"id": "2ak1obHOh5lwwex",
+	"json": "{\"id\":\"2ak1obHOh5lwwex\",\"url\":\"https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-30-2018/energy-and-telecommunications\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-30-2018/energy-and-telecommunications\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765692,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-30-2018/energy-and-telecommunications",
+	"url": "https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/january-30-2018/energy-and-telecommunications"
+}

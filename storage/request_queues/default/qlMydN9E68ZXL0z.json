@@ -1,0 +1,9 @@
+{
+	"id": "qlMydN9E68ZXL0z",
+	"json": "{\"id\":\"qlMydN9E68ZXL0z\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/patty-ritchie/state-budget-includes-record-funding-agriculture\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/patty-ritchie/state-budget-includes-record-funding-agriculture\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707178,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/patty-ritchie/state-budget-includes-record-funding-agriculture",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/patty-ritchie/state-budget-includes-record-funding-agriculture"
+}

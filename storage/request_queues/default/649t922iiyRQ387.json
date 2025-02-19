@@ -1,0 +1,9 @@
+{
+	"id": "649t922iiyRQ387",
+	"json": "{\"id\":\"649t922iiyRQ387\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/state-senator-gustavo-rivera-and-assemblymember-jo-anne\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/state-senator-gustavo-rivera-and-assemblymember-jo-anne\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569666565,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/state-senator-gustavo-rivera-and-assemblymember-jo-anne",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/gustavo-rivera/state-senator-gustavo-rivera-and-assemblymember-jo-anne"
+}

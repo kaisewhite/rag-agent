@@ -1,0 +1,9 @@
+{
+	"id": "KCtViDgrFSWLDlu",
+	"json": "{\"id\":\"KCtViDgrFSWLDlu\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/mark-walczyk/senator-walczyk-reacts-closure-remington-arms-ilion\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/mark-walczyk/senator-walczyk-reacts-closure-remington-arms-ilion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570988168,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/mark-walczyk/senator-walczyk-reacts-closure-remington-arms-ilion",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/mark-walczyk/senator-walczyk-reacts-closure-remington-arms-ilion"
+}

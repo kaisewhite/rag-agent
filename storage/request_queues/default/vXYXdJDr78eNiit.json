@@ -1,0 +1,9 @@
+{
+	"id": "vXYXdJDr78eNiit",
+	"json": "{\"id\":\"vXYXdJDr78eNiit\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-25-2020/nypd-61st-precinct-nco-sector-d-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-25-2020/nypd-61st-precinct-nco-sector-d-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247131,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-25-2020/nypd-61st-precinct-nco-sector-d-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-25-2020/nypd-61st-precinct-nco-sector-d-meeting"
+}

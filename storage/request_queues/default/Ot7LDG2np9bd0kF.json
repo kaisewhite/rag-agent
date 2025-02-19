@@ -1,0 +1,9 @@
+{
+	"id": "Ot7LDG2np9bd0kF",
+	"json": "{\"id\":\"Ot7LDG2np9bd0kF\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/january-07-2022/joint-public-hearing-discuss-good-cause-eviction-proposal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/january-07-2022/joint-public-hearing-discuss-good-cause-eviction-proposal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804264,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/january-07-2022/joint-public-hearing-discuss-good-cause-eviction-proposal",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/january-07-2022/joint-public-hearing-discuss-good-cause-eviction-proposal"
+}

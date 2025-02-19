@@ -1,0 +1,9 @@
+{
+	"id": "70wJaOyj5AJew1D",
+	"json": "{\"id\":\"70wJaOyj5AJew1D\",\"url\":\"https://www.nysenate.gov/calendar/events/education/shelley-mayer/november-13-2019/public-meeting-hear-stakeholder-input\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/education/shelley-mayer/november-13-2019/public-meeting-hear-stakeholder-input\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755152,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/education/shelley-mayer/november-13-2019/public-meeting-hear-stakeholder-input",
+	"url": "https://www.nysenate.gov/calendar/events/education/shelley-mayer/november-13-2019/public-meeting-hear-stakeholder-input"
+}

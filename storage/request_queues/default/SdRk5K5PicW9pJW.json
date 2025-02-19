@@ -1,0 +1,9 @@
+{
+	"id": "SdRk5K5PicW9pJW",
+	"json": "{\"id\":\"SdRk5K5PicW9pJW\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/timothy-m-kennedy/senator-tim-kennedy-and-mayor-byron-brown-announce\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/timothy-m-kennedy/senator-tim-kennedy-and-mayor-byron-brown-announce\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571144544,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/timothy-m-kennedy/senator-tim-kennedy-and-mayor-byron-brown-announce",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/timothy-m-kennedy/senator-tim-kennedy-and-mayor-byron-brown-announce"
+}

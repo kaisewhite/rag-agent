@@ -1,0 +1,9 @@
+{
+	"id": "uxD0rPQdmxe0Ix8",
+	"json": "{\"id\":\"uxD0rPQdmxe0Ix8\",\"url\":\"https://www.nysenate.gov/issues/cost-living\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/cost-living\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570136215,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/cost-living",
+	"url": "https://www.nysenate.gov/issues/cost-living"
+}

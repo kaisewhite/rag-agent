@@ -1,0 +1,9 @@
+{
+	"id": "OBExTq3M8Escag9",
+	"json": "{\"id\":\"OBExTq3M8Escag9\",\"url\":\"https://www.nysenate.gov/profiles/2024/mario-r-mattera/edmund-j-smyth\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/mario-r-mattera/edmund-j-smyth\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/mario-r-mattera/edmund-j-smyth\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:00:13.731Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/mario-r-mattera/edmund-j-smyth",
+	"url": "https://www.nysenate.gov/profiles/2024/mario-r-mattera/edmund-j-smyth"
+}

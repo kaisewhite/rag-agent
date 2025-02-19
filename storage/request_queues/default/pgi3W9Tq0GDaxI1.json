@@ -1,0 +1,9 @@
+{
+	"id": "pgi3W9Tq0GDaxI1",
+	"json": "{\"id\":\"pgi3W9Tq0GDaxI1\",\"url\":\"https://www.nysenate.gov/legislation/laws/ISC/A66\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ISC/A66\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569932500,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ISC/A66",
+	"url": "https://www.nysenate.gov/legislation/laws/ISC/A66"
+}

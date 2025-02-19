@@ -1,0 +1,9 @@
+{
+	"id": "I3fuL3KecI2DdQq",
+	"json": "{\"id\":\"I3fuL3KecI2DdQq\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Code%20Enforcement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Code+Enforcement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571367416,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Code+Enforcement",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Code%20Enforcement"
+}

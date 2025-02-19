@@ -1,0 +1,9 @@
+{
+	"id": "FxPEZv7rZBrxB64",
+	"json": "{\"id\":\"FxPEZv7rZBrxB64\",\"url\":\"https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/april-27-2023/nycha-know-your-rights-training\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/april-27-2023/nycha-know-your-rights-training\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570179049,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/april-27-2023/nycha-know-your-rights-training",
+	"url": "https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/april-27-2023/nycha-know-your-rights-training"
+}

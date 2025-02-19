@@ -1,0 +1,9 @@
+{
+	"id": "V8fwYpqsdsbMvs4",
+	"json": "{\"id\":\"V8fwYpqsdsbMvs4\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-16-2019/community-education-council-19-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-16-2019/community-education-council-19-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246714,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-16-2019/community-education-council-19-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-16-2019/community-education-council-19-monthly-meeting"
+}

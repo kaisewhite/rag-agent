@@ -1,0 +1,9 @@
+{
+	"id": "fm18KGToxlUOaHs",
+	"json": "{\"id\":\"fm18KGToxlUOaHs\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2017/susan-serino/serino-expresses-extreme-disappointment-30-day-amendments\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2017/susan-serino/serino-expresses-extreme-disappointment-30-day-amendments\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698365,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2017/susan-serino/serino-expresses-extreme-disappointment-30-day-amendments",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2017/susan-serino/serino-expresses-extreme-disappointment-30-day-amendments"
+}

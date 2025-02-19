@@ -1,0 +1,9 @@
+{
+	"id": "2yKxj791fH7y0iV",
+	"json": "{\"id\":\"2yKxj791fH7y0iV\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/suzi-oppenheimer/senator-oppenheimer-speaking-libraries-press-conference\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/suzi-oppenheimer/senator-oppenheimer-speaking-libraries-press-conference\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755188,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/suzi-oppenheimer/senator-oppenheimer-speaking-libraries-press-conference",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/suzi-oppenheimer/senator-oppenheimer-speaking-libraries-press-conference"
+}

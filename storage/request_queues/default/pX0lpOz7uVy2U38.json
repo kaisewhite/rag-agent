@@ -1,0 +1,9 @@
+{
+	"id": "pX0lpOz7uVy2U38",
+	"json": "{\"id\":\"pX0lpOz7uVy2U38\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2011/thomas-f-omara/omara-sponsored-legislation-strengthen-military-voting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2011/thomas-f-omara/omara-sponsored-legislation-strengthen-military-voting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756065,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2011/thomas-f-omara/omara-sponsored-legislation-strengthen-military-voting",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2011/thomas-f-omara/omara-sponsored-legislation-strengthen-military-voting"
+}

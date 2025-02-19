@@ -1,0 +1,9 @@
+{
+	"id": "RcV6sczBMA04SKj",
+	"json": "{\"id\":\"RcV6sczBMA04SKj\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2020/mask-distribution\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2020/mask-distribution\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247103,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2020/mask-distribution",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-20-2020/mask-distribution"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "EFuDUWfcVBf7OeM",
+	"json": "{\"id\":\"EFuDUWfcVBf7OeM\",\"url\":\"https://www.nysenate.gov/student-programs/former-session-assistants-and-fellows-named-city-and-states-2018-albany-40-under\",\"uniqueKey\":\"GET():https://www.nysenate.gov/student-programs/former-session-assistants-and-fellows-named-city-and-states-2018-albany-40-under\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569869713,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/student-programs/former-session-assistants-and-fellows-named-city-and-states-2018-albany-40-under",
+	"url": "https://www.nysenate.gov/student-programs/former-session-assistants-and-fellows-named-city-and-states-2018-albany-40-under"
+}

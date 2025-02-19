@@ -1,0 +1,9 @@
+{
+	"id": "fTacezQxlFBO7a5",
+	"json": "{\"id\":\"fTacezQxlFBO7a5\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/struggling-homeowners-need-relief\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/struggling-homeowners-need-relief\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571109056,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/struggling-homeowners-need-relief",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/struggling-homeowners-need-relief"
+}

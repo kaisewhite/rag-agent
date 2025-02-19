@@ -1,0 +1,9 @@
+{
+	"id": "RAoTB95hbh7qPqu",
+	"json": "{\"id\":\"RAoTB95hbh7qPqu\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/senate-host-hearing-ethics-oversight-and-enforcement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/senate-host-hearing-ethics-oversight-and-enforcement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571636237,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/senate-host-hearing-ethics-oversight-and-enforcement",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/senate-host-hearing-ethics-oversight-and-enforcement"
+}

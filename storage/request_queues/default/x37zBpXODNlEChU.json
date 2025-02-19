@@ -1,0 +1,9 @@
+{
+	"id": "x37zBpXODNlEChU",
+	"json": "{\"id\":\"x37zBpXODNlEChU\",\"url\":\"https://www.nysenate.gov/issues/new-laws\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-laws\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571164239,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-laws",
+	"url": "https://www.nysenate.gov/issues/new-laws"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "sHZ9Z1jdvNtVII4",
+	"json": "{\"id\":\"sHZ9Z1jdvNtVII4\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S5239/amendment/original\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S5239/amendment/original\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571686365,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S5239/amendment/original",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S5239/amendment/original"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "xCHbI7Ws5bmQQ9I",
+	"json": "{\"id\":\"xCHbI7Ws5bmQQ9I\",\"url\":\"https://www.nysenate.gov/senators/todd-kaminsky/landing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/todd-kaminsky/landing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570967783,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/todd-kaminsky/landing",
+	"url": "https://www.nysenate.gov/senators/todd-kaminsky/landing"
+}

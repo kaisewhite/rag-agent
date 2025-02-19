@@ -1,0 +1,9 @@
+{
+	"id": "SydDsBWok9d9uIK",
+	"json": "{\"id\":\"SydDsBWok9d9uIK\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-09-2018/sd-19-fun-day\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-09-2018/sd-19-fun-day\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246558,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-09-2018/sd-19-fun-day",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/august-09-2018/sd-19-fun-day"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "mZgihEkQQ8PAHnZ",
+	"json": "{\"id\":\"mZgihEkQQ8PAHnZ\",\"url\":\"https://www.nysenate.gov/issues/fire-departments\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/fire-departments\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570301684,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/fire-departments",
+	"url": "https://www.nysenate.gov/issues/fire-departments"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "QsrOxgmxti8xhrn",
+	"json": "{\"id\":\"QsrOxgmxti8xhrn\",\"url\":\"https://www.nysenate.gov/issues/disabled\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/disabled\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571287923,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/disabled",
+	"url": "https://www.nysenate.gov/issues/disabled"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "MFkSNkSB9y5FCnB",
+	"json": "{\"id\":\"MFkSNkSB9y5FCnB\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/november-20-2014/senior-roundtable-breakfast-caregiving-conversation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/november-20-2014/senior-roundtable-breakfast-caregiving-conversation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752631,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/november-20-2014/senior-roundtable-breakfast-caregiving-conversation",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/november-20-2014/senior-roundtable-breakfast-caregiving-conversation"
+}

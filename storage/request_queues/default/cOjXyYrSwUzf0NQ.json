@@ -1,0 +1,9 @@
+{
+	"id": "cOjXyYrSwUzf0NQ",
+	"json": "{\"id\":\"cOjXyYrSwUzf0NQ\",\"url\":\"https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/cnyshh_nys-cm-coalition-written-testimony-2.11.25-joint-health-committee.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/cnyshh_nys-cm-coalition-written-testimony-2.11.25-joint-health-committee.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570534150,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/cnyshh_nys-cm-coalition-written-testimony-2.11.25-joint-health-committee.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/admin/structure/media/manage/filefile/a/2025-02/cnyshh_nys-cm-coalition-written-testimony-2.11.25-joint-health-committee.pdf"
+}

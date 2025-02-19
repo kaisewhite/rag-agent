@@ -1,0 +1,9 @@
+{
+	"id": "AFtyg64ZNFBikXW",
+	"json": "{\"id\":\"AFtyg64ZNFBikXW\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/kevin-s-parker/senator-parker-presents-1mm-brooklyn-museum\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/kevin-s-parker/senator-parker-presents-1mm-brooklyn-museum\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765713,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/kevin-s-parker/senator-parker-presents-1mm-brooklyn-museum",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/kevin-s-parker/senator-parker-presents-1mm-brooklyn-museum"
+}

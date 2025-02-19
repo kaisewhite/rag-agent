@@ -1,0 +1,9 @@
+{
+	"id": "FxpotkGoS5uAB2F",
+	"json": "{\"id\":\"FxpotkGoS5uAB2F\",\"url\":\"https://www.nysenate.gov/issues/shelters\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/shelters\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570301691,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/shelters",
+	"url": "https://www.nysenate.gov/issues/shelters"
+}

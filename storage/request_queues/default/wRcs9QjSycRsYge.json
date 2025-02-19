@@ -1,0 +1,9 @@
+{
+	"id": "wRcs9QjSycRsYge",
+	"json": "{\"id\":\"wRcs9QjSycRsYge\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Higher%20Education\",\"loadedUrl\":\"https://www.nysenate.gov/search/global/result?full_text=Higher%20Education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Higher+Education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:09:09.789Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Higher+Education",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Higher%20Education"
+}

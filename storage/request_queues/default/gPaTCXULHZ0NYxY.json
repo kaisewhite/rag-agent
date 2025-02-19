@@ -1,0 +1,9 @@
+{
+	"id": "gPaTCXULHZ0NYxY",
+	"json": "{\"id\":\"gPaTCXULHZ0NYxY\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-20-2018/police-service-area-1psa1-community-affairs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-20-2018/police-service-area-1psa1-community-affairs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246574,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-20-2018/police-service-area-1psa1-community-affairs",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/september-20-2018/police-service-area-1psa1-community-affairs"
+}

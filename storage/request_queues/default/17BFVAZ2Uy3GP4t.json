@@ -1,0 +1,9 @@
+{
+	"id": "17BFVAZ2Uy3GP4t",
+	"json": "{\"id\":\"17BFVAZ2Uy3GP4t\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/april-11-2013/legislation-common-good-where-did-it-go-why-you-should\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/april-11-2013/legislation-common-good-where-did-it-go-why-you-should\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752623,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/april-11-2013/legislation-common-good-where-did-it-go-why-you-should",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/april-11-2013/legislation-common-good-where-did-it-go-why-you-should"
+}

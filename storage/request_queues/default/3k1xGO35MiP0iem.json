@@ -1,0 +1,9 @@
+{
+	"id": "3k1xGO35MiP0iem",
+	"json": "{\"id\":\"3k1xGO35MiP0iem\",\"url\":\"https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/may-19-2015/forumtown-hall-notice-public-forum-new-yorks-efforts\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/may-19-2015/forumtown-hall-notice-public-forum-new-yorks-efforts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570179031,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/may-19-2015/forumtown-hall-notice-public-forum-new-yorks-efforts",
+	"url": "https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/may-19-2015/forumtown-hall-notice-public-forum-new-yorks-efforts"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ETOtdDQWKh58j9r",
+	"json": "{\"id\":\"ETOtdDQWKh58j9r\",\"url\":\"https://www.nysenate.gov/issues/parks-and-recreation-environment\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/parks-and-recreation-environment\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569745981,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/parks-and-recreation-environment",
+	"url": "https://www.nysenate.gov/issues/parks-and-recreation-environment"
+}

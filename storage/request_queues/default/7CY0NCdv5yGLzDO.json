@@ -1,0 +1,9 @@
+{
+	"id": "7CY0NCdv5yGLzDO",
+	"json": "{\"id\":\"7CY0NCdv5yGLzDO\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2011/jack-m-martins/senator-martins-swears-officers-albertson-fire-company\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2011/jack-m-martins/senator-martins-swears-officers-albertson-fire-company\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848868,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2011/jack-m-martins/senator-martins-swears-officers-albertson-fire-company",
+	"url": "https://www.nysenate.gov/newsroom/articles/2011/jack-m-martins/senator-martins-swears-officers-albertson-fire-company"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "tEoo62NY7hK9LSF",
+	"json": "{\"id\":\"tEoo62NY7hK9LSF\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/governor-hochul-signs-consumer-judgement-interest-act-law\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/governor-hochul-signs-consumer-judgement-interest-act-law\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740943,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/governor-hochul-signs-consumer-judgement-interest-act-law",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/kevin-thomas/governor-hochul-signs-consumer-judgement-interest-act-law"
+}

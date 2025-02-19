@@ -1,0 +1,9 @@
+{
+	"id": "8sxA3pETiRrr4yI",
+	"json": "{\"id\":\"8sxA3pETiRrr4yI\",\"url\":\"https://www.nysenate.gov/issues/alienation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/alienation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571669492,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/alienation",
+	"url": "https://www.nysenate.gov/issues/alienation"
+}

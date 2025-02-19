@@ -1,0 +1,9 @@
+{
+	"id": "elTlG9237vkJ1Rc",
+	"json": "{\"id\":\"elTlG9237vkJ1Rc\",\"url\":\"https://www.nysenate.gov/profiles/2024/robert-g-ortt/henry-ross\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/robert-g-ortt/henry-ross\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/robert-g-ortt/henry-ross\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:00:05.033Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/robert-g-ortt/henry-ross",
+	"url": "https://www.nysenate.gov/profiles/2024/robert-g-ortt/henry-ross"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "OjxJYXDsxLPxwnG",
+	"json": "{\"id\":\"OjxJYXDsxLPxwnG\",\"url\":\"https://www.nysenate.gov/issues/criminal-justice-data\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/criminal-justice-data\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725849,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/criminal-justice-data",
+	"url": "https://www.nysenate.gov/issues/criminal-justice-data"
+}

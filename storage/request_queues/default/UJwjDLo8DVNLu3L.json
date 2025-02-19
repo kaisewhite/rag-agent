@@ -1,0 +1,9 @@
+{
+	"id": "UJwjDLo8DVNLu3L",
+	"json": "{\"id\":\"UJwjDLo8DVNLu3L\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/ny-lawmakers-aggressively-fighting-climate-change\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/ny-lawmakers-aggressively-fighting-climate-change\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770710,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/ny-lawmakers-aggressively-fighting-climate-change",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/ny-lawmakers-aggressively-fighting-climate-change"
+}

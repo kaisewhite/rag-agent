@@ -1,0 +1,9 @@
+{
+	"id": "CHdQrS4cyfkf3rO",
+	"json": "{\"id\":\"CHdQrS4cyfkf3rO\",\"url\":\"https://www.nysenate.gov/issues/department-energy\",\"loadedUrl\":\"https://www.nysenate.gov/issues/department-energy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/department-energy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:45:57.090Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/department-energy",
+	"url": "https://www.nysenate.gov/issues/department-energy"
+}

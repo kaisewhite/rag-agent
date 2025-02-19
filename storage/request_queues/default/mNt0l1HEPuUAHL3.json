@@ -1,0 +1,9 @@
+{
+	"id": "mNt0l1HEPuUAHL3",
+	"json": "{\"id\":\"mNt0l1HEPuUAHL3\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/michael-gianaris/senate-deputy-leader-gianaris-riders-alliance-hold\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/michael-gianaris/senate-deputy-leader-gianaris-riders-alliance-hold\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571644994,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/michael-gianaris/senate-deputy-leader-gianaris-riders-alliance-hold",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/michael-gianaris/senate-deputy-leader-gianaris-riders-alliance-hold"
+}

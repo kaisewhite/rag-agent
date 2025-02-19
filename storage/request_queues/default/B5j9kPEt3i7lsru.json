@@ -1,0 +1,9 @@
+{
+	"id": "B5j9kPEt3i7lsru",
+	"json": "{\"id\":\"B5j9kPEt3i7lsru\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/april-25-2023/public-hearing-educate-legislators-and-public-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/april-25-2023/public-hearing-educate-legislators-and-public-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706962,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/april-25-2023/public-hearing-educate-legislators-and-public-0",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/april-25-2023/public-hearing-educate-legislators-and-public-0"
+}

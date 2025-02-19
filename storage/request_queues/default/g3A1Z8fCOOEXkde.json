@@ -1,0 +1,9 @@
+{
+	"id": "g3A1Z8fCOOEXkde",
+	"json": "{\"id\":\"g3A1Z8fCOOEXkde\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/march-15-2019/public-hearing-discuss-school-governance-reform-and-mayoral\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/march-15-2019/public-hearing-discuss-school-governance-reform-and-mayoral\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569823656,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/march-15-2019/public-hearing-discuss-school-governance-reform-and-mayoral",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/march-15-2019/public-hearing-discuss-school-governance-reform-and-mayoral"
+}

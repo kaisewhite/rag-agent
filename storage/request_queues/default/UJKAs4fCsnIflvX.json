@@ -1,0 +1,9 @@
+{
+	"id": "UJKAs4fCsnIflvX",
+	"json": "{\"id\":\"UJKAs4fCsnIflvX\",\"url\":\"https://www.nysenate.gov/calendar/meetings/codes/january-18-2012/codes-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/codes/january-18-2012/codes-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725885,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/codes/january-18-2012/codes-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/codes/january-18-2012/codes-meeting"
+}

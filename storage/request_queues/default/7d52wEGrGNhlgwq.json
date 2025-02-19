@@ -1,0 +1,9 @@
+{
+	"id": "7d52wEGrGNhlgwq",
+	"json": "{\"id\":\"7d52wEGrGNhlgwq\",\"url\":\"https://www.nysenate.gov/calendar/events/monica-r-martinez/october-31-2023/senator-monica-r-martinez-annual-trunk-or-treat\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/monica-r-martinez/october-31-2023/senator-monica-r-martinez-annual-trunk-or-treat\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570291883,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/monica-r-martinez/october-31-2023/senator-monica-r-martinez-annual-trunk-or-treat",
+	"url": "https://www.nysenate.gov/calendar/events/monica-r-martinez/october-31-2023/senator-monica-r-martinez-annual-trunk-or-treat"
+}

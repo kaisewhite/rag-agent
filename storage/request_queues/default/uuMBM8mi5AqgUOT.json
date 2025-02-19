@@ -1,0 +1,9 @@
+{
+	"id": "uuMBM8mi5AqgUOT",
+	"json": "{\"id\":\"uuMBM8mi5AqgUOT\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2023/brian-kavanagh/queens-battleground-state-budget-fight-over-basement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2023/brian-kavanagh/queens-battleground-state-budget-fight-over-basement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798863,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2023/brian-kavanagh/queens-battleground-state-budget-fight-over-basement",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2023/brian-kavanagh/queens-battleground-state-budget-fight-over-basement"
+}

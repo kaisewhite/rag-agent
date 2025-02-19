@@ -1,0 +1,9 @@
+{
+	"id": "bkupzqltklMq7j4",
+	"json": "{\"id\":\"bkupzqltklMq7j4\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/john-j-bonacic/press-release-bonacic-its-people\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/john-j-bonacic/press-release-bonacic-its-people\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833564,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/john-j-bonacic/press-release-bonacic-its-people",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/john-j-bonacic/press-release-bonacic-its-people"
+}

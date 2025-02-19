@@ -1,0 +1,9 @@
+{
+	"id": "fMAJHOqOOjmtLsL",
+	"json": "{\"id\":\"fMAJHOqOOjmtLsL\",\"url\":\"https://www.nysenate.gov/issues/intellectual-disability\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/intellectual-disability\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569751248,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/intellectual-disability",
+	"url": "https://www.nysenate.gov/issues/intellectual-disability"
+}

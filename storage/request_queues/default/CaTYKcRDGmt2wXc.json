@@ -1,0 +1,9 @@
+{
+	"id": "CaTYKcRDGmt2wXc",
+	"json": "{\"id\":\"CaTYKcRDGmt2wXc\",\"url\":\"https://www.nysenate.gov/sites/default/files/new_york_state_assessors_association_.21.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/new_york_state_assessors_association_.21.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571268934,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/new_york_state_assessors_association_.21.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/new_york_state_assessors_association_.21.pdf"
+}

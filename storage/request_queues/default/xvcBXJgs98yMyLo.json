@@ -1,0 +1,9 @@
+{
+	"id": "xvcBXJgs98yMyLo",
+	"json": "{\"id\":\"xvcBXJgs98yMyLo\",\"url\":\"https://www.nysenate.gov/calendar/events/insurance/james-l-seward/may-22-2018/explore-access-and-coverage-opioid-antagonists\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/insurance/james-l-seward/may-22-2018/explore-access-and-coverage-opioid-antagonists\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569793085,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/insurance/james-l-seward/may-22-2018/explore-access-and-coverage-opioid-antagonists",
+	"url": "https://www.nysenate.gov/calendar/events/insurance/james-l-seward/may-22-2018/explore-access-and-coverage-opioid-antagonists"
+}

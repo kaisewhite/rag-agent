@@ -1,0 +1,9 @@
+{
+	"id": "NesI7Wi4c2EORr2",
+	"json": "{\"id\":\"NesI7Wi4c2EORr2\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/long-island-and-state-officials-propose-local-property\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/long-island-and-state-officials-propose-local-property\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855408,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/long-island-and-state-officials-propose-local-property",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/john-e-brooks/long-island-and-state-officials-propose-local-property"
+}

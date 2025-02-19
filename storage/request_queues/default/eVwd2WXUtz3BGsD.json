@@ -1,0 +1,9 @@
+{
+	"id": "eVwd2WXUtz3BGsD",
+	"json": "{\"id\":\"eVwd2WXUtz3BGsD\",\"url\":\"https://www.nysenate.gov/legislation/laws/BVO/A3\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/BVO/A3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569887197,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/BVO/A3",
+	"url": "https://www.nysenate.gov/legislation/laws/BVO/A3"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "2s7IzkDoyKdKnR1",
+	"json": "{\"id\":\"2s7IzkDoyKdKnR1\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/aubertine-named-chair-energy-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/aubertine-named-chair-energy-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765736,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/aubertine-named-chair-energy-committee",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/darrel-aubertine/aubertine-named-chair-energy-committee"
+}

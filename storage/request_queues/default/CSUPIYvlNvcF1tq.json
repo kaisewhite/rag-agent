@@ -1,0 +1,9 @@
+{
+	"id": "CSUPIYvlNvcF1tq",
+	"json": "{\"id\":\"CSUPIYvlNvcF1tq\",\"url\":\"https://www.nysenate.gov/issues/budget-and-revenues\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/budget-and-revenues\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569710574,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/budget-and-revenues",
+	"url": "https://www.nysenate.gov/issues/budget-and-revenues"
+}

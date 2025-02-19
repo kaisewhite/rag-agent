@@ -1,0 +1,9 @@
+{
+	"id": "poLF1N17atAYttm",
+	"json": "{\"id\":\"poLF1N17atAYttm\",\"url\":\"https://www.nysenate.gov/legislation/laws/STF/A5-B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/STF/A5-B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569979800,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/STF/A5-B",
+	"url": "https://www.nysenate.gov/legislation/laws/STF/A5-B"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "6iSsyq7qyXtNfx3",
+	"json": "{\"id\":\"6iSsyq7qyXtNfx3\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/april-12-2011/allow-committee-fully-explore-high-alcohol-flavored-malt\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/april-12-2011/allow-committee-fully-explore-high-alcohol-flavored-malt\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569702209,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/april-12-2011/allow-committee-fully-explore-high-alcohol-flavored-malt",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/april-12-2011/allow-committee-fully-explore-high-alcohol-flavored-malt"
+}

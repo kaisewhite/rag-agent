@@ -1,0 +1,9 @@
+{
+	"id": "T8jSylWKPLFMol2",
+	"json": "{\"id\":\"T8jSylWKPLFMol2\",\"url\":\"https://www.nysenate.gov/issues/home-energy-assistance-program\",\"loadedUrl\":\"https://www.nysenate.gov/issues/home-energy-assistance-program\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/home-energy-assistance-program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:12:32.983Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/home-energy-assistance-program",
+	"url": "https://www.nysenate.gov/issues/home-energy-assistance-program"
+}

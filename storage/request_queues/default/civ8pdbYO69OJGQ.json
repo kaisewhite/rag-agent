@@ -1,0 +1,9 @@
+{
+	"id": "civ8pdbYO69OJGQ",
+	"json": "{\"id\":\"civ8pdbYO69OJGQ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/monica-r-martinez/state-gives-grants-reduce-violent-crime-suffolk\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/monica-r-martinez/state-gives-grants-reduce-violent-crime-suffolk\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571662827,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/monica-r-martinez/state-gives-grants-reduce-violent-crime-suffolk",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/monica-r-martinez/state-gives-grants-reduce-violent-crime-suffolk"
+}

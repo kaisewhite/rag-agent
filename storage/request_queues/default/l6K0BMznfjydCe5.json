@@ -1,0 +1,9 @@
+{
+	"id": "l6K0BMznfjydCe5",
+	"json": "{\"id\":\"l6K0BMznfjydCe5\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2014/testimony-january-27-2014-joint-budget-hearing-local-government\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2014/testimony-january-27-2014-joint-budget-hearing-local-government\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781260,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2014/testimony-january-27-2014-joint-budget-hearing-local-government",
+	"url": "https://www.nysenate.gov/newsroom/articles/2014/testimony-january-27-2014-joint-budget-hearing-local-government"
+}

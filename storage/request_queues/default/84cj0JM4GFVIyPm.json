@@ -1,0 +1,9 @@
+{
+	"id": "84cj0JM4GFVIyPm",
+	"json": "{\"id\":\"84cj0JM4GFVIyPm\",\"url\":\"https://www.nysenate.gov/issues/marijuana-regulation-and-taxation-act-mrta\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/marijuana-regulation-and-taxation-act-mrta\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569702196,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/marijuana-regulation-and-taxation-act-mrta",
+	"url": "https://www.nysenate.gov/issues/marijuana-regulation-and-taxation-act-mrta"
+}

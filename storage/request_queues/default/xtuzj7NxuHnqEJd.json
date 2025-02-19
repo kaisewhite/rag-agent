@@ -1,0 +1,9 @@
+{
+	"id": "xtuzj7NxuHnqEJd",
+	"json": "{\"id\":\"xtuzj7NxuHnqEJd\",\"url\":\"https://www.nysenate.gov/issues/new-york-privacy-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-york-privacy-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740941,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-york-privacy-act",
+	"url": "https://www.nysenate.gov/issues/new-york-privacy-act"
+}

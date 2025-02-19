@@ -1,0 +1,9 @@
+{
+	"id": "Qiu9qGWR55R4YzJ",
+	"json": "{\"id\":\"Qiu9qGWR55R4YzJ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/joint-statement-senators-martin-malave-dilan-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/joint-statement-senators-martin-malave-dilan-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855303,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/joint-statement-senators-martin-malave-dilan-and",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/martin-malave-dilan/joint-statement-senators-martin-malave-dilan-and"
+}

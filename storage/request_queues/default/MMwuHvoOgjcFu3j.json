@@ -1,0 +1,9 @@
+{
+	"id": "MMwuHvoOgjcFu3j",
+	"json": "{\"id\":\"MMwuHvoOgjcFu3j\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/brian-kavanagh/law-360-reports-pending-covid-19-emergency-rental\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/brian-kavanagh/law-360-reports-pending-covid-19-emergency-rental\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798890,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/brian-kavanagh/law-360-reports-pending-covid-19-emergency-rental",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/brian-kavanagh/law-360-reports-pending-covid-19-emergency-rental"
+}

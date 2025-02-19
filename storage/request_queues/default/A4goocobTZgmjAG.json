@@ -1,0 +1,9 @@
+{
+	"id": "A4goocobTZgmjAG",
+	"json": "{\"id\":\"A4goocobTZgmjAG\",\"url\":\"https://www.nysenate.gov/calendar/meetings/civil-service-and-pensions/april-30-2019/civil-service-and-pensions-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/civil-service-and-pensions/april-30-2019/civil-service-and-pensions-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569724706,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/civil-service-and-pensions/april-30-2019/civil-service-and-pensions-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/civil-service-and-pensions/april-30-2019/civil-service-and-pensions-meeting"
+}

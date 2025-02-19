@@ -1,0 +1,9 @@
+{
+	"id": "LVibaGzxxuY47Bg",
+	"json": "{\"id\":\"LVibaGzxxuY47Bg\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/march-12-2013/joint-legislative-public-hearing-2013-2014-executive-4\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/march-12-2013/joint-legislative-public-hearing-2013-2014-executive-4\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847562,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/march-12-2013/joint-legislative-public-hearing-2013-2014-executive-4",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/march-12-2013/joint-legislative-public-hearing-2013-2014-executive-4"
+}

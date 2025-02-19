@@ -1,0 +1,9 @@
+{
+	"id": "dC18E4uw2yS1brx",
+	"json": "{\"id\":\"dC18E4uw2yS1brx\",\"url\":\"https://www.nysenate.gov/legislation/laws/TRA/A2-F\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/TRA/A2-F\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569987425,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/TRA/A2-F",
+	"url": "https://www.nysenate.gov/legislation/laws/TRA/A2-F"
+}

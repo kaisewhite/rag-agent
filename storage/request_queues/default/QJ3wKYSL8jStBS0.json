@@ -1,0 +1,9 @@
+{
+	"id": "QJ3wKYSL8jStBS0",
+	"json": "{\"id\":\"QJ3wKYSL8jStBS0\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/anna-m-kaplan/lawmakers-announce-massive-funding-increase-nassau\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/anna-m-kaplan/lawmakers-announce-massive-funding-increase-nassau\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571147548,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/anna-m-kaplan/lawmakers-announce-massive-funding-increase-nassau",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/anna-m-kaplan/lawmakers-announce-massive-funding-increase-nassau"
+}

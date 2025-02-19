@@ -1,0 +1,9 @@
+{
+	"id": "345Uzrel6T4y01h",
+	"json": "{\"id\":\"345Uzrel6T4y01h\",\"url\":\"https://www.nysenate.gov/issues/agriculture-chair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/agriculture-chair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707161,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/agriculture-chair",
+	"url": "https://www.nysenate.gov/issues/agriculture-chair"
+}

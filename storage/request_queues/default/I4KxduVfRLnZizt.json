@@ -1,0 +1,9 @@
+{
+	"id": "I4KxduVfRLnZizt",
+	"json": "{\"id\":\"I4KxduVfRLnZizt\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-21-2019/73rd-precinct-community-affairs-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-21-2019/73rd-precinct-community-affairs-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246850,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-21-2019/73rd-precinct-community-affairs-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-21-2019/73rd-precinct-community-affairs-monthly-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "C3shM5q9k5LBS0F",
+	"json": "{\"id\":\"C3shM5q9k5LBS0F\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2022/michael-gianaris/senators-gianaris-hoylman-and-thomas-introduce-tax\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2022/michael-gianaris/senators-gianaris-hoylman-and-thomas-introduce-tax\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570953420,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2022/michael-gianaris/senators-gianaris-hoylman-and-thomas-introduce-tax",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2022/michael-gianaris/senators-gianaris-hoylman-and-thomas-introduce-tax"
+}

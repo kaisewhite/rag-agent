@@ -1,0 +1,9 @@
+{
+	"id": "c5M0UNSKhjrVQ7e",
+	"json": "{\"id\":\"c5M0UNSKhjrVQ7e\",\"url\":\"https://www.nysenate.gov/open-data/2024-ethics-committee-annual-report\",\"uniqueKey\":\"GET():https://www.nysenate.gov/open-data/2024-ethics-committee-annual-report\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569875126,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/open-data/2024-ethics-committee-annual-report",
+	"url": "https://www.nysenate.gov/open-data/2024-ethics-committee-annual-report"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "jaBt4IR747qmZPS",
+	"json": "{\"id\":\"jaBt4IR747qmZPS\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-18-2016/workforce1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-18-2016/workforce1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246299,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-18-2016/workforce1",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-18-2016/workforce1"
+}

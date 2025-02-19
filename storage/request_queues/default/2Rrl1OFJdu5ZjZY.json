@@ -1,0 +1,9 @@
+{
+	"id": "2Rrl1OFJdu5ZjZY",
+	"json": "{\"id\":\"2Rrl1OFJdu5ZjZY\",\"url\":\"https://www.nysenate.gov/petitions/joseph-griffo/i-oppose-elimination-scheduled-tax-relief-middle-class-new-yorkers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/petitions/joseph-griffo/i-oppose-elimination-scheduled-tax-relief-middle-class-new-yorkers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569641097,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/petitions/joseph-griffo/i-oppose-elimination-scheduled-tax-relief-middle-class-new-yorkers",
+	"url": "https://www.nysenate.gov/petitions/joseph-griffo/i-oppose-elimination-scheduled-tax-relief-middle-class-new-yorkers"
+}

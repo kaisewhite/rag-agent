@@ -1,0 +1,9 @@
+{
+	"id": "KJnGsKC0aPQ0BMi",
+	"json": "{\"id\":\"KJnGsKC0aPQ0BMi\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2017/senator-phillips-votes-ethics-reforms-crack-down-public-corruption\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2017/senator-phillips-votes-ethics-reforms-crack-down-public-corruption\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770312,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2017/senator-phillips-votes-ethics-reforms-crack-down-public-corruption",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2017/senator-phillips-votes-ethics-reforms-crack-down-public-corruption"
+}

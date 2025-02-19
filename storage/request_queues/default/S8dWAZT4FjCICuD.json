@@ -1,0 +1,9 @@
+{
+	"id": "S8dWAZT4FjCICuD",
+	"json": "{\"id\":\"S8dWAZT4FjCICuD\",\"url\":\"https://www.nysenate.gov/legislation/laws/ISC/A62\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ISC/A62\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569932498,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ISC/A62",
+	"url": "https://www.nysenate.gov/legislation/laws/ISC/A62"
+}

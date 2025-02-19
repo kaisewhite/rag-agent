@@ -1,0 +1,9 @@
+{
+	"id": "EFXop09auBz32g9",
+	"json": "{\"id\":\"EFXop09auBz32g9\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-31-2019/73rd-precinct-sector-build-block\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-31-2019/73rd-precinct-sector-build-block\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247033,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-31-2019/73rd-precinct-sector-build-block",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-31-2019/73rd-precinct-sector-build-block"
+}

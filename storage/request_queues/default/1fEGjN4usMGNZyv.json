@@ -1,0 +1,9 @@
+{
+	"id": "1fEGjN4usMGNZyv",
+	"json": "{\"id\":\"1fEGjN4usMGNZyv\",\"url\":\"https://www.nysenate.gov/calendar/events/transportation/timothy-m-kennedy/june-06-2019/press-conference-senate-majority-pass\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/transportation/timothy-m-kennedy/june-06-2019/press-conference-senate-majority-pass\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855234,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/transportation/timothy-m-kennedy/june-06-2019/press-conference-senate-majority-pass",
+	"url": "https://www.nysenate.gov/calendar/events/transportation/timothy-m-kennedy/june-06-2019/press-conference-senate-majority-pass"
+}

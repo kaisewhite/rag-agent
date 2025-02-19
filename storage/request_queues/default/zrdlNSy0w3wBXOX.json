@@ -1,0 +1,9 @@
+{
+	"id": "zrdlNSy0w3wBXOX",
+	"json": "{\"id\":\"zrdlNSy0w3wBXOX\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/mario-r-mattera/senator-mattera-takes-aggressive-action-combat\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2024/mario-r-mattera/senator-mattera-takes-aggressive-action-combat\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/mario-r-mattera/senator-mattera-takes-aggressive-action-combat\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:14:38.453Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/mario-r-mattera/senator-mattera-takes-aggressive-action-combat",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/mario-r-mattera/senator-mattera-takes-aggressive-action-combat"
+}

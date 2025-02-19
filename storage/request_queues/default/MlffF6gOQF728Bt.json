@@ -1,0 +1,9 @@
+{
+	"id": "MlffF6gOQF728Bt",
+	"json": "{\"id\":\"MlffF6gOQF728Bt\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-18-2009/retail-diversity-and-neighborhood-health-public-hearing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-18-2009/retail-diversity-and-neighborhood-health-public-hearing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569714896,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-18-2009/retail-diversity-and-neighborhood-health-public-hearing",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-18-2009/retail-diversity-and-neighborhood-health-public-hearing"
+}

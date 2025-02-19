@@ -1,0 +1,9 @@
+{
+	"id": "XmBeWJmzi9IvHNY",
+	"json": "{\"id\":\"XmBeWJmzi9IvHNY\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/ny-law-requires-parents-prison-be-housed-closest\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/ny-law-requires-parents-prison-be-housed-closest\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717609,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/ny-law-requires-parents-prison-be-housed-closest",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/velmanette-montgomery/ny-law-requires-parents-prison-be-housed-closest"
+}

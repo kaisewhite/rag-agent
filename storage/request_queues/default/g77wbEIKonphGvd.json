@@ -1,0 +1,9 @@
+{
+	"id": "g77wbEIKonphGvd",
+	"json": "{\"id\":\"g77wbEIKonphGvd\",\"url\":\"https://www.nysenate.gov/calendar/meetings/education/june-06-2017/education-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/education/june-06-2017/education-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755158,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/education/june-06-2017/education-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/education/june-06-2017/education-meeting"
+}

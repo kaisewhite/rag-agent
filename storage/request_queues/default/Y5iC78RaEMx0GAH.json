@@ -1,0 +1,9 @@
+{
+	"id": "Y5iC78RaEMx0GAH",
+	"json": "{\"id\":\"Y5iC78RaEMx0GAH\",\"url\":\"https://www.nysenate.gov/issues/villages\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/villages\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571570724,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/villages",
+	"url": "https://www.nysenate.gov/issues/villages"
+}

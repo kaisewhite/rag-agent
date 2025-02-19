@@ -1,0 +1,9 @@
+{
+	"id": "HHwRbkQcxIpJ7RT",
+	"json": "{\"id\":\"HHwRbkQcxIpJ7RT\",\"url\":\"https://www.nysenate.gov/legislation/laws/LAB/A27\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/LAB/A27\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569933874,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/LAB/A27",
+	"url": "https://www.nysenate.gov/legislation/laws/LAB/A27"
+}

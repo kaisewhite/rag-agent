@@ -1,0 +1,9 @@
+{
+	"id": "x3NCA3eTasfgUpz",
+	"json": "{\"id\":\"x3NCA3eTasfgUpz\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-congratulates-plandome-troop-71-eagle-scouts\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-congratulates-plandome-troop-71-eagle-scouts\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847618,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-congratulates-plandome-troop-71-eagle-scouts",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/jack-m-martins/senator-martins-congratulates-plandome-troop-71-eagle-scouts"
+}

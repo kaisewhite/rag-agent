@@ -1,0 +1,9 @@
+{
+	"id": "z3FmPxo5ZBWuGZ4",
+	"json": "{\"id\":\"z3FmPxo5ZBWuGZ4\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/november-17-2021/public-hearing-follow-eight-city-tour-and-learn-how\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/november-17-2021/public-hearing-follow-eight-city-tour-and-learn-how\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569718290,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/november-17-2021/public-hearing-follow-eight-city-tour-and-learn-how",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/november-17-2021/public-hearing-follow-eight-city-tour-and-learn-how"
+}

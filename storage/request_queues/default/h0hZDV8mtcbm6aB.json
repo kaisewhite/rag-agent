@@ -1,0 +1,9 @@
+{
+	"id": "h0hZDV8mtcbm6aB",
+	"json": "{\"id\":\"h0hZDV8mtcbm6aB\",\"url\":\"https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/april-25-2023/energy-and-telecommunications-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/april-25-2023/energy-and-telecommunications-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765683,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/april-25-2023/energy-and-telecommunications-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/energy-and-telecommunications/april-25-2023/energy-and-telecommunications-meeting"
+}

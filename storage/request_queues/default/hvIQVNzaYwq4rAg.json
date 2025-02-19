@@ -1,0 +1,9 @@
+{
+	"id": "hvIQVNzaYwq4rAg",
+	"json": "{\"id\":\"hvIQVNzaYwq4rAg\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2015/joint-legislative-public-hearing-2015-2016-executive-budget-proposal-taxes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2015/joint-legislative-public-hearing-2015-2016-executive-budget-proposal-taxes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781114,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2015/joint-legislative-public-hearing-2015-2016-executive-budget-proposal-taxes",
+	"url": "https://www.nysenate.gov/newsroom/articles/2015/joint-legislative-public-hearing-2015-2016-executive-budget-proposal-taxes"
+}

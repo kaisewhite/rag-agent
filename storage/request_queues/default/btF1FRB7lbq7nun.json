@@ -1,0 +1,9 @@
+{
+	"id": "btF1FRB7lbq7nun",
+	"json": "{\"id\":\"btF1FRB7lbq7nun\",\"url\":\"https://www.nysenate.gov/issues/foster-care\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/foster-care\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717545,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/foster-care",
+	"url": "https://www.nysenate.gov/issues/foster-care"
+}

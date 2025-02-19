@@ -1,0 +1,9 @@
+{
+	"id": "KED89R2irI7pvPC",
+	"json": "{\"id\":\"KED89R2irI7pvPC\",\"url\":\"https://www.nysenate.gov/legislation/laws/PVH/A7\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PVH/A7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569964546,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PVH/A7",
+	"url": "https://www.nysenate.gov/legislation/laws/PVH/A7"
+}

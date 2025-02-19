@@ -1,0 +1,9 @@
+{
+	"id": "jvUwaCQ9yP5jVvK",
+	"json": "{\"id\":\"jvUwaCQ9yP5jVvK\",\"url\":\"https://www.nysenate.gov/sites/default/files/article/attachment/new_york_state_human_services_report_and_directory_2019.2020.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/article/attachment/new_york_state_human_services_report_and_directory_2019.2020.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570267098,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/article/attachment/new_york_state_human_services_report_and_directory_2019.2020.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/article/attachment/new_york_state_human_services_report_and_directory_2019.2020.pdf"
+}

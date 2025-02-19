@@ -1,0 +1,9 @@
+{
+	"id": "7X5n2XfdU0tUZsI",
+	"json": "{\"id\":\"7X5n2XfdU0tUZsI\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/september-08-2016/conversation-haircut-and-coffee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/september-08-2016/conversation-haircut-and-coffee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019305,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/september-08-2016/conversation-haircut-and-coffee",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/september-08-2016/conversation-haircut-and-coffee"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "oOCOukCo7qZmDKA",
+	"json": "{\"id\":\"oOCOukCo7qZmDKA\",\"url\":\"https://www.nysenate.gov/issues/ticket-scalping\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/ticket-scalping\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571368075,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/ticket-scalping",
+	"url": "https://www.nysenate.gov/issues/ticket-scalping"
+}

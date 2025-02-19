@@ -1,0 +1,9 @@
+{
+	"id": "NgBtV0wcmhx7G6g",
+	"json": "{\"id\":\"NgBtV0wcmhx7G6g\",\"url\":\"https://www.nysenate.gov/issues/gaming-and-wagering\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/gaming-and-wagering\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833527,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/gaming-and-wagering",
+	"url": "https://www.nysenate.gov/issues/gaming-and-wagering"
+}

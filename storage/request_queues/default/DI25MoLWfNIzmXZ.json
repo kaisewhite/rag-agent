@@ -1,0 +1,9 @@
+{
+	"id": "DI25MoLWfNIzmXZ",
+	"json": "{\"id\":\"DI25MoLWfNIzmXZ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/thomas-duane/senate-health-chair-thomas-k-duane-announces-agreement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/thomas-duane/senate-health-chair-thomas-k-duane-announces-agreement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781076,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/thomas-duane/senate-health-chair-thomas-k-duane-announces-agreement",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/thomas-duane/senate-health-chair-thomas-k-duane-announces-agreement"
+}

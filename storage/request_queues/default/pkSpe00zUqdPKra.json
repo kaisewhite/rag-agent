@@ -1,0 +1,9 @@
+{
+	"id": "pkSpe00zUqdPKra",
+	"json": "{\"id\":\"pkSpe00zUqdPKra\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2018/kevin-s-parker/senator-parker-joins-lawmakers-form-multistate-alliance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2018/kevin-s-parker/senator-parker-joins-lawmakers-form-multistate-alliance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569664906,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2018/kevin-s-parker/senator-parker-joins-lawmakers-form-multistate-alliance",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2018/kevin-s-parker/senator-parker-joins-lawmakers-form-multistate-alliance"
+}

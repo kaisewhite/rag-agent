@@ -1,0 +1,9 @@
+{
+	"id": "w9i3gc1pA8MtLpq",
+	"json": "{\"id\":\"w9i3gc1pA8MtLpq\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBH/A27-E\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBH/A27-E\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569955994,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBH/A27-E",
+	"url": "https://www.nysenate.gov/legislation/laws/PBH/A27-E"
+}

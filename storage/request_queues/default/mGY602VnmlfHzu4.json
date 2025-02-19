@@ -1,0 +1,9 @@
+{
+	"id": "mGY602VnmlfHzu4",
+	"json": "{\"id\":\"mGY602VnmlfHzu4\",\"url\":\"https://www.nysenate.gov/legislation/laws/CCO/A1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CCO/A1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569890014,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CCO/A1",
+	"url": "https://www.nysenate.gov/legislation/laws/CCO/A1"
+}

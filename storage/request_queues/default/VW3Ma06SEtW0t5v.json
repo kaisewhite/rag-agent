@@ -1,0 +1,9 @@
+{
+	"id": "VW3Ma06SEtW0t5v",
+	"json": "{\"id\":\"VW3Ma06SEtW0t5v\",\"url\":\"https://www.nysenate.gov/senators/mark-walczyk/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/mark-walczyk/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569679804,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/mark-walczyk/district",
+	"url": "https://www.nysenate.gov/senators/mark-walczyk/district"
+}

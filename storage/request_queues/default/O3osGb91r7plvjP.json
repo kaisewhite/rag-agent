@@ -1,0 +1,9 @@
+{
+	"id": "O3osGb91r7plvjP",
+	"json": "{\"id\":\"O3osGb91r7plvjP\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/daniel-g-stec/two-stec-simpson-bills-renaming-bridges-after-local\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/daniel-g-stec/two-stec-simpson-bills-renaming-bridges-after-local\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571570730,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/daniel-g-stec/two-stec-simpson-bills-renaming-bridges-after-local",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/daniel-g-stec/two-stec-simpson-bills-renaming-bridges-after-local"
+}

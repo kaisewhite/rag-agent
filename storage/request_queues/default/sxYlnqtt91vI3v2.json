@@ -1,0 +1,9 @@
+{
+	"id": "sxYlnqtt91vI3v2",
+	"json": "{\"id\":\"sxYlnqtt91vI3v2\",\"url\":\"https://www.nysenate.gov/calendar/meetings/elections/february-10-2020/elections-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/elections/february-10-2020/elections-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756050,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/elections/february-10-2020/elections-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/elections/february-10-2020/elections-meeting"
+}

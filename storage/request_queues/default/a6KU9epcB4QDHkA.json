@@ -1,0 +1,9 @@
+{
+	"id": "a6KU9epcB4QDHkA",
+	"json": "{\"id\":\"a6KU9epcB4QDHkA\",\"url\":\"https://www.nysenate.gov/senators/joseph-griffo/about\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/joseph-griffo/about\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569641091,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/joseph-griffo/about",
+	"url": "https://www.nysenate.gov/senators/joseph-griffo/about"
+}

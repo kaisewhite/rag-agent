@@ -1,0 +1,9 @@
+{
+	"id": "ci5o1evOhZPPhJi",
+	"json": "{\"id\":\"ci5o1evOhZPPhJi\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/brian-foley/senator-foley-unveils-major-initiative-take-foreclosure\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/brian-foley/senator-foley-unveils-major-initiative-take-foreclosure\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707005,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/brian-foley/senator-foley-unveils-major-initiative-take-foreclosure",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/brian-foley/senator-foley-unveils-major-initiative-take-foreclosure"
+}

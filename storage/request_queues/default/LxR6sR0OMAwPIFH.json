@@ -1,0 +1,9 @@
+{
+	"id": "LxR6sR0OMAwPIFH",
+	"json": "{\"id\":\"LxR6sR0OMAwPIFH\",\"url\":\"https://www.nysenate.gov/calendar/meetings/judiciary/may-22-2018/judiciary-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/judiciary/may-22-2018/judiciary-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804277,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/judiciary/may-22-2018/judiciary-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/judiciary/may-22-2018/judiciary-meeting"
+}

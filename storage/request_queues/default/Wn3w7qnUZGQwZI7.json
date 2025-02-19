@@ -1,0 +1,9 @@
+{
+	"id": "Wn3w7qnUZGQwZI7",
+	"json": "{\"id\":\"Wn3w7qnUZGQwZI7\",\"url\":\"https://www.nysenate.gov/issues/police-accountability\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/police-accountability\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717612,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/police-accountability",
+	"url": "https://www.nysenate.gov/issues/police-accountability"
+}

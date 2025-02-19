@@ -1,0 +1,9 @@
+{
+	"id": "ZXAgTMhlSe0bKke",
+	"json": "{\"id\":\"ZXAgTMhlSe0bKke\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/october-03-2019/public-hearing-hear-stakeholders-strategies-reducing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/october-03-2019/public-hearing-hear-stakeholders-strategies-reducing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569861698,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/october-03-2019/public-hearing-hear-stakeholders-strategies-reducing",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/october-03-2019/public-hearing-hear-stakeholders-strategies-reducing"
+}

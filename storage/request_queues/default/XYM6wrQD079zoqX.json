@@ -1,0 +1,9 @@
+{
+	"id": "XYM6wrQD079zoqX",
+	"json": "{\"id\":\"XYM6wrQD079zoqX\",\"url\":\"https://www.nysenate.gov/issues/recovery-and-clean-activities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/recovery-and-clean-activities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569724710,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/recovery-and-clean-activities",
+	"url": "https://www.nysenate.gov/issues/recovery-and-clean-activities"
+}

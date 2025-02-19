@@ -1,0 +1,9 @@
+{
+	"id": "95akOd3KaA7L5SB",
+	"json": "{\"id\":\"95akOd3KaA7L5SB\",\"url\":\"https://www.nysenate.gov/issues/groundwater-study\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/groundwater-study\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770689,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/groundwater-study",
+	"url": "https://www.nysenate.gov/issues/groundwater-study"
+}

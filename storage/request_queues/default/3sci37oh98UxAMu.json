@@ -1,0 +1,9 @@
+{
+	"id": "3sci37oh98UxAMu",
+	"json": "{\"id\":\"3sci37oh98UxAMu\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S1438\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S1438\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569586679,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S1438",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S1438"
+}

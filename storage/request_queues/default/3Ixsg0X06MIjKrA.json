@@ -1,0 +1,9 @@
+{
+	"id": "3Ixsg0X06MIjKrA",
+	"json": "{\"id\":\"3Ixsg0X06MIjKrA\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Tuition%20Assistance%20Program%20%28TAP%29\",\"loadedUrl\":\"https://www.nysenate.gov/search/global/result?full_text=Tuition%20Assistance%20Program%20%28TAP%29\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Tuition+Assistance+Program+%28TAP%29\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:11:08.053Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Tuition+Assistance+Program+%28TAP%29",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Tuition%20Assistance%20Program%20%28TAP%29"
+}

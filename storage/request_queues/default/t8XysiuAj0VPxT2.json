@@ -1,0 +1,9 @@
+{
+	"id": "t8XysiuAj0VPxT2",
+	"json": "{\"id\":\"t8XysiuAj0VPxT2\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2020/virtual-town-hall-discussion-education-and-higher\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2020/virtual-town-hall-discussion-education-and-higher\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247096,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2020/virtual-town-hall-discussion-education-and-higher",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-18-2020/virtual-town-hall-discussion-education-and-higher"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "n7MiMgxJwxPZ00J",
+	"json": "{\"id\":\"n7MiMgxJwxPZ00J\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/senate-passes-property-tax-breaks-cold-war-veterans\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/senate-passes-property-tax-breaks-cold-war-veterans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781277,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/senate-passes-property-tax-breaks-cold-war-veterans",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/senate-passes-property-tax-breaks-cold-war-veterans"
+}

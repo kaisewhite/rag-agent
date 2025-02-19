@@ -1,0 +1,9 @@
+{
+	"id": "v1v0oAZXOberEM6",
+	"json": "{\"id\":\"v1v0oAZXOberEM6\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/jeremy-cooney/senator-cooney-reacts-governor-hochuls-state-state\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/jeremy-cooney/senator-cooney-reacts-governor-hochuls-state-state\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571173398,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/jeremy-cooney/senator-cooney-reacts-governor-hochuls-state-state",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/jeremy-cooney/senator-cooney-reacts-governor-hochuls-state-state"
+}

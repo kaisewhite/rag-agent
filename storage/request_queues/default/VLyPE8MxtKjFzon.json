@@ -1,0 +1,9 @@
+{
+	"id": "VLyPE8MxtKjFzon",
+	"json": "{\"id\":\"VLyPE8MxtKjFzon\",\"url\":\"https://www.nysenate.gov/questionnaires/pete-harckham/what-are-top-three-issues-youd-senator-harckham-focus\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/pete-harckham/what-are-top-three-issues-youd-senator-harckham-focus\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569642378,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/pete-harckham/what-are-top-three-issues-youd-senator-harckham-focus",
+	"url": "https://www.nysenate.gov/questionnaires/pete-harckham/what-are-top-three-issues-youd-senator-harckham-focus"
+}

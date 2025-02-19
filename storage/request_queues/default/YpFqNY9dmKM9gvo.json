@@ -1,0 +1,9 @@
+{
+	"id": "YpFqNY9dmKM9gvo",
+	"json": "{\"id\":\"YpFqNY9dmKM9gvo\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/A340\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/A340\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571110139,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/A340",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/A340"
+}

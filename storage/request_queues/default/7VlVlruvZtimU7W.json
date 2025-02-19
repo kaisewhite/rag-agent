@@ -1,0 +1,9 @@
+{
+	"id": "7VlVlruvZtimU7W",
+	"json": "{\"id\":\"7VlVlruvZtimU7W\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=CUNY%20%28City%20University%20of%20New%20York%29\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=CUNY+%28City+University+of+New+York%29\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571049869,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=CUNY+%28City+University+of+New+York%29",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=CUNY%20%28City%20University%20of%20New%20York%29"
+}

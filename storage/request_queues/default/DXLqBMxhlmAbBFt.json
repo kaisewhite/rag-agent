@@ -1,0 +1,9 @@
+{
+	"id": "DXLqBMxhlmAbBFt",
+	"json": "{\"id\":\"DXLqBMxhlmAbBFt\",\"url\":\"https://www.nysenate.gov/questionnaires/rachel-may/48th-senate-district-community-assistance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/rachel-may/48th-senate-district-community-assistance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569654876,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/rachel-may/48th-senate-district-community-assistance",
+	"url": "https://www.nysenate.gov/questionnaires/rachel-may/48th-senate-district-community-assistance"
+}

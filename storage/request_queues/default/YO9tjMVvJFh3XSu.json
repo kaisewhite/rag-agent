@@ -1,0 +1,9 @@
+{
+	"id": "YO9tjMVvJFh3XSu",
+	"json": "{\"id\":\"YO9tjMVvJFh3XSu\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/dean-murray/senate-republicans-call-governor-hochul-remove-manhattan\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/dean-murray/senate-republicans-call-governor-hochul-remove-manhattan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569657526,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/dean-murray/senate-republicans-call-governor-hochul-remove-manhattan",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/dean-murray/senate-republicans-call-governor-hochul-remove-manhattan"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "4fc2XpabC1P76Kr",
+	"json": "{\"id\":\"4fc2XpabC1P76Kr\",\"url\":\"https://www.nysenate.gov/issues/labor-shortage\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/labor-shortage\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707163,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/labor-shortage",
+	"url": "https://www.nysenate.gov/issues/labor-shortage"
+}

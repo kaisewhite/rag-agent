@@ -1,0 +1,9 @@
+{
+	"id": "Zdf5yGq5WLCoK6z",
+	"json": "{\"id\":\"Zdf5yGq5WLCoK6z\",\"url\":\"https://www.nysenate.gov/legislation/laws/CNT/A5-B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CNT/A5-B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569892253,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CNT/A5-B",
+	"url": "https://www.nysenate.gov/legislation/laws/CNT/A5-B"
+}

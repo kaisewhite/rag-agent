@@ -1,0 +1,9 @@
+{
+	"id": "ueG0snPZMOspF0s",
+	"json": "{\"id\":\"ueG0snPZMOspF0s\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/antoine-thompson/senate-standing-committee-environmental-conservation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/antoine-thompson/senate-standing-committee-environmental-conservation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770762,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/antoine-thompson/senate-standing-committee-environmental-conservation",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/antoine-thompson/senate-standing-committee-environmental-conservation"
+}

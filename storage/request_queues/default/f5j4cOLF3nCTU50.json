@@ -1,0 +1,9 @@
+{
+	"id": "f5j4cOLF3nCTU50",
+	"json": "{\"id\":\"f5j4cOLF3nCTU50\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/A7764\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/A7764\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571321211,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/A7764",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/A7764"
+}

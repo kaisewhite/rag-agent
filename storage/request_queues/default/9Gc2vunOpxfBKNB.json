@@ -1,0 +1,9 @@
+{
+	"id": "9Gc2vunOpxfBKNB",
+	"json": "{\"id\":\"9Gc2vunOpxfBKNB\",\"url\":\"https://www.nysenate.gov/newsroom/video/alexis-weik/application-process-veterans-nonprofit-capital-program-vncp-nys-grants\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/alexis-weik/application-process-veterans-nonprofit-capital-program-vncp-nys-grants\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569682556,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/alexis-weik/application-process-veterans-nonprofit-capital-program-vncp-nys-grants",
+	"url": "https://www.nysenate.gov/newsroom/video/alexis-weik/application-process-veterans-nonprofit-capital-program-vncp-nys-grants"
+}

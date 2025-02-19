@@ -1,0 +1,9 @@
+{
+	"id": "WfzKDJWOilbjvO4",
+	"json": "{\"id\":\"WfzKDJWOilbjvO4\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/pamela-helming/senator-helming-presents-new-york-state-senate-empire\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/pamela-helming/senator-helming-presents-new-york-state-senate-empire\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570988172,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/pamela-helming/senator-helming-presents-new-york-state-senate-empire",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/pamela-helming/senator-helming-presents-new-york-state-senate-empire"
+}

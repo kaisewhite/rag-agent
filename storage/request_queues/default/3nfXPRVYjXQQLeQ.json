@@ -1,0 +1,9 @@
+{
+	"id": "3nfXPRVYjXQQLeQ",
+	"json": "{\"id\":\"3nfXPRVYjXQQLeQ\",\"url\":\"https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/november-28-2018/fighting-nyc-future-rent-regulations-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/november-28-2018/fighting-nyc-future-rent-regulations-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570179045,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/november-28-2018/fighting-nyc-future-rent-regulations-and",
+	"url": "https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/november-28-2018/fighting-nyc-future-rent-regulations-and"
+}

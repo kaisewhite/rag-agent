@@ -1,0 +1,9 @@
+{
+	"id": "v0Z7W8CCunA5sTj",
+	"json": "{\"id\":\"v0Z7W8CCunA5sTj\",\"url\":\"https://www.nysenate.gov/issues/rent-stabilization\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/rent-stabilization\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569646998,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/rent-stabilization",
+	"url": "https://www.nysenate.gov/issues/rent-stabilization"
+}

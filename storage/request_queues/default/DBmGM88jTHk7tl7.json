@@ -1,0 +1,9 @@
+{
+	"id": "DBmGM88jTHk7tl7",
+	"json": "{\"id\":\"DBmGM88jTHk7tl7\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/december-16-2019/public-hearing-funding-our-public-colleges\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/december-16-2019/public-hearing-funding-our-public-colleges\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788143,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/december-16-2019/public-hearing-funding-our-public-colleges",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/december-16-2019/public-hearing-funding-our-public-colleges"
+}

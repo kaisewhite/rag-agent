@@ -1,0 +1,9 @@
+{
+	"id": "VGwbaveacZXS6f8",
+	"json": "{\"id\":\"VGwbaveacZXS6f8\",\"url\":\"https://www.nysenate.gov/profiles/2024/zellnor-myrie/phuong-huynh\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/zellnor-myrie/phuong-huynh\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/zellnor-myrie/phuong-huynh\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:00:09.212Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/zellnor-myrie/phuong-huynh",
+	"url": "https://www.nysenate.gov/profiles/2024/zellnor-myrie/phuong-huynh"
+}

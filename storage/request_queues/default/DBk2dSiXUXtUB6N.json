@@ -1,0 +1,9 @@
+{
+	"id": "DBk2dSiXUXtUB6N",
+	"json": "{\"id\":\"DBk2dSiXUXtUB6N\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/statement-senator-john-bonacic-re-gov-cuomos-nomination\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/statement-senator-john-bonacic-re-gov-cuomos-nomination\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804305,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/statement-senator-john-bonacic-re-gov-cuomos-nomination",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2014/john-j-bonacic/statement-senator-john-bonacic-re-gov-cuomos-nomination"
+}

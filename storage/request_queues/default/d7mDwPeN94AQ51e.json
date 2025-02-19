@@ -1,0 +1,9 @@
+{
+	"id": "d7mDwPeN94AQ51e",
+	"json": "{\"id\":\"d7mDwPeN94AQ51e\",\"url\":\"https://www.nysenate.gov/issues/parole\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/parole\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571668731,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/parole",
+	"url": "https://www.nysenate.gov/issues/parole"
+}

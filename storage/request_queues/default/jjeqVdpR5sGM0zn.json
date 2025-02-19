@@ -1,0 +1,9 @@
+{
+	"id": "jjeqVdpR5sGM0zn",
+	"json": "{\"id\":\"jjeqVdpR5sGM0zn\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-23-2016/workforce1-job-opportunities-available\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-23-2016/workforce1-job-opportunities-available\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246319,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-23-2016/workforce1-job-opportunities-available",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-23-2016/workforce1-job-opportunities-available"
+}

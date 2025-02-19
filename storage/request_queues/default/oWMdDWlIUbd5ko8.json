@@ -1,0 +1,9 @@
+{
+	"id": "oWMdDWlIUbd5ko8",
+	"json": "{\"id\":\"oWMdDWlIUbd5ko8\",\"url\":\"https://www.nysenate.gov/legislation/laws/SCC/A3\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/SCC/A3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569976720,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/SCC/A3",
+	"url": "https://www.nysenate.gov/legislation/laws/SCC/A3"
+}

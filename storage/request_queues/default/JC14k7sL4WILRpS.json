@@ -1,0 +1,9 @@
+{
+	"id": "JC14k7sL4WILRpS",
+	"json": "{\"id\":\"JC14k7sL4WILRpS\",\"url\":\"https://www.nysenate.gov/legislation/laws/VAT/T9\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/VAT/T9\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569992644,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/VAT/T9",
+	"url": "https://www.nysenate.gov/legislation/laws/VAT/T9"
+}

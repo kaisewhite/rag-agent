@@ -1,0 +1,9 @@
+{
+	"id": "vECpz8f5jOYCSfV",
+	"json": "{\"id\":\"vECpz8f5jOYCSfV\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2025/sean-m-ryan/city-good-neighborhoods-housing-vision-built-buffalo\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/articles/2025/sean-m-ryan/city-good-neighborhoods-housing-vision-built-buffalo\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2025/sean-m-ryan/city-good-neighborhoods-housing-vision-built-buffalo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:54:14.572Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2025/sean-m-ryan/city-good-neighborhoods-housing-vision-built-buffalo",
+	"url": "https://www.nysenate.gov/newsroom/articles/2025/sean-m-ryan/city-good-neighborhoods-housing-vision-built-buffalo"
+}

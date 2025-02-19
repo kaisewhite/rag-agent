@@ -1,0 +1,9 @@
+{
+	"id": "ADH6git5MYyZQDp",
+	"json": "{\"id\":\"ADH6git5MYyZQDp\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/A3005\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/A3005\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570649992,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/A3005",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/A3005"
+}

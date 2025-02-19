@@ -1,0 +1,9 @@
+{
+	"id": "tBF4TPopvKPFo7x",
+	"json": "{\"id\":\"tBF4TPopvKPFo7x\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2021/velmanette-montgomery/senator-montgomerys-proximity-bill-aprils-bill-signed\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2021/velmanette-montgomery/senator-montgomerys-proximity-bill-aprils-bill-signed\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717608,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2021/velmanette-montgomery/senator-montgomerys-proximity-bill-aprils-bill-signed",
+	"url": "https://www.nysenate.gov/newsroom/articles/2021/velmanette-montgomery/senator-montgomerys-proximity-bill-aprils-bill-signed"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "GKsgVIKNhaMq15j",
+	"json": "{\"id\":\"GKsgVIKNhaMq15j\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/A417\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/A417\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570163918,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/A417",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/A417"
+}

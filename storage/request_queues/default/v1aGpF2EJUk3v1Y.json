@@ -1,0 +1,9 @@
+{
+	"id": "v1aGpF2EJUk3v1Y",
+	"json": "{\"id\":\"v1aGpF2EJUk3v1Y\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/lea-webb/senator-lea-webb-allocates-250000-ithaca-fire-department?page=5\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/lea-webb/senator-lea-webb-allocates-250000-ithaca-fire-department?page=5\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571660112,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/lea-webb/senator-lea-webb-allocates-250000-ithaca-fire-department?page=5",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/lea-webb/senator-lea-webb-allocates-250000-ithaca-fire-department?page=5"
+}

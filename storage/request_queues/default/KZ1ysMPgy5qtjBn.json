@@ -1,0 +1,9 @@
+{
+	"id": "KZ1ysMPgy5qtjBn",
+	"json": "{\"id\":\"KZ1ysMPgy5qtjBn\",\"url\":\"https://www.nysenate.gov/issues/homeland-security-and-military-affairs\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/homeland-security-and-military-affairs\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855375,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/homeland-security-and-military-affairs",
+	"url": "https://www.nysenate.gov/issues/homeland-security-and-military-affairs"
+}

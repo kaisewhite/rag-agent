@@ -1,0 +1,9 @@
+{
+	"id": "8UT5zjWMYudl8r7",
+	"json": "{\"id\":\"8UT5zjWMYudl8r7\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/american-banker-states-try-help-borrowers-left-out-federal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/american-banker-states-try-help-borrowers-left-out-federal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798915,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/american-banker-states-try-help-borrowers-left-out-federal",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/american-banker-states-try-help-borrowers-left-out-federal"
+}

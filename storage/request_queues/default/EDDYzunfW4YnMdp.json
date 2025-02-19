@@ -1,0 +1,9 @@
+{
+	"id": "EDDYzunfW4YnMdp",
+	"json": "{\"id\":\"EDDYzunfW4YnMdp\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/patty-ritchie/shaping-future-agriculture-one-voice-time\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/patty-ritchie/shaping-future-agriculture-one-voice-time\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707177,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/patty-ritchie/shaping-future-agriculture-one-voice-time",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/patty-ritchie/shaping-future-agriculture-one-voice-time"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Z8vu9EFglwSCKNw",
+	"json": "{\"id\":\"Z8vu9EFglwSCKNw\",\"url\":\"https://www.nysenate.gov/sites/default/files/thankgiving/12017207/64347/what-i-am-thankful-for-this-year-kayan-minott_0.docx\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/thankgiving/12017207/64347/what-i-am-thankful-for-this-year-kayan-minott_0.docx\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570093315,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/thankgiving/12017207/64347/what-i-am-thankful-for-this-year-kayan-minott_0.docx",
+	"url": "https://www.nysenate.gov/sites/default/files/thankgiving/12017207/64347/what-i-am-thankful-for-this-year-kayan-minott_0.docx"
+}

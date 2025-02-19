@@ -1,0 +1,9 @@
+{
+	"id": "TLpA4HJVm3jhl4S",
+	"json": "{\"id\":\"TLpA4HJVm3jhl4S\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/senate-passes-package-ratepayer-protections\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2024/senate-passes-package-ratepayer-protections\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/senate-passes-package-ratepayer-protections\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:17:06.056Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/senate-passes-package-ratepayer-protections",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/senate-passes-package-ratepayer-protections"
+}

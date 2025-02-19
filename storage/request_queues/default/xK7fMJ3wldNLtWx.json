@@ -1,0 +1,9 @@
+{
+	"id": "xK7fMJ3wldNLtWx",
+	"json": "{\"id\":\"xK7fMJ3wldNLtWx\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S6189\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S6189\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571544234,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S6189",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S6189"
+}

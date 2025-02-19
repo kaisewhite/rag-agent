@@ -1,0 +1,9 @@
+{
+	"id": "lWUoDG6i49hhDS7",
+	"json": "{\"id\":\"lWUoDG6i49hhDS7\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/catharine-young/senator-young-chair-rural-resources-housing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/catharine-young/senator-young-chair-rural-resources-housing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798928,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/catharine-young/senator-young-chair-rural-resources-housing",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/catharine-young/senator-young-chair-rural-resources-housing"
+}

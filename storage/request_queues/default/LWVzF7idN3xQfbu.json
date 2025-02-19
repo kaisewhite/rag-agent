@@ -1,0 +1,9 @@
+{
+	"id": "LWVzF7idN3xQfbu",
+	"json": "{\"id\":\"LWVzF7idN3xQfbu\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/november-27-2018/what-congestion-pricing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/november-27-2018/what-congestion-pricing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019403,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/november-27-2018/what-congestion-pricing",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/november-27-2018/what-congestion-pricing"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "9JjxWd05xEydZbA",
+	"json": "{\"id\":\"9JjxWd05xEydZbA\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/monica-martinez/senator-martinez-sponsors-legislation-improve\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/monica-martinez/senator-martinez-sponsors-legislation-improve\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571589985,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/monica-martinez/senator-martinez-sponsors-legislation-improve",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/monica-martinez/senator-martinez-sponsors-legislation-improve"
+}

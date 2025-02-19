@@ -1,0 +1,9 @@
+{
+	"id": "tsTakBqx7FrybUt",
+	"json": "{\"id\":\"tsTakBqx7FrybUt\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S1186\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S1186\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571616237,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S1186",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S1186"
+}

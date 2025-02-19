@@ -1,0 +1,9 @@
+{
+	"id": "MKyOWcsvbrRPGfr",
+	"json": "{\"id\":\"MKyOWcsvbrRPGfr\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/s88\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/s88\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571639770,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/s88",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/s88"
+}

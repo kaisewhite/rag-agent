@@ -1,0 +1,9 @@
+{
+	"id": "6YKnVcwZHJMIh3o",
+	"json": "{\"id\":\"6YKnVcwZHJMIh3o\",\"url\":\"https://www.nysenate.gov/senators/jamaal-t-bailey/legislation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/jamaal-t-bailey/legislation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569615872,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/jamaal-t-bailey/legislation",
+	"url": "https://www.nysenate.gov/senators/jamaal-t-bailey/legislation"
+}

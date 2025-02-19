@@ -1,0 +1,9 @@
+{
+	"id": "F1ROg5pLzAYlUUW",
+	"json": "{\"id\":\"F1ROg5pLzAYlUUW\",\"url\":\"https://www.nysenate.gov/calendar/meetings/racing-gaming-and-wagering/february-07-2012/racing-gaming-and-wagering-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/racing-gaming-and-wagering/february-07-2012/racing-gaming-and-wagering-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569833554,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/racing-gaming-and-wagering/february-07-2012/racing-gaming-and-wagering-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/racing-gaming-and-wagering/february-07-2012/racing-gaming-and-wagering-meeting"
+}

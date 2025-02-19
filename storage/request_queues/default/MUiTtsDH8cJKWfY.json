@@ -1,0 +1,9 @@
+{
+	"id": "MUiTtsDH8cJKWfY",
+	"json": "{\"id\":\"MUiTtsDH8cJKWfY\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-promotes-liquefied-natural-gas\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-promotes-liquefied-natural-gas\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765720,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-promotes-liquefied-natural-gas",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/george-maziarz/senator-maziarz-promotes-liquefied-natural-gas"
+}

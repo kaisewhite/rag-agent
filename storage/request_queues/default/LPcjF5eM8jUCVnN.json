@@ -1,0 +1,9 @@
+{
+	"id": "LPcjF5eM8jUCVnN",
+	"json": "{\"id\":\"LPcjF5eM8jUCVnN\",\"url\":\"https://www.nysenate.gov/senators/brian-kavanagh/newsroom\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/brian-kavanagh/newsroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569646996,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/brian-kavanagh/newsroom",
+	"url": "https://www.nysenate.gov/senators/brian-kavanagh/newsroom"
+}

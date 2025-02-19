@@ -1,0 +1,9 @@
+{
+	"id": "q817BQOah6zwGlZ",
+	"json": "{\"id\":\"q817BQOah6zwGlZ\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/liz-krueger/statement-senator-liz-krueger-west-virginia-lawsuit\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2025/liz-krueger/statement-senator-liz-krueger-west-virginia-lawsuit\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/liz-krueger/statement-senator-liz-krueger-west-virginia-lawsuit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:08:05.702Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/liz-krueger/statement-senator-liz-krueger-west-virginia-lawsuit",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/liz-krueger/statement-senator-liz-krueger-west-virginia-lawsuit"
+}

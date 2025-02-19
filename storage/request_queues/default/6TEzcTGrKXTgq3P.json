@@ -1,0 +1,9 @@
+{
+	"id": "6TEzcTGrKXTgq3P",
+	"json": "{\"id\":\"6TEzcTGrKXTgq3P\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2014/george-maziarz/senator-maziarz-meets-thurman-thomas-and-others-discuss-solar\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2014/george-maziarz/senator-maziarz-meets-thurman-thomas-and-others-discuss-solar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765718,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2014/george-maziarz/senator-maziarz-meets-thurman-thomas-and-others-discuss-solar",
+	"url": "https://www.nysenate.gov/newsroom/articles/2014/george-maziarz/senator-maziarz-meets-thurman-thomas-and-others-discuss-solar"
+}

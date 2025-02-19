@@ -1,0 +1,9 @@
+{
+	"id": "Gusyuuay44ZzGhE",
+	"json": "{\"id\":\"Gusyuuay44ZzGhE\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-28-2017/public-hearing-investigate-how-best-protect-consumers\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-28-2017/public-hearing-investigate-how-best-protect-consumers\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740918,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-28-2017/public-hearing-investigate-how-best-protect-consumers",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-28-2017/public-hearing-investigate-how-best-protect-consumers"
+}

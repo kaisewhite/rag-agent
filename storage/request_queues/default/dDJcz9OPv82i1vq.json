@@ -1,0 +1,9 @@
+{
+	"id": "dDJcz9OPv82i1vq",
+	"json": "{\"id\":\"dDJcz9OPv82i1vq\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/paired-testing-bill-targeting-agent-bias-passes-ny-senate\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/paired-testing-bill-targeting-agent-bias-passes-ny-senate\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571303531,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/paired-testing-bill-targeting-agent-bias-passes-ny-senate",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2022/anna-m-kaplan/paired-testing-bill-targeting-agent-bias-passes-ny-senate"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "SuolS9mHqCA6Lwb",
+	"json": "{\"id\":\"SuolS9mHqCA6Lwb\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/pete-harckham/harckham-announces-50k-state-senate-grant-funding-mount\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/pete-harckham/harckham-announces-50k-state-senate-grant-funding-mount\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571654474,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/pete-harckham/harckham-announces-50k-state-senate-grant-funding-mount",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/pete-harckham/harckham-announces-50k-state-senate-grant-funding-mount"
+}

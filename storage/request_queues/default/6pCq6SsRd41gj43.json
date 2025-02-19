@@ -1,0 +1,9 @@
+{
+	"id": "6pCq6SsRd41gj43",
+	"json": "{\"id\":\"6pCq6SsRd41gj43\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/september-30-2021/joint-public-hearing-review-how-school-districts-are\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/september-30-2021/joint-public-hearing-review-how-school-districts-are\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755148,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/september-30-2021/joint-public-hearing-review-how-school-districts-are",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/september-30-2021/joint-public-hearing-review-how-school-districts-are"
+}

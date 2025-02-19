@@ -1,0 +1,9 @@
+{
+	"id": "r83UHo3ZjBBdiJZ",
+	"json": "{\"id\":\"r83UHo3ZjBBdiJZ\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/kathleen-marchione/2017-report-nys-senate-standing-committee-local\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/kathleen-marchione/2017-report-nys-senate-standing-committee-local\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847583,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/kathleen-marchione/2017-report-nys-senate-standing-committee-local",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/kathleen-marchione/2017-report-nys-senate-standing-committee-local"
+}

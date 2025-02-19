@@ -1,0 +1,9 @@
+{
+	"id": "X8OVD4m7pqJ4gdq",
+	"json": "{\"id\":\"X8OVD4m7pqJ4gdq\",\"url\":\"https://www.nysenate.gov/issues/reopening\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/reopening\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798915,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/reopening",
+	"url": "https://www.nysenate.gov/issues/reopening"
+}

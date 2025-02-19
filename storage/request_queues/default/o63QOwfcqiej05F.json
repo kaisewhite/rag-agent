@@ -1,0 +1,9 @@
+{
+	"id": "o63QOwfcqiej05F",
+	"json": "{\"id\":\"o63QOwfcqiej05F\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-26-2019/free-student-loan-debt-clinic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-26-2019/free-student-loan-debt-clinic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246748,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-26-2019/free-student-loan-debt-clinic",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-26-2019/free-student-loan-debt-clinic"
+}

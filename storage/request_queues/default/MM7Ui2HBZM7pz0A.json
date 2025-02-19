@@ -1,0 +1,9 @@
+{
+	"id": "MM7Ui2HBZM7pz0A",
+	"json": "{\"id\":\"MM7Ui2HBZM7pz0A\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-18-2023/spring-creek-resource-fair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-18-2023/spring-creek-resource-fair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247493,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-18-2023/spring-creek-resource-fair",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-18-2023/spring-creek-resource-fair"
+}

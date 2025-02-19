@@ -1,0 +1,9 @@
+{
+	"id": "zFSeGAlgFh6Sfx0",
+	"json": "{\"id\":\"zFSeGAlgFh6Sfx0\",\"url\":\"https://www.nysenate.gov/questionnaires/james-sanders-jr/submit-your-nomination-outstanding-woman-construction\",\"loadedUrl\":\"https://www.nysenate.gov/questionnaires/james-sanders-jr/submit-your-nomination-outstanding-woman-construction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/questionnaires/james-sanders-jr/submit-your-nomination-outstanding-woman-construction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:53:30.446Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/questionnaires/james-sanders-jr/submit-your-nomination-outstanding-woman-construction",
+	"url": "https://www.nysenate.gov/questionnaires/james-sanders-jr/submit-your-nomination-outstanding-woman-construction"
+}

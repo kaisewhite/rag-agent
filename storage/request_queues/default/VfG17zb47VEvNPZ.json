@@ -1,0 +1,9 @@
+{
+	"id": "VfG17zb47VEvNPZ",
+	"json": "{\"id\":\"VfG17zb47VEvNPZ\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/bill-perkins/perkins-holds-eminent-domain-hearing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/bill-perkins/perkins-holds-eminent-domain-hearing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741854,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/bill-perkins/perkins-holds-eminent-domain-hearing",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/bill-perkins/perkins-holds-eminent-domain-hearing"
+}

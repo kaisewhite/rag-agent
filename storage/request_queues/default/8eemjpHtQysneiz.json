@@ -1,0 +1,9 @@
+{
+	"id": "8eemjpHtQysneiz",
+	"json": "{\"id\":\"8eemjpHtQysneiz\",\"url\":\"https://www.nysenate.gov/issues/nutrition\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nutrition\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707140,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nutrition",
+	"url": "https://www.nysenate.gov/issues/nutrition"
+}

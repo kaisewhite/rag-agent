@@ -1,0 +1,9 @@
+{
+	"id": "PvXgWW2UsRMLS55",
+	"json": "{\"id\":\"PvXgWW2UsRMLS55\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/gcedc-gets-1-million-early-work-mega-site\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/gcedc-gets-1-million-early-work-mega-site\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734388,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/gcedc-gets-1-million-early-work-mega-site",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2009/william-stachowski/gcedc-gets-1-million-early-work-mega-site"
+}

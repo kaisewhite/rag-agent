@@ -1,0 +1,9 @@
+{
+	"id": "k9GGNTfgh8vv5iL",
+	"json": "{\"id\":\"k9GGNTfgh8vv5iL\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Veterans%20Tuition%20Award%20Program\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Veterans+Tuition+Award+Program\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570936995,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Veterans+Tuition+Award+Program",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Veterans%20Tuition%20Award%20Program"
+}

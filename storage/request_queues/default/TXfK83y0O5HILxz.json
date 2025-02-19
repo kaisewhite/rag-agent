@@ -1,0 +1,9 @@
+{
+	"id": "TXfK83y0O5HILxz",
+	"json": "{\"id\":\"TXfK83y0O5HILxz\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/december-15-2016/sen-kruegers-roundtable-boomers-and-seniors\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/december-15-2016/sen-kruegers-roundtable-boomers-and-seniors\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752647,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/december-15-2016/sen-kruegers-roundtable-boomers-and-seniors",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/december-15-2016/sen-kruegers-roundtable-boomers-and-seniors"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "KatXr0E4cQYnRmY",
+	"json": "{\"id\":\"KatXr0E4cQYnRmY\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S1478\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S1478\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569659978,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S1478",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S1478"
+}

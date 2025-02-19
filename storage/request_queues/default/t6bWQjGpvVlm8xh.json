@@ -1,0 +1,9 @@
+{
+	"id": "t6bWQjGpvVlm8xh",
+	"json": "{\"id\":\"t6bWQjGpvVlm8xh\",\"url\":\"https://www.nysenate.gov/profiles/2024/nathalia-fernandez/angela-torres\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/nathalia-fernandez/angela-torres\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/nathalia-fernandez/angela-torres\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:58:33.219Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/nathalia-fernandez/angela-torres",
+	"url": "https://www.nysenate.gov/profiles/2024/nathalia-fernandez/angela-torres"
+}

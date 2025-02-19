@@ -1,0 +1,9 @@
+{
+	"id": "7IggH17Cb9XUl5H",
+	"json": "{\"id\":\"7IggH17Cb9XUl5H\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-co-chairs-hearing-pandemic-impact\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-co-chairs-hearing-pandemic-impact\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698350,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-co-chairs-hearing-pandemic-impact",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-co-chairs-hearing-pandemic-impact"
+}

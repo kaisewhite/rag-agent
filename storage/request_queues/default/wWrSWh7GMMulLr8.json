@@ -1,0 +1,9 @@
+{
+	"id": "wWrSWh7GMMulLr8",
+	"json": "{\"id\":\"wWrSWh7GMMulLr8\",\"url\":\"https://www.nysenate.gov/issues/boys-and-girls-high-school\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/boys-and-girls-high-school\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717634,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/boys-and-girls-high-school",
+	"url": "https://www.nysenate.gov/issues/boys-and-girls-high-school"
+}

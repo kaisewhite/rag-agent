@@ -1,0 +1,9 @@
+{
+	"id": "XxDvBDCkucsi8HB",
+	"json": "{\"id\":\"XxDvBDCkucsi8HB\",\"url\":\"https://www.nysenate.gov/open-data/payroll-report-end-date-12925\",\"uniqueKey\":\"GET():https://www.nysenate.gov/open-data/payroll-report-end-date-12925\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569875123,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/open-data/payroll-report-end-date-12925",
+	"url": "https://www.nysenate.gov/open-data/payroll-report-end-date-12925"
+}

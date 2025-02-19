@@ -1,0 +1,9 @@
+{
+	"id": "CjvBGX0orqhtQbe",
+	"json": "{\"id\":\"CjvBGX0orqhtQbe\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/protecting-customer-data-law\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/protecting-customer-data-law\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740970,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/protecting-customer-data-law",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2019/kevin-thomas/protecting-customer-data-law"
+}

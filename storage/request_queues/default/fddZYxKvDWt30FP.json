@@ -1,0 +1,9 @@
+{
+	"id": "fddZYxKvDWt30FP",
+	"json": "{\"id\":\"fddZYxKvDWt30FP\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/green-session-priorities\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/green-session-priorities\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770699,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/green-session-priorities",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/todd-kaminsky/green-session-priorities"
+}

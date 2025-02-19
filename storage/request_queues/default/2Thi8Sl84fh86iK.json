@@ -1,0 +1,9 @@
+{
+	"id": "2Thi8Sl84fh86iK",
+	"json": "{\"id\":\"2Thi8Sl84fh86iK\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-06-2024/sd-19-food-distribution-955-rutland-road\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-06-2024/sd-19-food-distribution-955-rutland-road\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247517,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-06-2024/sd-19-food-distribution-955-rutland-road",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/june-06-2024/sd-19-food-distribution-955-rutland-road"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "2sGcbAOH6YbQJKd",
+	"json": "{\"id\":\"2sGcbAOH6YbQJKd\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/march-22-2012/senator-liz-kruegers-senior-roundtable-part-v\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/march-22-2012/senator-liz-kruegers-senior-roundtable-part-v\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752615,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/march-22-2012/senator-liz-kruegers-senior-roundtable-part-v",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/march-22-2012/senator-liz-kruegers-senior-roundtable-part-v"
+}

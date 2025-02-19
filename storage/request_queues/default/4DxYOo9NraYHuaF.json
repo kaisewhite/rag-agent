@@ -1,0 +1,9 @@
+{
+	"id": "4DxYOo9NraYHuaF",
+	"json": "{\"id\":\"4DxYOo9NraYHuaF\",\"url\":\"https://www.nysenate.gov/issues/frankenstein-apartments\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/frankenstein-apartments\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798862,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/frankenstein-apartments",
+	"url": "https://www.nysenate.gov/issues/frankenstein-apartments"
+}

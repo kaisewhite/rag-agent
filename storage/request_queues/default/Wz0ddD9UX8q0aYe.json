@@ -1,0 +1,9 @@
+{
+	"id": "Wz0ddD9UX8q0aYe",
+	"json": "{\"id\":\"Wz0ddD9UX8q0aYe\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S1480\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S1480\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569659978,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S1480",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S1480"
+}

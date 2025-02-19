@@ -1,0 +1,9 @@
+{
+	"id": "8unCRypBk9gS6Gf",
+	"json": "{\"id\":\"8unCRypBk9gS6Gf\",\"url\":\"https://www.nysenate.gov/issues/nylcv\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/nylcv\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571669485,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/nylcv",
+	"url": "https://www.nysenate.gov/issues/nylcv"
+}

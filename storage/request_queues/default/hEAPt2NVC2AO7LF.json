@@ -1,0 +1,9 @@
+{
+	"id": "hEAPt2NVC2AO7LF",
+	"json": "{\"id\":\"hEAPt2NVC2AO7LF\",\"url\":\"https://www.nysenate.gov/issues/minimum-wage-inflation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/minimum-wage-inflation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811628,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/minimum-wage-inflation",
+	"url": "https://www.nysenate.gov/issues/minimum-wage-inflation"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "c3lLfZ7qSBk5N2a",
+	"json": "{\"id\":\"c3lLfZ7qSBk5N2a\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S2124\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/bills/2025/S2124\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S2124\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:11:38.622Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S2124",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S2124"
+}

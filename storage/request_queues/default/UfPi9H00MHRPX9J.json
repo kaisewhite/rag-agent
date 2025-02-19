@@ -1,0 +1,9 @@
+{
+	"id": "UfPi9H00MHRPX9J",
+	"json": "{\"id\":\"UfPi9H00MHRPX9J\",\"url\":\"https://www.nysenate.gov/issues/adult-use-cannabis-legalization\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/adult-use-cannabis-legalization\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569707155,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/adult-use-cannabis-legalization",
+	"url": "https://www.nysenate.gov/issues/adult-use-cannabis-legalization"
+}

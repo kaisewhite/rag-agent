@@ -1,0 +1,9 @@
+{
+	"id": "Zq2AIbSL5ZJWABz",
+	"json": "{\"id\":\"Zq2AIbSL5ZJWABz\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/july-15-2020/joint-public-hearing-evaluating-constitutional-provisions\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/july-15-2020/joint-public-hearing-evaluating-constitutional-provisions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569804267,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/july-15-2020/joint-public-hearing-evaluating-constitutional-provisions",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/july-15-2020/joint-public-hearing-evaluating-constitutional-provisions"
+}

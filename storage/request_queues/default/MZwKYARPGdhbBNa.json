@@ -1,0 +1,9 @@
+{
+	"id": "MZwKYARPGdhbBNa",
+	"json": "{\"id\":\"MZwKYARPGdhbBNa\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S7922\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S7922\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571669496,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S7922",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S7922"
+}

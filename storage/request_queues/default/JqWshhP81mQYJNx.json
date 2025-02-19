@@ -1,0 +1,9 @@
+{
+	"id": "JqWshhP81mQYJNx",
+	"json": "{\"id\":\"JqWshhP81mQYJNx\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2013/catharine-young/spring-rural-futures-newsletter-2013\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2013/catharine-young/spring-rural-futures-newsletter-2013\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695521,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2013/catharine-young/spring-rural-futures-newsletter-2013",
+	"url": "https://www.nysenate.gov/newsroom/articles/2013/catharine-young/spring-rural-futures-newsletter-2013"
+}

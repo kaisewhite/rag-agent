@@ -1,0 +1,9 @@
+{
+	"id": "ulo6WMq2yPlwDX3",
+	"json": "{\"id\":\"ulo6WMq2yPlwDX3\",\"url\":\"https://www.nysenate.gov/senators/stephen-t-chan/legislation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/stephen-t-chan/legislation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569622762,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/stephen-t-chan/legislation",
+	"url": "https://www.nysenate.gov/senators/stephen-t-chan/legislation"
+}

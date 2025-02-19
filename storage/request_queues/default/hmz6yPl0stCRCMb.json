@@ -1,0 +1,9 @@
+{
+	"id": "hmz6yPl0stCRCMb",
+	"json": "{\"id\":\"hmz6yPl0stCRCMb\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/november-04-2019/public-hearing-investigate-safety-and-potential-harms\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/november-04-2019/public-hearing-investigate-safety-and-potential-harms\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740914,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/november-04-2019/public-hearing-investigate-safety-and-potential-harms",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/november-04-2019/public-hearing-investigate-safety-and-potential-harms"
+}

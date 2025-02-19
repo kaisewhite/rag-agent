@@ -1,0 +1,9 @@
+{
+	"id": "NlYEUZFmc8UnhC5",
+	"json": "{\"id\":\"NlYEUZFmc8UnhC5\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-11-2018/new-york-state-legal-assistance-group-nylag-mobile\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-11-2018/new-york-state-legal-assistance-group-nylag-mobile\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246510,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-11-2018/new-york-state-legal-assistance-group-nylag-mobile",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-11-2018/new-york-state-legal-assistance-group-nylag-mobile"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "e2g5MgiVDsMc2W7",
+	"json": "{\"id\":\"e2g5MgiVDsMc2W7\",\"url\":\"https://www.nysenate.gov/legislation/bills/2015/S2138\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2015/S2138\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571676210,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2015/S2138",
+	"url": "https://www.nysenate.gov/legislation/bills/2015/S2138"
+}

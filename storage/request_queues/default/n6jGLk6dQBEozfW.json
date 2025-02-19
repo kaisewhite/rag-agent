@@ -1,0 +1,9 @@
+{
+	"id": "n6jGLk6dQBEozfW",
+	"json": "{\"id\":\"n6jGLk6dQBEozfW\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/simcha-felder/free-income-tax-preparation-filing-touro-college\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/simcha-felder/free-income-tax-preparation-filing-touro-college\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571181879,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/simcha-felder/free-income-tax-preparation-filing-touro-college",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/simcha-felder/free-income-tax-preparation-filing-touro-college"
+}

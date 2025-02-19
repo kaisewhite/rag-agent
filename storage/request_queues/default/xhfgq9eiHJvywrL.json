@@ -1,0 +1,9 @@
+{
+	"id": "xhfgq9eiHJvywrL",
+	"json": "{\"id\":\"xhfgq9eiHJvywrL\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2022/anna-m-kaplan/free-smoke-alarms-available-nassau-residents-through-senator\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2022/anna-m-kaplan/free-smoke-alarms-available-nassau-residents-through-senator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571358204,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2022/anna-m-kaplan/free-smoke-alarms-available-nassau-residents-through-senator",
+	"url": "https://www.nysenate.gov/newsroom/articles/2022/anna-m-kaplan/free-smoke-alarms-available-nassau-residents-through-senator"
+}

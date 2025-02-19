@@ -1,0 +1,9 @@
+{
+	"id": "FZfNGu5TxDQztxb",
+	"json": "{\"id\":\"FZfNGu5TxDQztxb\",\"url\":\"https://www.nysenate.gov/legislation/laws/BNK/A5-B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/BNK/A5-B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569886233,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/BNK/A5-B",
+	"url": "https://www.nysenate.gov/legislation/laws/BNK/A5-B"
+}

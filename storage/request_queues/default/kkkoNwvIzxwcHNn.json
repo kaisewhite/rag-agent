@@ -1,0 +1,9 @@
+{
+	"id": "kkkoNwvIzxwcHNn",
+	"json": "{\"id\":\"kkkoNwvIzxwcHNn\",\"url\":\"https://www.nysenate.gov/issues/reproductive-rights\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/reproductive-rights\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569586903,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/reproductive-rights",
+	"url": "https://www.nysenate.gov/issues/reproductive-rights"
+}

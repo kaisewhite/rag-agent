@@ -1,0 +1,9 @@
+{
+	"id": "DVkCK1G8nnI3yHe",
+	"json": "{\"id\":\"DVkCK1G8nnI3yHe\",\"url\":\"https://www.nysenate.gov/issues/student-loan-forgiveness\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/student-loan-forgiveness\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740946,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/student-loan-forgiveness",
+	"url": "https://www.nysenate.gov/issues/student-loan-forgiveness"
+}

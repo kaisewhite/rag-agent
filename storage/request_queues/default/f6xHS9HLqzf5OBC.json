@@ -1,0 +1,9 @@
+{
+	"id": "f6xHS9HLqzf5OBC",
+	"json": "{\"id\":\"f6xHS9HLqzf5OBC\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/A2556\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/A2556\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571672397,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/A2556",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/A2556"
+}

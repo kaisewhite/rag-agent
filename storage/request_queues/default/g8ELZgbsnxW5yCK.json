@@ -1,0 +1,9 @@
+{
+	"id": "g8ELZgbsnxW5yCK",
+	"json": "{\"id\":\"g8ELZgbsnxW5yCK\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2014/jack-m-martins/senator-martins-congratulates-miss-haiti\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2014/jack-m-martins/senator-martins-congratulates-miss-haiti\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847587,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2014/jack-m-martins/senator-martins-congratulates-miss-haiti",
+	"url": "https://www.nysenate.gov/newsroom/articles/2014/jack-m-martins/senator-martins-congratulates-miss-haiti"
+}

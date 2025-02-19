@@ -1,0 +1,9 @@
+{
+	"id": "YNRY2rO2m6z2HGf",
+	"json": "{\"id\":\"YNRY2rO2m6z2HGf\",\"url\":\"https://www.nysenate.gov/issues/firefighter\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/firefighter\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571061560,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/firefighter",
+	"url": "https://www.nysenate.gov/issues/firefighter"
+}

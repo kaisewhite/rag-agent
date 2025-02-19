@@ -1,0 +1,9 @@
+{
+	"id": "1rdRnE0NNmgnwg9",
+	"json": "{\"id\":\"1rdRnE0NNmgnwg9\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/september-9-2009-public-hearing-redevelopment-world-trade\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/september-9-2009-public-hearing-redevelopment-world-trade\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741857,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/september-9-2009-public-hearing-redevelopment-world-trade",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/bill-perkins/september-9-2009-public-hearing-redevelopment-world-trade"
+}

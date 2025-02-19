@@ -1,0 +1,9 @@
+{
+	"id": "cXVjVoHV4xLokPr",
+	"json": "{\"id\":\"cXVjVoHV4xLokPr\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/october-02-2018/public-hearings-examine-states-current-parole-policies-and\",\"loadedUrl\":\"https://www.nysenate.gov/calendar/public_hearings/october-02-2018/public-hearings-examine-states-current-parole-policies-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/october-02-2018/public-hearings-examine-states-current-parole-policies-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:21:49.819Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/october-02-2018/public-hearings-examine-states-current-parole-policies-and",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/october-02-2018/public-hearings-examine-states-current-parole-policies-and"
+}

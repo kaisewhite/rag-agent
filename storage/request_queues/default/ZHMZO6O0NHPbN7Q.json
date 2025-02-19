@@ -1,0 +1,9 @@
+{
+	"id": "ZHMZO6O0NHPbN7Q",
+	"json": "{\"id\":\"ZHMZO6O0NHPbN7Q\",\"url\":\"https://www.nysenate.gov/legislation/bills/2021/A6938\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2021/A6938\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570974082,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2021/A6938",
+	"url": "https://www.nysenate.gov/legislation/bills/2021/A6938"
+}

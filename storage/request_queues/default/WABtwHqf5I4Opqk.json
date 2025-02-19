@@ -1,0 +1,9 @@
+{
+	"id": "WABtwHqf5I4Opqk",
+	"json": "{\"id\":\"WABtwHqf5I4Opqk\",\"url\":\"https://www.nysenate.gov/petitions/patrick-m-gallivan/say-no-gas-stove-ban\",\"uniqueKey\":\"GET():https://www.nysenate.gov/petitions/patrick-m-gallivan/say-no-gas-stove-ban\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569637329,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/petitions/patrick-m-gallivan/say-no-gas-stove-ban",
+	"url": "https://www.nysenate.gov/petitions/patrick-m-gallivan/say-no-gas-stove-ban"
+}

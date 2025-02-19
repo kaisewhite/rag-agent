@@ -1,0 +1,9 @@
+{
+	"id": "2nmPbrzTzrJnA9S",
+	"json": "{\"id\":\"2nmPbrzTzrJnA9S\",\"url\":\"https://www.nysenate.gov/legislation/laws/PAR/TG\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PAR/TG\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569948262,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PAR/TG",
+	"url": "https://www.nysenate.gov/legislation/laws/PAR/TG"
+}

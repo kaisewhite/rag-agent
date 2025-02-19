@@ -1,0 +1,9 @@
+{
+	"id": "XhhjTMIO1Ulpd7E",
+	"json": "{\"id\":\"XhhjTMIO1Ulpd7E\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2010/1-27-10-higher-education-testimony\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2010/1-27-10-higher-education-testimony\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781276,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2010/1-27-10-higher-education-testimony",
+	"url": "https://www.nysenate.gov/newsroom/articles/2010/1-27-10-higher-education-testimony"
+}

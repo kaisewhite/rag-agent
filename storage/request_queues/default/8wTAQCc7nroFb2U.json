@@ -1,0 +1,9 @@
+{
+	"id": "8wTAQCc7nroFb2U",
+	"json": "{\"id\":\"8wTAQCc7nroFb2U\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/statement-senator-kavanagh-announcement-cdc-will-limit\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/statement-senator-kavanagh-announcement-cdc-will-limit\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798904,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/statement-senator-kavanagh-announcement-cdc-will-limit",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/statement-senator-kavanagh-announcement-cdc-will-limit"
+}

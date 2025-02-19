@@ -1,0 +1,9 @@
+{
+	"id": "Xr0OhOeXM9uRxNa",
+	"json": "{\"id\":\"Xr0OhOeXM9uRxNa\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2018/canarsie-memorial-day-parade-2018\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2018/canarsie-memorial-day-parade-2018\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246525,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2018/canarsie-memorial-day-parade-2018",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2018/canarsie-memorial-day-parade-2018"
+}

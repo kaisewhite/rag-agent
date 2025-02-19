@@ -1,0 +1,9 @@
+{
+	"id": "6c6fGXf0ueZivlS",
+	"json": "{\"id\":\"6c6fGXf0ueZivlS\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-announces-more-11-million-road\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-announces-more-11-million-road\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569695494,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-announces-more-11-million-road",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/rachel-may/senator-rachel-may-announces-more-11-million-road"
+}

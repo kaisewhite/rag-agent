@@ -1,0 +1,9 @@
+{
+	"id": "ooDNRmxPMB0CKJk",
+	"json": "{\"id\":\"ooDNRmxPMB0CKJk\",\"url\":\"https://www.nysenate.gov/issues/cutting-taxes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/cutting-taxes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698361,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/cutting-taxes",
+	"url": "https://www.nysenate.gov/issues/cutting-taxes"
+}

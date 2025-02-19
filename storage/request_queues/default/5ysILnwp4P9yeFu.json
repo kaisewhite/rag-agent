@@ -1,0 +1,9 @@
+{
+	"id": "5ysILnwp4P9yeFu",
+	"json": "{\"id\":\"5ysILnwp4P9yeFu\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2009/proposed-affiliation-polytechnic-university-and-new-york-university\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2009/proposed-affiliation-polytechnic-university-and-new-york-university\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788190,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2009/proposed-affiliation-polytechnic-university-and-new-york-university",
+	"url": "https://www.nysenate.gov/newsroom/articles/2009/proposed-affiliation-polytechnic-university-and-new-york-university"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "Exf69KUetBfPxGQ",
+	"json": "{\"id\":\"Exf69KUetBfPxGQ\",\"url\":\"https://www.nysenate.gov/newsroom/video/jessica-ramos/senator-ramos-2024-veterans-hall-fame\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/jessica-ramos/senator-ramos-2024-veterans-hall-fame\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569665061,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/jessica-ramos/senator-ramos-2024-veterans-hall-fame",
+	"url": "https://www.nysenate.gov/newsroom/video/jessica-ramos/senator-ramos-2024-veterans-hall-fame"
+}

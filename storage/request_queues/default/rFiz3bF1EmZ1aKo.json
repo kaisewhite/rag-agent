@@ -1,0 +1,9 @@
+{
+	"id": "rFiz3bF1EmZ1aKo",
+	"json": "{\"id\":\"rFiz3bF1EmZ1aKo\",\"url\":\"https://www.nysenate.gov/legislation/laws/GBS/A41\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/GBS/A41\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569921834,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/GBS/A41",
+	"url": "https://www.nysenate.gov/legislation/laws/GBS/A41"
+}

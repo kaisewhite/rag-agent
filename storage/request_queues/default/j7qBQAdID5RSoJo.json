@@ -1,0 +1,9 @@
+{
+	"id": "j7qBQAdID5RSoJo",
+	"json": "{\"id\":\"j7qBQAdID5RSoJo\",\"url\":\"https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/february-25-2016/bag-plastic-impact-plastic-bags-our-environment\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/february-25-2016/bag-plastic-impact-plastic-bags-our-environment\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570179035,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/february-25-2016/bag-plastic-impact-plastic-bags-our-environment",
+	"url": "https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/february-25-2016/bag-plastic-impact-plastic-bags-our-environment"
+}

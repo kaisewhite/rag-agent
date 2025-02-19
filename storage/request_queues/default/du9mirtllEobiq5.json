@@ -1,0 +1,9 @@
+{
+	"id": "du9mirtllEobiq5",
+	"json": "{\"id\":\"du9mirtllEobiq5\",\"url\":\"https://www.nysenate.gov/dashboard/senators/anna-m-kaplan\",\"loadedUrl\":\"https://www.nysenate.gov/\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/anna-m-kaplan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:09:52.339Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/anna-m-kaplan",
+	"url": "https://www.nysenate.gov/dashboard/senators/anna-m-kaplan"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "kdlFWQQO2RVZ7kz",
+	"json": "{\"id\":\"kdlFWQQO2RVZ7kz\",\"url\":\"https://www.nysenate.gov/calendar/events/corporations-authorities-and-commissions/bill-perkins/december-19-2009/community\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/corporations-authorities-and-commissions/bill-perkins/december-19-2009/community\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569741837,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/corporations-authorities-and-commissions/bill-perkins/december-19-2009/community",
+	"url": "https://www.nysenate.gov/calendar/events/corporations-authorities-and-commissions/bill-perkins/december-19-2009/community"
+}

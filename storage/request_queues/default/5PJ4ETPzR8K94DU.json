@@ -1,0 +1,9 @@
+{
+	"id": "5PJ4ETPzR8K94DU",
+	"json": "{\"id\":\"5PJ4ETPzR8K94DU\",\"url\":\"https://www.nysenate.gov/issues/office-cannabis-management-ocm\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/office-cannabis-management-ocm\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570190559,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/office-cannabis-management-ocm",
+	"url": "https://www.nysenate.gov/issues/office-cannabis-management-ocm"
+}

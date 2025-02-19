@@ -1,0 +1,9 @@
+{
+	"id": "bTbuAtV2Zje0N9O",
+	"json": "{\"id\":\"bTbuAtV2Zje0N9O\",\"url\":\"https://www.nysenate.gov/dashboard/senators/david-carlucci\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/david-carlucci\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571027921,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/david-carlucci",
+	"url": "https://www.nysenate.gov/dashboard/senators/david-carlucci"
+}

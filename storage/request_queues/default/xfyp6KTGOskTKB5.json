@@ -1,0 +1,9 @@
+{
+	"id": "xfyp6KTGOskTKB5",
+	"json": "{\"id\":\"xfyp6KTGOskTKB5\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/A6062\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/A6062\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570073506,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/A6062",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/A6062"
+}

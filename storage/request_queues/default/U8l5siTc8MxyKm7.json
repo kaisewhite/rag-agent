@@ -1,0 +1,9 @@
+{
+	"id": "U8l5siTc8MxyKm7",
+	"json": "{\"id\":\"U8l5siTc8MxyKm7\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/pamela-helming/our-district-beautiful-lets-keep-it-way\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/pamela-helming/our-district-beautiful-lets-keep-it-way\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569555028,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/pamela-helming/our-district-beautiful-lets-keep-it-way",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/pamela-helming/our-district-beautiful-lets-keep-it-way"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "BMvM2qLawm3AhHR",
+	"json": "{\"id\":\"BMvM2qLawm3AhHR\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBA/A6\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBA/A6\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569949869,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBA/A6",
+	"url": "https://www.nysenate.gov/legislation/laws/PBA/A6"
+}

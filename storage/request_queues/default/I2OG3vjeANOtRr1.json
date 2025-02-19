@@ -1,0 +1,9 @@
+{
+	"id": "I2OG3vjeANOtRr1",
+	"json": "{\"id\":\"I2OG3vjeANOtRr1\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/senate-introduces-ethics-reform-disclosure-bill\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/senate-introduces-ethics-reform-disclosure-bill\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770313,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/senate-introduces-ethics-reform-disclosure-bill",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/malcolm-smith/senate-introduces-ethics-reform-disclosure-bill"
+}

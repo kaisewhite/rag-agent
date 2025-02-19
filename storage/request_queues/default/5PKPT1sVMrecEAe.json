@@ -1,0 +1,9 @@
+{
+	"id": "5PKPT1sVMrecEAe",
+	"json": "{\"id\":\"5PKPT1sVMrecEAe\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/stephen-saland/senate-gives-final-legislative-passage-juvenile-sexting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/stephen-saland/senate-gives-final-legislative-passage-juvenile-sexting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725897,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/stephen-saland/senate-gives-final-legislative-passage-juvenile-sexting",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/stephen-saland/senate-gives-final-legislative-passage-juvenile-sexting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "VFDy8sIrq0CoTgy",
+	"json": "{\"id\":\"VFDy8sIrq0CoTgy\",\"url\":\"https://www.nysenate.gov/issues/protecting-natural-resources\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/protecting-natural-resources\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770635,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/protecting-natural-resources",
+	"url": "https://www.nysenate.gov/issues/protecting-natural-resources"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "u16JebTUpz9kyaO",
+	"json": "{\"id\":\"u16JebTUpz9kyaO\",\"url\":\"https://www.nysenate.gov/legislation/laws/ISC/A67\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ISC/A67\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569932500,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ISC/A67",
+	"url": "https://www.nysenate.gov/legislation/laws/ISC/A67"
+}

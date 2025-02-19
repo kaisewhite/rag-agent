@@ -1,0 +1,9 @@
+{
+	"id": "ije5ezALsdkyaGv",
+	"json": "{\"id\":\"ije5ezALsdkyaGv\",\"url\":\"https://www.nysenate.gov/dashboard/senators/jessica-scarcella-spanton\",\"uniqueKey\":\"GET():https://www.nysenate.gov/dashboard/senators/jessica-scarcella-spanton\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570194131,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/dashboard/senators/jessica-scarcella-spanton",
+	"url": "https://www.nysenate.gov/dashboard/senators/jessica-scarcella-spanton"
+}

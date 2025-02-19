@@ -1,0 +1,9 @@
+{
+	"id": "snz4P6lkXmyRvme",
+	"json": "{\"id\":\"snz4P6lkXmyRvme\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/samra-g-brouk/senator-brouk-issues-proclamation-noodle-pug-observance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/samra-g-brouk/senator-brouk-issues-proclamation-noodle-pug-observance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569591523,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/samra-g-brouk/senator-brouk-issues-proclamation-noodle-pug-observance",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/samra-g-brouk/senator-brouk-issues-proclamation-noodle-pug-observance"
+}

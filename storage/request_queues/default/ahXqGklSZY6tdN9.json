@@ -1,0 +1,9 @@
+{
+	"id": "ahXqGklSZY6tdN9",
+	"json": "{\"id\":\"ahXqGklSZY6tdN9\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S2729\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S2729\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571522635,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S2729",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S2729"
+}

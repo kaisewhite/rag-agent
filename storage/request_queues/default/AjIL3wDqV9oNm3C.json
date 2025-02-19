@@ -1,0 +1,9 @@
+{
+	"id": "AjIL3wDqV9oNm3C",
+	"json": "{\"id\":\"AjIL3wDqV9oNm3C\",\"url\":\"https://www.nysenate.gov/legislation/laws/TRA/A2-B\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/TRA/A2-B\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569987422,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/TRA/A2-B",
+	"url": "https://www.nysenate.gov/legislation/laws/TRA/A2-B"
+}

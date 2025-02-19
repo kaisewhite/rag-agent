@@ -1,0 +1,9 @@
+{
+	"id": "fI5acUF9sC23o5a",
+	"json": "{\"id\":\"fI5acUF9sC23o5a\",\"url\":\"https://www.nysenate.gov/issues/keeping-families-together\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/keeping-families-together\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717607,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/keeping-families-together",
+	"url": "https://www.nysenate.gov/issues/keeping-families-together"
+}

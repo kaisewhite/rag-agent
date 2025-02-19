@@ -1,0 +1,9 @@
+{
+	"id": "74KafX3RA6M6HIP",
+	"json": "{\"id\":\"74KafX3RA6M6HIP\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/S5122\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/S5122\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571180374,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/S5122",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/S5122"
+}

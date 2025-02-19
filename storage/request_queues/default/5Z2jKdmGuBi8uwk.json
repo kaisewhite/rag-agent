@@ -1,0 +1,9 @@
+{
+	"id": "5Z2jKdmGuBi8uwk",
+	"json": "{\"id\":\"5Z2jKdmGuBi8uwk\",\"url\":\"https://www.nysenate.gov/legislation/bills/2019/S4447\",\"loadedUrl\":\"https://www.nysenate.gov/legislation/bills/2019/S4447\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2019/S4447\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:10:39.497Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2019/S4447",
+	"url": "https://www.nysenate.gov/legislation/bills/2019/S4447"
+}

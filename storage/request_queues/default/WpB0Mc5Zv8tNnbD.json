@@ -1,0 +1,9 @@
+{
+	"id": "WpB0Mc5Zv8tNnbD",
+	"json": "{\"id\":\"WpB0Mc5Zv8tNnbD\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/A1067\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/A1067\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570073503,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/A1067",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/A1067"
+}

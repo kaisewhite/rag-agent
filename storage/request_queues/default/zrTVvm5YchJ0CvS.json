@@ -1,0 +1,9 @@
+{
+	"id": "zrTVvm5YchJ0CvS",
+	"json": "{\"id\":\"zrTVvm5YchJ0CvS\",\"url\":\"https://www.nysenate.gov/issues/homeowners-rights-federal-shutdown\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/homeowners-rights-federal-shutdown\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571311380,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/homeowners-rights-federal-shutdown",
+	"url": "https://www.nysenate.gov/issues/homeowners-rights-federal-shutdown"
+}

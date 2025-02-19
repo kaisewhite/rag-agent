@@ -1,0 +1,9 @@
+{
+	"id": "MEYW6KXXGK5Fvgn",
+	"json": "{\"id\":\"MEYW6KXXGK5Fvgn\",\"url\":\"https://www.nysenate.gov/legislation/laws/LAB/A21\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/LAB/A21\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569933868,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/LAB/A21",
+	"url": "https://www.nysenate.gov/legislation/laws/LAB/A21"
+}

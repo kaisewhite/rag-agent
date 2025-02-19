@@ -1,0 +1,9 @@
+{
+	"id": "V5ioqKkfxBoVHp9",
+	"json": "{\"id\":\"V5ioqKkfxBoVHp9\",\"url\":\"https://www.nysenate.gov/issues/new-york-state-department-environmental-conservation\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/new-york-state-department-environmental-conservation\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770693,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/new-york-state-department-environmental-conservation",
+	"url": "https://www.nysenate.gov/issues/new-york-state-department-environmental-conservation"
+}

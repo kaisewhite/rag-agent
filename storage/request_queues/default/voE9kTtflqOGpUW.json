@@ -1,0 +1,9 @@
+{
+	"id": "voE9kTtflqOGpUW",
+	"json": "{\"id\":\"voE9kTtflqOGpUW\",\"url\":\"https://www.nysenate.gov/profiles/2024/brad-hoylman-sigal/polly-spain\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/brad-hoylman-sigal/polly-spain\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/brad-hoylman-sigal/polly-spain\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:58:44.649Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/brad-hoylman-sigal/polly-spain",
+	"url": "https://www.nysenate.gov/profiles/2024/brad-hoylman-sigal/polly-spain"
+}

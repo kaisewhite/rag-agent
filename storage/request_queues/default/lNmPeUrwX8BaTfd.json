@@ -1,0 +1,9 @@
+{
+	"id": "lNmPeUrwX8BaTfd",
+	"json": "{\"id\":\"lNmPeUrwX8BaTfd\",\"url\":\"https://www.nysenate.gov/calendar/meetings/health/june-11-2012/health-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/health/june-11-2012/health-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781018,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/health/june-11-2012/health-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/health/june-11-2012/health-meeting"
+}

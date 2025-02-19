@@ -1,0 +1,9 @@
+{
+	"id": "3h3Aisx6YoAAi92",
+	"json": "{\"id\":\"3h3Aisx6YoAAi92\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/pete-harckham/bill-rights-star-recipients\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/pete-harckham/bill-rights-star-recipients\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569642377,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/pete-harckham/bill-rights-star-recipients",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/pete-harckham/bill-rights-star-recipients"
+}

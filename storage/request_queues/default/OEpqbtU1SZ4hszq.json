@@ -1,0 +1,9 @@
+{
+	"id": "OEpqbtU1SZ4hszq",
+	"json": "{\"id\":\"OEpqbtU1SZ4hszq\",\"url\":\"https://www.nysenate.gov/profiles/2024/john-w-mannion/linda-r-ervin\",\"loadedUrl\":\"https://www.nysenate.gov/profiles/2024/john-w-mannion/linda-r-ervin\",\"uniqueKey\":\"GET():https://www.nysenate.gov/profiles/2024/john-w-mannion/linda-r-ervin\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:59:25.175Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/profiles/2024/john-w-mannion/linda-r-ervin",
+	"url": "https://www.nysenate.gov/profiles/2024/john-w-mannion/linda-r-ervin"
+}

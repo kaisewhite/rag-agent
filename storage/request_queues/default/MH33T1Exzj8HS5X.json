@@ -1,0 +1,9 @@
+{
+	"id": "MH33T1Exzj8HS5X",
+	"json": "{\"id\":\"MH33T1Exzj8HS5X\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/anna-m-kaplan/lawmakers-announce-massive-funding-increase-nassau-county\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/anna-m-kaplan/lawmakers-announce-massive-funding-increase-nassau-county\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571147547,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/anna-m-kaplan/lawmakers-announce-massive-funding-increase-nassau-county",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/anna-m-kaplan/lawmakers-announce-massive-funding-increase-nassau-county"
+}

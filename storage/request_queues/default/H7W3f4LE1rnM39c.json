@@ -1,0 +1,9 @@
+{
+	"id": "H7W3f4LE1rnM39c",
+	"json": "{\"id\":\"H7W3f4LE1rnM39c\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-21-2019/madison-marine-homecrest-civic-association\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-21-2019/madison-marine-homecrest-civic-association\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246850,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-21-2019/madison-marine-homecrest-civic-association",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/february-21-2019/madison-marine-homecrest-civic-association"
+}

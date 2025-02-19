@@ -1,0 +1,9 @@
+{
+	"id": "ze2mKiEValmbEip",
+	"json": "{\"id\":\"ze2mKiEValmbEip\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2015/thomas-f-omara/dec-announces-2015-16-waterfowl-season-dates-find-out-more\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2015/thomas-f-omara/dec-announces-2015-16-waterfowl-season-dates-find-out-more\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770743,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2015/thomas-f-omara/dec-announces-2015-16-waterfowl-season-dates-find-out-more",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2015/thomas-f-omara/dec-announces-2015-16-waterfowl-season-dates-find-out-more"
+}

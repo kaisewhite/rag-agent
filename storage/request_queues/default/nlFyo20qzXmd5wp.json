@@ -1,0 +1,9 @@
+{
+	"id": "nlFyo20qzXmd5wp",
+	"json": "{\"id\":\"nlFyo20qzXmd5wp\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/senator-thomas-introduces-ny-privacy-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/senator-thomas-introduces-ny-privacy-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740974,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/senator-thomas-introduces-ny-privacy-act",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2019/kevin-thomas/senator-thomas-introduces-ny-privacy-act"
+}

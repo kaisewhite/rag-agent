@@ -1,0 +1,9 @@
+{
+	"id": "OQhuIUzK4YpmOc6",
+	"json": "{\"id\":\"OQhuIUzK4YpmOc6\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVP/A30\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVP/A30\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569898488,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVP/A30",
+	"url": "https://www.nysenate.gov/legislation/laws/CVP/A30"
+}

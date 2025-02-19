@@ -1,0 +1,9 @@
+{
+	"id": "6hIdNLwx9eG3H0c",
+	"json": "{\"id\":\"6hIdNLwx9eG3H0c\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Emergency%20Services%20or%20FEMA\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Emergency+Services+or+FEMA\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571137479,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Emergency+Services+or+FEMA",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Emergency%20Services%20or%20FEMA"
+}

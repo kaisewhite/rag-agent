@@ -1,0 +1,9 @@
+{
+	"id": "loZlp7TrTx3iHp7",
+	"json": "{\"id\":\"loZlp7TrTx3iHp7\",\"url\":\"https://www.nysenate.gov/calendar/events/children-and-families/jabari-brisport/december-15-2021/universal-child-care-act\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/children-and-families/jabari-brisport/december-15-2021/universal-child-care-act\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569717575,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/children-and-families/jabari-brisport/december-15-2021/universal-child-care-act",
+	"url": "https://www.nysenate.gov/calendar/events/children-and-families/jabari-brisport/december-15-2021/universal-child-care-act"
+}

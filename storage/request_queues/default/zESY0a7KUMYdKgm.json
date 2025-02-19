@@ -1,0 +1,9 @@
+{
+	"id": "zESY0a7KUMYdKgm",
+	"json": "{\"id\":\"zESY0a7KUMYdKgm\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2021/anthony-h-palumbo/palumbo-senate-democrats-once-again-block-effort\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2021/anthony-h-palumbo/palumbo-senate-democrats-once-again-block-effort\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571638040,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2021/anthony-h-palumbo/palumbo-senate-democrats-once-again-block-effort",
+	"url": "https://www.nysenate.gov/newsroom/articles/2021/anthony-h-palumbo/palumbo-senate-democrats-once-again-block-effort"
+}

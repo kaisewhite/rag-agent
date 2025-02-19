@@ -1,0 +1,9 @@
+{
+	"id": "rkCN3YDrXMAGJ7d",
+	"json": "{\"id\":\"rkCN3YDrXMAGJ7d\",\"url\":\"https://www.nysenate.gov/senators/robert-jackson/newsroom\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/robert-jackson/newsroom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569646424,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/robert-jackson/newsroom",
+	"url": "https://www.nysenate.gov/senators/robert-jackson/newsroom"
+}

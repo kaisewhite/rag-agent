@@ -1,0 +1,9 @@
+{
+	"id": "bkx3viw3QyCZ1Hr",
+	"json": "{\"id\":\"bkx3viw3QyCZ1Hr\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/senate-takes-initial-steps-address-covid-19-housing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/senate-takes-initial-steps-address-covid-19-housing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798915,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/senate-takes-initial-steps-address-covid-19-housing",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/senate-takes-initial-steps-address-covid-19-housing"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3baJzNaszdBZOiU",
+	"json": "{\"id\":\"3baJzNaszdBZOiU\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-04-2017/tenant-support-services-info-session\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-04-2017/tenant-support-services-info-session\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246375,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-04-2017/tenant-support-services-info-session",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-04-2017/tenant-support-services-info-session"
+}

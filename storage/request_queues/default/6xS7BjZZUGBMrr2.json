@@ -1,0 +1,9 @@
+{
+	"id": "6xS7BjZZUGBMrr2",
+	"json": "{\"id\":\"6xS7BjZZUGBMrr2\",\"url\":\"https://www.nysenate.gov/calendar/meetings/higher-education/may-07-2024/higher-education-meeting?page=1\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-07-2024/higher-education-meeting?page=1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571015531,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/higher-education/may-07-2024/higher-education-meeting?page=1",
+	"url": "https://www.nysenate.gov/calendar/meetings/higher-education/may-07-2024/higher-education-meeting?page=1"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "yH3aYXSM0zonFFc",
+	"json": "{\"id\":\"yH3aYXSM0zonFFc\",\"url\":\"https://www.nysenate.gov/issues/privacy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/privacy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740939,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/privacy",
+	"url": "https://www.nysenate.gov/issues/privacy"
+}

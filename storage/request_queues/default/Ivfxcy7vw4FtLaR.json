@@ -1,0 +1,9 @@
+{
+	"id": "Ivfxcy7vw4FtLaR",
+	"json": "{\"id\":\"Ivfxcy7vw4FtLaR\",\"url\":\"https://www.nysenate.gov/issues/building-codes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/building-codes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571367413,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/building-codes",
+	"url": "https://www.nysenate.gov/issues/building-codes"
+}

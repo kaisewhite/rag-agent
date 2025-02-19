@@ -1,0 +1,9 @@
+{
+	"id": "SCuO0LY1XW6g7jM",
+	"json": "{\"id\":\"SCuO0LY1XW6g7jM\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/march-21-2023/joint-budget-subcommittees-public-protection-criminal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/march-21-2023/joint-budget-subcommittees-public-protection-criminal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725848,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/march-21-2023/joint-budget-subcommittees-public-protection-criminal",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/march-21-2023/joint-budget-subcommittees-public-protection-criminal"
+}

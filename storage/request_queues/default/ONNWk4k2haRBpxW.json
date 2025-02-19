@@ -1,0 +1,9 @@
+{
+	"id": "ONNWk4k2haRBpxW",
+	"json": "{\"id\":\"ONNWk4k2haRBpxW\",\"url\":\"https://www.nysenate.gov/issues/senior-safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/senior-safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698366,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/senior-safety",
+	"url": "https://www.nysenate.gov/issues/senior-safety"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "n35IJA4pB7iEw3y",
+	"json": "{\"id\":\"n35IJA4pB7iEw3y\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/john-sampson/arrc-accepting-electronic-submission-agency-rule-makings\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/john-sampson/arrc-accepting-electronic-submission-agency-rule-makings\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686729,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/john-sampson/arrc-accepting-electronic-submission-agency-rule-makings",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/john-sampson/arrc-accepting-electronic-submission-agency-rule-makings"
+}

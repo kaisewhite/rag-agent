@@ -1,0 +1,9 @@
+{
+	"id": "hIf25Kx1kxMz40N",
+	"json": "{\"id\":\"hIf25Kx1kxMz40N\",\"url\":\"https://www.nysenate.gov/calendar/meetings/local-government/april-30-2013/local-government-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/local-government/april-30-2013/local-government-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847561,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/local-government/april-30-2013/local-government-meeting",
+	"url": "https://www.nysenate.gov/calendar/meetings/local-government/april-30-2013/local-government-meeting"
+}

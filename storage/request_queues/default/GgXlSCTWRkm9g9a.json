@@ -1,0 +1,9 @@
+{
+	"id": "GgXlSCTWRkm9g9a",
+	"json": "{\"id\":\"GgXlSCTWRkm9g9a\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/john-w-mannion/senate-majority-pass-rail-safety-bills-following-recent\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/john-w-mannion/senate-majority-pass-rail-safety-bills-following-recent\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571544228,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/john-w-mannion/senate-majority-pass-rail-safety-bills-following-recent",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/john-w-mannion/senate-majority-pass-rail-safety-bills-following-recent"
+}

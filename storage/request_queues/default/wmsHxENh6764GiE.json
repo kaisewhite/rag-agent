@@ -1,0 +1,9 @@
+{
+	"id": "wmsHxENh6764GiE",
+	"json": "{\"id\":\"wmsHxENh6764GiE\",\"url\":\"https://www.nysenate.gov/calendar/events/liz-krueger/april-30-2019/public-hearing-fossil-fuel-divestment\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/liz-krueger/april-30-2019/public-hearing-fossil-fuel-divestment\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570752675,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/liz-krueger/april-30-2019/public-hearing-fossil-fuel-divestment",
+	"url": "https://www.nysenate.gov/calendar/events/liz-krueger/april-30-2019/public-hearing-fossil-fuel-divestment"
+}

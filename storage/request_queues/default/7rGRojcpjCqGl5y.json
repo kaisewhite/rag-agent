@@ -1,0 +1,9 @@
+{
+	"id": "7rGRojcpjCqGl5y",
+	"json": "{\"id\":\"7rGRojcpjCqGl5y\",\"url\":\"https://www.nysenate.gov/issues/health-data\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/health-data\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740964,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/health-data",
+	"url": "https://www.nysenate.gov/issues/health-data"
+}

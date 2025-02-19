@@ -1,0 +1,9 @@
+{
+	"id": "npbAQ4N21P3uhde",
+	"json": "{\"id\":\"npbAQ4N21P3uhde\",\"url\":\"https://www.nysenate.gov/senators/kristen-gonzalez/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/kristen-gonzalez/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569639729,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/kristen-gonzalez/district",
+	"url": "https://www.nysenate.gov/senators/kristen-gonzalez/district"
+}

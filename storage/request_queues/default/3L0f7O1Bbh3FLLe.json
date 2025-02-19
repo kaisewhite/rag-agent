@@ -1,0 +1,9 @@
+{
+	"id": "3L0f7O1Bbh3FLLe",
+	"json": "{\"id\":\"3L0f7O1Bbh3FLLe\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/A2226\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/A2226\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571456043,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/A2226",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/A2226"
+}

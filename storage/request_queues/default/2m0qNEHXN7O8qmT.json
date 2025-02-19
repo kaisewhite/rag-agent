@@ -1,0 +1,9 @@
+{
+	"id": "2m0qNEHXN7O8qmT",
+	"json": "{\"id\":\"2m0qNEHXN7O8qmT\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-bill-protect-domestic-violence\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-bill-protect-domestic-violence\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571439444,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-bill-protect-domestic-violence",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-bill-protect-domestic-violence"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "a13Q27jUYq7w3vb",
+	"json": "{\"id\":\"a13Q27jUYq7w3vb\",\"url\":\"https://www.nysenate.gov/newsroom/video/michael-gianaris/senate-deputy-leader-gianaris-votes-extend-new-yorks-eviction\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/video/michael-gianaris/senate-deputy-leader-gianaris-votes-extend-new-yorks-eviction\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570733403,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/video/michael-gianaris/senate-deputy-leader-gianaris-votes-extend-new-yorks-eviction",
+	"url": "https://www.nysenate.gov/newsroom/video/michael-gianaris/senate-deputy-leader-gianaris-votes-extend-new-yorks-eviction"
+}

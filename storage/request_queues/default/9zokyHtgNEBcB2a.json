@@ -1,0 +1,9 @@
+{
+	"id": "9zokyHtgNEBcB2a",
+	"json": "{\"id\":\"9zokyHtgNEBcB2a\",\"url\":\"https://www.nysenate.gov/issues/environmental-sustainability\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/environmental-sustainability\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770681,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/environmental-sustainability",
+	"url": "https://www.nysenate.gov/issues/environmental-sustainability"
+}

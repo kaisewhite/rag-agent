@@ -1,0 +1,9 @@
+{
+	"id": "QHcEuWG78ej0kOI",
+	"json": "{\"id\":\"QHcEuWG78ej0kOI\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2021/rachel-may/senator-may-announces-final-2021-2022-budget-highlights\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2021/rachel-may/senator-may-announces-final-2021-2022-budget-highlights\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698347,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2021/rachel-may/senator-may-announces-final-2021-2022-budget-highlights",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2021/rachel-may/senator-may-announces-final-2021-2022-budget-highlights"
+}

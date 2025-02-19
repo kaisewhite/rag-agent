@@ -1,0 +1,9 @@
+{
+	"id": "EgXel1lY20NLC7C",
+	"json": "{\"id\":\"EgXel1lY20NLC7C\",\"url\":\"https://www.nysenate.gov/issues/israel\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/israel\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570257767,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/israel",
+	"url": "https://www.nysenate.gov/issues/israel"
+}

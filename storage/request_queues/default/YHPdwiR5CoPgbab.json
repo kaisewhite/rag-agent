@@ -1,0 +1,9 @@
+{
+	"id": "YHPdwiR5CoPgbab",
+	"json": "{\"id\":\"YHPdwiR5CoPgbab\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/october-29-2013/regents-reform-agenda-assessing-our-progress\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/october-29-2013/regents-reform-agenda-assessing-our-progress\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755168,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/october-29-2013/regents-reform-agenda-assessing-our-progress",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/october-29-2013/regents-reform-agenda-assessing-our-progress"
+}

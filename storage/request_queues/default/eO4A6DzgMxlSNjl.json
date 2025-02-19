@@ -1,0 +1,9 @@
+{
+	"id": "eO4A6DzgMxlSNjl",
+	"json": "{\"id\":\"eO4A6DzgMxlSNjl\",\"url\":\"https://www.nysenate.gov/issues/film-and-tv-industry\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/film-and-tv-industry\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569740948,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/film-and-tv-industry",
+	"url": "https://www.nysenate.gov/issues/film-and-tv-industry"
+}

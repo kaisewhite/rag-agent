@@ -1,0 +1,9 @@
+{
+	"id": "VJt8YkvZcf4eN4d",
+	"json": "{\"id\":\"VJt8YkvZcf4eN4d\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2016/stop-violence-our-community-bike-tour\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2016/stop-violence-our-community-bike-tour\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246318,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2016/stop-violence-our-community-bike-tour",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-21-2016/stop-violence-our-community-bike-tour"
+}

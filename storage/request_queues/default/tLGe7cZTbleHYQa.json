@@ -1,0 +1,9 @@
+{
+	"id": "tLGe7cZTbleHYQa",
+	"json": "{\"id\":\"tLGe7cZTbleHYQa\",\"url\":\"https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/december-04-2015/mobile-legal-help-clinic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/december-04-2015/mobile-legal-help-clinic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570179033,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/december-04-2015/mobile-legal-help-clinic",
+	"url": "https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/december-04-2015/mobile-legal-help-clinic"
+}

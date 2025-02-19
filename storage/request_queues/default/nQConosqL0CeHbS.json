@@ -1,0 +1,9 @@
+{
+	"id": "nQConosqL0CeHbS",
+	"json": "{\"id\":\"nQConosqL0CeHbS\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/eric-adams/senator-adams-commends-outstanding-work-law-enforcement\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/eric-adams/senator-adams-commends-outstanding-work-law-enforcement\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855434,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/eric-adams/senator-adams-commends-outstanding-work-law-enforcement",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/eric-adams/senator-adams-commends-outstanding-work-law-enforcement"
+}

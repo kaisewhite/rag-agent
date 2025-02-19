@@ -1,0 +1,9 @@
+{
+	"id": "5TSMVLR5N00MGai",
+	"json": "{\"id\":\"5TSMVLR5N00MGai\",\"url\":\"https://www.nysenate.gov/issues/lead-poisoning\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/lead-poisoning\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570047354,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/lead-poisoning",
+	"url": "https://www.nysenate.gov/issues/lead-poisoning"
+}

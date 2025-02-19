@@ -1,0 +1,9 @@
+{
+	"id": "Z4UkEFaxJ8g2thd",
+	"json": "{\"id\":\"Z4UkEFaxJ8g2thd\",\"url\":\"https://www.nysenate.gov/legislation/laws/TWN/A2\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/TWN/A2\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569987543,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/TWN/A2",
+	"url": "https://www.nysenate.gov/legislation/laws/TWN/A2"
+}

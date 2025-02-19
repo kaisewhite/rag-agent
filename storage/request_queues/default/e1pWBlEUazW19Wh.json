@@ -1,0 +1,9 @@
+{
+	"id": "e1pWBlEUazW19Wh",
+	"json": "{\"id\":\"e1pWBlEUazW19Wh\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/times-union-new-yorks-legislators-reckon-systemic-racism\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/times-union-new-yorks-legislators-reckon-systemic-racism\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798908,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/times-union-new-yorks-legislators-reckon-systemic-racism",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/times-union-new-yorks-legislators-reckon-systemic-racism"
+}

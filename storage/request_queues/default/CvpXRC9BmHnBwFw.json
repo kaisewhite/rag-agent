@@ -1,0 +1,9 @@
+{
+	"id": "CvpXRC9BmHnBwFw",
+	"json": "{\"id\":\"CvpXRC9BmHnBwFw\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-01-2023/property-tax-help-night\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-01-2023/property-tax-help-night\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247430,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-01-2023/property-tax-help-night",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/march-01-2023/property-tax-help-night"
+}

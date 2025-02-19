@@ -1,0 +1,9 @@
+{
+	"id": "HquhpmO7X23bmle",
+	"json": "{\"id\":\"HquhpmO7X23bmle\",\"url\":\"https://www.nysenate.gov/issues/hotel-conversions\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/hotel-conversions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798868,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/hotel-conversions",
+	"url": "https://www.nysenate.gov/issues/hotel-conversions"
+}

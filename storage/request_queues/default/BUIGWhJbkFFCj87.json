@@ -1,0 +1,9 @@
+{
+	"id": "BUIGWhJbkFFCj87",
+	"json": "{\"id\":\"BUIGWhJbkFFCj87\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/jabari-brisport/22-state-lawmakers-urge-adams-sign-broker-fee-ban\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/jabari-brisport/22-state-lawmakers-urge-adams-sign-broker-fee-ban\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569617847,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/jabari-brisport/22-state-lawmakers-urge-adams-sign-broker-fee-ban",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/jabari-brisport/22-state-lawmakers-urge-adams-sign-broker-fee-ban"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "1q9VFyKq8Cp3dBy",
+	"json": "{\"id\":\"1q9VFyKq8Cp3dBy\",\"url\":\"https://www.nysenate.gov/calendar/public-hearings/november-20-2024/joint-public-hearing-examine-and-evaluate-independent\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public-hearings/november-20-2024/joint-public-hearing-examine-and-evaluate-independent\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569808588,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public-hearings/november-20-2024/joint-public-hearing-examine-and-evaluate-independent",
+	"url": "https://www.nysenate.gov/calendar/public-hearings/november-20-2024/joint-public-hearing-examine-and-evaluate-independent"
+}

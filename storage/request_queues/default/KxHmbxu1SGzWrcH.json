@@ -1,0 +1,9 @@
+{
+	"id": "KxHmbxu1SGzWrcH",
+	"json": "{\"id\":\"KxHmbxu1SGzWrcH\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/february-15-2019/public-hearing-discuss-climate-and-community-protection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/february-15-2019/public-hearing-discuss-climate-and-community-protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770646,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/february-15-2019/public-hearing-discuss-climate-and-community-protection",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/february-15-2019/public-hearing-discuss-climate-and-community-protection"
+}

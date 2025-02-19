@@ -1,0 +1,9 @@
+{
+	"id": "lbbZE4dxCoEaRT1",
+	"json": "{\"id\":\"lbbZE4dxCoEaRT1\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/senate-majority-bolsters-support-new-york-city-public\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/senate-majority-bolsters-support-new-york-city-public\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798929,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/senate-majority-bolsters-support-new-york-city-public",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/pedro-espada/senate-majority-bolsters-support-new-york-city-public"
+}

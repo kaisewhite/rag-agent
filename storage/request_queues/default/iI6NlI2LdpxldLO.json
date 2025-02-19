@@ -1,0 +1,9 @@
+{
+	"id": "iI6NlI2LdpxldLO",
+	"json": "{\"id\":\"iI6NlI2LdpxldLO\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/more-oversight-long-island-power-authority\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/more-oversight-long-island-power-authority\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569765727,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/more-oversight-long-island-power-authority",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/george-maziarz/more-oversight-long-island-power-authority"
+}

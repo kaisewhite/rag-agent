@@ -1,0 +1,9 @@
+{
+	"id": "yC3f7m8on79B16r",
+	"json": "{\"id\":\"yC3f7m8on79B16r\",\"url\":\"https://www.nysenate.gov/issues/gaming-compact\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/gaming-compact\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571550944,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/gaming-compact",
+	"url": "https://www.nysenate.gov/issues/gaming-compact"
+}

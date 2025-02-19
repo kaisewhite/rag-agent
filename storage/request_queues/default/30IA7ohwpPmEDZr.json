@@ -1,0 +1,9 @@
+{
+	"id": "30IA7ohwpPmEDZr",
+	"json": "{\"id\":\"30IA7ohwpPmEDZr\",\"url\":\"https://www.nysenate.gov/issues/dec\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/dec\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569593417,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/dec",
+	"url": "https://www.nysenate.gov/issues/dec"
+}

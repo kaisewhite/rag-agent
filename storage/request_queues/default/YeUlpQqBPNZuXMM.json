@@ -1,0 +1,9 @@
+{
+	"id": "YeUlpQqBPNZuXMM",
+	"json": "{\"id\":\"YeUlpQqBPNZuXMM\",\"url\":\"https://www.nysenate.gov/legislation/bills/2017/S2303\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2017/S2303\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571558396,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2017/S2303",
+	"url": "https://www.nysenate.gov/legislation/bills/2017/S2303"
+}

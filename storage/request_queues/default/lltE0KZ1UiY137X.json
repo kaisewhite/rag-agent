@@ -1,0 +1,9 @@
+{
+	"id": "lltE0KZ1UiY137X",
+	"json": "{\"id\":\"lltE0KZ1UiY137X\",\"url\":\"https://www.nysenate.gov/issues/woodmere-golf-club\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/woodmere-golf-club\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569770676,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/woodmere-golf-club",
+	"url": "https://www.nysenate.gov/issues/woodmere-golf-club"
+}

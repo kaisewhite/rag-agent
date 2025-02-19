@@ -1,0 +1,9 @@
+{
+	"id": "znNRj9E1e2gzmXc",
+	"json": "{\"id\":\"znNRj9E1e2gzmXc\",\"url\":\"https://www.nysenate.gov/legislation/laws/MHY/TC\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/MHY/TC\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569943076,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/MHY/TC",
+	"url": "https://www.nysenate.gov/legislation/laws/MHY/TC"
+}

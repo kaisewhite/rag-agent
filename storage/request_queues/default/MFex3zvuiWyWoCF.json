@@ -1,0 +1,9 @@
+{
+	"id": "MFex3zvuiWyWoCF",
+	"json": "{\"id\":\"MFex3zvuiWyWoCF\",\"url\":\"https://www.nysenate.gov/legislation/laws/PBH/A29-I\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/PBH/A29-I\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569956005,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/PBH/A29-I",
+	"url": "https://www.nysenate.gov/legislation/laws/PBH/A29-I"
+}

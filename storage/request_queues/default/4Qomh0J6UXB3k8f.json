@@ -1,0 +1,9 @@
+{
+	"id": "4Qomh0J6UXB3k8f",
+	"json": "{\"id\":\"4Qomh0J6UXB3k8f\",\"url\":\"https://www.nysenate.gov/issues/mental-health\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/mental-health\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569755190,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/mental-health",
+	"url": "https://www.nysenate.gov/issues/mental-health"
+}

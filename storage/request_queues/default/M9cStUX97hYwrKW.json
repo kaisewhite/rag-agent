@@ -1,0 +1,9 @@
+{
+	"id": "M9cStUX97hYwrKW",
+	"json": "{\"id\":\"M9cStUX97hYwrKW\",\"url\":\"https://www.nysenate.gov/issues/town-hall\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/town-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569595560,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/town-hall",
+	"url": "https://www.nysenate.gov/issues/town-hall"
+}

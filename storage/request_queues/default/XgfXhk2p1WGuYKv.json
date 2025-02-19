@@ -1,0 +1,9 @@
+{
+	"id": "XgfXhk2p1WGuYKv",
+	"json": "{\"id\":\"XgfXhk2p1WGuYKv\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2009/eric-schneiderman/sens-schneiderman-and-breslin-introduce\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2009/eric-schneiderman/sens-schneiderman-and-breslin-introduce\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569725902,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2009/eric-schneiderman/sens-schneiderman-and-breslin-introduce",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2009/eric-schneiderman/sens-schneiderman-and-breslin-introduce"
+}

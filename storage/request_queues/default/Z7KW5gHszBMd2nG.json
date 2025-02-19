@@ -1,0 +1,9 @@
+{
+	"id": "Z7KW5gHszBMd2nG",
+	"json": "{\"id\":\"Z7KW5gHszBMd2nG\",\"url\":\"https://www.nysenate.gov/legislation/laws/TAX/A22\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/TAX/A22\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569984689,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/TAX/A22",
+	"url": "https://www.nysenate.gov/legislation/laws/TAX/A22"
+}

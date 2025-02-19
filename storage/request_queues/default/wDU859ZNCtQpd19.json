@@ -1,0 +1,9 @@
+{
+	"id": "wDU859ZNCtQpd19",
+	"json": "{\"id\":\"wDU859ZNCtQpd19\",\"url\":\"https://www.nysenate.gov/issues/firearms-safety\",\"loadedUrl\":\"https://www.nysenate.gov/issues/firearms-safety\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/firearms-safety\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:21:32.353Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/firearms-safety",
+	"url": "https://www.nysenate.gov/issues/firearms-safety"
+}

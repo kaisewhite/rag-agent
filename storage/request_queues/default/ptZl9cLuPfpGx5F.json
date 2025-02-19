@@ -1,0 +1,9 @@
+{
+	"id": "ptZl9cLuPfpGx5F",
+	"json": "{\"id\":\"ptZl9cLuPfpGx5F\",\"url\":\"https://www.nysenate.gov/issues/historic-business-preservation-registry\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/historic-business-preservation-registry\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570906374,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/historic-business-preservation-registry",
+	"url": "https://www.nysenate.gov/issues/historic-business-preservation-registry"
+}

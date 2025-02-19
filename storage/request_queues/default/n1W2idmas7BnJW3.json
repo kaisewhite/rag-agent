@@ -1,0 +1,9 @@
+{
+	"id": "n1W2idmas7BnJW3",
+	"json": "{\"id\":\"n1W2idmas7BnJW3\",\"url\":\"https://www.nysenate.gov/issues/madison-county\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/madison-county\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569698326,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/madison-county",
+	"url": "https://www.nysenate.gov/issues/madison-county"
+}

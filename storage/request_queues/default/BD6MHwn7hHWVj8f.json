@@ -1,0 +1,9 @@
+{
+	"id": "BD6MHwn7hHWVj8f",
+	"json": "{\"id\":\"BD6MHwn7hHWVj8f\",\"url\":\"https://www.nysenate.gov/legislation/laws/RPP/A7\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/RPP/A7\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569969446,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/RPP/A7",
+	"url": "https://www.nysenate.gov/legislation/laws/RPP/A7"
+}

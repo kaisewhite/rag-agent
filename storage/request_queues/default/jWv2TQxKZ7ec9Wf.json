@@ -1,0 +1,9 @@
+{
+	"id": "jWv2TQxKZ7ec9Wf",
+	"json": "{\"id\":\"jWv2TQxKZ7ec9Wf\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/blue-book-senate-majority-staff-analysis-2024-2025-executive-budget-proposal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/blue-book-senate-majority-staff-analysis-2024-2025-executive-budget-proposal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569578641,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/blue-book-senate-majority-staff-analysis-2024-2025-executive-budget-proposal",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/blue-book-senate-majority-staff-analysis-2024-2025-executive-budget-proposal"
+}

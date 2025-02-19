@@ -1,0 +1,9 @@
+{
+	"id": "EfcwvMpU3AaRpcz",
+	"json": "{\"id\":\"EfcwvMpU3AaRpcz\",\"url\":\"https://www.nysenate.gov/issues/labor-unions\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/labor-unions\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571537714,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/labor-unions",
+	"url": "https://www.nysenate.gov/issues/labor-unions"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "BuLwzuGrt5yIbiK",
+	"json": "{\"id\":\"BuLwzuGrt5yIbiK\",\"url\":\"https://www.nysenate.gov/legislation/laws/ACG/A3\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/ACG/A3\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569880507,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/ACG/A3",
+	"url": "https://www.nysenate.gov/legislation/laws/ACG/A3"
+}

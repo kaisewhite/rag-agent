@@ -1,0 +1,9 @@
+{
+	"id": "Q8GYvLJsVfIW4hO",
+	"json": "{\"id\":\"Q8GYvLJsVfIW4hO\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2024/jabari-brisport/2024-community-org-funding\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2024/jabari-brisport/2024-community-org-funding\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569617848,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2024/jabari-brisport/2024-community-org-funding",
+	"url": "https://www.nysenate.gov/newsroom/articles/2024/jabari-brisport/2024-community-org-funding"
+}

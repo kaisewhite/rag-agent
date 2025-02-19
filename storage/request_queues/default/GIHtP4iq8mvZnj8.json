@@ -1,0 +1,9 @@
+{
+	"id": "GIHtP4iq8mvZnj8",
+	"json": "{\"id\":\"GIHtP4iq8mvZnj8\",\"url\":\"https://www.nysenate.gov/sites/default/files/press-release/attachment/senate_majority_to_pass_legislation_to_alleviate_student_debt_and_increase_tuition_assistance.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/press-release/attachment/senate_majority_to_pass_legislation_to_alleviate_student_debt_and_increase_tuition_assistance.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571053888,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/press-release/attachment/senate_majority_to_pass_legislation_to_alleviate_student_debt_and_increase_tuition_assistance.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/press-release/attachment/senate_majority_to_pass_legislation_to_alleviate_student_debt_and_increase_tuition_assistance.pdf"
+}

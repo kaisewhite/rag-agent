@@ -1,0 +1,9 @@
+{
+	"id": "xwm03WBRMb8k64f",
+	"json": "{\"id\":\"xwm03WBRMb8k64f\",\"url\":\"https://www.nysenate.gov/issues/troops\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/troops\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569734374,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/troops",
+	"url": "https://www.nysenate.gov/issues/troops"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "NTQ2e7MPINIw4rN",
+	"json": "{\"id\":\"NTQ2e7MPINIw4rN\",\"url\":\"https://www.nysenate.gov/issues/quickstart\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/quickstart\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781075,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/quickstart",
+	"url": "https://www.nysenate.gov/issues/quickstart"
+}

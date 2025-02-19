@@ -1,0 +1,9 @@
+{
+	"id": "vzHDwAb6qt1ed2j",
+	"json": "{\"id\":\"vzHDwAb6qt1ed2j\",\"url\":\"https://www.nysenate.gov/calendar/events/james-sanders/april-08-2020/south-jamaica-springfield-gardens-coronavirus-virtual\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/james-sanders/april-08-2020/south-jamaica-springfield-gardens-coronavirus-virtual\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570019443,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/james-sanders/april-08-2020/south-jamaica-springfield-gardens-coronavirus-virtual",
+	"url": "https://www.nysenate.gov/calendar/events/james-sanders/april-08-2020/south-jamaica-springfield-gardens-coronavirus-virtual"
+}

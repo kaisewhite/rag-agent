@@ -1,0 +1,9 @@
+{
+	"id": "JUnMuNWOSS3qYCr",
+	"json": "{\"id\":\"JUnMuNWOSS3qYCr\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-21-2017/fresh-creek-civic-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-21-2017/fresh-creek-civic-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246366,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-21-2017/fresh-creek-civic-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/october-21-2017/fresh-creek-civic-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ja2FTE7Q24Iw8kF",
+	"json": "{\"id\":\"ja2FTE7Q24Iw8kF\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-15-2023/sd-19-electronics-recycling\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-15-2023/sd-19-electronics-recycling\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247492,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-15-2023/sd-19-electronics-recycling",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/december-15-2023/sd-19-electronics-recycling"
+}

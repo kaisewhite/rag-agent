@@ -1,0 +1,9 @@
+{
+	"id": "J6yZ98R1oRwOKEe",
+	"json": "{\"id\":\"J6yZ98R1oRwOKEe\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2021/brian-kavanagh/city-limits-what-new-yorks-latest-eviction-protections\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2021/brian-kavanagh/city-limits-what-new-yorks-latest-eviction-protections\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798883,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2021/brian-kavanagh/city-limits-what-new-yorks-latest-eviction-protections",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2021/brian-kavanagh/city-limits-what-new-yorks-latest-eviction-protections"
+}

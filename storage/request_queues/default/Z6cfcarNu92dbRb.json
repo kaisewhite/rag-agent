@@ -1,0 +1,9 @@
+{
+	"id": "Z6cfcarNu92dbRb",
+	"json": "{\"id\":\"Z6cfcarNu92dbRb\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-moves-rules-reform-bills-sunshine-week\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-moves-rules-reform-bills-sunshine-week\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569686727,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-moves-rules-reform-bills-sunshine-week",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2015/terrence-murphy/murphy-moves-rules-reform-bills-sunshine-week"
+}

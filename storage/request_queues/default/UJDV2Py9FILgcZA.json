@@ -1,0 +1,9 @@
+{
+	"id": "UJDV2Py9FILgcZA",
+	"json": "{\"id\":\"UJDV2Py9FILgcZA\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-13-2024/sd-19-saturday-office-hours-sat-july-13-2024-10am\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-13-2024/sd-19-saturday-office-hours-sat-july-13-2024-10am\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247526,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-13-2024/sd-19-saturday-office-hours-sat-july-13-2024-10am",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/july-13-2024/sd-19-saturday-office-hours-sat-july-13-2024-10am"
+}

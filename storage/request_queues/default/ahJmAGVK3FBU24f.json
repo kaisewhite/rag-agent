@@ -1,0 +1,9 @@
+{
+	"id": "ahJmAGVK3FBU24f",
+	"json": "{\"id\":\"ahJmAGVK3FBU24f\",\"url\":\"https://www.nysenate.gov/senators/james-sanders-jr/contact\",\"loadedUrl\":\"https://www.nysenate.gov/senators/james-sanders-jr/contact\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/james-sanders-jr/contact\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:53:22.256Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/james-sanders-jr/contact",
+	"url": "https://www.nysenate.gov/senators/james-sanders-jr/contact"
+}

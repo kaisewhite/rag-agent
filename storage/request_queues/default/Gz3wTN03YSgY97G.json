@@ -1,0 +1,9 @@
+{
+	"id": "Gz3wTN03YSgY97G",
+	"json": "{\"id\":\"Gz3wTN03YSgY97G\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2025/michelle-hinchey/statement-senator-michelle-hinchey-louisiana\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2025/michelle-hinchey/statement-senator-michelle-hinchey-louisiana\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569644400,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2025/michelle-hinchey/statement-senator-michelle-hinchey-louisiana",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2025/michelle-hinchey/statement-senator-michelle-hinchey-louisiana"
+}

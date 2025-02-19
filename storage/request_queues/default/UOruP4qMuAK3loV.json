@@ -1,0 +1,9 @@
+{
+	"id": "UOruP4qMuAK3loV",
+	"json": "{\"id\":\"UOruP4qMuAK3loV\",\"url\":\"https://www.nysenate.gov/issues/blind-0\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/blind-0\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570988174,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/blind-0",
+	"url": "https://www.nysenate.gov/issues/blind-0"
+}

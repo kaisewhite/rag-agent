@@ -1,0 +1,9 @@
+{
+	"id": "TP7y1tx9hjxcCsr",
+	"json": "{\"id\":\"TP7y1tx9hjxcCsr\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2024/period-poverty-awareness-webinar\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2024/period-poverty-awareness-webinar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247514,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2024/period-poverty-awareness-webinar",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/may-28-2024/period-poverty-awareness-webinar"
+}

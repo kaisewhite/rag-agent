@@ -1,0 +1,9 @@
+{
+	"id": "FF4vg03JHCkNafv",
+	"json": "{\"id\":\"FF4vg03JHCkNafv\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/november-16-2021/public-hearing-maintaining-quality-equity-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/november-16-2021/public-hearing-maintaining-quality-equity-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569788138,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/november-16-2021/public-hearing-maintaining-quality-equity-and",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/november-16-2021/public-hearing-maintaining-quality-equity-and"
+}

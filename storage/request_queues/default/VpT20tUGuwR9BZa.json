@@ -1,0 +1,9 @@
+{
+	"id": "VpT20tUGuwR9BZa",
+	"json": "{\"id\":\"VpT20tUGuwR9BZa\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2017/michael-h-ranzenhofer/ranzenhofer-previews-new-gcc-academic-athletic\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2017/michael-h-ranzenhofer/ranzenhofer-previews-new-gcc-academic-athletic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571049950,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2017/michael-h-ranzenhofer/ranzenhofer-previews-new-gcc-academic-athletic",
+	"url": "https://www.nysenate.gov/newsroom/articles/2017/michael-h-ranzenhofer/ranzenhofer-previews-new-gcc-academic-athletic"
+}

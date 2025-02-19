@@ -1,0 +1,9 @@
+{
+	"id": "QP9AxuFeasYlnOq",
+	"json": "{\"id\":\"QP9AxuFeasYlnOq\",\"url\":\"https://www.nysenate.gov/legislation/bills/2023/A8802\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2023/A8802\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570588779,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2023/A8802",
+	"url": "https://www.nysenate.gov/legislation/bills/2023/A8802"
+}

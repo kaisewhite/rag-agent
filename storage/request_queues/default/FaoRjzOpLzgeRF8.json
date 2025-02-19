@@ -1,0 +1,9 @@
+{
+	"id": "FaoRjzOpLzgeRF8",
+	"json": "{\"id\":\"FaoRjzOpLzgeRF8\",\"url\":\"https://www.nysenate.gov/issues/clcpa-clean-energy-mandates\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/clcpa-clean-energy-mandates\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569641095,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/clcpa-clean-energy-mandates",
+	"url": "https://www.nysenate.gov/issues/clcpa-clean-energy-mandates"
+}

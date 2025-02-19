@@ -1,0 +1,9 @@
+{
+	"id": "cC3aIsAzlkB2FPK",
+	"json": "{\"id\":\"cC3aIsAzlkB2FPK\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-21-2019/kingsbrook-jewish-center-civic-monthly-meeting\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-21-2019/kingsbrook-jewish-center-civic-monthly-meeting\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570246725,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-21-2019/kingsbrook-jewish-center-civic-monthly-meeting",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/january-21-2019/kingsbrook-jewish-center-civic-monthly-meeting"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "CtxcyIHT3Bowtpq",
+	"json": "{\"id\":\"CtxcyIHT3Bowtpq\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senate-holds-hearing-lipa-storm-response\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senate-holds-hearing-lipa-storm-response\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569848839,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senate-holds-hearing-lipa-storm-response",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2011/jack-m-martins/senate-holds-hearing-lipa-storm-response"
+}

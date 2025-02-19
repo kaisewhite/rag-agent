@@ -1,0 +1,9 @@
+{
+	"id": "c0aZsC1gEsScRFA",
+	"json": "{\"id\":\"c0aZsC1gEsScRFA\",\"url\":\"https://www.nysenate.gov/issues/alternative-transport\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/alternative-transport\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855277,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/alternative-transport",
+	"url": "https://www.nysenate.gov/issues/alternative-transport"
+}

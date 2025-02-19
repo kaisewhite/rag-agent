@@ -1,0 +1,9 @@
+{
+	"id": "cvikGbGpMleqa4H",
+	"json": "{\"id\":\"cvikGbGpMleqa4H\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2023/iwen-chu/brooklyn-public-library-receive-35-m-fund-major-renovations\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2023/iwen-chu/brooklyn-public-library-receive-35-m-fund-major-renovations\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569812930,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2023/iwen-chu/brooklyn-public-library-receive-35-m-fund-major-renovations",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2023/iwen-chu/brooklyn-public-library-receive-35-m-fund-major-renovations"
+}

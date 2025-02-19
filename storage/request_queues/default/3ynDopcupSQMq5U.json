@@ -1,0 +1,9 @@
+{
+	"id": "3ynDopcupSQMq5U",
+	"json": "{\"id\":\"3ynDopcupSQMq5U\",\"url\":\"https://www.nysenate.gov/calendar/public_hearings/december-06-2013/examination-laws-governing-age-adult-criminal\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/public_hearings/december-06-2013/examination-laws-governing-age-adult-criminal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571040493,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/public_hearings/december-06-2013/examination-laws-governing-age-adult-criminal",
+	"url": "https://www.nysenate.gov/calendar/public_hearings/december-06-2013/examination-laws-governing-age-adult-criminal"
+}

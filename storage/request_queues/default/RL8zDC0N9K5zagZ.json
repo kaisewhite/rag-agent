@@ -1,0 +1,9 @@
+{
+	"id": "RL8zDC0N9K5zagZ",
+	"json": "{\"id\":\"RL8zDC0N9K5zagZ\",\"url\":\"https://www.nysenate.gov/issues/racial-injustice\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/racial-injustice\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798895,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/racial-injustice",
+	"url": "https://www.nysenate.gov/issues/racial-injustice"
+}

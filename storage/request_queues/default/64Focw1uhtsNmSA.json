@@ -1,0 +1,9 @@
+{
+	"id": "64Focw1uhtsNmSA",
+	"json": "{\"id\":\"64Focw1uhtsNmSA\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2023/joseph-addabbo/addabbo-and-elected-officials-celebrate-school-crossing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2023/joseph-addabbo/addabbo-and-elected-officials-celebrate-school-crossing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571164246,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2023/joseph-addabbo/addabbo-and-elected-officials-celebrate-school-crossing",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2023/joseph-addabbo/addabbo-and-elected-officials-celebrate-school-crossing"
+}

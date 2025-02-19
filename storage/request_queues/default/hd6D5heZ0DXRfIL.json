@@ -1,0 +1,9 @@
+{
+	"id": "hd6D5heZ0DXRfIL",
+	"json": "{\"id\":\"hd6D5heZ0DXRfIL\",\"url\":\"https://www.nysenate.gov/senators/roxanne-j-persaud/district\",\"loadedUrl\":\"https://www.nysenate.gov/senators/roxanne-j-persaud/district\",\"uniqueKey\":\"GET():https://www.nysenate.gov/senators/roxanne-j-persaud/district\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:56:49.728Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/senators/roxanne-j-persaud/district",
+	"url": "https://www.nysenate.gov/senators/roxanne-j-persaud/district"
+}

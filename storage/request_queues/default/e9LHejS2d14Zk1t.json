@@ -1,0 +1,9 @@
+{
+	"id": "e9LHejS2d14Zk1t",
+	"json": "{\"id\":\"e9LHejS2d14Zk1t\",\"url\":\"https://www.nysenate.gov/legislation/laws/CVP/A56\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/laws/CVP/A56\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569898499,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/laws/CVP/A56",
+	"url": "https://www.nysenate.gov/legislation/laws/CVP/A56"
+}

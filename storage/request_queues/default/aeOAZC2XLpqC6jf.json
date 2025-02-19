@@ -1,0 +1,9 @@
+{
+	"id": "aeOAZC2XLpqC6jf",
+	"json": "{\"id\":\"aeOAZC2XLpqC6jf\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/senate-advances-legislation-banning-co2-fracking\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/press-releases/2024/senate-advances-legislation-banning-co2-fracking\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/senate-advances-legislation-banning-co2-fracking\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:45:51.928Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/senate-advances-legislation-banning-co2-fracking",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/senate-advances-legislation-banning-co2-fracking"
+}

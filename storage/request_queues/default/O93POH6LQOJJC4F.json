@@ -1,0 +1,9 @@
+{
+	"id": "O93POH6LQOJJC4F",
+	"json": "{\"id\":\"O93POH6LQOJJC4F\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2011/patrick-m-gallivan/gallivan-addresses-young-adults-across-new-york-during\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2011/patrick-m-gallivan/gallivan-addresses-young-adults-across-new-york-during\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569576481,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2011/patrick-m-gallivan/gallivan-addresses-young-adults-across-new-york-during",
+	"url": "https://www.nysenate.gov/newsroom/articles/2011/patrick-m-gallivan/gallivan-addresses-young-adults-across-new-york-during"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "7zK5OIN9WejaePE",
+	"json": "{\"id\":\"7zK5OIN9WejaePE\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2018/joseph-griffo/senate-passes-legislation-sponsored-sen-griffo-increases\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2018/joseph-griffo/senate-passes-legislation-sponsored-sen-griffo-increases\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571150816,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2018/joseph-griffo/senate-passes-legislation-sponsored-sen-griffo-increases",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2018/joseph-griffo/senate-passes-legislation-sponsored-sen-griffo-increases"
+}

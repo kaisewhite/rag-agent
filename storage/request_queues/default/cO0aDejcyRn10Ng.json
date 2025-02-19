@@ -1,0 +1,9 @@
+{
+	"id": "cO0aDejcyRn10Ng",
+	"json": "{\"id\":\"cO0aDejcyRn10Ng\",\"url\":\"https://www.nysenate.gov/calendar/meetings/finance/june-19-2018/finance-committee\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/finance/june-19-2018/finance-committee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569780975,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/finance/june-19-2018/finance-committee",
+	"url": "https://www.nysenate.gov/calendar/meetings/finance/june-19-2018/finance-committee"
+}

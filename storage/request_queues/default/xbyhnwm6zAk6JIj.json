@@ -1,0 +1,9 @@
+{
+	"id": "xbyhnwm6zAk6JIj",
+	"json": "{\"id\":\"xbyhnwm6zAk6JIj\",\"url\":\"https://www.nysenate.gov/calendar/events/veterans-homeland-security-and-military-affairs/thomas-d-croci/may-16-2016/explore\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/veterans-homeland-security-and-military-affairs/thomas-d-croci/may-16-2016/explore\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855386,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/veterans-homeland-security-and-military-affairs/thomas-d-croci/may-16-2016/explore",
+	"url": "https://www.nysenate.gov/calendar/events/veterans-homeland-security-and-military-affairs/thomas-d-croci/may-16-2016/explore"
+}

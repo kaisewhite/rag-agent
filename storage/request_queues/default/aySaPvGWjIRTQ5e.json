@@ -1,0 +1,9 @@
+{
+	"id": "aySaPvGWjIRTQ5e",
+	"json": "{\"id\":\"aySaPvGWjIRTQ5e\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2015/joint-legislative-public-hearing-2015-2016-executive-budget-proposal-housing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2015/joint-legislative-public-hearing-2015-2016-executive-budget-proposal-housing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781115,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2015/joint-legislative-public-hearing-2015-2016-executive-budget-proposal-housing",
+	"url": "https://www.nysenate.gov/newsroom/articles/2015/joint-legislative-public-hearing-2015-2016-executive-budget-proposal-housing"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "WTq4YDdTIe9Uepn",
+	"json": "{\"id\":\"WTq4YDdTIe9Uepn\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senate-measure-restore-funding-cuts-opwdd-becomes\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senate-measure-restore-funding-cuts-opwdd-becomes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847610,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senate-measure-restore-funding-cuts-opwdd-becomes",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2013/jack-m-martins/senate-measure-restore-funding-cuts-opwdd-becomes"
+}

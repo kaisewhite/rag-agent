@@ -1,0 +1,9 @@
+{
+	"id": "OOhIgdXo5PYD0H4",
+	"json": "{\"id\":\"OOhIgdXo5PYD0H4\",\"url\":\"https://www.nysenate.gov/calendar/events/banks/james-sanders/may-01-2019/promise-public-banking\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/banks/james-sanders/may-01-2019/promise-public-banking\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569706967,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/banks/james-sanders/may-01-2019/promise-public-banking",
+	"url": "https://www.nysenate.gov/calendar/events/banks/james-sanders/may-01-2019/promise-public-banking"
+}

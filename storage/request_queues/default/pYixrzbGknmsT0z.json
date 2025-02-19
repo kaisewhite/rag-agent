@@ -1,0 +1,9 @@
+{
+	"id": "pYixrzbGknmsT0z",
+	"json": "{\"id\":\"pYixrzbGknmsT0z\",\"url\":\"https://www.nysenate.gov/search/global/result?full_text=Access%20to%20Higher%20Education\",\"uniqueKey\":\"GET():https://www.nysenate.gov/search/global/result?full_text=Access+to+Higher+Education\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570928913,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/search/global/result?full_text=Access+to+Higher+Education",
+	"url": "https://www.nysenate.gov/search/global/result?full_text=Access%20to%20Higher%20Education"
+}

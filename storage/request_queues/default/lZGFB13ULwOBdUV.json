@@ -1,0 +1,9 @@
+{
+	"id": "lZGFB13ULwOBdUV",
+	"json": "{\"id\":\"lZGFB13ULwOBdUV\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/forwarding-nycha-presents-blueprint-change-ny-housing\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/forwarding-nycha-presents-blueprint-change-ny-housing\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569798908,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/forwarding-nycha-presents-blueprint-change-ny-housing",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2020/brian-kavanagh/forwarding-nycha-presents-blueprint-change-ny-housing"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "irx9IB4M4S4osCW",
+	"json": "{\"id\":\"irx9IB4M4S4osCW\",\"url\":\"https://www.nysenate.gov/issues/ambulance\",\"loadedUrl\":\"https://www.nysenate.gov/issues/ambulance\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/ambulance\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T21:46:33.662Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/ambulance",
+	"url": "https://www.nysenate.gov/issues/ambulance"
+}

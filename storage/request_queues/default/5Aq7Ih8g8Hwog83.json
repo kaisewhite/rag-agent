@@ -1,0 +1,9 @@
+{
+	"id": "5Aq7Ih8g8Hwog83",
+	"json": "{\"id\":\"5Aq7Ih8g8Hwog83\",\"url\":\"https://www.nysenate.gov/sites/default/files/martha_rayner_fordham_law.docx.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/martha_rayner_fordham_law.docx.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571716529,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/martha_rayner_fordham_law.docx.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/martha_rayner_fordham_law.docx.pdf"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "KyJ1A4z5f3gKvd7",
+	"json": "{\"id\":\"KyJ1A4z5f3gKvd7\",\"url\":\"https://www.nysenate.gov/sites/default/files/press-release/attachment/scrie_and_drie_legislation-_senator_stavisky_press_release.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/press-release/attachment/scrie_and_drie_legislation-_senator_stavisky_press_release.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571263972,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/press-release/attachment/scrie_and_drie_legislation-_senator_stavisky_press_release.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/press-release/attachment/scrie_and_drie_legislation-_senator_stavisky_press_release.pdf"
+}

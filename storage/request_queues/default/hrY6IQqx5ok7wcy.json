@@ -1,0 +1,9 @@
+{
+	"id": "hrY6IQqx5ok7wcy",
+	"json": "{\"id\":\"hrY6IQqx5ok7wcy\",\"url\":\"https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-14-2019/senator-persauds-rent-regulations-town-hall\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-14-2019/senator-persauds-rent-regulations-town-hall\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570247090,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-14-2019/senator-persauds-rent-regulations-town-hall",
+	"url": "https://www.nysenate.gov/calendar/events/roxanne-j-persaud/november-14-2019/senator-persauds-rent-regulations-town-hall"
+}

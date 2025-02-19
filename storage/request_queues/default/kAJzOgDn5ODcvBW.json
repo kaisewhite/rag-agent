@@ -1,0 +1,9 @@
+{
+	"id": "kAJzOgDn5ODcvBW",
+	"json": "{\"id\":\"kAJzOgDn5ODcvBW\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2016/daniel-l-squadron/squadron-passes-scriedrie-rent-affordability-expansion\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2016/daniel-l-squadron/squadron-passes-scriedrie-rent-affordability-expansion\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571168073,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2016/daniel-l-squadron/squadron-passes-scriedrie-rent-affordability-expansion",
+	"url": "https://www.nysenate.gov/newsroom/articles/2016/daniel-l-squadron/squadron-passes-scriedrie-rent-affordability-expansion"
+}

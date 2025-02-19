@@ -1,0 +1,9 @@
+{
+	"id": "BOaEQanpl73aREj",
+	"json": "{\"id\":\"BOaEQanpl73aREj\",\"url\":\"https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/january-13-2020/press-conference-senator-hoylman-e-cigarette-and\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/january-13-2020/press-conference-senator-hoylman-e-cigarette-and\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570179048,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/january-13-2020/press-conference-senator-hoylman-e-cigarette-and",
+	"url": "https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/january-13-2020/press-conference-senator-hoylman-e-cigarette-and"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "aQfUCXZCv8iU9n2",
+	"json": "{\"id\":\"aQfUCXZCv8iU9n2\",\"url\":\"https://www.nysenate.gov/sites/default/files/article/attachment/2022_graduate_legislative_fellowship_program_description_brochure17297.pdf\",\"uniqueKey\":\"GET():https://www.nysenate.gov/sites/default/files/article/attachment/2022_graduate_legislative_fellowship_program_description_brochure17297.pdf\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569872138,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/sites/default/files/article/attachment/2022_graduate_legislative_fellowship_program_description_brochure17297.pdf",
+	"url": "https://www.nysenate.gov/sites/default/files/article/attachment/2022_graduate_legislative_fellowship_program_description_brochure17297.pdf"
+}

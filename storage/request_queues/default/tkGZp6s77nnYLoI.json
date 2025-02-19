@@ -1,0 +1,9 @@
+{
+	"id": "tkGZp6s77nnYLoI",
+	"json": "{\"id\":\"tkGZp6s77nnYLoI\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/public-protection-budget-ensures-equal-justice\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/public-protection-budget-ensures-equal-justice\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569748007,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/public-protection-budget-ensures-equal-justice",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2010/ruth-hassell-thompson/public-protection-budget-ensures-equal-justice"
+}

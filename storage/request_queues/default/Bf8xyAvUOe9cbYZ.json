@@ -1,0 +1,9 @@
+{
+	"id": "Bf8xyAvUOe9cbYZ",
+	"json": "{\"id\":\"Bf8xyAvUOe9cbYZ\",\"url\":\"https://www.nysenate.gov/legislation/bills/2025/S377\",\"uniqueKey\":\"GET():https://www.nysenate.gov/legislation/bills/2025/S377\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569619542,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/legislation/bills/2025/S377",
+	"url": "https://www.nysenate.gov/legislation/bills/2025/S377"
+}

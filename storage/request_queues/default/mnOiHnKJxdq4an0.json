@@ -1,0 +1,9 @@
+{
+	"id": "mnOiHnKJxdq4an0",
+	"json": "{\"id\":\"mnOiHnKJxdq4an0\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-lessons-911\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-lessons-911\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569847693,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-lessons-911",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2012/jack-m-martins/senator-martins-lessons-911"
+}

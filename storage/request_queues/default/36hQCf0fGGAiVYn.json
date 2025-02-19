@@ -1,0 +1,9 @@
+{
+	"id": "36hQCf0fGGAiVYn",
+	"json": "{\"id\":\"36hQCf0fGGAiVYn\",\"url\":\"https://www.nysenate.gov/issues/worker-protection\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/worker-protection\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569811625,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/worker-protection",
+	"url": "https://www.nysenate.gov/issues/worker-protection"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "LI8FFJPKqQQ1TDl",
+	"json": "{\"id\":\"LI8FFJPKqQQ1TDl\",\"url\":\"https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/october-08-2024/sen-hoylmans-older-adult-resource-fair\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/october-08-2024/sen-hoylmans-older-adult-resource-fair\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739570179059,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/october-08-2024/sen-hoylmans-older-adult-resource-fair",
+	"url": "https://www.nysenate.gov/calendar/events/brad-hoylman-sigal/october-08-2024/sen-hoylmans-older-adult-resource-fair"
+}

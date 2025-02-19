@@ -1,0 +1,9 @@
+{
+	"id": "1CIJlYjHHIGAIef",
+	"json": "{\"id\":\"1CIJlYjHHIGAIef\",\"url\":\"https://www.nysenate.gov/issues/senator-zellnor-myrie\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/senator-zellnor-myrie\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569756050,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/senator-zellnor-myrie",
+	"url": "https://www.nysenate.gov/issues/senator-zellnor-myrie"
+}

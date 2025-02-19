@@ -1,0 +1,9 @@
+{
+	"id": "dcBZ1OcSCetjLR9",
+	"json": "{\"id\":\"dcBZ1OcSCetjLR9\",\"url\":\"https://www.nysenate.gov/newsroom/articles/2018/assembly-and-senate-announce-general-conference-committee-appointments\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/articles/2018/assembly-and-senate-announce-general-conference-committee-appointments\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569781087,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/articles/2018/assembly-and-senate-announce-general-conference-committee-appointments",
+	"url": "https://www.nysenate.gov/newsroom/articles/2018/assembly-and-senate-announce-general-conference-committee-appointments"
+}

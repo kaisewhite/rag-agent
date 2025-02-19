@@ -1,0 +1,9 @@
+{
+	"id": "D1VFcjqOBif3Y7g",
+	"json": "{\"id\":\"D1VFcjqOBif3Y7g\",\"url\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-albany-times-union-banning-legacy\",\"loadedUrl\":\"https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-albany-times-union-banning-legacy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-albany-times-union-banning-legacy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-02-14T22:09:01.960Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-albany-times-union-banning-legacy",
+	"url": "https://www.nysenate.gov/newsroom/in-the-news/2024/andrew-gounardes/sen-gounardes-albany-times-union-banning-legacy"
+}

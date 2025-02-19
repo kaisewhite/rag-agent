@@ -1,0 +1,9 @@
+{
+	"id": "y332eEYBP2YyGgB",
+	"json": "{\"id\":\"y332eEYBP2YyGgB\",\"url\":\"https://www.nysenate.gov/issues/fraud\",\"uniqueKey\":\"GET():https://www.nysenate.gov/issues/fraud\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571150811,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/issues/fraud",
+	"url": "https://www.nysenate.gov/issues/fraud"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "bb201J5jFII2zeT",
+	"json": "{\"id\":\"bb201J5jFII2zeT\",\"url\":\"https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-proposes-first-nation-new-york-healthy\",\"uniqueKey\":\"GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-proposes-first-nation-new-york-healthy\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739571314763,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-proposes-first-nation-new-york-healthy",
+	"url": "https://www.nysenate.gov/newsroom/press-releases/2024/andrew-gounardes/sen-gounardes-proposes-first-nation-new-york-healthy"
+}

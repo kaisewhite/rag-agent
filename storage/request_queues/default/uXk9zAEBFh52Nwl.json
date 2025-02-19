@@ -1,0 +1,9 @@
+{
+	"id": "uXk9zAEBFh52Nwl",
+	"json": "{\"id\":\"uXk9zAEBFh52Nwl\",\"url\":\"https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-04-2014/veterans\",\"uniqueKey\":\"GET():https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-04-2014/veterans\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"state\":\"New York\",\"basePath\":\"https://www.nysenate.gov\"}}",
+	"method": "GET",
+	"orderNo": 1739569855390,
+	"retryCount": 0,
+	"uniqueKey": "GET():https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-04-2014/veterans",
+	"url": "https://www.nysenate.gov/calendar/meetings/veterans-homeland-security-and-military-affairs/february-04-2014/veterans"
+}
